@@ -1,1 +1,1 @@
-# adblock
+...cuz iam lazy
