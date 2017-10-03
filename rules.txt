@@ -1,6 +1,10 @@
+!rutracker
 ||betsonsport.ru^$domain=rutracker.org,third-party
 rutracker.org###bn-bot-wrap
 rutracker.org###bn-idx-3
 rutracker.org###bn-idx-marathonbet
 rutracker.org###latest_news > table.w100 > tbody > tr > td.vMiddle:last-child
 rutracker.org###logo
+rutracker.org###main_content_wrap > table.w100:first-child > tbody > tr > td:last-child
+!zonawrestling
+zonawrestling.net###td-outer-wrap > div.td-header-wrap.td-header-style-6:first-child > div.td-banner-wrap-full.td-container-wrap:last-child > div.td-container-header.td-header-row.td-header-header > div.td-header-sp-recs > div.td-header-rec-wrap
