@@ -1,3 +1,7 @@
+!mirrorcreator
+||mirrorcreator.com/js/license$important
+||mirrorcreator.com/js/bp_script.js$important
+mirrorcreator.com###result > table > tbody > tr[-ext-has='a[href*="fdown.php"]']
 !rutracker
 ||betsonsport.ru^$domain=rutracker.org,third-party
 rutracker.org###bn-bot-wrap
