@@ -1,0 +1,41 @@
+####################################
+#   dnscrypt-proxy configuration   #
+####################################
+
+listen_addresses = ['127.0.0.1:65053']
+server_names = ['cloudflare']
+#server_names = ['cloudflare','flatty.co','d0wn-nl-ns4','de.dnsmachine.net', 'dnscrypt.eu-nl', 'scaleway-fr', 'securedns', 'trashvpn']
+fallback_resolver = '1.1.1.1:53'
+ignore_system_dns = true
+dnscrypt_servers = true
+doh_servers = true
+ipv4_servers = true
+ipv6_servers = false
+force_tcp = false
+cert_refresh_delay = 240
+block_ipv6 = true
+require_dnssec = false
+require_nolog = true
+require_nofilter = true
+cache = true
+cache_size = 256
+cache_min_ttl = 600
+cache_max_ttl = 86400
+cache_neg_ttl = 60
+timeout = 2500
+max_clients = 250
+
+[blacklist]
+  blacklist_file = 'blacklist.txt'
+
+[ip_blacklist]
+  blacklist_file = 'ip-blacklist.txt'
+
+[sources]
+  [sources.'public-resolvers']
+  url = 'http://download.dnscrypt.info/resolvers-list/v2/public-resolvers.md'
+  cache_file = 'public-resolvers.md'
+  format = 'v2'
+  minisign_key = 'RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3'
+  refresh_delay = 168
+  prefix = ''
