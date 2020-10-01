@@ -1,21 +1,24 @@
 [uBlock Custom list]
 !
-twitch.tv###root > .tw-top-0.tw-right-0.tw-overflow-hidden.tw-left-0.tw-flex-nowrap.tw-flex-column.tw-flex.tw-bottom-0.tw-absolute > .tw-full-height.tw-flex-nowrap.tw-flex-column.tw-flex > div.tw-flex-shrink-0 > .tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text-overlay.tw-c-background-accent-alt-2.tw-align-items-center.consent-banner
-twitch.tv##.tw-elevation-3.tw-c-text-inherit.tw-c-background-base.tw-border-radius-large
-nexi.it##.cl-banner-body
-mytimfisso.tim.it###gld_cookie_flag
-bmedonline.it##.fixed-bottom.acc-cookie
-bmedonline.it##main > .container > .cont-esterno-form.align-items-center.row > .col-12.col-lg-8.mb-xl-auto.mt-lg-0.mt-md-4
-edisonenergia.it###cookie-policy-bar
 3bmeteo.com###content_video_sidebar
 3bmeteo.com###adv_adsense_300_dx
 amazon.it###sp-cc
+asaspa.it##.cc-cookies
+bmedonline.it##.fixed-bottom.acc-cookie
+bmedonline.it##main > .container > .cont-esterno-form.align-items-center.row > .col-12.col-lg-8.mb-xl-auto.mt-lg-0.mt-md-4
+edisonenergia.it###cookie-policy-bar
+google.*###lb
+google.*##:root:style(overflow-y: visible !important;)
+mail.com##.mod-cookielayer.mod > .cookie-layer__content
+mytimfisso.tim.it###gld_cookie_flag
+nexi.it##.cl-banner-body
 paypal.com##.gdprCookieBanner_container-custom.gdprCookieBanner_container
+qwant.com###a_2 > .survey__popin__title
+qwant.com###c_1 > .survey__popin__link > .survey__popin
+snbforums.com##.notice--cookie.notice--primary.js-notice.notice
+twitch.tv###root > .tw-top-0.tw-right-0.tw-overflow-hidden.tw-left-0.tw-flex-nowrap.tw-flex-column.tw-flex.tw-bottom-0.tw-absolute > .tw-full-height.tw-flex-nowrap.tw-flex-column.tw-flex > div.tw-flex-shrink-0 > .tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text-overlay.tw-c-background-accent-alt-2.tw-align-items-center.consent-banner
+twitch.tv##.tw-elevation-3.tw-c-text-inherit.tw-c-background-base.tw-border-radius-large
 youtube.com##.opened
 youtube.com###dialog
 youtube.com##ytd-app > ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
-snbforums.com##.notice--cookie.notice--primary.js-notice.notice
-asaspa.it##.cc-cookies
 xvideos.com##.bottom-msg
-google.*###lb
-google.*##:root:style(overflow-y: visible !important;)
