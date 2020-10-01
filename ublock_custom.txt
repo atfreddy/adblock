@@ -1,3 +1,4 @@
+[uBlock Custom list]
 !
 twitch.tv###root > .tw-top-0.tw-right-0.tw-overflow-hidden.tw-left-0.tw-flex-nowrap.tw-flex-column.tw-flex.tw-bottom-0.tw-absolute > .tw-full-height.tw-flex-nowrap.tw-flex-column.tw-flex > div.tw-flex-shrink-0 > .tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text-overlay.tw-c-background-accent-alt-2.tw-align-items-center.consent-banner
 twitch.tv##.tw-elevation-3.tw-c-text-inherit.tw-c-background-base.tw-border-radius-large
