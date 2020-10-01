@@ -16,6 +16,7 @@ paypal.com##.gdprCookieBanner_container-custom.gdprCookieBanner_container
 qwant.com###a_2 > .survey__popin__title
 qwant.com###c_1 > .survey__popin__link > .survey__popin
 snbforums.com##.notice--cookie.notice--primary.js-notice.notice
+station-drivers.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 twitch.tv###root > .tw-top-0.tw-right-0.tw-overflow-hidden.tw-left-0.tw-flex-nowrap.tw-flex-column.tw-flex.tw-bottom-0.tw-absolute > .tw-full-height.tw-flex-nowrap.tw-flex-column.tw-flex > div.tw-flex-shrink-0 > .tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text-overlay.tw-c-background-accent-alt-2.tw-align-items-center.consent-banner
 twitch.tv##.tw-elevation-3.tw-c-text-inherit.tw-c-background-base.tw-border-radius-large
 youtube.com##.opened
