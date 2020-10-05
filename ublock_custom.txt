@@ -1,5 +1,5 @@
-[uBlock Custom list]
-!
+[Adblock Plus 2.0]
+! Title: Block-ATF-CustomList
 3bmeteo.com###content_video_sidebar
 3bmeteo.com###adv_adsense_300_dx
 amazon.it###sp-cc
