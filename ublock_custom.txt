@@ -38,3 +38,5 @@ xvideos.com##.bottom-msg
 ||mp4hentai.com/muddy-poetry-7144/$image
 wilderssecurity.com##.notice_-1.DismissParent.Notice.panel
 fitgirl-repacks.site##.horizontalbar_truepush
+||campaign.aliexpress.com/wow/gcp/*$subdocument
+youtube.com###interstitial > .ytd-masthead.style-scope
