@@ -71,6 +71,7 @@
 ###AUI_A9AdsWidgetAdsWrapper
 ###AcceptCookie
 ###AcceptCookieContainer
+###AcceptCookieInfo
 ###AcceptPrivacyDisclaimBoxWrap
 ###Ad-Container
 ###Ad-Top
@@ -238,6 +239,7 @@
 ###AlertCookieBanner
 ###AlertDialogConatiner
 ###AllowCookieContainer
+###AppCookieBar
 ###ArticleBottomAd
 ###ArticleContentAd
 ###AvisoCOOKIES
@@ -285,6 +287,7 @@
 ###BsCookie
 ###ButtonAd
 ###Button_Cookie
+###CCPA-notification
 ###CCookie
 ###CGUCookie
 ###CNIL
@@ -362,6 +365,7 @@
 ###CookieInfo
 ###CookieInfoBlock
 ###CookieInfoContainer
+###CookieInfoOverlay
 ###CookieInformation
 ###CookieInformationDialog
 ###CookieInformationDiv
@@ -399,9 +403,11 @@
 ###CookieOK
 ###CookieOptInBanner
 ###CookieOverlay
+###CookieOverlayBox
 ###CookiePane
 ###CookiePanel
 ###CookiePanelNegative
+###CookiePlus
 ###CookiePolicy
 ###CookiePolicyContainer
 ###CookiePolicyNotice
@@ -426,6 +432,7 @@
 ###CookieWarningBar
 ###CookieWarningBox
 ###CookieWarningLink
+###CookieWarningPanel
 ###CookieWidget
 ###CookieWin
 ###CookieWrap
@@ -435,6 +442,7 @@
 ###Cookiebanner
 ###Cookiebar
 ###Cookiecontain
+###Cookieinfo
 ###CookielawBanner
 ###Cookiezustimmung
 ###CookisBanner
@@ -470,6 +478,7 @@
 ###DivMsnCamara
 ###DivPolicyCookie
 ###DivTopAd
+###Div_CookieNag
 ###Divcookie
 ###DotnAd_300x250_atf
 ###DotnAd_728x90_atf
@@ -515,12 +524,15 @@
 ###FrontPageRectangleAd
 ###FrstCksDiv
 ###GCUCookiePolicyWarning
+###GDPR-acceptDialogWrapper
+###GDPR-alert
 ###GDPRAlertBanner
 ###GDPRCookie
 ###GDPRCookieBox
 ###GDPRCookieDisclaimer
 ###GDPRModal
 ###GDPRPopupContainer
+###GDPR_MainContainer
 ###GDPR_block
 ###GDPRtoast
 ###GFSticky
@@ -536,6 +548,7 @@
 ###GOOGLE_ADS_94
 ###GameMediumRectangleAD
 ###GamePageAdDiv
+###GcCookieBox
 ###Gdpr
 ###GdprCookieBanner
 ###GibsonPrivacy
@@ -599,6 +612,7 @@
 ###KPNCookie
 ###KPN_cookie
 ###LB_Row_Ad
+###LCookieBar
 ###LM_ad_unit
 ###LS-google-ad
 ###LSCookiePolicyPopup
@@ -618,6 +632,7 @@
 ###MAIN.ShowTopic > .ad
 ###MAINAD-box
 ###MCcookieChoiceInfo
+###MDCMSCookieNote
 ###MPUAdSpace
 ###MPUadvertising
 ###MPUadvertisingDetail
@@ -717,6 +732,7 @@
 ###SIM_ad_468x60_homepage_pos2
 ###SIM_ad_468x60_homepage_pos3
 ###SIM_ad_728x90_bottom
+###SRP_Cookie_Barre
 ###SRPadsContainer
 ###SVDv3_cookie
 ###SWCC3_CookieLawBanner
@@ -782,6 +798,7 @@
 ###VbsFooter_CookiePanel1
 ###VertAdBox
 ###VertAdBox0
+###WCPcookieBannerId
 ###WNAd1
 ###WNAd103
 ###WNAd17
@@ -812,11 +829,20 @@
 ###_DIV_COOK
 ###_EAPM.TC
 ###__CookieContainer
+###___gatsby div[class*="CookieBox"]
+###___gatsby div[class*="cookieBox"]
 ###__cookiemsg
 ###__ic-notice
 ###__layout div[class*="cookie-popup"]
 ###__loadCookie
+###__next div[class*="CookieNotice"]
+###__next div[class*="CookieWidget"]
+###__next div[class*="GdprBanner"]
+###__next div[class*="GdprParentWrapper"]
+###__next div[class*="PrivacyNotification"]
+###__next div[class*="PrivacyPolicy"]
 ###__next div[class*="StyledCookieLayer"]
+###__next div[class*="privacy-notification"]
 ###__ntk_banner_cookie
 ###__tealiumGDPRcpPrefs
 ###__tealiumGDPRecModal
@@ -833,9 +859,11 @@
 ###_evh-ric
 ###_evidon-barrier-wrapper
 ###_evidon_banner
+###_gdpr_box
 ###_iph_cp_popup
 ###_orkla-cookie-disclaimer
 ###_prcy_info_bar
+###_s-cookie-notification-container
 ###_ubuntu-it_cookie_policy
 ###a-cookie
 ###a3_cookie
@@ -845,6 +873,7 @@
 ###a_ad11Sp
 ###aaCookieBanner
 ###aa_privacy_module
+###ab-cookie-advice
 ###ab1_cookie_bar
 ###ab_adblock
 ###abb-cookie-banner
@@ -867,6 +896,7 @@
 ###accept-cookie-permission
 ###accept-cookie-wrapper
 ###acceptCookie
+###acceptCookieAlert
 ###acceptCookieBanner
 ###acceptCookieContainer
 ###acceptCookieDiv
@@ -875,6 +905,7 @@
 ###acceptCookiePolicy
 ###acceptCookiePolicyPopup
 ###acceptTrackingCookieWrapper
+###accept_Cookie
 ###accept_cookie
 ###accept_cookie_box
 ###accept_cookie_widget
@@ -894,6 +925,7 @@
 ###acn_cook
 ###acook.privacy
 ###acookie
+###acris--cookie-permission--modal-overlay
 ###acris--page-wrap--cookie-permission
 ###ad--article-top
 ###ad-0
@@ -2109,6 +2141,8 @@
 ###ad_sky1
 ###ad_sky2
 ###ad_sky3
+###ad_sky_lhs
+###ad_sky_rhs
 ###ad_skyscraper
 ###ad_skyscraper1
 ###ad_skyscraper120
@@ -2363,6 +2397,8 @@
 ###admod2
 ###admon-300x250
 ###admon-728x90
+###admpubottom
+###admpubottom2
 ###admpufoot
 ###admputop
 ###admsg
@@ -2483,6 +2519,7 @@
 ###ads-mn
 ###ads-mpu
 ###ads-outer
+###ads-pagetop
 ###ads-panel
 ###ads-panorama-A1
 ###ads-post-468
@@ -2609,6 +2646,7 @@
 ###ads_320_260_2
 ###ads_728
 ###ads_728x90
+###ads_728x90_top
 ###ads_absolute_left
 ###ads_absolute_right
 ###ads_back
@@ -3175,6 +3213,7 @@
 ###adverttext
 ###adverttext160
 ###adverttop
+###advgdprpopin-global
 ###advgeoul
 ###advgoogle
 ###advman-2
@@ -3434,8 +3473,10 @@
 ###aw-ad-container
 ###aw-cookie-container
 ###aw-cookie-overlay
+###aw_cookie_policy
 ###awds-nt1-ad
 ###awe_cookie
+###awsccc-sb-ux-c
 ###axs_cookie_toggle
 ###b-adw
 ###b-cookie.barre-head
@@ -3572,6 +3613,7 @@
 ###bannerprivacy
 ###banniere-cookie
 ###banrv_cookiecookie
+###bar-privacy
 ###bar-zone-cookie-usage
 ###barAdWrapper
 ###barraCOOKIE
@@ -3652,6 +3694,11 @@
 ###bkCookieBanner
 ###bl11adv
 ###blancco-ad
+###blkAds1
+###blkAds2
+###blkAds3
+###blkAds4
+###blkAds5
 ###bloc-cookie
 ###bloc_cookie
 ###bloc_cookie_annonce
@@ -3794,6 +3841,7 @@
 ###bottom-article-ad-336x280
 ###bottom-banner-spc
 ###bottom-boxad
+###bottom-cookie[ng-if*="CookieNotification"]
 ###bottom-pinned-ad
 ###bottom-sponsor-add
 ###bottomAd
@@ -3941,6 +3989,7 @@
 ###buzzblog-cookie-banner
 ###bv_cookie-law-info-bar
 ###bvin-cookie-box
+###bw-gdpr_toaster
 ###bw_cookieoverlay
 ###c-adzone
 ###c-warning-container
@@ -4000,6 +4049,7 @@
 ###cc_con
 ###cc_container
 ###cc_policy
+###cc_privacy_layer
 ###ccbar
 ###ccc-notify
 ###ccc-state
@@ -4013,6 +4063,7 @@
 ###ccm-banner-wrap
 ###ccm_notification
 ###ccp-bnr-ck
+###ccp-overlay
 ###ccpa-banner
 ###ccpa-cookie
 ###ccpa-prompt-wrapper
@@ -4081,6 +4132,7 @@
 ###cm-cookie-accept
 ###cm-cookie-policy
 ###cm-cookie-popin
+###cm-cookie-window
 ###cm-cookiebar
 ###cm4all-cookie-policy-page
 ###cmMediaRotatorAdTLContainer
@@ -4097,6 +4149,7 @@
 ###cms-cookie-wrapper
 ###cms-module-legal-privacy-hint
 ###cmsCookieWarning
+###cmsInfoCk
 ###cms_ad_masterslot
 ###cms_ad_skyscraper
 ###cmscookie
@@ -4314,6 +4367,7 @@
 ###cook-cont
 ###cookAlert
 ###cookInf
+###cookNTrack
 ###cookPol
 ###cookPolicy-wrapper
 ###cook_aff
@@ -4344,6 +4398,7 @@
 ###cookie-acceptance-wrapper
 ###cookie-acceptation-popup
 ###cookie-accepted
+###cookie-acception
 ###cookie-accpet
 ###cookie-ack
 ###cookie-acknowledgement
@@ -4374,6 +4429,7 @@
 ###cookie-banner-root
 ###cookie-banner2
 ###cookie-banner_container
+###cookie-banner_flag
 ###cookie-bar
 ###cookie-bar-ardanta
 ###cookie-bar-bottom
@@ -4391,6 +4447,7 @@
 ###cookie-body
 ###cookie-bottom
 ###cookie-box
+###cookie-box-info
 ###cookie-btn
 ###cookie-button-banner
 ###cookie-cc
@@ -4414,6 +4471,7 @@
 ###cookie-dialog
 ###cookie-dialogue
 ###cookie-dialogue-div
+###cookie-dim
 ###cookie-directive
 ###cookie-directive-bar
 ###cookie-directive-container
@@ -4433,6 +4491,8 @@
 ###cookie-div
 ###cookie-drawer
 ###cookie-drop
+###cookie-erlaubnis
+###cookie-erlaubnis-wrapper
 ###cookie-eu
 ###cookie-fixed-layer
 ###cookie-floater-wrap
@@ -4449,6 +4509,7 @@
 ###cookie-headband
 ###cookie-hint
 ###cookie-hint-box
+###cookie-hint-container
 ###cookie-hint-layer
 ###cookie-hint-wrapper
 ###cookie-hinweis
@@ -4469,6 +4530,7 @@
 ###cookie-info-rodo
 ###cookie-info-text
 ###cookie-info-wrapper
+###cookie-infobar
 ###cookie-inform
 ###cookie-information
 ###cookie-information-banner
@@ -4486,6 +4548,7 @@
 ###cookie-law-box
 ###cookie-law-container
 ###cookie-law-dialog
+###cookie-law-div
 ###cookie-law-enforcer
 ###cookie-law-fix
 ###cookie-law-info
@@ -4511,11 +4574,14 @@
 ###cookie-list
 ###cookie-manager
 ###cookie-manager-dialog
+###cookie-manager-wrapper
+###cookie-mask
 ###cookie-melding
 ###cookie-melding-top
 ###cookie-meldung
 ###cookie-modal
 ###cookie-modal-bg
+###cookie-modal-container
 ###cookie-module
 ###cookie-monstah
 ###cookie-monster
@@ -4542,6 +4608,7 @@
 ###cookie-notice-popup
 ###cookie-notice-top-banner
 ###cookie-notice-uk
+###cookie-notice-v3
 ###cookie-notice-wrap
 ###cookie-notice-wrapper
 ###cookie-notif
@@ -4598,6 +4665,7 @@
 ###cookie-policy-overlay-block-container
 ###cookie-policy-popin
 ###cookie-policy-popup
+###cookie-policy-shadow
 ###cookie-policy-sticky
 ###cookie-policy-warning
 ###cookie-policy-wrap
@@ -4749,6 +4817,7 @@
 ###cookieBannerOverlay
 ###cookieBannerWrap
 ###cookieBannerWrapper
+###cookieBanner\.banner
 ###cookieBar
 ###cookieBarBC
 ###cookieBarContainer
@@ -4760,6 +4829,7 @@
 ###cookieBnr
 ###cookieBox
 ###cookieBoxContainer
+###cookieBoxOverlay
 ###cookieBoxWrapper
 ###cookieCDkeys
 ###cookieCNIL
@@ -4798,6 +4868,7 @@
 ###cookieDeclarationWrapper
 ###cookieDialog
 ###cookieDialogCtnr
+###cookieDialogue
 ###cookieDirWrap
 ###cookieDirective
 ###cookieDisc
@@ -4849,6 +4920,7 @@
 ###cookieInfoBox
 ###cookieInfoContainer
 ###cookieInfoContent
+###cookieInfoDialog
 ###cookieInfoDiv
 ###cookieInfoFooter
 ###cookieInfoLayer
@@ -4862,6 +4934,7 @@
 ###cookieInfoOverlay
 ###cookieInfoOverlayBg
 ###cookieInfoPanel
+###cookieInfoWindow
 ###cookieInfoWrapper
 ###cookieInfo_firstTime
 ###cookieInfobox
@@ -4927,6 +5000,7 @@
 ###cookieNoticeBanner
 ###cookieNoticeContainer
 ###cookieNotice_other
+###cookieNotif
 ###cookieNotifaction
 ###cookieNotification
 ###cookieNotificationBanner
@@ -4979,6 +5053,7 @@
 ###cookiePolicyOverlayRoot
 ###cookiePolicyPopUp
 ###cookiePolicyPopup
+###cookiePolicyPopupHTML
 ###cookiePolicyText
 ###cookiePolicyTooltip
 ###cookiePolicyWarn
@@ -5013,6 +5088,7 @@
 ###cookieScriptId
 ###cookieSec
 ###cookieSection
+###cookieSettingsDialog
 ###cookieShortAlert
 ###cookieShortInfoFooter
 ###cookieSign
@@ -5127,6 +5203,7 @@
 ###cookie_bnr
 ###cookie_box
 ###cookie_box_bar
+###cookie_box_info
 ###cookie_caution
 ###cookie_clicker
 ###cookie_cnil
@@ -5168,6 +5245,7 @@
 ###cookie_info_area
 ###cookie_info_bar
 ###cookie_info_box
+###cookie_info_container
 ###cookie_info_div
 ###cookie_info_startpage
 ###cookie_info_topNav
@@ -5177,6 +5255,8 @@
 ###cookie_inform
 ###cookie_information
 ###cookie_information_block
+###cookie_information_box
+###cookie_information_overlay
 ###cookie_informative
 ###cookie_informer
 ###cookie_inject
@@ -5218,6 +5298,7 @@
 ###cookie_navbar
 ###cookie_note
 ###cookie_note_div
+###cookie_note_voll
 ###cookie_notice
 ###cookie_notice_bar
 ###cookie_notice_wrapper
@@ -5234,6 +5315,7 @@
 ###cookie_opt_in
 ###cookie_opt_in_container
 ###cookie_optin
+###cookie_optin_back
 ###cookie_overlay
 ###cookie_panel
 ###cookie_panel_2018
@@ -5343,6 +5425,7 @@
 ###cookiebanner-overlay
 ###cookiebanner-wrapper
 ###cookiebannerAH
+###cookiebannerOverlay
 ###cookiebanner_wrapper
 ###cookiebannerdiv
 ###cookiebar
@@ -5381,8 +5464,10 @@
 ###cookiedings
 ###cookiedingsbums
 ###cookiedirectiveButtonContainer
+###cookiedisallowoverlay
 ###cookiedisc
 ###cookiedisclaimer
+###cookiedismiss
 ###cookiediv
 ###cookiee_alert
 ###cookiefascia
@@ -5399,6 +5484,8 @@
 ###cookiehint
 ###cookiehinw
 ###cookiehinweis
+###cookiehinweisbox_wrapper
+###cookiehinweisboxback
 ###cookiehinweisdiv
 ###cookieinfo
 ###cookieinfo-container
@@ -5437,6 +5524,8 @@
 ###cookielegislation
 ###cookielightbox
 ###cookielista
+###cookiemanager_cookiebar
+###cookiemeld
 ###cookiemelding
 ###cookiemelding_popup
 ###cookiemenu
@@ -5470,8 +5559,10 @@
 ###cookieopt
 ###cookieoptin
 ###cookieoverlay
+###cookieoverlay_outer
 ###cookiep
 ###cookiepanel
+###cookiepermissionDialogBox
 ###cookiepermissionprompt
 ###cookiepolicy
 ###cookiepolicy-blok
@@ -5489,6 +5580,7 @@
 ###cookiepop-lulu_cookiepop
 ###cookiepopup
 ###cookiepopup-content
+###cookiepopupbg
 ###cookiepopupdiv
 ###cookieprivacy
 ###cookieprivacy-bar
@@ -5515,6 +5607,7 @@
 ###cookiewarn
 ###cookiewarn-panel
 ###cookiewarnbar
+###cookiewarner
 ###cookiewarning
 ###cookiewarnung
 ###cookiewet
@@ -5522,6 +5615,7 @@
 ###cookiewet-hoek
 ###cookiewetgeving
 ###cookiewindow
+###cookiewookieblock
 ###cookiewrap
 ###cookiewrapper
 ###cookiexndo
@@ -5610,6 +5704,7 @@
 ###ctl00_adCar
 ###ctl00_adFooter
 ###ctl00_bottom_advert_728x90
+###ctl00_cookieNotice
 ###ctl00_cookie_panel
 ###ctl00_cphMainContent_lblPartnerAds
 ###ctl00_cphMain_adView_dlAds_ctl01_advert_AboveAds_divOther
@@ -5623,6 +5718,7 @@
 ###ctl00_ctl00_ctl00_tableAdsTop
 ###ctl00_ctl00_ctl00_tdBannerAd
 ###ctl00_ctl00_divCookiePolicyContainer
+###ctl00_ctl00_ucCookieAlert_updtCookie
 ###ctl00_ctl01_ctl00_tdBannerAd
 ###ctl00_ctl05_ctl00_tableAdsTop
 ###ctl00_ctl05_ctl00_tdBannerAd
@@ -5633,6 +5729,7 @@
 ###ctl00_informativaCookie_divInformativaCookie
 ###ctl00_m_skinTracker_m_adLBL
 ###ctl00_mainContent_lblSponsor
+###ctl00_privacyUpdate
 ###ctl00_skyscraperAdvertContainer
 ###ctl00_topAd
 ###ctl00_upCookie
@@ -5687,11 +5784,13 @@
 ###data-protection-overlay
 ###data-protection-regulation
 ###data-store-permission-popup
+###dataCollectPolicy
 ###dataPrivacyDialog
 ###data_protection_comment
 ###data_protection_comment_mobile
 ###daumAd
 ###db_ad
+###dcCookieHelper--bg
 ###dc_ad_data_1
 ###dc_ad_data_2
 ###dc_ad_data_4
@@ -5821,11 +5920,13 @@
 ###dfp_ad_mpu
 ###dfp_container
 ###dfpad-0
+###dgdsgvocookie
 ###dgsvoLayer
 ###dhm-bar
 ###dialog-cookie
 ###dialog-euCookie
 ###dialog-modal-cookieadv
+###dianomiNewsBlock
 ###dict-adv
 ###didomi-notice
 ###din-cookie-banner
@@ -5989,6 +6090,7 @@
 ###divcook
 ###divcookie
 ###divcookieok
+###divi-life-cookie-popup
 ###divmensagemcookie1
 ###divmiddlerightad
 ###divuppercenterad
@@ -6049,6 +6151,7 @@
 ###dsgvo-cookie-dnt-layer
 ###dsgvo-panel
 ###dsgvoCookieBanner
+###dsgvoFooter
 ###dsgvo_cookie_hint
 ###dsgvo_cookie_note
 ###dsgvo_info
@@ -6057,6 +6160,7 @@
 ###dsk-banner-ad-b
 ###dsk-box-ad-d
 ###dspcookie
+###dsvgoAccept
 ###dsvgo_cookie
 ###dt_2018_tos_pp_update
 ###dv-gpt-ad-bigbox-wrap
@@ -6175,6 +6279,7 @@
 ###eu-cookie-wrap
 ###eu-cookielaw
 ###eu-cp-banner
+###eu-gdpr-overlay
 ###eu-law
 ###eu-notifier
 ###eu-okno
@@ -6384,6 +6489,7 @@
 ###footer-cookie-policy
 ###footer-cookie-popup
 ###footer-im-ad
+###footer-lgpd
 ###footer-sponsored
 ###footerAd
 ###footerAdBg
@@ -6504,14 +6610,19 @@
 ###gb[style="min-width: 980px;"] > .gb_wb
 ###gb_cc_bar
 ###gb_sm_notification
+###gbc-cookie-directive-top
 ###gbcookie
 ###gbl_topmost_ad
 ###gbteccookie
 ###gcms_cookie_manager
 ###gcommonad
+###gdc-container.gdc-container
+###gdc-cookieSettings
 ###gdpr-acceptance
 ###gdpr-alert
 ###gdpr-banner
+###gdpr-banner-module
+###gdpr-banner-wrapper
 ###gdpr-bar
 ###gdpr-block
 ###gdpr-bottom
@@ -6523,14 +6634,17 @@
 ###gdpr-cookie-accept
 ###gdpr-cookie-banner
 ###gdpr-cookie-banner-container
+###gdpr-cookie-block
 ###gdpr-cookie-footer
 ###gdpr-cookie-info
 ###gdpr-cookie-law
 ###gdpr-cookie-notice
 ###gdpr-cookie-policy
+###gdpr-cookie-wall
 ###gdpr-cookieNotice
 ###gdpr-cover
 ###gdpr-dialog
+###gdpr-disclaimer
 ###gdpr-footer
 ###gdpr-info-container
 ###gdpr-is-fun
@@ -6547,6 +6661,7 @@
 ###gdpr-policy-navbar
 ###gdpr-popup
 ###gdpr-region
+###gdpr-screen
 ###gdpr-script
 ###gdpr-w
 ###gdpr-warning
@@ -6557,12 +6672,14 @@
 ###gdprBanner
 ###gdprBar
 ###gdprBnnr
+###gdprBottomLayer
 ###gdprBox
 ###gdprComponent
 ###gdprContainer
 ###gdprCookieBanner
 ###gdprCookieBanner--custom
 ###gdprCookieLaw
+###gdprCookiePolicy
 ###gdprCookieWrap
 ###gdprLPDialog
 ###gdprLPDialog_modal
@@ -6578,6 +6695,7 @@
 ###gdpr_area
 ###gdpr_b
 ###gdpr_banner
+###gdpr_banner_portal
 ###gdpr_barretta
 ###gdpr_basic
 ###gdpr_box
@@ -6590,6 +6708,7 @@
 ###gdpr_modal
 ###gdpr_nav
 ###gdpr_notice
+###gdpr_overflow
 ###gdpr_overlay
 ###gdpr_panel
 ###gdpr_popin
@@ -6847,11 +6966,13 @@
 ###headline-sponsor
 ###headline_ad
 ###heroku-cookie-banner
+###hf-cookie-notice
 ###hh_cookiewarning
 ###hi-cookie-box
 ###hi-eu-opt-in
 ###hi5-ad-1
 ###hidadvnet
+###hinweisCookie
 ###hinweiscookieid
 ###hl-ad-LDRB2-1
 ###hl-ad-MON-0
@@ -7007,6 +7128,7 @@
 ###imageadsbox
 ###imgCollContentAdIFrame
 ###imgad1
+###imprint-cookie
 ###imu_ad_module
 ###in-article-ad
 ###in-content-ad
@@ -7083,6 +7205,7 @@
 ###ip-ad-skyscraper
 ###ipadv
 ###ipercookie
+###ipott div[class*="CookiePolicy"]
 ###iprom_cp_wrapper
 ###iq-AdSkin
 ###iqadcontainer
@@ -7135,6 +7258,7 @@
 ###jc-cookie-notice
 ###jetso-ad
 ###ji_medShowAdBox
+###jive-cookie-overlay
 ###jlp-cookie-container
 ###jmp-ad-buttons
 ###job_ads_container
@@ -7186,6 +7310,8 @@
 ###js-law--alert
 ###js-mbCookieNoticeContainer
 ###js-md-cookie
+###js-module-cookie-policy
+###js-optIn-banner
 ###js-page-ad-top
 ###js-policy-eucookie
 ###js-react-cookie-policy
@@ -7193,6 +7319,7 @@
 ###js-site-nav-ad-wrap
 ###js-stormcc-banner
 ###js-story__ad-storyrec
+###jsCookieNotification
 ###js\.cookie\.banner
 ###js_cnil-bar
 ###js_cookie-banner-ask
@@ -7207,6 +7334,7 @@
 ###jt-advert
 ###jupiter-ads
 ###jwsdw-cookieHint
+###jwsdw-cookieHint-container
 ###k_cookieNotification
 ###ka_adFullBanner
 ###ka_adMediumRectangle
@@ -7218,6 +7346,7 @@
 ###karmaAds
 ###kaufDA-widget
 ###kb-ad-banner
+###kb-cookie-banner
 ###kbCookiePolicy
 ###kbbAdsMainCenterAd
 ###kdz_ad1
@@ -7240,6 +7369,7 @@
 ###komunikat-cookie
 ###komunikat_ciastka
 ###komunikat_cookie
+###komunikat_rodo
 ###kqs-cookie
 ###krn-privacy-center
 ###ksf-gdpr-notice
@@ -7285,6 +7415,7 @@
 ###lblAds
 ###lc-cookie-bar
 ###lca-cookie-notification
+###ldCookieConfirm
 ###ld_privacy_popup
 ###lddw-cookie-modal-box
 ###lead-ads
@@ -7437,6 +7568,7 @@
 ###main-advert3
 ###main-bottom-ad
 ###main-content > [style="padding:10px 0 0 0 !important;"]
+###main-content div[class*="CookieWarning"]
 ###main-content-ad1
 ###main-content-adcontent1
 ###main-cookie-banner
@@ -7494,6 +7626,7 @@
 ###mbEnd[cellspacing="0"][cellpadding="0"]
 ###mb_gdpr
 ###mbientCookieNotice
+###mbm-cookieok_bar
 ###mbm-eu_cookie_notify
 ###mbmcookie
 ###mcCookie
@@ -7534,9 +7667,11 @@
 ###metisCookieTopBar
 ###mf_cookie_box
 ###mgid-container
+###mhp-cl.mhp-cl
 ###microAdDiv
 ###microsoft_ad
 ###mid-ad300x250
+###mid-ads
 ###mid-table-ad
 ###midAD
 ###midRightAds
@@ -7583,9 +7718,11 @@
 ###mktg_Cookie_Wrap
 ###mkto_mid_ad
 ###mktzr_cookie_policy
+###mmMS--bottom-notification
 ###mmMS--notification
 ###mm_t07_cookie_box
 ###mms-cookie-disclaimer
+###mmsCookieLayer
 ###mn div[style="position:relative"] > #center_col > ._Ak
 ###mn div[style="position:relative"] > #center_col > div > ._dPg
 ###mn_ads
@@ -7605,6 +7742,7 @@
 ###mod-ad-msu-1
 ###mod-ad-msu-2
 ###mod-cookieBar
+###mod-eprivacyoptin
 ###mod-partner-center
 ###mod-privacy-policy-banner-1
 ###mod-svmb-cookie-layer-1
@@ -7618,6 +7756,7 @@
 ###modal-cookie-law
 ###modal-gdpr
 ###modal-rodo-info
+###modal-root .RgpdPopup
 ###modalCookie
 ###modalCookieComp
 ###modalCookieContainer
@@ -7625,6 +7764,7 @@
 ###modal_cookie
 ###modal_cookie-mask
 ###modalbakgdpr
+###modalrgpd
 ###modalsource_privacy_widget
 ###modssgdpr_cookie_bar
 ###module-ad-300x250
@@ -7638,6 +7778,7 @@
 ###moogleAd
 ###moomoocookiealert
 ###moove_gdpr_cookie_info_bar
+###moove_gdpr_cookie_modal
 ###more_ad
 ###moreads
 ###morefooterads
@@ -7693,6 +7834,7 @@
 ###mrecPlacement
 ###mrvCookieBanner
 ###mrw_cookielaw_banner
+###ms-cookie-banner
 ###ms-cookie-policy
 ###msAds
 ###ms_ad
@@ -7784,6 +7926,8 @@
 ###nbcCookieChoice
 ###ncl-cookie-opt-out
 ###nd-cookie-alert
+###nebula-cookie-notification
+###nefos-cookie-container
 ###netBoard-ad
 ###netirs_top_cookie_popup
 ###new-ad-footer
@@ -7809,6 +7953,7 @@
 ###news_right_ad
 ###next_accept_cookie
 ###nextcookie
+###nfPPBar
 ###nf_cookiebanner
 ###nfcCookieNote
 ###nfcookieAcceptModal
@@ -7816,6 +7961,7 @@
 ###ng-ad-lbl
 ###ng_rtcol_ad
 ###ngo-cookie-policy-banner
+###nh-neth-gdpr-cookie-popup
 ###nhm-cookie-notify
 ###nia_ad
 ###nib-ad
@@ -7838,6 +7984,7 @@
 ###noticeAd_pc_wrap
 ###noticePopup
 ###notice_cnil
+###notice_privacy
 ###notice_visitor
 ###notif--privacy
 ###notifCookie
@@ -7845,6 +7992,7 @@
 ###notification__cookie
 ###notification_cookie
 ###notification_cookiewarning
+###notification_of_cookie
 ###notificationcookie
 ###notify-policy-cookie
 ###notifyCookie
@@ -7878,6 +8026,7 @@
 ###nwe-cookie-bar
 ###nx_gdpr_modal
 ###nx_gdpr_modal2
+###nxs-ccpa-banner
 ###nzme-notification
 ###o-cookie
 ###o-cookie-law
@@ -8132,11 +8281,14 @@
 ###popup-announcements
 ###popup-container-aviso
 ###popup-cookie
+###popup-cookie-block
 ###popup-cookie-contenedor
 ###popup-cookie-policy
+###popup-cookie-policy-small
 ###popup-cookie-wall
 ###popup-disclaimer
 ###popup-gdpr
+###popup-mask-rdo
 ###popup-privacypolicy
 ###popup-webpage-cookie
 ###popupAd
@@ -8272,6 +8424,7 @@
 ###privacy_banner
 ###privacy_bar
 ###privacy_barre
+###privacy_blockscreen
 ###privacy_box_container
 ###privacy_cookie
 ###privacy_cookie_popup
@@ -8288,9 +8441,11 @@
 ###privacy_popup
 ###privacy_widget
 ###privacybanner
+###privacybanner_modal
 ###privacybar
 ###privacycookie
 ###privacycookie-div-supertop
+###privacymanager
 ###privacynotice
 ###privacypolicy
 ###privacypolicycontainer
@@ -8378,6 +8533,7 @@
 ###react-cookie-approval
 ###react-cookie-bar
 ###react-cookie-warning
+###react_element__cookiebar
 ###realEstateAds
 ###rearad
 ###rect-ad
@@ -8561,6 +8717,7 @@
 ###rodo-overlay
 ###rodo-pop
 ###rodoAlert
+###rodoBox
 ###rodoCookie
 ###rodoNotificationWrapper
 ###rodoRow
@@ -8572,6 +8729,8 @@
 ###rodonf-app-ux
 ###rolldown-ad
 ###root [class*="CookiePolicyWidget"]
+###root div[class*="cookieMonster-wrapper"]
+###root div[data-dmid*="cookiebar"]
 ###root-cookie-notice
 ###ros_ad
 ###rotate_textads_1
@@ -8773,6 +8932,7 @@
 ###slx_cookie_law
 ###sm-banner-ad
 ###sm-eu-cookie-banner
+###sm_optin_btn_review
 ###smallAd
 ###smallBannerAdboard
 ###small_ad
@@ -8806,6 +8966,7 @@
 ###sp-adv-banner-top
 ###sp-advtop1
 ###sp-advtop3
+###sp-cc[action*="cookiepref"]
 ###spcookiegdpr
 ###spec_offer_ad2
 ###specialAd
@@ -9013,6 +9174,7 @@
 ###subpageAd
 ###subpage_234x60ad
 ###sugarad-stitial-overlay
+###sui-TcfFirstLayerModal
 ###summitad-wrap
 ###super_ad
 ###supp-ad1
@@ -9067,6 +9229,7 @@
 ###tblAd
 ###tblReklama2
 ###tbl_googlead
+###tc-privacy-wrapper
 ###tc_priv_CustomOverlay
 ###tc_privacy
 ###tc_privacy_bottom_fix
@@ -9080,6 +9243,7 @@
 ###td_adunit1_wrapper
 ###td_adunit2
 ###td_sponsorAd
+###teads0
 ###temelcookiepop
 ###temp-ads
 ###tenantAcceptText
@@ -9410,6 +9574,7 @@
 ###unitcookieonpageBar
 ###unitscookie-law
 ###universalAdContainer
+###uo_cookie_banner
 ###uodcookienotice
 ###up-cookie
 ###updatedPrivacyPolicy
@@ -9485,8 +9650,11 @@
 ###vscookieAlertCont
 ###vsw-ads
 ###vsw_ad
+###vt-ccb-notify
 ###vu_layer_cookie_content
+###vue-app-privacy-bar
 ###vueCookie
+###vueGdpr
 ###vue_cookielaw
 ###vvc_cookie
 ###vz_im_ad
@@ -9601,6 +9769,7 @@
 ###wpf_cookie-alert
 ###wpnb-bar
 ###wpx_cookie
+###wq-cookie-banner
 ###wrapAd
 ###wrapAdRight
 ###wrapAdTop
@@ -9895,6 +10064,7 @@
 ##.Banner468X60
 ##.BannerAD728
 ##.BannerAd
+##.BannerPrivacyInformation
 ##.Banner_Group
 ##.BigBoxAd
 ##.BlockAd
@@ -9968,6 +10138,7 @@
 ##.CookieMonsterBox
 ##.CookieMsg
 ##.CookieNote
+##.CookieNotice-Drawer
 ##.CookieNotification
 ##.CookieNotification-bar
 ##.CookieNotificationPopUp
@@ -9983,9 +10154,11 @@
 ##.CookiePolicyNotification
 ##.CookiePolicyWidget
 ##.CookiePolicy_subdiv
+##.CookiePopup
 ##.CookiePrivacyBanner
 ##.CookieWarning
 ##.CookieWarningComponent
+##.CookieWarning__wrapper
 ##.CookieWindow
 ##.Cookie_Banner
 ##.Cookie__Banner
@@ -10001,6 +10174,7 @@
 ##.DetailAds
 ##.DomAdsDiv
 ##.EU-cookie
+##.EUChoice[id*="GDPR"]
 ##.EUCookie
 ##.EUCookieBanner
 ##.EUCookieBox
@@ -10045,6 +10219,7 @@
 ##.GdprBanner
 ##.GdprBanner__bg
 ##.GeminiAdItem
+##.GeminiNativeAd
 ##.GetRightAds
 ##.Google-Ad-728x90
 ##.GoogleAd
@@ -10060,6 +10235,7 @@
 ##.GoogleDfpAdModule
 ##.Googleads728
 ##.GreenHomeAd
+##.GrowmarkGDPR_Wrapper
 ##.HGLoneAdTitleFrame
 ##.HPG_Ad_B
 ##.HPNewAdsBannerDiv
@@ -10071,6 +10247,7 @@
 ##.HomepageAdsPocket
 ##.IABAdSpace
 ##.IM_ad_unit
+##.Important[msgid="cookie-info"]
 ##.InArticleAd
 ##.InternalAdPanel1
 ##.JobListMidAd
@@ -10174,6 +10351,7 @@
 ##.RightSponsoredAdTitle
 ##.RightTowerAd
 ##.RodoNotyfication
+##.RootContainerClassName div[class*="CookieNotificationPopup"]
 ##.SBAArticle
 ##.SBABottom
 ##.SBABottom1
@@ -10284,6 +10462,7 @@
 ##._articleAdvert
 ##._bannerAds
 ##._bottom_ad_wrapper
+##._cookie-advanced--active
 ##._cookie-banner
 ##._cookie-bar
 ##._cookie-info
@@ -10669,6 +10848,7 @@
 ##.ad-container-tool
 ##.ad-container-top
 ##.ad-container-topad
+##.ad-container-wrapper
 ##.ad-container1
 ##.ad-container__ad-slot
 ##.ad-container_row
@@ -11161,6 +11341,7 @@
 ##.ad160_r
 ##.ad160x160
 ##.ad160x600
+##.ad160x600_1
 ##.ad160x600box
 ##.ad170x30
 ##.ad18
@@ -12043,6 +12224,8 @@
 ##.ad_size_160x600
 ##.ad_skin
 ##.ad_sky
+##.ad_sky_lhs
+##.ad_sky_rhs
 ##.ad_skyscpr
 ##.ad_skyscraper
 ##.ad_skyscrapper
@@ -12572,6 +12755,7 @@
 ##.ads-story
 ##.ads-styled
 ##.ads-superbanner
+##.ads-system
 ##.ads-text
 ##.ads-title
 ##.ads-tittle
@@ -12599,6 +12783,9 @@
 ##.ads-x1
 ##.ads-x1-super
 ##.ads-zone
+##.ads.rectangle160
+##.ads.rectangle300
+##.ads.skyscraper160
 ##.ads.widget
 ##.ads01
 ##.ads02
@@ -13354,6 +13541,7 @@
 ##.advert-note
 ##.advert-overlay
 ##.advert-pane
+##.advert-panel
 ##.advert-right
 ##.advert-sky
 ##.advert-skyscraper
@@ -13482,7 +13670,12 @@
 ##.advertising-local-links
 ##.advertising-lrec
 ##.advertising-mention
+##.advertising-middle
+##.advertising-middle-i
 ##.advertising-notice
+##.advertising-right
+##.advertising-right-d
+##.advertising-right-i
 ##.advertising-srec
 ##.advertising-top
 ##.advertising-top-banner
@@ -13689,6 +13882,8 @@
 ##.alert-cookie-notice
 ##.alert-cookie-notice-container
 ##.alert-cookiewarning
+##.alert-gdpr
+##.alert-rgpd
 ##.alert-site-cookie
 ##.alert-wrapper-cookie
 ##.alertViePrivee
@@ -13747,6 +13942,7 @@
 ##.annons_themeBlock
 ##.annonstext
 ##.announcement-eu-cookie
+##.announcement[data-id*="cookie_notice"]
 ##.another_text_ad
 ##.answer_ad_content
 ##.aol-knot-fullscreen-right-ad
@@ -13757,6 +13953,7 @@
 ##.apiAds
 ##.apiButtonAd
 ##.app-cookie
+##.app-disclaimer-rgpd
 ##.app_ad_unit
 ##.app_advertising_skyscraper
 ##.app_cookie_alert
@@ -13777,6 +13974,7 @@
 ##.area_ad09
 ##.aroundAdUnit
 ##.aroundCookie
+##.arsorsCookie_wrapper
 ##.artAd
 ##.artAdInner
 ##.art_ad_top
@@ -14118,6 +14316,7 @@
 ##.bbccom-advert
 ##.bbccom_advert
 ##.bbsTopAd
+##.bc-ad__appnexus
 ##.bc-cookie-banner
 ##.bc-cookie-disclaimer
 ##.bcOptInOptoutNotifier
@@ -14334,6 +14533,7 @@
 ##.blxAdopsPlacement
 ##.bmj-cookie-noticebar-content
 ##.bms-cookie-container
+##.bn-cookie-panel
 ##.bn-post-excerpt-cat-sponsored
 ##.bn_ads
 ##.bn_advert
@@ -14512,6 +14712,7 @@
 ##.boxsponsor2
 ##.boxyads
 ##.bp-cookie-notice-wrapper
+##.bpa-cookie-banner
 ##.bpcads-bottom-footer
 ##.bps-ad-wrapper
 ##.bq_ad_320x250
@@ -14600,6 +14801,7 @@
 ##.c-banners__wrapper
 ##.c-block-cookie-disclaimer
 ##.c-box--advert
+##.c-cnil-wrapper
 ##.c-cookie
 ##.c-cookie--disclaimer
 ##.c-cookie-banner
@@ -14607,6 +14809,7 @@
 ##.c-cookie-block
 ##.c-cookie-disclaimer
 ##.c-cookie-information
+##.c-cookie-law
 ##.c-cookie-notice
 ##.c-cookie-notice__popup
 ##.c-cookie-notification
@@ -14623,6 +14826,7 @@
 ##.c-cookiepopup
 ##.c-cookiewarning
 ##.c-dialog--cookie
+##.c-dsgvo
 ##.c-fallback-ad
 ##.c-floating.c-window
 ##.c-fnd-cookie-acceptance
@@ -14763,6 +14967,7 @@
 ##.ccm-banner-small
 ##.ccm-widget.ccm-modal
 ##.ccmcss_oic
+##.ccp-overlay-fullscreen
 ##.ccpa-banner-container
 ##.cct-tempskinad
 ##.ccwrap
@@ -14792,6 +14997,7 @@
 ##.centeradv
 ##.centered-ad
 ##.centered-align-ad
+##.cerez-politikasi-container
 ##.cerrar_bloque_ads
 ##.cerrar_bloque_ads2
 ##.cf__main-block
@@ -14853,6 +15059,7 @@
 ##.cmi-content-3ads-horizontal
 ##.cmp-app_gdpr
 ##.cmp-cookie-stmt
+##.cmp-cookie.cmp-modal
 ##.cms-Advert
 ##.cms-cookielaw
 ##.cms-magazine-rightcol-adtag
@@ -14901,6 +15108,8 @@
 ##.cnt-right-vertical-ad-home
 ##.cntAd
 ##.cnt_ad
+##.cntx-cookie-info
+##.cntx-cookie-modal-handler
 ##.cnwrap
 ##.cobalt-ad
 ##.cockie-popup
@@ -14952,7 +15161,11 @@
 ##.compareBrokersAds
 ##.component--google-ad-manager
 ##.component-cookie-alert
+##.component-cookie-banner
+##.component-cookie-bar
+##.component-cookie-info-bar
 ##.component-cookie-notification
+##.component-cookie-policy
 ##.component-cookiealert
 ##.component-ddb-300x250-v2
 ##.component-ddb-728x90-v1
@@ -15008,6 +15221,7 @@
 ##.container_row_ad
 ##.container_serendipity_plugin_google_adsense
 ##.contains-ad
+##.contao-cookiebar
 ##.content--cookie-js
 ##.content-ad
 ##.content-ad-article
@@ -15102,12 +15316,14 @@
 ##.cook-accept
 ##.cook-window
 ##.cookacceptor
+##.cookcontainer
 ##.cookeEnabler
 ##.cooki-container
 ##.cooki_baner_wrp
 ##.cookie--bar
 ##.cookie--form
 ##.cookie--overlay
+##.cookie--permission
 ##.cookie--polityka
 ##.cookie--popup
 ##.cookie--top
@@ -15123,6 +15339,7 @@
 ##.cookie-accept-container
 ##.cookie-accept-notice
 ##.cookie-accept-overlay
+##.cookie-accept-popup
 ##.cookie-acceptance
 ##.cookie-acceptance-banner
 ##.cookie-acceptance-container
@@ -15135,6 +15352,7 @@
 ##.cookie-advert
 ##.cookie-advertisment
 ##.cookie-advice
+##.cookie-advisor
 ##.cookie-alert
 ##.cookie-alert--top
 ##.cookie-alert-2018-c
@@ -15157,6 +15375,8 @@
 ##.cookie-back
 ##.cookie-ban
 ##.cookie-band
+##.cookie-banner--disable-overlay
+##.cookie-banner-body-overlay
 ##.cookie-banner-bottom
 ##.cookie-banner-container
 ##.cookie-banner-info
@@ -15181,6 +15401,7 @@
 ##.cookie-bar2
 ##.cookie-bar:not(body):not(html)
 ##.cookie-bar__wrapper
+##.cookie-bar_container
 ##.cookie-bar_inner
 ##.cookie-barre
 ##.cookie-bg
@@ -15190,6 +15411,8 @@
 ##.cookie-box
 ##.cookie-box-en
 ##.cookie-box-wrapper
+##.cookie-box__overlay
+##.cookie-box__wrap
 ##.cookie-btn
 ##.cookie-bubble
 ##.cookie-card_popup_fixed
@@ -15206,6 +15429,7 @@
 ##.cookie-container-most
 ##.cookie-content
 ##.cookie-content-container
+##.cookie-content-overlay
 ##.cookie-content-ribbon
 ##.cookie-copy
 ##.cookie-cover
@@ -15224,6 +15448,7 @@
 ##.cookie-disclaimer-container
 ##.cookie-disclaimer-mask
 ##.cookie-disclaimer-notice
+##.cookie-disclaimer-overlay-container
 ##.cookie-disclaimer-wrapper
 ##.cookie-disclaimer:not(body)
 ##.cookie-disclamer
@@ -15237,6 +15462,7 @@
 ##.cookie-fixed-hint
 ##.cookie-flash
 ##.cookie-footer
+##.cookie-footer--wrapper
 ##.cookie-footer-banner
 ##.cookie-footer-bar
 ##.cookie-footer-container
@@ -15262,6 +15488,7 @@
 ##.cookie-info-dropdown
 ##.cookie-info-layer
 ##.cookie-info-modal
+##.cookie-info-overlay
 ##.cookie-info-text
 ##.cookie-info-wrapper
 ##.cookie-info:not(body):not(html)
@@ -15303,6 +15530,7 @@
 ##.cookie-law-wrapper
 ##.cookie-law__container
 ##.cookie-layer
+##.cookie-layer-advanced
 ##.cookie-layer-container
 ##.cookie-layer-visible
 ##.cookie-layerbody
@@ -15320,6 +15548,7 @@
 ##.cookie-management-overlay
 ##.cookie-manager
 ##.cookie-manager-dialog
+##.cookie-manager-overlay
 ##.cookie-manager-portlet
 ##.cookie-mask
 ##.cookie-mat-wrapper
@@ -15344,6 +15573,7 @@
 ##.cookie-none
 ##.cookie-not-confirm-banner
 ##.cookie-note
+##.cookie-note-popup
 ##.cookie-note__wrapper
 ##.cookie-notf
 ##.cookie-notice
@@ -15353,6 +15583,10 @@
 ##.cookie-notice-content
 ##.cookie-notice-dialog
 ##.cookie-notice-fixed
+##.cookie-notice-footer
+##.cookie-notice-overlay
+##.cookie-notice-root
+##.cookie-notice-ui
 ##.cookie-notice-wrap
 ##.cookie-notice-wrapper
 ##.cookie-notice-wrapper-privacypolicy
@@ -15369,10 +15603,13 @@
 ##.cookie-notification-wrap
 ##.cookie-notification-wrapper
 ##.cookie-notification:not(body)
+##.cookie-notification__bar
 ##.cookie-notification__wrapper
 ##.cookie-notifications
 ##.cookie-notifier
+##.cookie-notifier-content
 ##.cookie-notify
+##.cookie-notify-container
 ##.cookie-notify-popup
 ##.cookie-offer
 ##.cookie-on
@@ -15381,6 +15618,8 @@
 ##.cookie-opt-in
 ##.cookie-opt-out
 ##.cookie-optin
+##.cookie-optin-modal
+##.cookie-options-hook
 ##.cookie-outer
 ##.cookie-outer-container
 ##.cookie-overlay
@@ -15392,7 +15631,9 @@
 ##.cookie-panel-content
 ##.cookie-panel-overlay
 ##.cookie-permission
+##.cookie-permission--backdrop
 ##.cookie-permission-banner
+##.cookie-permission-container-big
 ##.cookie-permission-prompt
 ##.cookie-police
 ##.cookie-policy
@@ -15401,6 +15642,7 @@
 ##.cookie-policy-alert
 ##.cookie-policy-area
 ##.cookie-policy-banner
+##.cookie-policy-banner-bar
 ##.cookie-policy-bar
 ##.cookie-policy-bar-bottom
 ##.cookie-policy-block
@@ -15424,6 +15666,7 @@
 ##.cookie-policy-notification
 ##.cookie-policy-opt-out
 ##.cookie-policy-overlay
+##.cookie-policy-panel
 ##.cookie-policy-popin
 ##.cookie-policy-popup
 ##.cookie-policy-prompt
@@ -15448,11 +15691,13 @@
 ##.cookie-popup
 ##.cookie-popup-bar
 ##.cookie-popup-container
+##.cookie-popup-overlay
 ##.cookie-popup-wrapper
 ##.cookie-popup__content
 ##.cookie-popup__heading
 ##.cookie-pp
 ##.cookie-privacy
+##.cookie-privacy-banner
 ##.cookie-privacy-container
 ##.cookie-privacy-notice
 ##.cookie-privacy-popup
@@ -15535,6 +15780,7 @@
 ##.cookie.cookie-fullfat
 ##.cookie.cookie-lowfat
 ##.cookie.custom
+##.cookie.fixed
 ##.cookie.fixed-bottom
 ##.cookie.is-show
 ##.cookie.is-visible
@@ -15545,6 +15791,7 @@
 ##.cookie.opt-in
 ##.cookie.row
 ##.cookie.top-info
+##.cookie.visible
 ##.cookie24_banner-wrapper
 ##.cookie5
 ##.cookieAcc
@@ -15557,6 +15804,7 @@
 ##.cookieAccepted
 ##.cookieAccepterGrayBody
 ##.cookieAccepterPopup
+##.cookieActive
 ##.cookieAd
 ##.cookieAdvice
 ##.cookieAlert
@@ -15584,6 +15832,7 @@
 ##.cookieBarWrapper
 ##.cookieBarX
 ##.cookieBar__container
+##.cookieBnrWrp
 ##.cookieBox
 ##.cookieBox-wrapper
 ##.cookieBoxWrap
@@ -15618,6 +15867,7 @@
 ##.cookieFloater
 ##.cookieFlyout
 ##.cookieFooter
+##.cookieFooterDiv
 ##.cookieFooterbg
 ##.cookieForm
 ##.cookieHandler
@@ -15693,6 +15943,7 @@
 ##.cookiePolicyBannerOuter
 ##.cookiePolicyBnr
 ##.cookiePolicyBox
+##.cookiePolicyContainer
 ##.cookiePolicyCustom
 ##.cookiePolicyLightBox
 ##.cookiePolicyLightBoxOverflowBg
@@ -15725,6 +15976,7 @@
 ##.cookieShowClass
 ##.cookieStatement-block
 ##.cookieText
+##.cookieTextsWrapper
 ##.cookieToast
 ##.cookieTool
 ##.cookieToolbar
@@ -15747,14 +15999,17 @@
 ##.cookieWrp
 ##.cookie[data-cookie-notice]
 ##.cookie[role="alertdialog"]
+##.cookie_Banner
 ##.cookie__accept
 ##.cookie__banner
 ##.cookie__bar
 ##.cookie__container
 ##.cookie__footer
 ##.cookie__inner
+##.cookie__modal
 ##.cookie__notice
 ##.cookie__policy
+##.cookie__policy-notice
 ##.cookie__reveal
 ##.cookie__show
 ##.cookie__top
@@ -15764,6 +16019,7 @@
 ##.cookie_accept
 ##.cookie_accept_container
 ##.cookie_accept_notebox
+##.cookie_acceptance
 ##.cookie_acept
 ##.cookie_ack
 ##.cookie_adv2
@@ -15801,6 +16057,7 @@
 ##.cookie_evil_over
 ##.cookie_flyout
 ##.cookie_footer
+##.cookie_gdpr
 ##.cookie_head
 ##.cookie_helper
 ##.cookie_hint
@@ -15836,11 +16093,13 @@
 ##.cookie_note_bkg
 ##.cookie_notice
 ##.cookie_notice_block
+##.cookie_notice_blue
 ##.cookie_notice_wrap
 ##.cookie_notice_wrapper
 ##.cookie_notif
 ##.cookie_notife
 ##.cookie_notification
+##.cookie_notification_container
 ##.cookie_notification_wrapper
 ##.cookie_notify
 ##.cookie_optin_box
@@ -15848,6 +16107,7 @@
 ##.cookie_overlay_container
 ##.cookie_overlayshow
 ##.cookie_panel
+##.cookie_picking_block
 ##.cookie_policy
 ##.cookie_policy_bar
 ##.cookie_policy_box
@@ -15903,6 +16163,7 @@
 ##.cookiebalk
 ##.cookiebanner--container
 ##.cookiebanner--js
+##.cookiebanner-legacy
 ##.cookiebanner-overlay
 ##.cookiebanner-warning
 ##.cookiebanner:not(body)
@@ -15920,6 +16181,7 @@
 ##.cookiebg:not(body):not(html)
 ##.cookieboks
 ##.cookiebox
+##.cookiebox-wrapper
 ##.cookieboxM
 ##.cookiecall
 ##.cookiecontainer
@@ -15947,6 +16209,7 @@
 ##.cookieinformation
 ##.cookieinformationarea
 ##.cookieinfos
+##.cookiejs-banner-wrapper
 ##.cookielaw-alert
 ##.cookielaw-banner
 ##.cookielaw-bar
@@ -15974,6 +16237,7 @@
 ##.cookiemelding-container
 ##.cookiemeldung
 ##.cookiemodal
+##.cookiemonster-container
 ##.cookiemonster:not(html):not(body)
 ##.cookiemsg
 ##.cookienav
@@ -16004,6 +16268,7 @@
 ##.cookiepoll
 ##.cookiepopin
 ##.cookiepopup
+##.cookiepopup-container
 ##.cookiepopupcontainer
 ##.cookiepopupwrapper
 ##.cookieprivacy
@@ -16018,6 +16283,7 @@
 ##.cookietxt
 ##.cookieusage-confirm
 ##.cookievarning-wrap
+##.cookiew-law-banner
 ##.cookiewLawLayer
 ##.cookiewall:not(body):not(html)
 ##.cookiewall__wrapper
@@ -16063,8 +16329,10 @@
 ##.cp-curtain-container
 ##.cp-dialog
 ##.cp-info-bar-container
+##.cp-module-info_bar
 ##.cp-overlay
 ##.cp-popup
+##.cp-popup-content[data-title*="GDPR"]
 ##.cp-smalladv
 ##.cp1CookieBanner
 ##.cp_ad
@@ -16087,6 +16355,7 @@
 ##.crm-adcontain
 ##.cs-adv-wrapper
 ##.cs-cookie
+##.cs-cookie-overlay
 ##.cs-info-wrapper
 ##.cs-mpu
 ##.cs-row__cookie-bar
@@ -16135,8 +16404,10 @@
 ##.cwcookielawbg
 ##.cwt-cookie-confirmation
 ##.cwv2Ads
+##.cxa-cookie-notification
 ##.cy-popin-cookie
 ##.cyads650x100
+##.d-cc--modal-backdrop
 ##.d-cookie-bar
 ##.d-cookieBannerView
 ##.d1-top-ad
@@ -16144,6 +16415,7 @@
 ##.d499d-ads-160x90-right
 ##.d499d-ads-311x300-up
 ##.d499d-ads-635x100
+##.d_co_box
 ##.da-custom-ad-box
 ##.dac__banner__wrapper
 ##.dac__mpu-card
@@ -16160,7 +16432,9 @@
 ##.dartadbanner
 ##.dartadvert
 ##.data-privacy-banner
+##.data-protection-notice
 ##.dataPrivacyOverlay
+##.dataProtectionSettingsWrapper
 ##.datafile-ad
 ##.db-cookie-remark
 ##.dbh-cookie-disclaimer
@@ -16336,6 +16610,7 @@
 ##.dsdvo-cookie-notice
 ##.dsg-cookie-alert
 ##.dsgvo-banner
+##.dsgvo-confirmation
 ##.dsgvo-container
 ##.dsgvo-cookiebanner
 ##.dsgvo-wrapper
@@ -16346,6 +16621,7 @@
 ##.dt-cookie-dialog
 ##.dtcookie-overlay
 ##.dtcookie__wrap
+##.dtm-cookie-banner
 ##.dva_ad
 ##.dvad1
 ##.dvad2
@@ -16371,6 +16647,7 @@
 ##.dynamicad2
 ##.e-ad
 ##.e-cookie-info
+##.e3n_cookiebanner
 ##.ePrivacyOuterWrapper
 ##.ea-cookie-disclaimer
 ##.eads
@@ -16488,6 +16765,7 @@
 ##.euPolicy
 ##.eu_cc_law
 ##.eu_cookie
+##.eu_cookie_warning_popup
 ##.eu_cookie_wrapper_2
 ##.eu_coookie_toolbar
 ##.eucookie
@@ -16497,6 +16775,7 @@
 ##.eucookielaw
 ##.eucookielaw-banner
 ##.eucookiemanager
+##.eudsgvo
 ##.eula-cookie-banner
 ##.eulawbox
 ##.eupopup-container
@@ -16507,7 +16786,9 @@
 ##.event-ads
 ##.evidon-banner
 ##.evo-ads-widget
+##.evo-gdpr-box
 ##.evt-cookie-element
+##.ew-cookie-note
 ##.exec-advert-flash
 ##.exo-native-widget
 ##.exo-native-widget-outer-container
@@ -16515,6 +16796,7 @@
 ##.expanding-ad
 ##.expertsAd
 ##.exponea-banner
+##.exponea-banner--cookie
 ##.ext-ad
 ##.ext-cookie
 ##.external-ad
@@ -16577,6 +16859,8 @@
 ##.fi-adv-halfpage
 ##.fi-cookie-banner
 ##.field-name-sticky-ads-div
+##.fil-cookie-policy
+##.fingerprint-wrapper[onclick*="cookieman"]
 ##.finpostsads
 ##.first-ad
 ##.first-ad-wrap
@@ -16594,7 +16878,9 @@
 ##.fixed-ad-bottom
 ##.fixed-ad-bottom--banner
 ##.fixed-ad300-1
+##.fixed-bottom[class*="gdpr"]
 ##.fixed-cookie
+##.fixed-cookie-prl
 ##.fixed.cookie
 ##.fixedAds
 ##.fixedCookieOverlay
@@ -16646,6 +16932,7 @@
 ##.fm-badge-ad
 ##.fm-cookieBanner
 ##.fnadvert
+##.fnn-cookiemanager
 ##.fns_td_wrap
 ##.fold-ads
 ##.follower-ad-bottom
@@ -16705,6 +16992,7 @@
 ##.footer__cookie-alert--wrapper
 ##.footer__cookie-info
 ##.footer__cookiebar
+##.footer__eu-cookie
 ##.footer__gdrp
 ##.footer_ad
 ##.footer_ad336
@@ -16903,6 +17191,7 @@
 ##.gdpr-cookie
 ##.gdpr-cookie-alert-wrap
 ##.gdpr-cookie-banner
+##.gdpr-cookie-banner-wrapper
 ##.gdpr-cookie-bar
 ##.gdpr-cookie-bar-bottom
 ##.gdpr-cookie-box
@@ -16911,8 +17200,10 @@
 ##.gdpr-cookie-layer--active
 ##.gdpr-cookie-modal
 ##.gdpr-cookie-notice
+##.gdpr-cookie-notice-modal
 ##.gdpr-cookie-policy
 ##.gdpr-cookie-popup
+##.gdpr-cookie-wrap
 ##.gdpr-cookie-wrapper
 ##.gdpr-cookieNotice
 ##.gdpr-cookiebanner
@@ -16943,6 +17234,7 @@
 ##.gdpr-policy-bar
 ##.gdpr-policy.toaster
 ##.gdpr-pop-over
+##.gdpr-popin
 ##.gdpr-popup
 ##.gdpr-privacy-banner
 ##.gdpr-privacy-bar
@@ -16958,17 +17250,21 @@
 ##.gdpr-terms-popup
 ##.gdpr-warning
 ##.gdpr-wrapper
+##.gdpr.page-window
 ##.gdpr:not(body):not(html)
 ##.gdprBackgound
 ##.gdprBanner
 ##.gdprBannerWrapper
 ##.gdprBnnr
 ##.gdprBoxContainer
+##.gdprCookieAlertPopup
 ##.gdprCookieBanner_container
 ##.gdprCookieLaw
+##.gdprCookieWrapper
 ##.gdprLegalNotification
 ##.gdprPopup
 ##.gdpr[data-gdpr-popup]
+##.gdpr__A
 ##.gdpr__container
 ##.gdpr_accept_cookie
 ##.gdpr_banner
@@ -16985,6 +17281,7 @@
 ##.gdpr_msgbox
 ##.gdpr_note
 ##.gdpr_notice_container
+##.gdpr_overlay
 ##.gdpr_popup_wrap
 ##.gdpr_theme_anonymous
 ##.gdprbar
@@ -16995,7 +17292,9 @@
 ##.gdprfooter
 ##.gdprpopup
 ##.gdprrhs
+##.gdrp-cookie-banner-wrapper
 ##.gdrp-popup-content
+##.gdrp-wrap.gdrp-show
 ##.gdrp__overlay
 ##.geeky_ad
 ##.general-adv-container
@@ -17081,6 +17380,7 @@
 ##.google-ad-widget
 ##.google-ad-wrapper-ui
 ##.google-ads
+##.google-ads-bottom
 ##.google-ads-boxout
 ##.google-ads-container
 ##.google-ads-footer-01
@@ -17195,6 +17495,7 @@
 ##.google_afc_ad
 ##.google_afc_articleintext
 ##.google_afc_categorymain
+##.google_line_tracking
 ##.google_top_adsense
 ##.google_top_adsense1
 ##.google_top_adsense1_footer
@@ -17627,6 +17928,7 @@
 ##.ipc-advert-class
 ##.iprom-ad
 ##.ipsAd
+##.ipx_cookie_overlay
 ##.iqadlinebottom
 ##.iqadmarker
 ##.ir_cookiehint
@@ -17654,6 +17956,7 @@
 ##.iw-cookie-overlay
 ##.iw-cookie-window
 ##.izee-cookie-alert
+##.j-ad
 ##.j-ads-mrec
 ##.j-cookie
 ##.j-cookie-disclaimer
@@ -17667,6 +17970,7 @@
 ##.ja-ads
 ##.jalbum-ad-container
 ##.jam-ad
+##.jannah_ad
 ##.jb.cookie
 ##.jc_ad_container
 ##.jcb-cookie-disclaimer
@@ -17733,6 +18037,7 @@
 ##.js-cc-announcement
 ##.js-coockie
 ##.js-cookie
+##.js-cookie--modal
 ##.js-cookie-alert
 ##.js-cookie-alert1
 ##.js-cookie-banner
@@ -17747,6 +18052,7 @@
 ##.js-cookie-hint
 ##.js-cookie-info
 ##.js-cookie-info__panel
+##.js-cookie-infomation
 ##.js-cookie-information-popup
 ##.js-cookie-law
 ##.js-cookie-monster-overlay
@@ -17774,6 +18080,7 @@
 ##.js-cookie_bar
 ##.js-cookie_policy
 ##.js-cookiebanner
+##.js-cookiebanner-wrap
 ##.js-cookiebar
 ##.js-cookiehint
 ##.js-cookieinfolayer
@@ -17795,10 +18102,13 @@
 ##.js-gdpr-info
 ##.js-gdpr-notice
 ##.js-gdpr-notice-dialog-overlay
+##.js-gdpr-tooltip
+##.js-gdprAlert
 ##.js-googleAdSuperHeader-wrapper
 ##.js-gptAd
 ##.js-lwpcngNotice
 ##.js-main-cookie-banner
+##.js-nanobar-first-login
 ##.js-native-ad
 ##.js-no-sticky-ad
 ##.js-notify-cookie
@@ -17850,17 +18160,22 @@
 ##.jw-ad-media-container
 ##.jw-ad-visible
 ##.k4-cookie
+##.kacookie-cm-window
 ##.kads-main
 ##.kb-ck-bar-notify-block
+##.kb-cookie-banner
 ##.kcAds
 ##.kd_ads_block
 ##.kdads-empty
 ##.kdads-link
 ##.keksbar
+##.keksbox-overlay
+##.keksbox-overlay-layer
 ##.keyword-ads-block
 ##.kia-cookie
 ##.kip-banner-ad
 ##.kitara-sponsored
+##.kitt-cookie-warning
 ##.kjfCookieInfoBox
 ##.kl-ad
 ##.kl-cookienote
@@ -17889,6 +18204,7 @@
 ##.l-cookie-law
 ##.l-cookie-notice-container
 ##.l-cookieNotification
+##.l-cookieWrapper
 ##.l-disclaimer
 ##.l-gdpr-banner
 ##.l-global-footer__cookie
@@ -17930,8 +18246,10 @@
 ##.layer_text_ad
 ##.layeradinfo
 ##.layout-ad
+##.layoutFloating[is="basis-cookie"]
 ##.layout__content-ad
 ##.layout__disclaimer
+##.layout__overlays__cookieNotice
 ##.layout__top-ad
 ##.layout_communityad_right_ads
 ##.lazy-ad
@@ -17952,6 +18270,7 @@
 ##.lcontentbox_ad
 ##.ld-ad
 ##.ld-ad-inner
+##.ld-cookie-notice
 ##.lead-ad
 ##.lead-ads
 ##.lead-advert
@@ -18013,6 +18332,7 @@
 ##.legal_cookie_block
 ##.legaladvice
 ##.legalwarning
+##.lemon_cookie_window_outer_wrapper
 ##.lg-ads-160x90
 ##.lg-ads-311x300-down
 ##.lg-ads-311x300-up
@@ -18135,6 +18455,7 @@
 ##.m-cookiehint
 ##.m-dfp-ad-text
 ##.m-gallery-overlay--ad-top
+##.m-gdpr-alert-banner
 ##.m-heads-up-banner
 ##.m-in-content-ad
 ##.m-in-content-ad--slot
@@ -18292,6 +18613,7 @@
 ##.meta_ad
 ##.metaboxType-sponsor
 ##.mf-ad300-container
+##.mf-cookie-banner
 ##.mg_box_ads
 ##.mgid-wrapper
 ##.mh5_CookieNotice
@@ -18330,6 +18652,7 @@
 ##.middlead
 ##.middleadouter
 ##.midpost-ad
+##.mihoyo-cookie-tips
 ##.milibooCookie
 ##.min-cookiebanner
 ##.minPppWrp_cookie
@@ -18441,10 +18764,12 @@
 ##.mod_cookiebar_optin
 ##.mod_cookieconfirmation
 ##.mod_openads
+##.mod_privacy_optin
 ##.mod_r_ad
 ##.mod_r_ad1
 ##.modal-ad
 ##.modal-cookie
+##.modal.sm_optin_bg
 ##.module--ad
 ##.module--cookie
 ##.module-ad
@@ -18553,6 +18878,7 @@
 ##.mrecAds
 ##.mrec_advert
 ##.mrf-directad
+##.mrpix--cookie-permission--overhead-container
 ##.mrtn-cookie-policy-noty
 ##.ms-ad-superbanner
 ##.ms-ads-link
@@ -18629,6 +18955,7 @@
 ##.na-adcontainer
 ##.naMediaAd
 ##.nadvt300
+##.nanobar-cookie-cog
 ##.narrow_ad_unit
 ##.narrow_ads
 ##.nationalad
@@ -18648,6 +18975,7 @@
 ##.nav-ad
 ##.nav-ad-gpt-container
 ##.nav-adWrapper
+##.nav-cookie-disclaimer
 ##.nav-keywords__item--native-ad
 ##.navAdsBanner
 ##.navBads
@@ -18763,6 +19091,7 @@
 ##.notification--cookie-alert
 ##.notification-banner--cookie
 ##.notification-bar--cookie
+##.notification-bar[data-bar-type="gdpr"]
 ##.notification-bar[data-id="cookiedisclaimer"]
 ##.notification-box[data-toggler*="cookie-policy"]
 ##.notification-container.cookie
@@ -18815,6 +19144,7 @@
 ##.nu2ad
 ##.nuffnangad
 ##.nui-ad-layout
+##.nux-signup-cookie-notice-content
 ##.nv-cookie-notification
 ##.nvt_cookienotice
 ##.nw-ad
@@ -18822,6 +19152,7 @@
 ##.nw-taboola
 ##.nw-top-ad
 ##.nx-cookie-policy-popup
+##.nxm2CookieBar
 ##.nytc---cookiebanner---container
 ##.nzs-ads
 ##.o-ad-banner-top
@@ -18909,6 +19240,7 @@
 ##.or-cookie__banner
 ##.orakelAdvice
 ##.orejime-Notice
+##.org-cookie-mini
 ##.ort-cookie-banner
 ##.osan-ads
 ##.osano-cm-window
@@ -18949,6 +19281,7 @@
 ##.ozadtop3
 ##.p-ad
 ##.p-ad-rectangle
+##.p-cookie-layer
 ##.p-cookie-prompt
 ##.p-cookiebar
 ##.p-gdpr-modal
@@ -19075,9 +19408,11 @@
 ##.peg_ad
 ##.penci-ad-box
 ##.penci-ad-image
+##.penci-ad_box
 ##.penci-google-adsense-1
 ##.penci-google-adsense-2
 ##.penci-gprd-law
+##.penci-promo-link
 ##.penci-wrap-gprd-law
 ##.penci_list_banner_widget
 ##.pencil-ad
@@ -19138,6 +19473,7 @@
 ##.policy-bar
 ##.policy-box
 ##.policy-cookie
+##.policy-notification--privacy-policy
 ##.policy-window
 ##.policy.cookie
 ##.policyChk
@@ -19164,6 +19500,7 @@
 ##.popover-cookie
 ##.popover-md.cookie
 ##.popup--cookie
+##.popup--cookie-handling
 ##.popup-ad
 ##.popup-alert-notice
 ##.popup-cookie-2018
@@ -19189,6 +19526,7 @@
 ##.portalcontentad
 ##.portlet_cookie_policy
 ##.pos_advert
+##.position-ads
 ##.post-ad
 ##.post-ads
 ##.post-advert
@@ -19225,6 +19563,7 @@
 ##.pp-adunit
 ##.pp-box-adunit
 ##.pp-cookie
+##.pp-cookie-banner
 ##.pp-cookie-warning
 ##.pp-cookie__content
 ##.ppa-notice
@@ -19236,6 +19575,7 @@
 ##.pq-ad
 ##.pr-ad-tower
 ##.pr-widget
+##.pre-article-ad
 ##.pre-head__cookie-info
 ##.pre-roll-ad
 ##.pre-title-ad
@@ -19272,6 +19612,7 @@
 ##.privacy-info-container
 ##.privacy-infos
 ##.privacy-manager__banner
+##.privacy-manager__overlay
 ##.privacy-modal
 ##.privacy-module
 ##.privacy-note
@@ -19299,6 +19640,7 @@
 ##.privacy-toast
 ##.privacy-update
 ##.privacy-warning
+##.privacyBanner
 ##.privacyBar
 ##.privacyCookie
 ##.privacyCookieBox
@@ -19331,6 +19673,7 @@
 ##.privacyouterwrapper
 ##.privacypolicy-accept
 ##.privacywall-banner[data-is-visible]
+##.privacywire-wrapper
 ##.privasypolicy-info
 ##.privatePolicy
 ##.pro_ad_adzone
@@ -19397,6 +19740,7 @@
 ##.pxl_cookie_bar
 ##.pxz-ad-widget
 ##.pyv-afc-ads-container
+##.pz-disclaimer--cookie
 ##.q-legal-notification
 ##.q-notification[class*="gdpr"]
 ##.qa-cookie-notice
@@ -19460,6 +19804,9 @@
 ##.rdio-homepage-widget
 ##.re-Ads-l
 ##.react-cookie-banner
+##.react-cookie-gdpr-blocker
+##.react-cookie-gdpr-dialog
+##.react-reveal[class*="cookie-banner"]
 ##.readcookie
 ##.reading-list-rail-taboola
 ##.realtor-ad
@@ -19580,6 +19927,7 @@
 ##.rgpd-bar
 ##.rgpd-blockage
 ##.rgpd-popup
+##.rgpd.view.show
 ##.rgpd_backdrop
 ##.rgpd_box
 ##.rgt-300x250-ad
@@ -19867,6 +20215,7 @@
 ##.sdl-notification-cookie-bar
 ##.sdl-web-cookie-bar
 ##.section_google-adsense
+##.sf-cookie-banner
 ##.sf-cookiedisclaimer
 ##.sf_widget_permission
 ##.sfadSlot
@@ -19876,6 +20225,7 @@
 ##.sg-cw-cookie
 ##.sgAd
 ##.sh-ad-box
+##.sh-cookie
 ##.sh-cookie-confirmation
 ##.sh-cookie-dialog
 ##.sh-leftAd
@@ -19935,6 +20285,7 @@
 ##.site-cookie-panel
 ##.site-cookie-popup
 ##.site-cookie-warning
+##.site-footer-cookie-banner
 ##.site-footer-cookiebanner
 ##.site-footer__ad-area
 ##.site-head-ads
@@ -20056,6 +20407,7 @@
 ##.spaceAdds
 ##.spc-ads-sky
 ##.spd-cookie
+##.spec-cookie-optin
 ##.specialAd175x90
 ##.specialAdsContent
 ##.specialAdsLink
@@ -20119,6 +20471,7 @@
 ##.sponsorBottom
 ##.sponsorBox
 ##.sponsorBox_right_rdr
+##.sponsorFooter
 ##.sponsorLink
 ##.sponsorLinks
 ##.sponsorMaskhead
@@ -20313,6 +20666,7 @@
 ##.sticky-ad-slot--homepage--wrapper
 ##.sticky-ad-wrapper
 ##.sticky-bar--cookie
+##.sticky-bottom-ad
 ##.sticky-cookie
 ##.sticky-cookie-container
 ##.sticky-cookie-footer
@@ -20331,6 +20685,7 @@
 ##.stickyad
 ##.stickyadv
 ##.stickycookie
+##.stickyfooter-cookie-alert-box-wrapper
 ##.stlCookieToast
 ##.stmAdHeightWidget
 ##.stn_cookieoptin
@@ -20351,6 +20706,7 @@
 ##.storyad
 ##.storyad300
 ##.stpro_ads
+##.stt-cookie
 ##.su-cookiebar
 ##.sub-ad
 ##.sub-feature-ad
@@ -20403,11 +20759,13 @@
 ##.system-notice.cookie
 ##.szoAdBox
 ##.szoSponsoredPost
+##.sÂ·footer-gdpr
 ##.t10ad
 ##.t3-cookie-notice
 ##.tAd
 ##.tAds
 ##.tCook
+##.tab2-rodo-bar
 ##.tabAd
 ##.tabAds
 ##.tab_ad
@@ -20432,7 +20790,9 @@
 ##.takeOverAdLink
 ##.tallAdvert
 ##.tallad
+##.tancmbnr
 ##.tangential-ad
+##.tao-cookie-hint
 ##.tb-ad
 ##.tbboxad
 ##.tbcookie
@@ -20523,6 +20883,7 @@
 ##.tgads-box
 ##.tge-ad
 ##.thb-cookie-bar
+##.thcookie-overlay
 ##.the-cookie-banner
 ##.the-cookiejar
 ##.theAdvert
@@ -20827,8 +21188,10 @@
 ##.twp-ad
 ##.tx-aa-adverts
 ##.tx-bsd-cookie
+##.tx-ewi-eyecookie
 ##.tx-pnfcnil
 ##.tx-tandncookie
+##.tx_cookiemonster_dataprotection_overlay
 ##.txc_cookie_infobox
 ##.txt-ads
 ##.txtAd
@@ -20890,6 +21253,7 @@
 ##.universalboxADVBOX01
 ##.universalboxADVBOX03
 ##.universalboxADVBOX04a
+##.universalcookiedisclaimer
 ##.upcloo-adv-content
 ##.upcomingMob_2nd_adv_blk
 ##.upper-ad-box
@@ -20904,6 +21268,7 @@
 ##.utwente-cookiebar
 ##.uvs-ad-full-width
 ##.v-A_-cookie__monster
+##.v-cookie-bar
 ##.v-window-cookieDialogWindow
 ##.v2-cookie-disclaimer
 ##.v5rc_336x280ad
@@ -21028,6 +21393,7 @@
 ##.warning_EU_cookiemsg
 ##.warp_cookie_warning_barrier
 ##.wazi-ad-link
+##.wbu_cookie-wrapper
 ##.wcAd
 ##.wcc-cookie-policy
 ##.wcfAdLocation
@@ -21064,6 +21430,7 @@
 ##.werb_textlink
 ##.wfb-ad
 ##.wh_ad
+##.wh_ad_inner
 ##.white-ad-block
 ##.wide_google_ads
 ##.widget-300x250ad
@@ -21220,6 +21587,7 @@
 ##.wrap-cookie-site
 ##.wrap_boxad
 ##.wrap_cookie_policy
+##.wrap_cookie_site
 ##.wrapad
 ##.wrapp-cookie
 ##.wrapper-ad
@@ -21247,6 +21615,7 @@
 ##.wrb6_x1_adv
 ##.ws-ad
 ##.ws-cookie-content
+##.ws-cookie-notice
 ##.ws-cookie__wrapper
 ##.wsSponsoredLinksRight
 ##.wsTopSposoredLinks
@@ -21264,6 +21633,7 @@
 ##.x-ad
 ##.x-cookie-acceptance
 ##.x-cookie-disclaimer
+##.x-el[data-aid*="COOKIE_BANNER"]
 ##.x-home-ad__content
 ##.x-home-ad__content-inner
 ##.x-tile__advert
@@ -21425,6 +21795,7 @@
 ##a[href*=".adsrv.eacdn.com/"] > img
 ##a[href*=".allsports4you.club"]
 ##a[href*=".approvallamp.club/"]
+##a[href*=".axdsz.pro/"]
 ##a[href*=".bang.com/"][href*="&aff="]
 ##a[href*=".cfm?fp="][href*="&prvtof="]
 ##a[href*=".clkcln.com/"]
@@ -21633,6 +22004,7 @@
 ##a[href^="https://adsrv4k.com/"]
 ##a[href^="https://adswick.com/"]
 ##a[href^="https://aff-ads.stickywilds.com/"]
+##a[href^="https://affiliate.geekbuying.com/gkbaffiliate.php?"]
 ##a[href^="https://americafirstpolls.com/"]
 ##a[href^="https://awecrptjmp.com/"]
 ##a[href^="https://awejmp.com/"]
@@ -21668,6 +22040,7 @@
 ##a[href^="https://goraps.com/"]
 ##a[href^="https://iac.ampxdirect.com/"]
 ##a[href^="https://iqoption.com/lp/mobile-partner/"][href*="?aff="]
+##a[href^="https://ismlks.com/"]
 ##a[href^="https://jmp.awempire.com/"]
 ##a[href^="https://juicyads.in/"]
 ##a[href^="https://k2s.cc/pr/"]
@@ -21722,6 +22095,10 @@
 ##accept-cookie-box
 ##amedia-privacybox
 ##amp-ad-custom
+##app-aviso-cookie
+##app-cookie
+##app-cookie-notification
+##app-cookie-policy
 ##app-cookie-warning
 ##app-root app-cookie-acceptance
 ##awsui-alert[dismiss*="CookieBanner"]
@@ -21734,6 +22111,7 @@
 ##cookie-info
 ##cookie-law-banner
 ##cookie-notice
+##cookie-notification
 ##cookie-permission
 ##cookie-policy
 ##cookie-policy-popin
@@ -21760,6 +22138,7 @@
 ##div[class^="Ad__adContainer"]
 ##div[class^="Ad__bigBox"]
 ##div[class^="Ad__container"]
+##div[class^="BannerAd_"]
 ##div[class^="BlockAdvert-"]
 ##div[class^="CookieBanner_"]
 ##div[class^="CookieBarWrapper"]
@@ -21917,6 +22296,7 @@
 ##topadblock
 ##ts-cookie-msg
 ##tui-cookie-bar
+##uc-cookie-notification
 ##vc-site-cookiepolicy-dialog
 ##vls-cookie-banner
 ##voc-cookie-warning
@@ -22299,6 +22679,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 -cookie-law-popup.
 -cookie-law.$~script
 -cookie-law/$script
+-cookie-manager?
 -cookie-msg-bar.
 -cookie-notice-
 -cookie-notice.
@@ -22395,6 +22776,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 -sticky-ad-
 -sync2ad-
 -tag-ad.
+-takeover-ad-
 -text-ads.
 -theme/ads/
 -third-ad.
@@ -22558,7 +22940,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 .com/im-ad/
 .com/im_ad/
 .com/js.ng/
-.com/js/ad.$~script
 .com/miads/
 .com/ntfc.php?$script
 .com/peels/
@@ -22685,6 +23066,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 .pj?adv=
 .pk/ads/
 .popup_im.
+.prebid&
 .prebid-bundle.
 .prebid.$domain=~prebid.org
 .propellerads.$domain=~propellerads.com
@@ -23821,7 +24203,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /adblock-relief/*
 /adblock.ash
 /adblock.gif?
-/adblock.js
 /adblock26.
 /adblock?id=
 /adblock_logger.
@@ -24188,7 +24569,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /ads-api.
 /ads-arc.
 /ads-async.
-/ads-banner
 /ads-blogs-
 /ads-common.
 /ads-config.
@@ -24870,7 +25250,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /adv-1.
 /adv-2.
 /adv-banner-
-/adv-banner.
 /adv-bannerize-
 /adv-banners/*
 /adv-div-
@@ -24995,8 +25374,9 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /adverth.
 /adverthorisontalfullwidth.
 /advertical.
-/advertising-$domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
+/advertising-$image,script,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
 /advertising.$~script,~xmlhttprequest,domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.hulu.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.co
+/advertising/banner_
 /advertising02.
 /advertising2.
 /advertising300x250.
@@ -25628,6 +26008,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /cmp-banner.js
 /cmp-init.
 /cmp-sp.js
+/cmp-v2/*
 /cmp.bundle.js
 /cmp/cmp.js
 /cmp/cmpui-
@@ -25838,6 +26219,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /cookieaccept.
 /cookieacceptance.
 /cookiealert.
+/cookiealert/*
 /cookiebadge.
 /cookiebadge_
 /cookiebanner.
@@ -26025,7 +26407,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /door/ads/*
 /doors/ads/*
 /doubleclick.aspx
-/doubleclick.js
 /doubleclick.min
 /doubleclick.php
 /doubleclick.swf
@@ -26320,7 +26701,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /gdpr/gdpr.$script
 /gdpr/gdpr_
 /gdpr/img/*
-/gdpr/native-
 /gdpr/optInCookieSSR?
 /gdpr/script_
 /gdpr_css/*
@@ -26683,7 +27063,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /javascript/gpt-
 /javascript/oas.
 /javascript/oas?
-/javascripts/ads.
 /javascripts/ads/*
 /jcookie.js
 /jcookielaw.
@@ -26713,7 +27092,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /js.ng/site=
 /js.ng/size=
 /js/CookieManager.js
-/js/ads-$~script
 /js/adverts-
 /js/adz.
 /js/cookiePolicy?
@@ -27477,6 +27855,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /revealads.$domain=~revealads.com
 /revealads/*
 /revealads2/*
+/rg-gdpr.
 /rgads.
 /rgpd.js
 /rgpd/iab/*
@@ -27552,17 +27931,14 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /script-adv-
 /script-rodo.
 /script/ad.$~script
-/script/ads.$~script
 /script/ads_
 /script/banniere_*.php?id=*&ref=$script,third-party
 /script/oas/*
 /script_cookie.
 /scripts/AdService_
 /scripts/ad-
-/scripts/ad.$~script
 /scripts/ad/*
 /scripts/ad_
-/scripts/ads.$~script
 /scripts/ads/*
 /scripts/adv.
 /scripts/afc/*
@@ -27852,7 +28228,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /text_ad_
 /text_ads.
 /text_ads_
-/textad.
 /textad/*
 /textad1.
 /textad?
@@ -27866,6 +28241,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /textadspromo_
 /tfs-ad.
 /tg.php?uid=
+/thcookie.
 /thdgoogleadsense.
 /third-party/dfp/*
 /thirdparty/ad/*
@@ -27978,7 +28354,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /utils~ads~
 /v1/ads.
 /v1/ads/*
-/v1/gdpr/*
 /v2/ads.
 /v2/ads/*
 /v3/ads/*
@@ -28220,7 +28595,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 160x600.swf|
 18comic.org##.social-bottom
 1loop.com##.asblock
-1sale.com,7billionworld.com,9jaflaver.com,abajournal.com,achieveronline.co.za,altavista.com,arcadeprehacks.com,asbarez.com,bbqonline.co.za,birdforum.net,bluechipjournal.co.za,boodigo.com,browardpalmbeach.com,canstarblue.co.nz,chordfrenzy.com,citypages.com,climatechangenews.com,coinad.com,cuzoogle.com,cyclingweekly.co.uk,dallasobserver.com,disconnect.me,domainnamenews.com,eco-business.com,energyforecastonline.co.za,energylivenews.com,eventcinemas.co.nz,exploreonline.co.za,fashionnetwork.com,flashx.tv,focustaiwan.tw,foxbusiness.com,freetvall.com,friendster.com,fstoppers.com,ftadviser.com,furaffinity.net,gentoo.org,geo.tv,ghananation.com,gmanetwork.com,gogoanime.tv,goodthingsguy.com,govtrack.us,gramfeed.com,gyazo.com,harvestsa.co.za,hispanicbusiness.com,houstonpress.com,html5test.com,hurricanevanessa.com,i-dressup.com,ichan.net,idiva.com,iheart.com,ilovetypography.com,indiatimes.com,infozambia.com,jooble.org,laptopmag.com,laweekly.com,leadershipinsport.co.za,leadershiponline.co.za,leadersinwellness.co.za,lovemyanime.net,manga-download.org,maps.google.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,miaminewtimes.com,mini-ielts.com,miningprospectus.co.za,mmajunkie.com,mugshots.com,myfitnesspal.com,mypaper.sg,nativeplanet.com,nbc.na,nbcnews.com,news.nom.co,nsfwyoutube.com,opportunityonline.co.za,osn.com,panorama.am,pastie.org,phoenixnewtimes.com,playboy.com,pokernews.com,previously.tv,radionomy.com,radiotoday.com.au,reason.com,roadaheadonline.co.za,russia-insider.com,ryanseacrest.com,satdl.com,savevideo.me,sddt.com,servicepublication.co.za,sgcarmart.com,shipyearonline.co.za,shopbot.ca,stars-portraits.com,stcatharinesstandard.ca,straitstimes.com,strawpoll.me,tass.ru,tcm.com,tech2.com,tehrantimes.com,thecatholicuniverse.com,thedailysheeple.com,thejakartapost.com,thelakewoodscoop.com,themalaysianinsider.com,thenews.com.pk,thepeterboroughexaminer.com,theprojectmanager.co.za,thestar.com.my,thevoicebw.com,tjpnews.com,today.com,turner.com,twogag.com,ubuntumagazine.co.za,ultimate-guitar.com,viamichelin.co.uk,viamichelin.com,viamichelin.ie,vidstreaming.io,villagevoice.com,wallpaper.com,wayfm.com,wdet.org,westword.com,womanandhome.com,wtvz.net,youthedesigner.com,yuku.com##.ads
+1sale.com,7billionworld.com,9jaflaver.com,abajournal.com,achieveronline.co.za,altavista.com,arcadeprehacks.com,asbarez.com,bbqonline.co.za,birdforum.net,bluechipjournal.co.za,boodigo.com,browardpalmbeach.com,canstarblue.co.nz,chordfrenzy.com,citypages.com,climatechangenews.com,coinad.com,cuzoogle.com,cyclingweekly.co.uk,dallasobserver.com,disconnect.me,domainnamenews.com,eco-business.com,energyforecastonline.co.za,energylivenews.com,eventcinemas.co.nz,exploreonline.co.za,fashionnetwork.com,flashx.tv,focustaiwan.tw,foxbusiness.com,freetvall.com,friendster.com,fstoppers.com,ftadviser.com,furaffinity.net,gentoo.org,geo.tv,ghananation.com,gmanetwork.com,gogoanime.tv,goodthingsguy.com,govtrack.us,gramfeed.com,gyazo.com,harvestsa.co.za,hispanicbusiness.com,houstonpress.com,html5test.com,hurricanevanessa.com,i-dressup.com,ichan.net,idiva.com,iheart.com,ilovetypography.com,indiatimes.com,infozambia.com,jooble.org,laptopmag.com,laweekly.com,leadershipinsport.co.za,leadershiponline.co.za,leadersinwellness.co.za,lovemyanime.net,manga-download.org,maps.google.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,miaminewtimes.com,mini-ielts.com,miningprospectus.co.za,mmajunkie.com,mugshots.com,myfitnesspal.com,mypaper.sg,nativeplanet.com,nbc.na,nbcnews.com,news.nom.co,nsfwyoutube.com,opportunityonline.co.za,osn.com,panorama.am,pastie.org,phoenixnewtimes.com,playboy.com,pokernews.com,previously.tv,radionomy.com,radiotoday.com.au,reason.com,roadaheadonline.co.za,russia-insider.com,ryanseacrest.com,satdl.com,savevideo.me,sddt.com,servicepublication.co.za,sgcarmart.com,shipyearonline.co.za,shopbot.ca,stars-portraits.com,stcatharinesstandard.ca,straitstimes.com,strawpoll.me,tass.ru,tcm.com,tech2.com,tehrantimes.com,thecatholicuniverse.com,thedailysheeple.com,thejakartapost.com,thelakewoodscoop.com,themalaysianinsider.com,thenews.com.pk,thepeterboroughexaminer.com,theprojectmanager.co.za,thestar.com.my,thevoicebw.com,tjpnews.com,today.com,turner.com,twogag.com,ultimate-guitar.com,viamichelin.co.uk,viamichelin.com,viamichelin.ie,vidstreaming.io,villagevoice.com,wallpaper.com,wayfm.com,wdet.org,westword.com,womanandhome.com,wtvz.net,youthedesigner.com,yuku.com##.ads
 1tiny.net###redirectBlock
 22pixx.xyz,imagetwist.com,imagevenue.com###overlayBg
 247wallst.com###dfp-in-text
@@ -28284,9 +28659,11 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 951shinefm.com###listen-now-sponsor
 951shinefm.com##.promotional-space
 9bis.net,elyrics.net,oldversion.com###gad
+9gag.com##div[style*="width: 500px; height: 281px;"]
 9gag.tv##.size-728x90
 9news.com###wx-widget-88x31
 9news.com##.gam_wrapper
+9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,electrek.co##.newsletter-box
 ://a.ads.
 ://ad.*/jstag^
 ://adcl.$domain=~adcl.com|~adcl.screenconnect.com
@@ -28505,6 +28882,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 @@||ads.affiliateclub.com/redirect.aspx?pid=$popup
 @@||ads.annapartners.com/redirect.aspx?pid=*&bid=$popup
 @@||ads.askgamblers.com^$popup
+@@||ads.com^$popup
 @@||ads.comeon.com/redirect.aspx?pid=*&bid=$popup
 @@||ads.ellmountgaming.com/redirect.aspx?pid=*&bid=$popup
 @@||ads.getlucky.com/redirect.aspx?pid=*&bid=$popup
@@ -28568,7 +28946,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 @@||alicdn.com/js/*/cookie-info.js$script
 @@||alicdn.com/js/*/ws-cookie.js$script
 @@||aliunicorn.com^*/cookie-info.js
-@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|blastingnews.com|exomashomepage.com|foxbusiness.com|foxnews.com|go.cnn.com|history.com|keloland.com|radio.com|webmd.com|wkrn.com|wlns.com|wvnstv.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|blastingnews.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|foxnews.com|go.cnn.com|history.com|keloland.com|radio.com|rd.com|thehealthy.com|wboy.com|webmd.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=rd.com
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|gamestar.de|los40.com
 @@||amazon-adsystem.com/e/cm?$document,subdocument,domain=affiliate-program.amazon.co.uk|affiliate-program.amazon.com|affiliate-program.amazon.in|affiliate.amazon.co.jp|afiliados.amazon.es|associados.amazon.com.br|associates.amazon.ca|associates.amazon.cn|partenaires.amazon.fr|partnernet.amazon.de|programma-affiliazione.amazon.it
@@ -28676,6 +29054,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 @@||flashx.tv/js/light.min.js|
 @@||flashx.tv/js/showad$script
 @@||flashx.tv/js/xfs.js
+@@||fonts.googleapis.com^$stylesheet,domain=animepahe.com
 @@||fonts.googleapis.com^$stylesheet,domain=dood.to|dood.watch
 @@||fonts.googleapis.com^$stylesheet,domain=mcloud.to
 @@||fonts.googleapis.com^$stylesheet,domain=up-4ever.com|up-4ever.org
@@ -28746,7 +29125,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 @@||imagetwist.com/jquery.*.js
 @@||imagetwist.com/swfobject.js
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|api.screen9.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cdnmedia.tv|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|iheart.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|api.screen9.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cdnmedia.tv|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|iheart.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.earthtv.com|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abcnews.go.com|slacker.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|locipo.jp|nettavisen.no|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv.rakuten.co.jp|tver.jp|vlive.tv|wtk.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|sbs.com.au
@@ -28779,6 +29158,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 @@||mbank.sk/Adv/Scripts/$~third-party
 @@||mcloud.to/key$script
 @@||media-amazon.com/images/*/upsell-ad-$stylesheet,domain=imdb.com
+@@||meduza.io/static/ads/$media,~third-party
 @@||metvnetwork.s3.amazonaws.com^*-quiz-300x250-$image,domain=metv.com
 @@||moatads.com/*/moatad.js$script,domain=webmd.com
 @@||msmedia.morningstar.com^*/size=*/random=*/viewid=$script,domain=morningstar.in
@@ -28970,6 +29350,8 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 @@||ton.twimg.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||tpbprox.com/static/img/$image,domain=thepiratebay.vip
 @@||tpc.googlesyndication.com^$image,domain=sc2casts.com
+@@||tpdads.com/configs/bigleaguepolitics.js$script,domain=bigleaguepolitics.com
+@@||tpdads.com/tag.min.js$script,domain=bigleaguepolitics.com
 @@||translate.google.*/translate_*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||translate.google.com^$script,domain=gaybeeg.info
 @@||tttcdn.com/advertising/$image,domain=tomtop.com
@@ -29058,6 +29440,7 @@ _120x60_
 _120x800a.
 _125ad.
 _125x600_
+_128x600.
 _140x600.
 _140x600_
 _1500x100.
@@ -29809,7 +30192,6 @@ alotporn.com##a[href^="http://www.fling.com/"]
 alpari.com,alpariforex.org##.-footer__notice
 alphaporno.com##.home-banner
 alppimatkat.fi###toast-container
-alrincon.com,thenipslip.com##canvas
 alternativeto.net###startpage-right
 alternativeto.net##.atf2
 alternativeto.net##.btf-middle
@@ -29819,6 +30201,7 @@ amateur.tv##.notificationbar
 amazinglytimedphotos.com#@#.item-container-ad
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it###sp-cc
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr###nav-swmslot
+amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##.sbv-video-single-product
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##div[id^="sp_detail"]
 amazon.ca,amazon.co.uk,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it#?#.s-result-item:-abp-has(h5.s-sponsored-header)
 amazon.ca,amazon.co.uk,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it#?#.s-result-item:-abp-has(span.sbv-ad-feedback)
@@ -29902,6 +30285,8 @@ artistdaily.com##.OFIEContent
 artistdirect.com##.bannerNavi
 artuk.org###top-notice
 as.com##.banner_sup
+as.com##.publi
+as.com##.publi-vertical
 ashingtonpost.com###newsLetter-signup-box
 asiatatler.com###notification-msg-container
 asistanaliz.com,bordoklavyeli.net##.widget_mc4wp_form_widget
@@ -29999,7 +30384,6 @@ beinsports.com,pastebin.com##.banner_728
 belkin.com###pagebanner
 bellinghamherald.com,bnd.com###mastBanner
 belretail.by##.bannerAfterArticle
-belsat.eu,economist.com,gitlab.com##.newsletter-form
 belta.by##.bans
 bernama.com##a[class^="banner_photo_"]
 bestgadgetry.com##.amazon-wrapper
@@ -30068,6 +30452,7 @@ blogcindario.com##.c01eb8fc
 blogcritics.org##.amazon-item
 bloggif.com###right > #rightTools + div.sky + h2
 blogvporn.com##.article-btn
+bmwautoclubitalia.it##.t657__wrapper
 bmwoglasnik.si,clickindia.com#@#.adlist
 bnamericas.com##.banner-fixed-bottom
 bnd.com###cb_widget
@@ -30111,7 +30496,9 @@ brouwland.com##.notification-alert
 bstn.com##footer > #signUp
 btn.com##.adv-widget
 btn.com##.footer-widgets
+budzma.by##.top-baner
 buffalonews.com###paywall-footer
+buffalonews.com###pu-email-form-buffalo-bills
 buffer.com##div[class^="style__Banner-"]
 bullz-eye.com##.prompt_link
 burningcamel.com###fp_promo
@@ -30132,6 +30519,7 @@ caarewards.ca#@#.smallAd
 cad-comic.com###advBlock
 caffeineinformer.com,sumanasa.com##.adcontent
 calcolostipendio.it##.bold_text
+calendar.google.com,docs.google.com,mail.google.com,news.google.com,drive.google.com##iframe[src^="https://ogs.google.com/widget/callout?prid="]:upward(div[style^="overflow: hidden; position: absolute; top: 0px; width:"])
 cam4.com##.removeAds
 camara.net##.activebar-container
 cambodiayp.com,nepalyp.com##.banner750
@@ -30140,7 +30528,7 @@ camfuze.com##.RightBannerSpot
 campusdish.com#@##adBanner
 canada411.ca##.c411TopBanner
 canadaka.net##.boxadd
-candidvoyeurism.com##.rectangle
+candidvoyeurism.com,xhamster.com##.rectangle
 cantoot.com###googlebox
 capterra.com##.welcome-banner
 car.com,silentera.com##table[height="90"]
@@ -30156,6 +30544,7 @@ carzone.ie###hm-MPU
 castanet.net###hdad
 catholic.net##.publicidad
 catholicculture.org###product_container
+catsthemusical.com##.two-column > div.gform_wrapper
 cattolica.it##.vgg
 cbc.ca##.newsletterWidget
 cbfhydraulic.com,marasrl.it###ckInfo
@@ -30384,6 +30773,7 @@ digit.in##.center-add
 digitalstudiome.com##.pane-block.sup-blk
 dillons.com,kroger.com###box3-subPage
 directorslive.com##.footer-banner-img
+disasterscans.com##a[href^="https://go.onelink.me/"]
 discuss.com.hk,uwants.com#@##featuread
 disney.com##.gpt
 disqus.com##.col-promoted
@@ -30402,7 +30792,6 @@ dnaindia.com,india.com###co-container
 dnepr.info##.btn-ads-fix
 dnevnik.si##.cc-wrapper
 dnevnyk-uspeha.com##.feed_flat
-docs.google.com,mail.google.com,news.google.com,drive.google.com##iframe[src^="https://ogs.google.com/widget/callout?prid="]:upward(div[style^="overflow: hidden; position: absolute; top: 0px; width:"])
 docspot.com##.medium
 docteurclic.com###disclamer
 doctor.com###banR
@@ -30488,6 +30877,7 @@ eeweb.com##.overlay
 eeweb.com##.pbox
 efe.com##.box-publi
 efe.com##.publi-wrapper
+eff.org##.pane-effector-signup
 egmnow.com##.inter_vid
 egmnow.com#@#.top_ad_wrap
 egmont.com#@#.cookie-bar:not(body):not(html)
@@ -30525,6 +30915,7 @@ engadget.com##div[data-component="NewsletterCard"]
 engadget.com##div[id^="atwAdFrame"]
 engadget.com#@#.rail-ad
 enginform.com##.mailing_j
+englishlightnovels.com##.widget_blog_subscription
 eniyiandroid.com##.bulten
 enotalone.com##.gadb
 environmental-finance.com##.modal-dialog
@@ -30760,6 +31151,7 @@ fxlap.com##.banner
 fxlap.com##.blog-item
 fxnetworks.com###adBlock
 gaana.com###home-top-add
+gagadget.com#?#.l-container p[class]:contains(Подписывайтесь)
 galtime.com##.pane-block-9
 gamblejoe.com##.c-area
 gamcore.com##a[href^="http://gamcore.com/ads/"]
@@ -30927,6 +31319,7 @@ hdmulti.net##.social-counters
 health24.com##.get_quote
 healthline.com##.dfp-lb-wrapper
 healthline.com##div[class="css-xvi0o9"]
+healthshots.com##.hts_sub_box
 heavy.com#@##adstop
 hellenicshippingnews.com,wasterecyclingnews.com##.bigbanner
 hello7app.com##.email_box
@@ -30976,6 +31369,7 @@ homeclick.com#@##adbanner
 homenet.no###toast-container
 homo.xxx##.footer.spot
 homo.xxx##.spot.column
+honeysanime.com###custom_html-133
 hongkiat.com##.BAds
 hongkiat.com##.promote
 hongkiat.com,tass.com##.bannerWrap
@@ -31002,9 +31396,9 @@ howtogermany.com##img[width="120"]
 hrodna.life##.mailpoet_form
 hs.fi##.cb-container
 hsj.org##.ML_L1_ArticleAds
+hstoday.us##a[href$="/newsletter-ad/"]
 htmldog.com##.flower
 httpstatus.io##.snackbar
-huffpost.com###spotim-specific
 hulkshare.com###zone2
 hulkshare.com##.nhsBotBan
 hulkshare.com,rockyou.com###zone1
@@ -31025,6 +31419,7 @@ ibs.it#@##divPrivacy
 icq.com##.ca_wrap
 id-box.biz##.featuredlinksBox
 idiva.com###rhs_atf
+idoctors.it##.privacy_bottom
 idolator.com#@#.ad-widget-wrapper
 iejima.org#@#.ad_banner
 ifc.com###content-right-b
@@ -31246,6 +31641,7 @@ kvazar.cloud##.mpp-container
 kvraudio.com###kvr300600
 kwgn.com##.size_230_90
 l2inc.com###daily-newsletter-signup
+la7.it#@##_evh-ric
 labour.org.uk##.alert-bar-footer
 labx.com##.SponsorsInfoTable
 lacnews24.it###box1
@@ -31325,6 +31721,7 @@ linuxtopia.org###bookcover_sky
 list25.com##.converter
 listen.tidal.com##div[class^="notificationWrapper--"]
 litmind.com###bottom_notice
+littleone.com###subs_form_static
 liujo.com##.cp-banner
 live-tennis.eu##div[style="width:160px;height:600px"]
 live-tennis.eu##div[style="width:728px;height:110px"]
@@ -31386,6 +31783,7 @@ macworld.com###shopping
 mad-daily.com##.cp-info-bar-container
 mada.org.qa##.official-sponsors
 madison.com##.coupon
+magnet.so###AD
 magtheweekly.com###googleskysraper
 mail.com##.partner-container
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
@@ -31445,6 +31843,7 @@ mayoclinic.com###subbox
 mbc.net###mbc-policy
 mbc.net##.killerbanner
 mbc.net##.mbc-policy
+mbk-news.appspot.com##.g1-newsletter
 mbl.is##.augl
 mcsuk.org###a3prompt
 mdlinx.com##.Sponsor-Tag
@@ -31717,6 +32116,7 @@ newscientist.com##.mpMPU
 newscientist.com##.prompt
 newsherald.com#?#div[class] > form[class]:has(> input[name="email"])
 newsmax.com###nmBreakingNewsCont
+newsmax.com###nmSignUpContainer
 newsroomamerica.com###promotional
 newswiretoday.com,przoom.com##.sponsortd
 newyorker.com###ps2_fs2_yrail
@@ -31766,6 +32166,9 @@ novmak.com##.newsletter-content
 nowinstock.net###leftBannerBar
 nowsci.com##.black_overlay
 nowtoronto.com###jrBanners
+noypigeeks.com###sab_wrap
+noypigeeks.com##[href^="https://nypgks.com/"]
+noypigeeks.com##[href^="https://www.vivo.com/"]
 npr.org,opb.org###sponsorship
 ns4w.org##.livejasmine
 nuffy.net###banner_bg
@@ -31784,7 +32187,7 @@ office.com##.m-alert
 officelife.media##a[href="https://t.me/officelife_media"]
 oilprice.com##.box-news-sponsor
 oilprice.com##.box-sponsors
-ok.porn,ok.xxx,pornhat.com##.bns-bl
+ok.porn,ok.xxx,oldmaturemilf.com,pornhat.com##.bns-bl
 ok.porn,pornhat.com##.bn
 okcupid.com##.okad
 okido.com##.woocommerce-store-notice
@@ -31793,6 +32196,7 @@ olweb.tv#@##ads1
 olx.pt,whatuni.com#@#.ad_img
 olymp.com##.legal-banner
 omegle.com##.lowergaybtn
+omggamer.com##.widget_convertkit_form
 on.cc###acceptDisclaimer
 onb.ac.at##.notification-wrapper
 oncars.com###towers
@@ -31943,7 +32347,6 @@ politeka.net##.b__subscription-email
 politicalwire.com##.cqheadlinebox
 politico.com##.morning-energy
 politico.com##.story-continued
-politico.com##.story-enhancement
 politico.com##.the-long-game-sign-up
 politifact.com##.m-billboard
 pons.com###container-superbanner
@@ -32065,6 +32468,7 @@ quora.com#$#.signup_wall_prevent_scroll div[class] { filter: none!important; }
 quora.com#$#.signup_wall_prevent_scroll { overflow: auto!important; position: inherit!important; }
 quotidianodiragusa.it,ragusanews.com###barra
 qwant.com##.snippet
+qwant.com##.web_add_block
 qyer.com###zpui-head-ad
 qyer.com###zpui-head-web-ad
 qyer.com##.advertising
@@ -32075,6 +32479,7 @@ racingjunk.com#@#.featuredAdBox
 radionomy.com##.pub_imu
 radiosi.eu##.reklame
 radiosurvivor.com###text-13
+radiozammu.it###ccM
 radiozindagi.com##.foot_top
 raikaritten.it##.bottom_note
 rainews.it#@#.as-oil-content-overlay
@@ -32376,7 +32781,6 @@ ssbcrack.com###text-11
 ssbcrack.com###text-37
 ssbcrack.com###text-51
 sss.xxx##.fel-item
-stabila.com#@#.cookie-bar-visible
 stackoverflow.com###herobox
 stackoverflow.com##.newsletter-anon
 star.txstate.edu#@#.td-ad
@@ -32416,6 +32820,7 @@ superiorpics.com##.h250
 superiorwallpapers.com,wallpapermania.eu##.uk-alert
 supermicro.com,supermicro.com.tw###alert-container
 supernordicskipass.it##.infPr
+supertv.it##.generic-text-wrap
 support.microsoft.com##.article-container + div[content-survey]
 surf.to#@##adFrame
 surfer.com##.newsletter
@@ -32441,6 +32846,7 @@ takeover_banner_
 talkingpointsmemo.com##.Newsmax
 talksms.com##.righttd
 talksport.com###williamarticlelink
+tallermaintenancar.com##.girl
 tampermonkey.net##a[href^="/f.php?f="]
 tannoy.com##.cv2-wrapper
 tapatalk.com###pp_b
@@ -32581,10 +32987,10 @@ ticketmaster.ca##.page__legal-link
 time.com#@#.google-sponsored
 time.is##.rad
 timeout.com##.newsletter_subscription
-timeout.com#@#.cookie-overlay
 timeout.com#@#.cookie_banner
 timeout.com#@#.xs-fixed[data-module="cookie_banner"]
 timeout.com#@#div[data-module="cookie_banner"]
+timgate.it##.cao
 timing.pt##.policy
 tinkercad.com##.notifications-wrapper
 tinyurl.com##.topbanner
@@ -32735,6 +33141,7 @@ vatanbilgisayar.com##.sc-media
 velasridaura.com#@#.advertising_block
 veoh.com##.adv-title
 verizon.com##.AdIn
+versus.com##div[class^="LegendSingle__show"]
 vertaa.fi##.cg-89.cg-97
 vg.no##.webboard
 vg247.com##.newsletter-signup-wrapper
@@ -32798,9 +33205,9 @@ wambie.com###recomendar_728
 wambie.com##.titulo_juego1_ad_200x200
 warcraftlogs.com###anyclip-container-box
 washingtonian.com###pushdown-unit
+washingtonmonthly.com##.widget_media_image
 washingtonpost.com##.bb.b-ns.b-none
 washingtonpost.com##.ml-neg-gutter.mt-xxs.bg-offwhite
-washingtonpost.com##.newsletter-form
 washingtonpost.com##.newsletter-unit
 washingtonpost.com##.pb-f-page-newsletter-inLine
 wauporn.com##.block-300x250-mega
@@ -32854,6 +33261,7 @@ wikipedia.org##.cnotice
 wikipedia.org##.mw-dismissable-notice
 wikiporno.org###sticky-footer
 wiley.com##.l-notification
+winaero.com###custom_html-5
 windows2universe.org###google_mockup
 windowsloop.com##.wl-prakatana
 windsorite.ca##div[style="width:300px; min-height: 600px;"]
@@ -32876,6 +33284,7 @@ worldtimebuddy.com###toprek
 worldtimebuddy.com##.block2
 worldtimezone.com##.spon-menu
 worldtimezone.com##table[width="472"]
+worten.pt##.w-newsletter-block
 worthpoint.com##.bannerContainer
 wotinfo.net###coo
 wowhead.com##.announcement
@@ -32906,7 +33315,9 @@ xbutter.com##.counters
 xcafe.com##.content_source
 xcafe.com##.fluid-b
 xcum.com##.btn-ponsor
+xhamster.com##.wiz-banner
 xhamster.com#@#.sponsorBottom
+xhamster.com,xhamster.one,xhamster2.com##.wiz-spb
 xing-news.com##.no-cookie
 xmlgold.eu###marketimg
 xmodulo.com##.asdf-banner-zone
@@ -33005,6 +33416,7 @@ ziggogo.tv##.notifications-manager
 zik.ua##.selected_google_news
 zippyshare.com##.center_ad
 zmags.com##.privacyPrompt
+zmist.org#?##root h1 ~ div[class] div[class]:has(> p ~ a[href="https://www.facebook.com/zmist.org/"])
 znak.com##form[data-type="maillist_main"]
 zombie-film.club#%#//scriptlet("remove-class", "isBranding", "body")
 zona.media##.tools__container
@@ -33033,6 +33445,7 @@ zymic.com###sponsor-partners
 ||02b5da94a2bd4aea.com^
 ||039ad0897e6da.com^
 ||04426f8b7ce9b069431.com^
+||048d36793b8.com^
 ||050y9lhe8p.com^
 ||059e025e7484.com^
 ||05ee3a24ed11df058c8.com^
@@ -33105,6 +33518,7 @@ zymic.com###sponsor-partners
 ||18clicks.com^$third-party
 ||18naked.com^$third-party
 ||192.com/log/
+||1955dcb2fee1a13.com^
 ||196f25ce95a.com^
 ||1983c499735.com^
 ||19a782bc982.com^
@@ -33168,6 +33582,7 @@ zymic.com###sponsor-partners
 ||273920d845b.com^
 ||2778255fe56.com^
 ||27vckaccbto7p761.pro^
+||2894c9d5b32.com^
 ||292news.biz^$popup
 ||29ae58661b9c7178.com^
 ||29d65cebb82ef9f.com^
@@ -33286,6 +33701,7 @@ zymic.com###sponsor-partners
 ||43yagowe3y.com^$popup
 ||442d9f2ac50ca502.com^
 ||448ff4fcfcd199a.com^
+||44efd35889.com^
 ||45f2373b26b8e2.com^
 ||4690y10pvpq8.com^
 ||4702fb341ddf276d.com^
@@ -33293,6 +33709,8 @@ zymic.com###sponsor-partners
 ||47f624b2e6c6072e.com^$third-party
 ||48331375c351e.com^
 ||48423894b2a24481.com^
+||4a93ed09d81f.com^
+||4ac484684040.com^
 ||4affiliate.net^$third-party
 ||4ak50p1xo77f.com^
 ||4b6994dfa47cee4.com^$popup
@@ -33301,6 +33719,7 @@ zymic.com###sponsor-partners
 ||4c13cac4bb.com^
 ||4c7og3qcob.com^$popup
 ||4c935d6a244f.com^
+||4cr447ewncl4.com^
 ||4dcdc.com^$popup
 ||4dsbanner.net^$third-party
 ||4e34b4865905c4.com^
@@ -33349,8 +33768,10 @@ zymic.com###sponsor-partners
 ||517pn6he9p5r.com^
 ||523c579923fd35aa.com^
 ||544bd1e82a9c8c39.com^
+||54ca10abaa788.com^
 ||550b3ikb9j.com^
 ||552239b90400b7.com^
+||55d6000d6d.com^
 ||563015cf3d.com^
 ||564d28256cddaeba.com^$third-party
 ||56bc7e3668e952c.com^
@@ -33362,9 +33783,9 @@ zymic.com###sponsor-partners
 ||58b14921719ec.com^
 ||58b291f917728a2.com^
 ||58f7c1ff30eb.com^
+||59a8e0d6fa2.com^
 ||59cn7.com^$third-party
 ||59e6ea7248001c.com^
-||59ef0480b3fd.com^
 ||5a60bfdc522.com^
 ||5aa8f31e2f5d.com^
 ||5b5a93686577c13.com^
@@ -33456,7 +33877,6 @@ zymic.com###sponsor-partners
 ||7017042b83a65ea.com^
 ||7089e5b41f87.com^
 ||70ee6484605f.com^
-||7102794ef7.com^
 ||71a30cae934e.com^
 ||71d7511a4861068.com^
 ||729dcbaa57e80c1e.com^
@@ -33501,6 +33921,7 @@ zymic.com###sponsor-partners
 ||79zgycmr.com^$third-party
 ||7a6421ee67fdb0f660.com^
 ||7b7by5utoney.com^
+||7c1e55606540.com^
 ||7cxcrejm.com^$third-party
 ||7d6260236b547b31f.com^
 ||7db0b2a0ee95f557904.com^
@@ -33539,7 +33960,6 @@ zymic.com###sponsor-partners
 ||84b898f0f5.com^
 ||850a54dbd2398a2.com^
 ||8547459af5da02.com^
-||867db0d6bf2.com^
 ||86a6b542l7.com^$third-party
 ||86cb1dcb13ba5a1a.com^
 ||86f4fd3b507f774.com^
@@ -33603,7 +34023,6 @@ zymic.com###sponsor-partners
 ||99bitcoins.com/_load/
 ||99e5da34520d.com^
 ||9a24a1b3dcd5f4.com^
-||9aa883b192cd.com^
 ||9ads.mobi^$third-party
 ||9ae7c9ffe8509b0.com^
 ||9amq5z4y1y.com^$popup
@@ -33658,7 +34077,6 @@ zymic.com###sponsor-partners
 ||a353364ec1bd19a.com^
 ||a35c92d96766745.com^
 ||a3761801a40c59b48.com^
-||a378c6547e8.com^
 ||a3m.io^$third-party
 ||a433.com^$third-party
 ||a46b257bc29b.com^
@@ -33715,6 +34133,7 @@ zymic.com###sponsor-partners
 ||abjusouft.com^
 ||ablehed.pro^$third-party
 ||ablenctionalle.info^$third-party
+||ablerivetdoubted.com^
 ||ablogica.com^$popup,third-party
 ||abluvdiscr.com^
 ||abnad.net^$third-party
@@ -33733,6 +34152,7 @@ zymic.com###sponsor-partners
 ||acacexjsh.com^
 ||acbsuicxkoyef.com^
 ||accelacomm.com^$third-party
+||acceptablecolor.com^
 ||acceptiongere.site^
 ||accio.ai^$third-party
 ||accomment.pro^$third-party
@@ -33829,7 +34249,6 @@ zymic.com###sponsor-partners
 ||ad1data.com^
 ||ad1rtb.com^
 ||ad20.net^$third-party
-||ad28b2a5fe.com^
 ||ad2adnetwork.biz^$third-party
 ||ad2links.com/js/$third-party
 ||ad2links.com/lpajax.php?
@@ -34258,6 +34677,7 @@ zymic.com###sponsor-partners
 ||adultadvertising.net^$third-party
 ||adultadworld.com^$popup,third-party
 ||adultadworld.com^$third-party
+||adultasianporn.com/puty3s/
 ||adultcamliveweb.com^$third-party
 ||adultcommercial.net^$third-party
 ||adultdvdtalk.com/studios/
@@ -34384,6 +34804,7 @@ zymic.com###sponsor-partners
 ||aebn.net/feed/$third-party
 ||aec40f9e073ba6.com^
 ||aeckcjy.com^$third-party
+||aeeefzfuk.com^
 ||aeghae5y.com^$third-party
 ||aegzjowko.com^
 ||aehdgzigy.com^
@@ -34412,6 +34833,7 @@ zymic.com###sponsor-partners
 ||affbuzzads.com^$popup,third-party
 ||affbuzzads.com^$third-party
 ||affec.tv^$third-party
+||affectiondifferentlysway.com^
 ||affifix.com^$third-party
 ||affilate-img-affasi.s3.amazonaws.com^$third-party
 ||affili.st^$third-party
@@ -34433,6 +34855,7 @@ zymic.com###sponsor-partners
 ||affiliationworld.com^$third-party
 ||affiliationzone.com^$third-party
 ||affiliaxe.com^$third-party
+||affiliclk.org^
 ||affiligay.net^$third-party
 ||affiliproducts.com^$third-party
 ||affinitad.com^$third-party
@@ -34450,6 +34873,8 @@ zymic.com###sponsor-partners
 ||afy11.net^$third-party
 ||afzcqqdhkn.com^
 ||afzfzhbk.com^
+||agacelebir.com^
+||agacelebir.com^$popup
 ||againstanctu.info^$third-party
 ||agcdn.com^$third-party
 ||agedissance.club^
@@ -34469,6 +34894,7 @@ zymic.com###sponsor-partners
 ||ahcnxuepput.com^
 ||ahjdwb31.xyz^
 ||ahneiwkpsnxign.com^
+||ahojer.com^
 ||ahrbsdyjux.com^
 ||ahrcwekji.com^
 ||ahscdn.com^
@@ -34477,7 +34903,9 @@ zymic.com###sponsor-partners
 ||ai.inmdata.io^
 ||ai.iol.io^
 ||aickeeho.com^
+||aidbaronice.casa^
 ||aidjodlthdaxq.com^
+||aidomination.xyz^
 ||aifoosty.net^
 ||aighthatev.club^
 ||aigneloa.com^
@@ -34497,6 +34925,7 @@ zymic.com###sponsor-partners
 ||aioemfxj.com^
 ||aionfavoura.club^
 ||aipmedia.com^$third-party
+||aipofeem.net^
 ||airdauks.net^$third-party
 ||airnewzealand.eu^$ping
 ||airoogen.net^$third-party
@@ -34621,6 +35050,7 @@ zymic.com###sponsor-partners
 ||amateuralbum.net/affb.html
 ||amaumomt.com^
 ||amavirgin.pro^
+||amazing-dating.com^$popup,third-party
 ||amazon-adsystem.com^$domain=spiegel.de
 ||amazon-adsystem.com^$third-party
 ||amazon-cornerstone.com^$third-party
@@ -34743,6 +35173,7 @@ zymic.com###sponsor-partners
 ||andbaybay.club^
 ||andohs.net^$third-party
 ||andomedia.com^$third-party
+||andorranisas.xyz^
 ||androidcommunity.com/ws/?js
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||androidtv.news/ezoic/
@@ -34756,6 +35187,7 @@ zymic.com###sponsor-partners
 ||animeidhentai.com/cdn/
 ||animeidhentai.com^$third-party
 ||animits.com^$third-party
+||animosityluxurioussack.com^
 ||anismane.club^
 ||aniview.com^$third-party
 ||anizedglittledisco.info^$third-party
@@ -34924,6 +35356,7 @@ zymic.com###sponsor-partners
 ||asccdn.com^
 ||ascraftan.com^$third-party
 ||asdasdad.net^
+||asdpoi.com^
 ||asgayas.com/floater/
 ||asgayas.com/popin.js
 ||asgclickkl.com^
@@ -35028,6 +35461,7 @@ zymic.com###sponsor-partners
 ||aulrains.com^
 ||aumpoabi.com^$third-party
 ||aumrrwoile.com^
+||aunsajoa.com^
 ||aurdosti.com^
 ||auriq.com/asp/aq_tag.
 ||aurjueeh.com^
@@ -35061,6 +35495,7 @@ zymic.com###sponsor-partners
 ||avitop.com^*/hitlist.asp
 ||avjd014.com/statics/layer_mobile/layer.js
 ||avstop.com^*/poll.gif?
+||avuvldbc.com^
 ||avwincall.info^
 ||awakeexterior.com^
 ||awaps.net^$third-party
@@ -35172,6 +35607,7 @@ zymic.com###sponsor-partners
 ||b6aa6257a22451c.com^
 ||b84pharkhv.com^$third-party
 ||b88c9bd1dcedfc3.com^
+||b8af8878e9a9565.com^
 ||b8cf0fd3179ef.com^
 ||b8pfulzbyj7h.com^
 ||b936c5932623f.com^
@@ -35214,6 +35650,7 @@ zymic.com###sponsor-partners
 ||bakaqddxhhsid.com^
 ||balcekonspn.com^
 ||balebunsob.com^
+||baleiambwee.com^
 ||baletingo.com^
 ||ball2win.com/Affiliate/
 ||bam-bam-slam.com^$third-party
@@ -35306,6 +35743,7 @@ zymic.com###sponsor-partners
 ||bdbdqqkbxb.xyz^
 ||bdozkocgkljj.com^
 ||bdtwxreri.com^
+||bdyjxghwfbyups.com^
 ||beap-bc.yahoo.com^
 ||beap.gemini.yahoo.com^
 ||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
@@ -35424,8 +35862,10 @@ zymic.com###sponsor-partners
 ||blablablaaa.xyz^
 ||black6adv.com^$third-party
 ||blackforce.club^
+||blackname.biz^
 ||blackpics.net^$third-party
 ||blacurlik.com^
+||bladswetis.com^
 ||blaghfpd.com^$third-party
 ||blamads-assets.s3.amazonaws.com^
 ||blamads.com^$third-party
@@ -35484,6 +35924,7 @@ zymic.com###sponsor-partners
 ||bo-videos.s3.amazonaws.com^$third-party
 ||boafabie.com^
 ||boago.com^*_Takeover_
+||boahwswzuebmmg.com^
 ||boajagoar.com^
 ||boardinaccuratecompulsion.com^
 ||boards.ie/timing.php?
@@ -35601,10 +36042,14 @@ zymic.com###sponsor-partners
 ||burstnet.com^$third-party
 ||busandcob.site^$third-party
 ||busfarmum.com^
+||busguyspec.com^
 ||bushoagh.com^$third-party
+||busilyrecordingto.com^
 ||busingleni.club^
 ||busions.com^$third-party
 ||bussaidbag.casa^
+||busyroughly.com^
+||busyroughly.com^$popup
 ||butalksuw9dj10.com^
 ||butashasp.site^
 ||butexythe.pro^
@@ -35675,6 +36120,7 @@ zymic.com###sponsor-partners
 ||c.ypcdn.com^*/webyp?rid=
 ||c0594.com^$third-party
 ||c0afd4609c303.com^
+||c0f788d6814.com^
 ||c0z.xyz^
 ||c10ed2b8b417880.com^
 ||c15fb199d1ea.com^
@@ -35697,6 +36143,8 @@ zymic.com###sponsor-partners
 ||cadfixbig.site^
 ||cadsabs.com^$third-party
 ||cadsabz.com^$third-party
+||cadsans.com^
+||cadsans.com^$popup
 ||cadsans.com^$third-party
 ||cadsanz.com^
 ||cadsats.com^$popup
@@ -35718,6 +36166,7 @@ zymic.com###sponsor-partners
 ||cahvxjmcl.com^
 ||caikouli.com^
 ||caithamo.net^$third-party
+||cakjoytm.com^
 ||caljqsml.com^
 ||caltat.com^$third-party
 ||cam-lolita.net^$third-party
@@ -35804,6 +36253,7 @@ zymic.com###sponsor-partners
 ||cattishfirearm.com^
 ||catwenbat.com^
 ||catwrite.com^
+||cavewaxmalt.com^
 ||caw.*.criteo.com^$third-party
 ||cawbarthe.com^
 ||cawsodpet.club^
@@ -35832,6 +36282,7 @@ zymic.com###sponsor-partners
 ||cbzjukldosooj.com^
 ||cc-dt.com^$third-party
 ||cc380535d9ca0.com^
+||ccc1063d848b.com^
 ||cccam.co/banner_big.gif
 ||ccd8450321.com^
 ||ccpa-script.psg.nexstardigital.net^
@@ -35986,6 +36437,7 @@ zymic.com###sponsor-partners
 ||clarizonsimp.top^
 ||clash-media.com^$third-party
 ||clashdaily.com^$csp=script-src 'self' *.gstatic.com *.google.com *.googleapis.com *.facebook.com *.bootstrapcdn.com *.twitter.com *.spot.im
+||clasphs.xyz^
 ||classic.comunio.*/external/ct/ct.js
 ||classionreactice.info^$third-party
 ||classisingew.club^
@@ -36011,7 +36463,6 @@ zymic.com###sponsor-partners
 ||clic2pub.com^$third-party
 ||clicadu.com^$third-party
 ||clicationsul.club^
-||click.absoluteagency.com^$third-party
 ||click.alibaba.com^$subdocument,third-party
 ||click.engage.xbox.com^
 ||click.eyk.net^
@@ -36197,6 +36648,7 @@ zymic.com###sponsor-partners
 ||commissai.space^
 ||commission-junction.com^$third-party
 ||commission.bz^$third-party
+||commissionkings.ag^
 ||commissionmonster.com^$third-party
 ||commodationship.info^$third-party
 ||communited.club^
@@ -36231,6 +36683,7 @@ zymic.com###sponsor-partners
 ||consoletarget.com/*.php$script,subdocument
 ||consolpub.com/weatherwindow/
 ||consorcraightyc.info^$third-party
+||consultantsow.com^
 ||consumable.com^$third-party
 ||consumergenepool.com^$third-party
 ||consumerreports.org^*/js/conversion.js
@@ -36322,6 +36775,7 @@ zymic.com###sponsor-partners
 ||cowerhireimps.com^
 ||coxnewsweb.com^*/ads/
 ||coysotown.com^
+||cp2srvng.xyz^
 ||cp7gyw5w94c7.com^
 ||cpa-offer.com^$popup
 ||cpaclicks.com^$third-party
@@ -36517,6 +36971,7 @@ zymic.com###sponsor-partners
 ||d194f913ee63.com^
 ||d1c4d437f10.com^
 ||d29gqcij.com^$third-party
+||d2ab631af57.com^
 ||d2ship.com^$third-party
 ||d2vybwwevieya6j.monster^
 ||d31ea41705818c9.com^
@@ -36630,6 +37085,7 @@ zymic.com###sponsor-partners
 ||dbhrfdfuqh.com^
 ||dbhyrddfm.com^
 ||dblmove.com^
+||dblmove.com^$popup
 ||dblpmp.com^$third-party
 ||dbnaked.com/ban/
 ||dbvault.net^
@@ -36684,6 +37140,7 @@ zymic.com###sponsor-partners
 ||dhb8psqhvz9a.com^
 ||di8n.bfmtv.com^
 ||dialgold.com^
+||diametertwelfthvending.com^
 ||diamond-tgp.com/fp.js
 ||dianomi.com^
 ||diantcummiere.info^
@@ -36736,6 +37193,8 @@ zymic.com###sponsor-partners
 ||disposalfourth.com^
 ||disqus.com/listPromoted?
 ||disqusads.com^$third-party
+||dissimilarambient.com^
+||dissimilartongueoatmeal.com^
 ||distantnews.com^$popup,third-party
 ||disticked.club^
 ||distilled.ie^$third-party
@@ -36777,6 +37236,7 @@ zymic.com###sponsor-partners
 ||dlski.space^$third-party
 ||dltags.com^$third-party
 ||dlycritishmalco.club^
+||dlyzcopkko.com^
 ||dlzm790g.com^$third-party
 ||dmfadb.xyz^
 ||dmg-mobile.com^$third-party
@@ -36888,6 +37348,7 @@ zymic.com###sponsor-partners
 ||dradvice.in^$popup,third-party
 ||dramafever.com/widget/$third-party
 ||draulinehandon.info^$third-party
+||drawbacksubdue.com^
 ||drbwugautcgh.com^
 ||dreamboxcart.com/earning/$third-party
 ||dreamhost.com/rewards/$third-party
@@ -36921,6 +37382,7 @@ zymic.com###sponsor-partners
 ||dstillery.com^$third-party
 ||dstuckedot.space^
 ||dstxhvmgkg.com^
+||dsufferent.top^
 ||dt0ok92rg7r8.com^
 ||dt2xr6g2i5.com^$third-party
 ||dtcpdvnojquf.com^
@@ -36943,6 +37405,7 @@ zymic.com###sponsor-partners
 ||dumbpop.com^$popup
 ||dummywisdom.com^
 ||dump1.no-ip.biz^$third-party
+||dumpster.cam4.com^
 ||dungeonavenge.com^
 ||durnowar.com^$third-party
 ||duroternout.info^$third-party
@@ -37113,6 +37576,7 @@ zymic.com###sponsor-partners
 ||eblastengine.upickem.net^$third-party
 ||ebocornac.com^
 ||ebocornac.com^$popup,third-party
+||ebqfuphibj.com^
 ||ebqpycaosuok.com^
 ||ebuzzing.com^$third-party
 ||ebz.io^$third-party
@@ -37137,6 +37601,7 @@ zymic.com###sponsor-partners
 ||edcredition.club^
 ||edcreptors.club^
 ||eddrpnykbofjln.com^
+||edfsqfaeenij.com^
 ||edgeads.org^$third-party
 ||edgecastcdn.net^*.barstoolsports.com/wp-content/banners/
 ||edgecastcdn.net^*/ehow_am.js$domain=ehow.com
@@ -37185,13 +37650,17 @@ zymic.com###sponsor-partners
 ||eergaroa.com^$third-party
 ||eergurty.net^
 ||eernnfbfby.com^
+||eetyed.com^
 ||eeveniccoll.club^
 ||eewherak.net^$third-party
+||eezavops.net^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
+||ef37e8027b.com^
 ||efashingsoccu.club^
 ||efbmfnzwsbnb.com^
 ||efd3b86a5fbddda.com^
+||efe9838bf0.com^
 ||efekvyyynwd.com^
 ||effectionerew.site^
 ||effectionothere.site^
@@ -37232,6 +37701,7 @@ zymic.com###sponsor-partners
 ||eitherewindoor.club^
 ||eiuuiormjc.com^
 ||ejectfeudburly.com^
+||ejirytuw.xyz^
 ||ejktviknfv.com^
 ||ejmiysfbwuk.com^
 ||ejodwopthpg.com^
@@ -37251,7 +37721,6 @@ zymic.com###sponsor-partners
 ||ekod.info^$popup,third-party
 ||ekoocmujairt.com^
 ||ekxfupdlyst.com^
-||ekxlneryaiefwn.com^
 ||el-mundo.net/js/fm*.js$script
 ||elabalar.pw^
 ||elamyar.pw^$third-party
@@ -37302,6 +37771,7 @@ zymic.com###sponsor-partners
 ||emmettperson.pro^
 ||emolapnay.com^
 ||emoneyspace.com/b.php
+||emotificc.top^
 ||emotionalballotneedlework.com^
 ||emphante.club^
 ||empiremoney.com^$third-party
@@ -37339,6 +37809,7 @@ zymic.com###sponsor-partners
 ||englingedrxa.club^
 ||engppdoqrtivjd.com^
 ||enhancereviewpacket.com^
+||eniousirre.top^
 ||enjoy.modd.io^
 ||enkayijamal.club^
 ||enmisindingat.info^$third-party
@@ -37363,6 +37834,8 @@ zymic.com###sponsor-partners
 ||enzodpxuons.com^
 ||eo62cocntx.com^$third-party
 ||eondunpea.com^
+||eonsmedia.com^
+||eonsmedia.com^$popup
 ||eonwayaha.com^
 ||eooslfyhziubo.com^
 ||eopbflgmxcr.com^
@@ -37415,6 +37888,7 @@ zymic.com###sponsor-partners
 ||erevtljvo.com^
 ||ergs4.com^$third-party
 ||erificyggw.com^
+||erihj.com^
 ||eringassumpt.club^
 ||eriniquep.club^
 ||erkhxw.com^
@@ -37439,11 +37913,11 @@ zymic.com###sponsor-partners
 ||ersfeaturall.info^
 ||ersoncur.info^
 ||ersremarypiec.info^$third-party
+||ersunt.com^
 ||ertexcitizen.club^
 ||ertmained.club^
 ||ertya.com^$popup
 ||erversarycompa.info^
-||ervinguewty.com^
 ||et.unclejeans.com^
 ||etargetnet.com^$third-party
 ||etcjliejxlcfw.com^
@@ -37474,6 +37948,7 @@ zymic.com###sponsor-partners
 ||euncoordi.club^
 ||eunformeranothe.info^
 ||eur3.mvjcdn.com^
+||eurekaddl.cyou^
 ||euroclick.com^$third-party
 ||eurogamer-uk.eurogamer.net^
 ||europacash.com^$third-party
@@ -37521,6 +37996,7 @@ zymic.com###sponsor-partners
 ||evlpfjro.com^
 ||evnoxawvqhda.com^
 ||evvznnafduvs.com^
+||ewedivotsfop.com^
 ||eweek.com/hqxapi/
 ||ewitsorrgm.com^
 ||ewvugujfhi.com^
@@ -37618,6 +38094,7 @@ zymic.com###sponsor-partners
 ||f47cecd3f0a29874f.com^
 ||f4906b7c15ba.com^
 ||f5080f5cee5a00.com^
+||f56e3ea35a4.com^
 ||f5porn.com/porn.gif
 ||f5v1x3kgv5.com^$popup
 ||f5v1x3kgv5.com^$third-party
@@ -37666,6 +38143,7 @@ zymic.com###sponsor-partners
 ||fairyceiling.com^
 ||faithknotpositive.com^
 ||fakeporn.tv/bb/
+||fakinggivewacko.com^
 ||falkag.net^$third-party
 ||familinger.club^
 ||famountsuref.site^
@@ -37695,6 +38173,7 @@ zymic.com###sponsor-partners
 ||fascinatedpartialwheeled.com^
 ||fashional.pro^
 ||fashionapology.com^
+||fashionnightingale.com^
 ||fashionsaga.com^$popup,domain=putlocker.is
 ||fast-redirecting.com^$popup,third-party
 ||fast-redirecting.com^$third-party
@@ -37721,6 +38200,7 @@ zymic.com###sponsor-partners
 ||fazoumee.net^
 ||fb0c32d2f28c.com^
 ||fbbkavxqzy.com^
+||fbcd0e3a10e.com^
 ||fbcdn2.com^$third-party
 ||fbduluwmba.com^
 ||fbfd396918c60838.com^
@@ -38040,6 +38520,7 @@ zymic.com###sponsor-partners
 ||fp.measure.office.com^
 ||fpeegzspcgnjt.com^
 ||fpomyspwepxxe.com^
+||fqbucxkfcya.com^
 ||fqcqmjdn.com^
 ||fqwrluzjti.com^
 ||fs.com/js/analysis.js
@@ -38059,6 +38540,7 @@ zymic.com###sponsor-partners
 ||ftjcfx.com^$third-party
 ||ftkbsddgbqt.com^
 ||ftklr.com^
+||ftopx.com/345.js
 ||ftssqcsl.com^
 ||ftuzhlqzmmp.com^
 ||ftvpqgmbovwzot.com^
@@ -38072,6 +38554,7 @@ zymic.com###sponsor-partners
 ||fuckshow.org^*&adr=$popup
 ||fuckuh.com/pr_ad.swf
 ||fuckyoucash.com^$third-party
+||fudgenine.com^
 ||fuelbuck.com^$third-party
 ||fuer.pro^
 ||fugger.ipage.com^$third-party
@@ -38124,7 +38607,6 @@ zymic.com###sponsor-partners
 ||fwwzqxveuk.com^
 ||fxcc.com/promo/
 ||fxgpbkwu.com^
-||fxox4wvv.win^
 ||fygpdajgtsqp.com^
 ||fyijddhpohsvj.com^
 ||fykmahfa.com^
@@ -38321,6 +38803,8 @@ zymic.com###sponsor-partners
 ||geoip.silive.com^
 ||geopromos.com^$third-party
 ||geovisite.com^$third-party
+||geras-con.com^
+||geras-con.com^$popup
 ||gerskatimi.club^
 ||get-a-fuck-tonight.com^$popup
 ||get.*.website/static/get-js?stid=$third-party
@@ -38470,6 +38954,8 @@ zymic.com###sponsor-partners
 ||gloomilypainkiller.com^
 ||gloophoa.net^
 ||gloovids.com^
+||glophagh.com^
+||glothouw.link^
 ||gloumtol.net^$third-party
 ||gloussuz.com^$third-party
 ||glowdot.com^$third-party
@@ -38635,7 +39121,6 @@ zymic.com###sponsor-partners
 ||gtlcgovlg.com^
 ||gtnmyddlf.com^
 ||gtsads.com^$third-party
-||gudlhvxz.com^
 ||gugemfslzh.com^
 ||guhpyglt.com^
 ||guitaralliance.com^$third-party
@@ -38652,6 +39137,7 @@ zymic.com###sponsor-partners
 ||gus.host/coins.js
 ||gusxyrtlnyv.com^
 ||gutccaxnwso.com^
+||gvcmiz3vze3n.com^
 ||gvnqfiwzronbq.com^
 ||gvoraoonpi.com^
 ||gvt2.com^$third-party
@@ -38667,7 +39153,6 @@ zymic.com###sponsor-partners
 ||gwwzlwibbws.com^
 ||gwywsuemmf.com^
 ||gx101.com^$third-party
-||gxeoadmo.com^
 ||gxhxmy88.com^
 ||gxmjjxyyljtyf.com^
 ||gxordgtvjr.com^
@@ -38748,6 +39233,7 @@ zymic.com###sponsor-partners
 ||harrenmedianetwork.com^$third-party
 ||harriscote.pro^
 ||harsonsy.com^$third-party
+||hartaim.com^
 ||harthatforsin.pro^$third-party
 ||hash-hash-tag.com^
 ||hashalre.uk^
@@ -38820,7 +39306,6 @@ zymic.com###sponsor-partners
 ||heckagny.com^
 ||hedlimitatelearlyb.info^$third-party
 ||hedtgodingsincy.info^$third-party
-||hefgfqcyfmv.com^
 ||heganteens.com/exo.php$popup
 ||hehyqqqxzndwia.com^
 ||heidiklein.com/media/banners/
@@ -38852,7 +39337,6 @@ zymic.com###sponsor-partners
 ||hethereasso.top^
 ||hetu.in^$popup,third-party
 ||heyoya.com^*&aff_id=
-||hezasoiduicbha.com^
 ||hf18yg8q.com^$third-party
 ||hfc195b.com^$third-party
 ||hfedqcww.com^
@@ -38891,6 +39375,7 @@ zymic.com###sponsor-partners
 ||highlianimo.club^
 ||highnets.com^$third-party
 ||highprofitnetwork.com^
+||highwayprinting.com^
 ||higishzxn.com^
 ||hilltopads.net^$popup
 ||hilltopads.net^$third-party
@@ -38939,12 +39424,10 @@ zymic.com###sponsor-partners
 ||hjiebsdcxldu.com^
 ||hjjjsurdhtt.com^
 ||hjklf.com^$image,third-party
-||hjnekvux.com^
 ||hjyhfusvr.com^
 ||hk56947pjjq5.com^
 ||hkhotpewfxr.com^
 ||hkoxlirf.com^
-||hkoxznukwpdhxu.com^
 ||hkswktixvcot.com^
 ||hkv06j2p7pof.com^
 ||hlads.com^$third-party
@@ -39048,6 +39531,7 @@ zymic.com###sponsor-partners
 ||hotwords.com.mx^$third-party
 ||hotwords.com^$third-party
 ||hotxxxpussy.com/func.js
+||houdodoo.net^
 ||hounicuy.com^
 ||hourakob.net^$third-party
 ||housandady.site^
@@ -39103,7 +39587,6 @@ zymic.com###sponsor-partners
 ||hstpnetwork.com/zeus.php
 ||hstpnetwork.com^$popup,third-party
 ||hstpnetwork.com^$third-party
-||hstqqjxqwnrfhy.com^
 ||hsy.fi^*/hsycookie.js
 ||htalizer.com^$third-party
 ||htamaster.com^$third-party
@@ -39245,7 +39728,6 @@ zymic.com###sponsor-partners
 ||ieqbsnteuyn.com^
 ||iettnkls.com^
 ||iezbleqt.com^
-||ifbhceoxx.com^
 ||ifbubmsr.com^
 ||ifeuddaywa.com^
 ||ifhxmaazmylfx.com^
@@ -39265,6 +39747,7 @@ zymic.com###sponsor-partners
 ||ignoranttools.com^
 ||ignup.com^$image,third-party
 ||igycquuoypdiqx.com^
+||iheart.com^*/getLiveRadioAdConfig
 ||iheartbucks.com^$third-party
 ||ihgehlpfzoefmd.com^
 ||ihgwekwwxbuxy.com^
@@ -39276,7 +39759,6 @@ zymic.com###sponsor-partners
 ||iiccrpwaxmxkqm.com^
 ||iilrgkor.com^
 ||iiripeedqfj.com^
-||ijhqzvlnsxu.com^
 ||ijiraeitwqpj.com^
 ||ijjiii.is^$popup
 ||ijrah.top^$third-party
@@ -39286,11 +39768,9 @@ zymic.com###sponsor-partners
 ||ikbwvphztgkiq.com^
 ||iklmgdsfnajmoy.com^
 ||ikupicwg.com^
-||ikvagxovc.com^
 ||ikwxqqaduybfnv.com^
 ||ikxgvhdw.com^
 ||ilaantxayy.com^
-||ilclngnarpy.com^
 ||ileokscsawzzrh.com^
 ||ilepioexi.com^
 ||ilividnewtab.com^$popup,third-party
@@ -39408,6 +39888,7 @@ zymic.com###sponsor-partners
 ||incloak.com^$third-party
 ||incogpontus.club^$third-party
 ||incommandary.club^
+||inconsistencyspaceelusive.com^
 ||incurableinfertilecrap.com^
 ||indiads.com^$third-party
 ||indian-forex.com^*/banners/$third-party
@@ -39464,6 +39945,7 @@ zymic.com###sponsor-partners
 ||insta-cash.net^$popup,third-party
 ||insta-cash.net^$third-party
 ||installcdnfile.com^$popup,third-party
+||installsbarefootedringer.com^
 ||installssmashedbab.com^
 ||installssmashedbab.com^$popup
 ||instancetour.info^$third-party
@@ -39519,6 +40001,7 @@ zymic.com###sponsor-partners
 ||inuxu.biz^$third-party
 ||inuxu.co.in^$third-party
 ||invernetter.info^$third-party
+||inviteadvancenuisance.com^
 ||inviziads.com^$third-party
 ||inwig3aqg9xq.com^
 ||io8b80kcom8f.com^
@@ -39577,6 +40060,8 @@ zymic.com###sponsor-partners
 ||irtya.com^$third-party
 ||irtye.com^$popup
 ||irtyf.com^
+||irtyvhrthhya.com^
+||irtyvhrthhya.com^$popup
 ||isanalyze.com^$popup
 ||isfxsiooyjad.com^
 ||isgmpykwv.com^
@@ -39620,6 +40105,7 @@ zymic.com###sponsor-partners
 ||iulianus-mon.com^
 ||iuncajvw.com^
 ||iupot.com^
+||iutkryvnixptlg.com^
 ||iutqdjtajrhpi.com^
 ||iv.doubleclick.net^$third-party
 ||ivastoor.com^
@@ -39653,10 +40139,8 @@ zymic.com###sponsor-partners
 ||ixueiomwi.com^
 ||ixunmkbyxvif.com^
 ||ixvzraajuiniwg.com^
-||ixwbgjnjf.com^
 ||ixxrjygfpzfty.com^
 ||iycdikcbgsmihg.com^
-||iydppfwjgcjs.com^
 ||iyfnzgb.com^
 ||iyfnzgb.com^$popup
 ||iypcdn.com^*/bgbanners/
@@ -39833,6 +40317,7 @@ zymic.com###sponsor-partners
 ||jmykbogg.com^
 ||jnctgldbxc.com^
 ||jndnkgjqlxr.com^
+||jnxkfldio.com^
 ||joamwtfpppibtj.com^
 ||joawapti.net^
 ||jobduedamson.work^
@@ -39855,6 +40340,7 @@ zymic.com###sponsor-partners
 ||jokeroo.com/i/.gif
 ||jolic2.com^$third-party
 ||jomrhqkqvvxix.com^
+||jomtingi.net^
 ||jomys.xyz^
 ||jonalnftdlnje.com^
 ||jooble.org/banner/
@@ -39864,6 +40350,7 @@ zymic.com###sponsor-partners
 ||joredii.com^
 ||josxzdszqaivb.com^
 ||jotpybmcjvg.com^
+||joyfullysacrificeralph.com^
 ||joynxonnxfnvqr.com^
 ||joyvowdig.com^
 ||jozfwcmrxkwva.com^
@@ -39962,6 +40449,7 @@ zymic.com###sponsor-partners
 ||jxnwpeqkhtkrw.com^
 ||jxswwvvejwzdd.com^
 ||jyagyffnbysg.com^
+||jyebqhel.com^
 ||jyfthtacsxkbp.com^
 ||jygdjiocmt.com^
 ||jyijwgsqj.com^
@@ -39972,7 +40460,6 @@ zymic.com###sponsor-partners
 ||jzedpmpcmsk.com^
 ||jzgskqccroqg.com^
 ||jzhzm30o49gv.com^
-||jzllgntkazui.com^
 ||jzmjxblwnozjyt.com^
 ||jzohcwnovrk.com^
 ||jzowfnqah.com^
@@ -40019,6 +40506,7 @@ zymic.com###sponsor-partners
 ||kbaomelffq.com^
 ||kbhaxxsiucgnek.com^
 ||kbifqgyugzo.com^
+||kbirdsind.top^
 ||kbmwlbwwwp.com^
 ||kbnetworkz.s3.amazonaws.com^
 ||kbpijqva.com^
@@ -40090,6 +40578,7 @@ zymic.com###sponsor-partners
 ||khwojmneehfl.com^
 ||khzehmdyybvicy.com^
 ||kiafailersov.top^
+||kickass-kat.com^$script
 ||kickass2.biz/*?$popup
 ||kiehls.com/IZ/G8ATFja1/
 ||kigarettywurz.club^
@@ -40171,6 +40660,7 @@ zymic.com###sponsor-partners
 ||kodicdn.com^$third-party
 ||kodnkhqvbxpc.com^
 ||koemrbflufm.com^
+||koertf.com^
 ||kohiquor.com^
 ||koindut.com^$third-party
 ||kojywvexdq.com^
@@ -40190,6 +40680,7 @@ zymic.com###sponsor-partners
 ||kosmix.com^*.txt?pvid=
 ||kostprice.com^$third-party
 ||koten.zone^$third-party
+||kotikinar2ko8tiki09.com^
 ||kouraija.net^$third-party
 ||kouwheey.net^$third-party
 ||kovla.com^$third-party
@@ -40206,6 +40697,7 @@ zymic.com###sponsor-partners
 ||kr3vinsx.com^$third-party
 ||krapps.com^*-banner-
 ||krboeyeq.com^
+||krdmqluvudizq.com^
 ||krfbhbhal.com^
 ||krillion.com^*/productoffers.js
 ||krison.xyz^$third-party
@@ -40276,6 +40768,7 @@ zymic.com###sponsor-partners
 ||l4oecosq.com^$third-party
 ||l5fvoqimjfug.com^
 ||l7r0sgc0.top^$third-party
+||l99l.org^
 ||la-la-moon.com^
 ||la-la-sf.com^
 ||la1dwne9cn5c.com^
@@ -40316,7 +40809,6 @@ zymic.com###sponsor-partners
 ||landrover.com/system/logging/
 ||langlishmal.club^
 ||lanistaconcepts.com^$third-party
-||lanktydm.com^
 ||lardydanger.com^
 ||laredintonw.space^
 ||larentisol.com^$third-party
@@ -40330,6 +40822,7 @@ zymic.com###sponsor-partners
 ||lastpass.com/analytics2.php
 ||lastpass.com^*/analyticsjs$script,~third-party
 ||lastpass.com^*/loadanalytics.js
+||lataurir.com^
 ||latheendsmoo.com^
 ||latheendsmoo.com^$popup
 ||latinteencash.com/potd/$third-party
@@ -40339,7 +40832,7 @@ zymic.com###sponsor-partners
 ||lauhoosh.net^
 ||laujouty.com^$third-party
 ||lauk.icu^
-||lawvcpqtapzsh.com^
+||lauwhada.com^
 ||laxtime.com/rotation/
 ||laydcilck.com^$third-party
 ||layer-ad.org^$third-party
@@ -40397,6 +40890,7 @@ zymic.com###sponsor-partners
 ||leathtexactlycin.info^
 ||leavilysover.site^
 ||lediyxobgmrgeb.com^
+||ledmophemp.com^
 ||ledqfvbihsgs.com^
 ||ledraumt.com^$third-party
 ||ledsdwwmhapz.com^
@@ -40416,9 +40910,11 @@ zymic.com###sponsor-partners
 ||lejhdbxl.com^
 ||lemitsuz.net^$third-party
 ||lemonetik.com^
+||lenkmio.com^
 ||lenmit.com^$third-party
 ||leocgwid.com^
 ||leoneaningtoldre.pro^$third-party
+||leonodikeu9sj10.com^
 ||leontius-eli.com^
 ||leoyard.com^
 ||lepinsar.com^
@@ -40441,7 +40937,6 @@ zymic.com###sponsor-partners
 ||lfendascra.club^
 ||lfg5jnbi.com^$third-party
 ||lfjmmgorkjoaw.com^
-||lfjvaaswkxqj.com^
 ||lfmwrbcfbji.com^
 ||lfstmedia.com^$third-party
 ||lfztmoamieum.com^
@@ -40484,6 +40979,8 @@ zymic.com###sponsor-partners
 ||lijit.com/adif_px.php
 ||lijzkjtk.com^
 ||likingyetsnarl.com^$popup
+||liliy9aydje10.com^
+||liliy9aydje10.com^$popup
 ||limitaterer.club^
 ||lingeriebarren.com^
 ||lingovernmen.fun^
@@ -40530,6 +41027,7 @@ zymic.com###sponsor-partners
 ||listingcafe.com^$third-party
 ||litleeemo.com^
 ||litourge.com^
+||littlecdn.com^
 ||littlemente.info^$third-party
 ||littlementok.site^
 ||liuduuct.com^
@@ -40560,7 +41058,6 @@ zymic.com###sponsor-partners
 ||ljecur.com^
 ||ljhyotgxuyglm.com^
 ||ljjaiargqfwtzu.com^
-||ljkmwpvahv.com^
 ||ljucamkqc.com^
 ||ljvwqird.com^
 ||ljzsucmiodrro.com^
@@ -40582,7 +41079,6 @@ zymic.com###sponsor-partners
 ||llgvjtkg.com^
 ||llhshirhrbkn.com^
 ||llisthonolialate.club^
-||lliumrpvj.com^
 ||lljoapkfnwn.com^
 ||lllgavbgnmcbf.com^
 ||lllkotiocpjfb.com^
@@ -40628,6 +41124,7 @@ zymic.com###sponsor-partners
 ||localadbuy.com^$third-party
 ||localads-statistics.maps.me^
 ||localedgemedia.com^$third-party
+||localhost^$third-party,domain=globo.com
 ||localmonero.co/static/ga.js
 ||locationivanstutter.com^
 ||lockerdome.com^$third-party
@@ -40695,6 +41192,7 @@ zymic.com###sponsor-partners
 ||lowancein.club^
 ||lowaosan.com^
 ||lowtyroguer.com^
+||lowtyroguer.com^$popup
 ||loxtk.com^$third-party
 ||lp.titanpoker.com^$popup,third-party
 ||lpaizureik.com^
@@ -40763,6 +41261,8 @@ zymic.com###sponsor-partners
 ||luven.xyz^
 ||luvnrybocrcgl.com^
 ||luxadv.com^$third-party
+||luxins.net^
+||luxlnk.com^
 ||luxupadva.com^$third-party
 ||luxupadvb.com^$third-party
 ||luxupcdna.com^$third-party
@@ -40891,6 +41391,7 @@ zymic.com###sponsor-partners
 ||mantedtonisms.info^$third-party
 ||manytoon.com/script/$script
 ||maomaotang.com^$popup,third-party
+||mapcrayonmiss.com^
 ||marerajahcopied.com^
 ||marfeel.com^$third-party
 ||marial.pro^$third-party
@@ -40923,6 +41424,9 @@ zymic.com###sponsor-partners
 ||mascqybw.com^
 ||mashable.com/s/js/zad.js
 ||mashionalkov.info^$popup
+||mashtourgaunt.com^
+||masklink.org^
+||masklink.org^$popup
 ||mastedyel.club^
 ||masterads.org^$third-party
 ||masterbate.pro^$third-party
@@ -40952,6 +41456,7 @@ zymic.com###sponsor-partners
 ||maximgushyoga.com^
 ||maxonclick.com^$third-party
 ||maycanrami.tk^
+||mayhemabjure.com^
 ||mayoclinic.org/js/gconversion.js
 ||mb.zam.com^
 ||mb01.com^$popup
@@ -41044,6 +41549,7 @@ zymic.com###sponsor-partners
 ||mediaonenetwork.net^$third-party
 ||mediaonpro.com^$third-party
 ||mediaraily.com^$third-party
+||mediasama.com^$popup
 ||mediatarget.com^$third-party
 ||mediative.ca^$third-party
 ||mediative.com^$third-party
@@ -41127,7 +41633,6 @@ zymic.com###sponsor-partners
 ||mftmyrzoxtfx.com^
 ||mftxszpy.com^
 ||mfxjgymma.com^
-||mfxxpyhzofbsg.com^
 ||mfxzxrveb.com^
 ||mgcash.com^$third-party
 ||mgcashgate.com^$third-party
@@ -41171,6 +41676,7 @@ zymic.com###sponsor-partners
 ||migongetlucky.com^
 ||mikpumwbahkx.com^
 ||mikrairs.com^
+||milasktic.com^
 ||mileporn.com^$third-party
 ||milffox.com/ai/s/s/adhs.
 ||milffox.com/ai/s/s/js/ssu.
@@ -41405,6 +41911,7 @@ zymic.com###sponsor-partners
 ||movie-pass.club^
 ||movie-pass.live^
 ||movie4all.co^$third-party
+||mowyappedbibs.com^
 ||mozgvya.com^
 ||mp-https.info^$third-party
 ||mp.weixin.qq.com/mp/jsmonitor?
@@ -41447,7 +41954,6 @@ zymic.com###sponsor-partners
 ||mrstiff.com/view/context/
 ||mrstiff.com/view/movie/bar/
 ||mrstiff.com/view/movie/finished/
-||mrtehsag.com^
 ||mrvids.com/network/$third-party
 ||mrzikj.com^
 ||mrzpfpgh.com^
@@ -41593,7 +42099,6 @@ zymic.com###sponsor-partners
 ||mzstatic.com^$image,object,domain=dailymotion.com
 ||mzvwhksbwnj.com^
 ||mzwmdaadjf.com^
-||mzxexigxkb.com^
 ||n.nu/banner.js
 ||n26.com/n26_sp_
 ||n2s.co.kr^$third-party
@@ -41624,6 +42129,7 @@ zymic.com###sponsor-partners
 ||nakedshygirls.com/bannerimg/
 ||nalrxmmcs.com^
 ||nameads.com^$third-party
+||namel.net^
 ||namethatporn.com/ntpoo$popup
 ||namethatporn.com^*/ba.
 ||namethatporn.com^*/pu_
@@ -41651,6 +42157,7 @@ zymic.com###sponsor-partners
 ||naughty.com/js/popJava.js
 ||naughtyblog.org/b_load.php
 ||naughtyblog.org/pr1pop.js
+||naughtybuddyswoop.com^
 ||nauhohag.net^$third-party
 ||naukri.com/banners
 ||naukrigulf.com/logger/
@@ -41672,12 +42179,14 @@ zymic.com###sponsor-partners
 ||nbxiwktuvymecs.com^
 ||nbxpuziszhqz.com^
 ||ncafclpip.com^
+||ncediscou.fun^
 ||nceevenue.club^
 ||ncialappropo.site^
 ||ncilityinflati.club^
 ||ncitwacpa.com^
 ||nckjysyk.com^
 ||ncmcbufifgcu.com^
+||ncorports.top^
 ||ncountsnash.info^
 ||ncourtainco.club^
 ||nctionclarkingcu.fun^
@@ -41706,10 +42215,12 @@ zymic.com###sponsor-partners
 ||neepaips.com^$third-party
 ||neewoapi.com^$third-party
 ||negolist.com^$third-party
+||negyuk.com^
 ||nehersheteen.pro^$third-party
 ||nehodyshy.pro^
 ||nehodyshy.pro^$popup
 ||neitherspreta.site^
+||nellads.com^
 ||nelonenmedia.fi/hitcounter$image
 ||neltoole.net^
 ||nenrk.us^$third-party
@@ -41816,6 +42327,7 @@ zymic.com###sponsor-partners
 ||nextoptim.com^$popup
 ||nextoptim.com^$third-party
 ||nextyourcontent.com^$popup
+||nexxxt.biz^$third-party
 ||nfanxxuegzp.com^
 ||nfarmerlycompa.info^
 ||nfbpdwso.com^
@@ -41923,6 +42435,8 @@ zymic.com###sponsor-partners
 ||noamiagainst.pro^
 ||noamiscience.pro^
 ||noaptauw.com^$third-party
+||noblefun.net^
+||noblefun.net^$popup
 ||noblemagnition.com^
 ||nobpgppgbucy.com^
 ||nocdnrlly.xyz^$popup
@@ -41992,7 +42506,6 @@ zymic.com###sponsor-partners
 ||nrrxxpvgtf.com^$third-party
 ||nrtorbqr.com^
 ||nryceuula.com^
-||nrzhlsvqxbgpbn.com^
 ||ns4w.org/gsm.js
 ||nsboaqyssquk.com^
 ||nscash.com^$third-party
@@ -42052,7 +42565,6 @@ zymic.com###sponsor-partners
 ||null-point.com^
 ||nulwhbbyfdxy.com^
 ||numb.hotshare.biz^$third-party
-||numcxvlfguc.com^
 ||nummobile.com^$third-party
 ||nunailsum.com^
 ||nunhoefey.com^
@@ -42062,6 +42574,7 @@ zymic.com###sponsor-partners
 ||nurobi.info^
 ||nusptbgwdcc.com^
 ||nutaku.net/signup/$popup
+||nuttyashy.com^
 ||nuvidp.com^$popup
 ||nuvidp.com^$third-party
 ||nuxsmhexm.com^
@@ -42078,6 +42591,7 @@ zymic.com###sponsor-partners
 ||nvxzjmowusg.com^
 ||nwazehtl.com^
 ||nwfhalifax.com^$third-party
+||nwliko.com^
 ||nwntsnjtowku.com^
 ||nwqcvbyznx.com^
 ||nwrgqhjtullyjs.com^
@@ -42121,7 +42635,8 @@ zymic.com###sponsor-partners
 ||o.gweini.com^$third-party
 ||o12zs3u2n.com^$third-party
 ||o2live.com^$third-party
-||o333o.com^$popup,third-party
+||o333o.com^
+||o333o.com^$popup
 ||o333o.com^$third-party
 ||o4uxrk33.com^
 ||o626b32etkg6.com^
@@ -42152,7 +42667,6 @@ zymic.com###sponsor-partners
 ||obnyujeibv.com^
 ||oboxads.com^$third-party
 ||obufquwiwy.com^
-||obwvmzdb.com^
 ||obyxqjgwg.com^
 ||occupangno.club^
 ||oceanwebcraft.com^$third-party
@@ -42273,6 +42787,7 @@ zymic.com###sponsor-partners
 ||omclick.com^$third-party
 ||omg2.com^$third-party
 ||omgpm.com^$third-party
+||omitbailey.com^
 ||ommunalspound.info^$third-party
 ||omni-ads.com^$third-party
 ||omnitagjs.com^$third-party
@@ -42287,6 +42802,7 @@ zymic.com###sponsor-partners
 ||onad.eu^$third-party
 ||onads.com^$third-party
 ||oncersshartsh.fun^
+||oncfnary.com^
 ||onclasrv.com^$third-party
 ||onclickads.net^$popup,third-party
 ||onclickads.net^$third-party
@@ -42351,7 +42867,6 @@ zymic.com###sponsor-partners
 ||ooredi.com^
 ||oos4l.com^$third-party
 ||oounzfsyxiuj.com^
-||ooutqfslr.com^
 ||oovj94k5hg4j.com^
 ||oovoo.com^*/banners/
 ||opcyvbwkbiaqyt.com^
@@ -42359,6 +42874,7 @@ zymic.com###sponsor-partners
 ||open.mkt1397.com^
 ||openadultdirectory.com/banner-$third-party
 ||openbook.net^$third-party
+||opencmp.net^$script,third-party
 ||openjavascript.com/jtools/jads.
 ||openx.net^$third-party
 ||openxmarket.asia^$third-party
@@ -42429,6 +42945,7 @@ zymic.com###sponsor-partners
 ||ospjthkhtwv.com^
 ||ospreymedialp.com^$third-party
 ||ossdqciz.com^
+||osskanger.com^
 ||ostkcdn.com/js/p13n.js
 ||osvryhznx.com^
 ||oswalled.club^
@@ -42538,6 +43055,8 @@ zymic.com###sponsor-partners
 ||oxzffweyw.com^
 ||oyfncnedrymc.com^
 ||oyfsdpmhncobvj.com^
+||oyi9f1kbaj.com^
+||oyi9f1kbaj.com^$popup
 ||oymlttqg.com^
 ||oyndqimgof.com^
 ||oypgywhfcrk.com^
@@ -42566,6 +43085,7 @@ zymic.com###sponsor-partners
 ||paakkisuvs.com^
 ||pabhagivene.site^
 ||pacific-yield.com^$third-party
+||pacifoos.net^
 ||paclitor.com^$third-party
 ||pactendsmalt.icu^
 ||padma-fed.com^
@@ -42660,6 +43180,7 @@ zymic.com###sponsor-partners
 ||paveherniaell.com^
 ||paveralleycoun.info^
 ||pavfhwwddf.com^
+||pawheatyous.com^
 ||paxful.com/bmlsclxndnomunnk.js
 ||paxmedia.net^$third-party
 ||pay2clik.cf^
@@ -42683,12 +43204,12 @@ zymic.com###sponsor-partners
 ||pcash.globalmailer5.com^$third-party
 ||pcash.imlive.com^$third-party
 ||pccpyjngw.com^
+||pcgamer-gb.pcgamer.com^
 ||pcjkmabp.com^
 ||pckeeper.com^*/pixels/
 ||pclick.europe.yahoo.com^
 ||pclick.internal.yahoo.com^
 ||pclick.yahoo.com^
-||pclk.name^
 ||pcmag.com/mst/
 ||pcmag.com^*/analytics.js
 ||pcommaging.site^
@@ -42703,6 +43224,7 @@ zymic.com###sponsor-partners
 ||pdn-2.com^$third-party
 ||pdywlbjkeq.work^$third-party
 ||peakclick.com^$third-party
+||peanuttolerate.com^
 ||pearerinven.fun^
 ||pebadu.com^
 ||pecash.com^$third-party
@@ -42727,6 +43249,7 @@ zymic.com###sponsor-partners
 ||pennynetwork.com^$third-party
 ||pennyotcstock.com^
 ||pennzxycrdmw.com^
+||pentialin.fun^
 ||penuma.com^$third-party
 ||pepipo.com^$third-party
 ||pepnerdmime.cam^
@@ -42766,10 +43289,8 @@ zymic.com###sponsor-partners
 ||pfdctvdgjw.com^
 ||pfdgbyoj.com^
 ||pffw8mgd.com^
-||pfihfdmwdsjum.com^
 ||pfmmqofcadze.com^
 ||pfmoriuywsl.com^
-||pfvfwielz.com^
 ||pfvgazngauezhk.com^
 ||pfyalardueu.com^
 ||pgdhapctt.com^
@@ -42962,6 +43483,7 @@ zymic.com###sponsor-partners
 ||podhopfit.site^
 ||podhopfit.site^$popup
 ||podimxqmqguj.com^
+||podsolnu9hi10.com^
 ||poemsproduced.com^
 ||poignantcover.com^
 ||pointpopu.top^
@@ -43214,6 +43736,7 @@ zymic.com###sponsor-partners
 ||profbigo.com^
 ||proficientinflectionaluminium.com^
 ||profistats.net^$third-party
+||profitablecpmnetwork.com^
 ||profitablegate.com^
 ||profitmaximizer.co^$popup
 ||profitpeelers.com^$third-party
@@ -43468,7 +43991,6 @@ zymic.com###sponsor-partners
 ||pvptwhhkfmog.com^
 ||pvrnqpgvbucif.com^
 ||pvumxwnriy.com^
-||pvuqahjiburadw.com^
 ||pwondjwwgqahw.com^
 ||pwrads.net^$popup,third-party
 ||pwrads.net^$third-party
@@ -43618,7 +44140,6 @@ zymic.com###sponsor-partners
 ||qpgjmdlq.com^
 ||qpianhkxxuc.com^
 ||qqatxipoki.com^
-||qqcjvbsd.com^
 ||qqemfpbnixtqx.com^
 ||qqgdboaq.com^
 ||qqipjtzgo.com^
@@ -43627,10 +44148,8 @@ zymic.com###sponsor-partners
 ||qqtqicbvrwg.com^
 ||qquwjmmgtmle.com^
 ||qrcvlmxqu.com^
-||qrecxvdoewmztq.com^
 ||qreoifgajnoor.com^
 ||qrindfqrd.com^
-||qrirkdzdxtxc.com^
 ||qrlgcrzmbuy.com^
 ||qrlsx.com^$popup,third-party
 ||qrlsx.com^$third-party
@@ -43668,6 +44187,7 @@ zymic.com###sponsor-partners
 ||quickcash-system.com^$popup,third-party
 ||quickorange.com^
 ||quiptenrice.casa^
+||quiveringminusterminal.com^
 ||qulsqiqrev.com^
 ||qumagee.com^$third-party
 ||quoashei.com^
@@ -43698,7 +44218,6 @@ zymic.com###sponsor-partners
 ||qxykytqzwagqj.com^
 ||qybzvfvqzpmxpu.com^
 ||qydhjirz.com^
-||qydylxmzlnqw.com^
 ||qyfunsvmtudozq.com^
 ||qyifxakawscsyd.com^
 ||qyillxuyjdlmh.com^
@@ -43828,6 +44347,7 @@ zymic.com###sponsor-partners
 ||rdiul.com^$third-party
 ||rdoovrzqazvpgv.com^
 ||rdoudrenv.com^
+||rdrceting.com^
 ||rdrkxlmlqpqns.com^
 ||rdsb2.club^
 ||rdspeculear.club^
@@ -43847,6 +44367,7 @@ zymic.com###sponsor-partners
 ||realitycash.com^$third-party
 ||realitykings.com/vbanners/
 ||realmedia.com^$third-party
+||realmpallduns.com^
 ||realsrv.com^
 ||realssp.co.kr^$third-party
 ||realtime-bid.com^
@@ -43856,6 +44377,7 @@ zymic.com###sponsor-partners
 ||reate.info^$third-party
 ||recallysugg.club^
 ||recentlycollectannihilate.com^
+||receptionstudying.com^
 ||reckedmane.club^
 ||reckinbuttiten.pro^$third-party
 ||recomine.club^
@@ -43899,6 +44421,7 @@ zymic.com###sponsor-partners
 ||refpazcx.xyz^$popup
 ||refunsiy.net^
 ||refyewdye.com^
+||regionsparametersvacancy.com^
 ||registered-spotters-build.com^$third-party
 ||registshhg.club^
 ||regnow.com/vendor/
@@ -43912,6 +44435,7 @@ zymic.com###sponsor-partners
 ||reiqwxxd.com^
 ||reitb.com^$image,third-party
 ||reklamz.com^$third-party
+||rekodpro.com^
 ||rel.msn.com^
 ||relappro.com^$third-party
 ||relatedweboffers.com^$third-party
@@ -43935,6 +44459,7 @@ zymic.com###sponsor-partners
 ||rentalcars.com/ELBanner.do?$third-party
 ||rentsincrea.top^
 ||rentwillionc.club^
+||reojou.com^
 ||reon.club^$third-party
 ||reorganizewallet.com^
 ||reounzbqylugud.com^
@@ -43977,6 +44502,7 @@ zymic.com###sponsor-partners
 ||revenueenslave.com^
 ||revenuegiants.com^$third-party
 ||revenuehits.com^$third-party
+||revenuenetwork.com^
 ||revenuevids.com^$third-party
 ||revfusion.net^$third-party
 ||revgennetwork.com^$third-party
@@ -44038,7 +44564,9 @@ zymic.com###sponsor-partners
 ||rightstaredstun.com^
 ||rightwingtribune.com^$csp=script-src 'self' *.leadpages.net *.gstatic.com *.google.com *.googleapis.com *.playwire.com *.facebook.com *.bootstrapcdn.com *.twitter.com *.spot.im
 ||rigybdgiubwqg.com^
+||rilelogicbuy.com^
 ||rimezvsto.com^
+||rindicalapa.fun^
 ||ringassum.club^
 ||ringtonepartner.com^$third-party
 ||rinsouxy.com^$third-party
@@ -44055,6 +44583,7 @@ zymic.com###sponsor-partners
 ||rivcash.com^$third-party
 ||riverhit.com^$third-party
 ||riverisland.com^*/mindshare.min.js
+||riwhedipsa.pro^
 ||rixaka.com^$third-party
 ||riykotovmy.com^
 ||rizeintellingente.info^
@@ -44072,7 +44601,6 @@ zymic.com###sponsor-partners
 ||rkvduvtdz.com^
 ||rlbvwdviqx.com^
 ||rlcciwjyl.com^
-||rljakgkixu.com^
 ||rmationeng.club^
 ||rmbn.net^$third-party
 ||rmhdjambba.com^
@@ -44108,6 +44636,7 @@ zymic.com###sponsor-partners
 ||rolrotoo.net^$third-party
 ||romance-net.com^$third-party
 ||romashk9arfk10.com^
+||rompuwit.net^
 ||ronoutom.net^
 ||roomkey.com/referrals?$popup,third-party
 ||roostsflewcat.cam^
@@ -44117,6 +44646,7 @@ zymic.com###sponsor-partners
 ||roredi.com^
 ||roscvyybfkm.com^
 ||roshantv.com/adad.
+||rosqb6vb1cqp.com^
 ||rotate4all.com^$third-party
 ||rotdubboy.com^
 ||rotorads.com^$third-party
@@ -44131,6 +44661,7 @@ zymic.com###sponsor-partners
 ||routemob.com^
 ||routgveriprt.com^$popup
 ||rouvoute.net^
+||rovalionsa.fun^
 ||rover.ebay.$image,object,script
 ||rovion.com^$third-party
 ||rowoardog.com^
@@ -44302,6 +44833,7 @@ zymic.com###sponsor-partners
 ||salarmers.club^
 ||salefile.googlecode.com^$third-party
 ||salemyticket.com^
+||saliencege.top^
 ||samsungads.com^$third-party
 ||samvaulter.com^$third-party
 ||samvinva.info^$third-party
@@ -44333,7 +44865,6 @@ zymic.com###sponsor-partners
 ||sautemoo.net^$popup
 ||sautemoo.net^$third-party
 ||saventireri.top^
-||sawdfbwxqcpcs.com^
 ||sayfibhat.club^$third-party
 ||saymedia.com^$third-party
 ||sayzziir.com^
@@ -44354,6 +44885,7 @@ zymic.com###sponsor-partners
 ||scanmedios.com^$third-party
 ||scanscout.com^$third-party
 ||scarceagitationwry.com^
+||scarcelysorrow.com^
 ||scdn.co/cdn/js/gtag.$script,domain=spotify.com
 ||sceieibhpdday.com^
 ||sciencecareers.org/widget/$third-party
@@ -44389,6 +44921,7 @@ zymic.com###sponsor-partners
 ||sddlcnqhyl.com^
 ||sdfsdvc.com^$third-party
 ||sdhfbvd.com^
+||sdmwklnd.com^
 ||sdsttt.com^
 ||sdtqotoe.com^
 ||sdzwkmokd.com^
@@ -44444,6 +44977,8 @@ zymic.com###sponsor-partners
 ||shauthou.net^
 ||shawmediaauto.com/event/i/?size=$third-party
 ||shawsuburbanauto.com^$subdocument,third-party
+||sheenaup.net^
+||sheerwhirlpool.com^
 ||shefficera.club^
 ||shellowsduo.space^
 ||sheltenham.site^
@@ -44498,6 +45033,7 @@ zymic.com###sponsor-partners
 ||shovewhe.com^$third-party
 ||showjihadspink.com^
 ||showmebars.com^
+||showmeyouradsnow.com^$third-party
 ||showyoursite.com^$third-party
 ||shparxvyhrwgsl.com^
 ||shqads.com^$third-party
@@ -44518,6 +45054,7 @@ zymic.com###sponsor-partners
 ||siegemeg.com^
 ||sielsmaats.com^$third-party
 ||sierra-fox.com^$popup,third-party
+||sierraclumsy.com^
 ||sifuglie.com^$popup
 ||sifuglie.com^$third-party
 ||sightcoloniansy.site^
@@ -44580,6 +45117,7 @@ zymic.com###sponsor-partners
 ||sksytkvnvnmz.com^
 ||skullimpact.com^
 ||skurki.info^
+||skxgvqcgefyy.com^
 ||skyactivate.com^$third-party
 ||skydsl.eu/banner/$third-party
 ||skyligh.co^$third-party
@@ -44658,6 +45196,7 @@ zymic.com###sponsor-partners
 ||snckdjuymeopsc.com^
 ||sndgydifipxuui.com^
 ||sneakystamp.com^$third-party
+||snezynrzsz.com^
 ||snfzmkyzad.com^
 ||snhsoclobbos.com^
 ||snifferent.club^
@@ -44715,6 +45254,7 @@ zymic.com###sponsor-partners
 ||soltitate.site^
 ||solutelynewt.site^
 ||solutionzip.info^$third-party
+||somethingprecursorfairfax.com^
 ||somewhate.club^
 ||sommons.co^$third-party
 ||sonagerthrou.com^$popup
@@ -44733,6 +45273,7 @@ zymic.com###sponsor-partners
 ||sosohmmen.club^
 ||soundcloud.com/event?
 ||soundcloud.com/v1/events
+||soundingexpulsioninspector.com^
 ||sourceforge.net/log/
 ||sourcepoint-mms.aetv.com^
 ||sourcepoint-mms.history.com^
@@ -44814,6 +45355,9 @@ zymic.com###sponsor-partners
 ||sparedshabbylaugh.com^
 ||sparkstudios.com^$popup,third-party
 ||sparkstudios.com^$third-party
+||spasbatwit.icu^
+||spattermutiny.com^
+||spattermutiny.com^$popup
 ||speakertext.com/analytics/
 ||speakol.com^$third-party
 ||speciativepickedly.info^$third-party
@@ -44920,6 +45464,7 @@ zymic.com###sponsor-partners
 ||sssyabhje.com^
 ||sstats.oui.sncf^
 ||ssucvdbxxlibn.com^
+||ssumeras.top^
 ||ssypntfmi.com^
 ||st.arte.tv^
 ||st.ipornia.com^$third-party
@@ -45012,6 +45557,7 @@ zymic.com###sponsor-partners
 ||stickyadstv.com^$third-party
 ||stilfb.com^
 ||stimergeners.pro^$third-party
+||stinkcomedian.com^
 ||stinsoox.net^$third-party
 ||stjsurdfitff.com^
 ||stkqkfhlscmcuh.com^
@@ -45023,6 +45569,7 @@ zymic.com###sponsor-partners
 ||stocker.bonnint.net^$third-party
 ||stockingstv.com/partners/
 ||stocktwits.com/spaceape-web.gif?
+||stooptobacco.com^
 ||stootoat.com^$third-party
 ||stopherapyimp.pro^$third-party
 ||stopheritp.club^
@@ -45031,6 +45578,7 @@ zymic.com###sponsor-partners
 ||storeacdn.com^
 ||stormyshock.com^$third-party
 ||stoshoos.com^$popup
+||stoutoffering.com^
 ||strikeadcdn.s3.amazonaws.com^$third-party
 ||stsunfulnoth.top^
 ||studyisland.com^*/ga.js
@@ -45111,6 +45659,7 @@ zymic.com###sponsor-partners
 ||swarmjam.com^$script,third-party
 ||swbdds.com^$third-party
 ||sweed.to/?pid=$third-party
+||sweepawejasper.com^
 ||sweeterge.info^$third-party
 ||sweetmedia.org^$third-party
 ||sweetwater.com/feature/$third-party
@@ -45153,6 +45702,7 @@ zymic.com###sponsor-partners
 ||syyycc.com^$third-party
 ||szahidalkath.fun^
 ||szdfteyb.com^
+||szprhglyodqj.com^
 ||szuzlcmoak.com^
 ||t-51.com^*/banners/
 ||t.9gag.com^
@@ -45186,7 +45736,6 @@ zymic.com###sponsor-partners
 ||tagger.ope.scmp.com^
 ||taggify.net^$third-party
 ||tagjunction.com^$third-party
-||taglocker.target.com^
 ||tags.aljazeera.
 ||tags.msnbc.com^
 ||tags.sprizzy.com^
@@ -45307,6 +45856,8 @@ zymic.com###sponsor-partners
 ||terra8nb.com^
 ||terraclicks.com^$popup,third-party
 ||terraclicks.com^$third-party
+||terralink.xyz^
+||terralink.xyz^$popup
 ||terrapsps.com^
 ||terrapush.com^$third-party
 ||tetfer.com^
@@ -45444,6 +45995,7 @@ zymic.com###sponsor-partners
 ||tinyurl.com/4x848hd$subdocument
 ||tinyweene.com^$third-party
 ||tionmodat.club^
+||tionmustai.fun^
 ||tionpronomyim.info^
 ||tionscofferent.info^$third-party
 ||tiontablyvern.site^
@@ -45554,6 +46106,7 @@ zymic.com###sponsor-partners
 ||topprofitablegate.com^
 ||toprevenuenetwork.com^
 ||topssluedbunged.com^
+||topswp.com^
 ||torbudyum.com^
 ||torconpro.com^$third-party
 ||toro-tags.com^$third-party
@@ -45593,6 +46146,7 @@ zymic.com###sponsor-partners
 ||tour.mrskin.com^$popup,third-party
 ||tours.imlive.com^$third-party
 ||towardstic.club^
+||toybahyn.com^
 ||toyota.com/analytics/
 ||tp-link.com^*/addHits.html
 ||tp.ranker.com^
@@ -45628,6 +46182,8 @@ zymic.com###sponsor-partners
 ||tszritnomuy.com^
 ||ttauri.bikeperfect.com^
 ||ttauri.creativebloq.com^
+||ttauri.digitalcameraworld.com^
+||ttauri.guitarworld.com^
 ||ttauri.laptopmag.com^
 ||ttauri.musicradar.com^
 ||ttauri.nexttv.com^
@@ -45687,6 +46243,7 @@ zymic.com###sponsor-partners
 ||twentytwowords.com/3CVQBi14/
 ||tweowhvrim.review^$third-party
 ||tweznpjocbka.com^
+||twfilnym.com^
 ||twiant.com/img/banners/
 ||twillamadura.pro^
 ||twinpinenetwork.com^$third-party
@@ -45771,7 +46328,6 @@ zymic.com###sponsor-partners
 ||uelllwrite.com^
 ||ueuerea.com^$third-party
 ||ueuodgnrhb.com^
-||ufelatujvbhtbo.com^
 ||ufeuyyfoguo.com^
 ||uffpsmfefu.com^
 ||ufmmtncv.com^
@@ -45821,7 +46377,6 @@ zymic.com###sponsor-partners
 ||ukbanners.com^$third-party
 ||ukcast.tv/adds/
 ||ukcomparends.pro^
-||ukdjbubvp.com^
 ||ukdzmuvtelq.com^
 ||ukjsibgu.com^
 ||uklyolpqnt.com^
@@ -45850,6 +46405,7 @@ zymic.com###sponsor-partners
 ||ulyrpgnqeyo.com^
 ||ulyssianeq.club^
 ||ulzcieyihw.com^
+||umannwig.com^
 ||umcbbt.com^
 ||umehoars.club^
 ||umfxefqtqd.com^
@@ -45859,8 +46415,11 @@ zymic.com###sponsor-partners
 ||umqhjmowzjrl.com^
 ||umusjdiehxbn.com^
 ||umwetngwuh.com^
+||umwyfqgsg.com^
 ||umxxuqpbhylyy.com^
 ||umybobusjo.com^
+||unagi-eu.amazon.*/events/$domain=~aws.amazon.com
+||unagi.amazon.*/events/$domain=~aws.amazon.com
 ||unaspajas.com^$third-party
 ||unblockedpiratebay.com/static/img/bar.gif
 ||uncyane.com^
@@ -45894,7 +46453,6 @@ zymic.com###sponsor-partners
 ||unumbonum.com^$third-party
 ||unwyiror.com^
 ||uoarbhxfyygn.com^
-||uoccvsdh.com^
 ||uod2quk646.com^$third-party
 ||uofmnbkm.com^
 ||uohpnvpynvsz.com^
@@ -45971,6 +46529,7 @@ zymic.com###sponsor-partners
 ||usrvgxowmn.com^
 ||usshjrket.com^
 ||usswrite.com^$third-party
+||ustbitsoct.top^
 ||ustedpicklyba.space^
 ||usurv.com^$third-party
 ||uswgkadyika.com^
@@ -45990,6 +46549,7 @@ zymic.com###sponsor-partners
 ||utpgxaylxurhbc.com^
 ||utq55kl9vyqv.com^
 ||utstancecaricit.info^
+||utteredhandicappedsomebody.com^
 ||utzhcsrzrlhhxn.com^
 ||uuboos.com^
 ||uufbvpidyn.com^
@@ -46016,16 +46576,17 @@ zymic.com###sponsor-partners
 ||uxusheppared.club^
 ||uxzbsinjyld.com^
 ||uxzcwowjd.com^
+||uyhlpmehm.com^
 ||uyiiop.site^
 ||uymjshdxxneu.com^
 ||uyyalzrvkvmtiq.com^
 ||uyyimqrmxcwuo.com^
-||uyznjuyfyjc.com^
 ||uyzzzeodgommgb.com^
 ||uziiygdcwur.com^
 ||uzikrtotjbnq.com^
 ||uzk4umokyri3.com^
 ||uznwafjxmm.com^
+||uzozagug.xyz^
 ||uzpvacvhdssq.com^
 ||uzvqrimq.com^
 ||uzxbwsnhjlt.com^
@@ -46079,7 +46640,6 @@ zymic.com###sponsor-partners
 ||vbkrzqopqbhrd.com^
 ||vbqcwfleda.com^
 ||vbuhzjnj.com^
-||vbwakfbazxd.com^
 ||vbwfqaisbgn.com^
 ||vcfnspbgztl.com^
 ||vcjbxucwrprtu.com^
@@ -46099,7 +46659,6 @@ zymic.com###sponsor-partners
 ||vdrpwkycbla.com^
 ||vdvaazkk.com^
 ||vebadu.com^
-||vebubhzj.com^
 ||vectorstock.com^$third-party
 ||vedcouragin.info^
 ||vedohd.org^$third-party
@@ -46129,6 +46688,7 @@ zymic.com###sponsor-partners
 ||verblife-2.co^$popup,third-party
 ||verblife-2.co^$third-party
 ||verblife-3.co^$third-party
+||verblife-5.co^
 ||vercraneans.club^
 ||verdriusuref.site^
 ||veremund-hon.com^
@@ -46169,7 +46729,6 @@ zymic.com###sponsor-partners
 ||vgvzvqbzhh.com^
 ||vgw35hwr4w6x.com^
 ||vgyakiejafjjj.com^
-||vhbyakilp.com^
 ||vhiuhrwapdirpu.com^
 ||vhktunniggbd.com^
 ||vhldwuv6om.com^$third-party
@@ -46223,6 +46782,7 @@ zymic.com###sponsor-partners
 ||vipergirls.to^*/sc300x250.
 ||viphdsrlec.com^
 ||vipicmou.net^
+||viral481.com^
 ||viral782.com^$third-party
 ||viraladnetwork.net^$third-party
 ||viralcpm.com^$popup
@@ -46246,6 +46806,7 @@ zymic.com###sponsor-partners
 ||vitalads.net^$third-party
 ||viunypnvhcw.com^
 ||viurihkwo.com^
+||vivaclix.com^$third-party
 ||vivads.net/banners/
 ||vivdq.com^
 ||vivid.money/projectx/$ping
@@ -46262,7 +46823,6 @@ zymic.com###sponsor-partners
 ||vjqshoyjxwk.com^
 ||vjsxvihazrwypb.com^
 ||vjuvorqe.com^
-||vjzcgotoy.com^
 ||vk.com/js/lib/px.js
 ||vk77lnizckm6.com^
 ||vkaofq64zz.com^$third-party
@@ -46281,7 +46841,6 @@ zymic.com###sponsor-partners
 ||vllwccvw.com^
 ||vlnwqiloadoqt.com^
 ||vlogexpert.com^$third-party
-||vlpufjkwpmjhbn.com^
 ||vlrzhoueyoxw.com^
 ||vltwox7zl7h1wv.com^$third-party
 ||vltxcrkyxtv.com^
@@ -46318,6 +46877,7 @@ zymic.com###sponsor-partners
 ||voipnewswire.net^$third-party
 ||vokut.com^$popup
 ||voltskegscurate.com^
+||volumegently.com^
 ||volutionorigi.site^
 ||volyze.com^
 ||vonvthodzhxz.com^
@@ -46325,6 +46885,7 @@ zymic.com###sponsor-partners
 ||voradu.com^
 ||voredi.com^
 ||voterialijikol.site^
+||vouhecem.net^
 ||vounoany.net^$third-party
 ||vouzgwau.com^
 ||vovhiwr.com^$third-party
@@ -46385,6 +46946,7 @@ zymic.com###sponsor-partners
 ||vsrsmetactuul.com^
 ||vsu2jbpvgx3m.com^
 ||vsupeokq.com^
+||vsyaiejmfooba.com^
 ||vsyqexksz.com^
 ||vtcxhnri.com^
 ||vtgcvsmzxiyoz.com^
@@ -46529,7 +47091,6 @@ zymic.com###sponsor-partners
 ||wct.click^$third-party
 ||wcwcypfnvih.com^
 ||wcwdjojsxbbl.com^
-||wcwzzauws.com^
 ||wcyrjlszoo.com^
 ||wdaqrxfppj.com^
 ||wdbqsuukggoyg.com^
@@ -46544,9 +47105,11 @@ zymic.com###sponsor-partners
 ||weather.com/weather/*.sourcepoint
 ||weatherent.club^
 ||weatherthreat.com^*/app_add.png
+||weaurty.club^
 ||web-18.com/common/w18a26062012143253_min.js
 ||web-bars.com^
 ||web-t.9gag.com^
+||web.webformscr.com^$third-party
 ||webcambait.com^$third-party
 ||webcamgalore.com/aslog.js
 ||webcampromo.com^$third-party
@@ -46647,6 +47210,7 @@ zymic.com###sponsor-partners
 ||whittlecdn.xyz^
 ||whizzco.com^$third-party
 ||whjwcghg.com^
+||whoavaud.net^
 ||whoshood.com^
 ||whs82908.com^$third-party
 ||whstatic.com^*/ga.js?
@@ -46673,6 +47237,7 @@ zymic.com###sponsor-partners
 ||widgets.privateproperty.com.ng^$third-party
 ||widgets.skyscanner.net^$domain=euronews.com
 ||widgets.solaramerica.org^$third-party
+||widvffyokrmlkk.com^
 ||wiewsulznyncf.com^
 ||wifelovers.com^$third-party
 ||wigetmedia.com^$popup,third-party
@@ -46955,7 +47520,6 @@ zymic.com###sponsor-partners
 ||xdlmsvhhsvsp.com^
 ||xdnpghwspxnift.com^
 ||xdobkqqg.com^
-||xdqjeggqm.com^
 ||xdqodcrayeat.com^
 ||xdvbhfkeib.com^
 ||xdxzfqxudc.com^
@@ -47013,8 +47577,6 @@ zymic.com###sponsor-partners
 ||xingcloud.com^*/uid_
 ||xioodnxc1p1a.com^
 ||xiqgqftva.com^
-||xiqlaxjbzjei.com^
-||xirlmiyihvpi.com^
 ||xitmagql.com^
 ||xiweywhnx.com^
 ||xizupsawo.pro^
@@ -47024,7 +47586,6 @@ zymic.com###sponsor-partners
 ||xjtiqdylurgima.com^
 ||xjuzpixunwzckm.com^
 ||xjylcsyo.com^
-||xkcidzutjwukj.com^
 ||xklrckmslshvq.com^
 ||xkrbwsae.com^
 ||xkvptuurx.com^
@@ -47098,7 +47659,6 @@ zymic.com###sponsor-partners
 ||xrbmomiow.com^
 ||xrbvsiyyr.com^
 ||xrfjymmysdr.com^
-||xrkfqpbubaq.com^
 ||xrlnnjsitjhnvb.com^
 ||xrluvlmyuxqjme.com^
 ||xrqrpdxqpm.com^
@@ -47274,7 +47834,6 @@ zymic.com###sponsor-partners
 ||yemdmtwnpspgy.com^
 ||yeprimlax.club^
 ||yepsobtax.com^
-||yeuotdalcxqwr.com^
 ||yeuropertsp.site^
 ||yfbiwkxjkaw.com^
 ||yfcxzvdyrnp.com^
@@ -47328,7 +47887,6 @@ zymic.com###sponsor-partners
 ||yimg.com^*_skin_$domain=yahoo.com
 ||yincreate.top^
 ||yinsterkneeline.info^
-||yintkfbxaopyb.com^
 ||yiopqbbmugak.com^
 ||yirishedspe.info^
 ||yjdbnkgonfp.com^
@@ -47349,11 +47907,14 @@ zymic.com###sponsor-partners
 ||yllix.com^$third-party
 ||ylnmzwwc.com^
 ||ylqbiljjlyq.com^
+||yltcgyud.com^
 ||ylwu7xm3a1wv.com^
 ||ylx-1.com^$third-party
 ||ylx-2.com^$third-party
 ||ylx-3.com^$third-party
 ||ylx-4.com^$third-party
+||ym-a.cc^
+||ym-a.cc^$popup
 ||ymbpndswe.com^
 ||ymerjqsynqoxdm.com^
 ||ymkymasmvsuosd.com^
@@ -47419,6 +47980,7 @@ zymic.com###sponsor-partners
 ||ypreferred.com^$third-party
 ||yprnopqzs.com^
 ||ypummbggdjex.com^
+||ypuxlzxa.com^
 ||ypzhrmspnfmy.com^
 ||ypzrannhrvhlpk.com^
 ||yqbyzekybmswii.com^
@@ -47456,6 +48018,7 @@ zymic.com###sponsor-partners
 ||yttvnnvklf.com^
 ||ytwisqvoiugzb.com^
 ||ytxuslppbj.com^
+||ytymetuw.xyz^
 ||yu0123456.com^$third-party
 ||yucce.com^$third-party
 ||yuimtqtp.com^
@@ -47575,6 +48138,7 @@ zymic.com###sponsor-partners
 ||zedo.com/img/bh.gif?
 ||zedo.com^$popup,third-party
 ||zedo.com^$third-party
+||zeewepie.net^
 ||zekcgykv.com^
 ||zel-zel-fie.com^
 ||zelllwrite.com^
@@ -47739,12 +48303,14 @@ zymic.com###sponsor-partners
 ||zsrycovuxfgzyn.com^
 ||zsxqjjobfb.com^
 ||ztdfsxgcyprwvp.com^
+||ztexhfznxvpr.com^
 ||ztod.com/flash/wall*.swf
 ||ztsletmncez.com^
 ||ztslmijniaoqip.com^
 ||ztstwgxjhkuwj.com^
 ||ztzilyso.com^
 ||zudlddyzgogsh.com^
+||zugnogne.com^
 ||zugo.com^$third-party
 ||zukxd6fkxqn.com^$third-party
 ||zuphekry.net^$third-party
