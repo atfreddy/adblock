@@ -12,6 +12,7 @@ google.*###lb
 google.*##:root:style(overflow-y: visible !important;)
 ||consent.google.com/$subdocument
 google.com##.widget-consent-fullscreen.widget-consent
+google.it##.widget-consent-fullscreen.widget-consent
 mail.com##.mod-cookielayer.mod > .cookie-layer__content
 mytimfisso.tim.it###gld_cookie_flag
 nexi.it##.cl-banner-body
@@ -21,6 +22,7 @@ qwant.com###c_1 > .survey__popin__link > .survey__popin
 ||rutrk.org/*x*$image
 ||rutrk.org/*.jpg$image
 ||rutrk.org/*.gif$image
+rutracker.org##.products.bn-topic
 rutracker.org##tr.tCenter.row3 > td
 snbforums.com##.notice--cookie.notice--primary.js-notice.notice
 station-drivers.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
@@ -40,3 +42,7 @@ wilderssecurity.com##.notice_-1.DismissParent.Notice.panel
 fitgirl-repacks.site##.horizontalbar_truepush
 ||campaign.aliexpress.com/wow/gcp/*$subdocument
 youtube.com###interstitial > .ytd-masthead.style-scope
+deezer.com##.conversion-banner
+pornolab.net###logo > table > tbody > tr > .tCenter
+pornolab.net###fuckoffadblockers
+pornolab.net###page_footer
