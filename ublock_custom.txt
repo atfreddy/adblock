@@ -8,11 +8,13 @@ asaspa.it##.cc-cookies
 bmedonline.it##.fixed-bottom.acc-cookie
 bmedonline.it##main > .container > .cont-esterno-form.align-items-center.row > .col-12.col-lg-8.mb-xl-auto.mt-lg-0.mt-md-4
 edisonenergia.it###cookie-policy-bar
+google.*##.widget-consent-fullscreen.widget-consent
+google.*##div[jsname][jsaction^="dg_close"]
+google.*##html:style(overflow: visible !important;)
+consent.google.*
 google.*###lb
 google.*##:root:style(overflow-y: visible !important;)
 ||consent.google.com/$subdocument
-google.com##.widget-consent-fullscreen.widget-consent
-google.it##.widget-consent-fullscreen.widget-consent
 mail.com##.mod-cookielayer.mod > .cookie-layer__content
 mytimfisso.tim.it###gld_cookie_flag
 nexi.it##.cl-banner-body
