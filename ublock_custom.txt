@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Block-ATF-CustomList
+! Title: 🔪 ATF Block-CustomList (tiny)
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/ublock_custom.txt
 3bmeteo.com###content_video_sidebar
 3bmeteo.com###adv_adsense_300_dx
