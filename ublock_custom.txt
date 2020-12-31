@@ -38,7 +38,6 @@ youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.co
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
 youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
 youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
-xvideos.com##.bottom-msg
 ||mp4hentai.com/muddy-poetry-7144/$image
 wilderssecurity.com##.notice_-1.DismissParent.Notice.panel
 fitgirl-repacks.site##.horizontalbar_truepush
