@@ -1,8 +1,8 @@
 ![Adblock Plus 3.4]
 ! Title: 🌍 ATF Custom Easylist (optimized)
-! Version: 0.1 alphaCentauri 📣
+! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sat Jan 2 12:38:17 CET 2021 
+! Updated: Sat Jan 2 13:28:07 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -31221,7 +31221,6 @@ gogetaroomie.com###right-space
 gogetaroomie.com###top-space
 gogetaroomie.com##.left-space
 gokunming.com##.prom
-golf365.com##.top-con
 golfmagic.com##.sticky-container
 golfweather.com##.ox300x250
 goodmorningamerica.com,historicengland.org.uk##.alert-banner
@@ -32385,7 +32384,6 @@ sexuhot.com###right_div_2
 sexyfunpics.com##.listingadblock300
 sexzindian.com#@##ad_center
 shareae.com##.float-ck
-shelbystar.com##a[href^="http://web.gastongazette.com/advertising/"]
 shellsmart.com###modal_container
 sherdog.net###promotion_container
 sheridanmedia.com###poll-sponsor
@@ -32460,7 +32458,6 @@ spanishdict.com##.ad-wrapper
 spankbang.com##.live-rotate
 spankbang.com##.livecam-rotate
 spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepage_5__container__)
-spin.com##.banner-slot
 spin.ph###mrec3
 spindox.it##.disclaimer-box
 spjai.com#@##related_ads
