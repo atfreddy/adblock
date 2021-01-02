@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alphaCentauri 📣
 ! Expires: 14 days
-! Updated: Thu Dec 31 22:26:08 CET 2020 
+! Updated: Sat Jan 2 11:29:02 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -15234,6 +15234,7 @@
 ##.commercial-ad
 ##.commercial-ad-long
 ##.commercial-unit-mobile-bottom
+##.commercial-unit-mobile-top
 ##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci
 ##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci
 ##.commercialAd
@@ -16580,6 +16581,7 @@
 ##.dfp-button
 ##.dfp-double-mpu
 ##.dfp-dynamic-tag
+##.dfp-panel
 ##.dfp-slot
 ##.dfp-slot-wallpaper
 ##.dfp-tag-wrapper
@@ -17883,6 +17885,7 @@
 ##.hp-main__rail__footer__ad
 ##.hp2-adtag
 ##.hpPriceBoardSponsor
+##.hpRightAdvt
 ##.hp_320-250-ad
 ##.hp_ad_300
 ##.hp_ad_box
@@ -22295,6 +22298,7 @@
 ##cookie_notice
 ##cookiebox
 ##div > [class][onclick*=".updateAnalyticsEvents"]
+##div#main > div.D1fz0e
 ##div[class$="UpdatePanelCookie"]
 ##div[class*="-storyBodyAd-"]
 ##div[class*="CookieBanner-"]
@@ -22335,6 +22339,7 @@
 ##div[class^="__alertCookie"]
 ##div[class^="__cookie-banner"]
 ##div[class^="_cookieBanner-"]
+##div[class^="adUnit_"]
 ##div[class^="ad_position_"]
 ##div[class^="adbanner_"]
 ##div[class^="adpubs-"]
@@ -23762,6 +23767,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /__adstop.
 /__cookie_js.php
 /_ads/*
+/_adslot/*
 /_affiliatebanners/*
 /_b*.php?img=$image
 /_global/ads/*
@@ -25577,7 +25583,7 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /adverth.
 /adverthorisontalfullwidth.
 /advertical.
-/advertising-$image,script,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
+/advertising-$image,script,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising-stands.com.ua|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
 /advertising.$~script,~xmlhttprequest,domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.greunenberg.com|~advertising.hulu.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.co
 /advertising/banner_
 /advertising02.
@@ -28840,7 +28846,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 470x60.swf?
 470x60.swf|
 480x60.png|
-4fuckr.com###content > div[align="center"] > b[style="font-size: 15px;"]
 4fun.tv###cModal
 4gamer.net##.tweet_ranking_button
 4gtv.tv###Allow
@@ -30630,6 +30635,7 @@ cartoonnetwork.com###scraper
 cartoonnetwork.com###tos-bar
 cartoonnetwork.com##.inner266
 cartoonnetworkasia.com##.footerWrapper
+cartoonnetworkasia.com,gizgag.com###rightBanner
 castanet.net###hdad
 cataniaoggi.it###thepriv
 catholic.by###content a[href="https://t.me/catholicby"]
@@ -30707,10 +30713,12 @@ codinghorror.com###hireme
 coffeegeek.com##td[align="center"][width="100%"][valign="middle"]
 coingecko.com##.d-md-block
 coinmarketcal.com##.support-us
+coinmarketcap.com##.cmc-native-ad-row
 coinmarketcap.com##.cmc-newsletter-signup
 coinmarketcap.com#?#.cmc-bottom-margin-2x > div[class]:has(> div.cmc-newsletter-signup__widget)
 collegecandy.com#@#.rectangle_ad
 collegefashion.net###rainbowsparkleunicorn
+collinsdictionary.com##.topslot_container
 colourlovers.com###ga-above-footer
 cometbird.com##.gg_250x250
 comicbook.com##.ad_blk
@@ -30786,7 +30794,6 @@ dailypost.ng###mvp-wallpaper
 dailysabah.com##.veriAltBar
 dailyvoice.com##.b-banner
 dalmatinskiportal.hr,hzpp.hr##.cookie
-darkhorizons.com###content-island
 darricau.com###popup
 dashnet.org###support
 datacenterdynamics.com##div[style="width:300px;height:250px;margin:0;padding:0"]
@@ -30910,7 +30917,6 @@ ebay.com##div[title="ADVERTISEMENT"]
 ebay.ie###rtm_NB
 ebay.ie###rtm_html_225
 ebayclassifieds.com#@#.list-ad
-ebuddy.com###container-banner
 economist.com#@#.block-ec_ads
 economist.com#@#.ec-ads-remove-if-empty
 ecoustics.com###zox-lead-bot
@@ -30932,7 +30938,6 @@ eff.org##.pane-effector-signup
 egmnow.com##.inter_vid
 egmnow.com#@#.top_ad_wrap
 egmont.com#@#.cookie-bar:not(body):not(html)
-ego4u.com,web.id###content-top
 egotastic.com,nehandaradio.com#@##ad468
 egym.com##.egym-prompt
 ehow.com#@#.RelatedAds
@@ -30997,7 +31002,6 @@ evaair.com,orthomol.com,zombiearmy.com##.alert-box
 evaveda.com###text-7.widget-container
 everydayhealth.com#@#.SponsoredContent
 everyeye.it##.social_containerx
-everyjoe.com###mgid-widget
 evrl.to##.zen
 examiner.com###masthead
 exemproject.eu,kon-boot.com###myModal
@@ -31036,9 +31040,6 @@ factmag.com###vf-pop
 faithtalk1500.com,kfax.com,wmca.com##.siteWrapLink
 fakenamegenerator.com##.bcsw
 fakeupdate.net###itemz
-fanfox.net###left-skyscraper
-fanfox.net###mfad600x90
-fanfox.net###right-skyscraper
 fapdu.com###home_300_250
 fapdu.com##.aff300
 fapxl.com,javtitan.com###preroll
@@ -31114,6 +31115,7 @@ forbit.it##div[id^="ni_cookie_"]
 foreignaffairs.com#@#.region-top-ad-position
 foreignpolicy.com###spon_reports
 foreignpolicy.com#$#body { overflow:visible!important; }
+forgeandfortune.com#@##toasts > #toastsWrapper
 forlocations.com##.horizontalBanner
 formula1.com##.js-promo-item
 formulacionquimica.com###pck
@@ -31151,7 +31153,6 @@ futurecurrencyforecast.com##.cwc-tor-widget
 futurenet.club##.fn-banner
 fxlap.com##.banner
 fxlap.com##.blog-item
-gab.com##article[data-id^="promotion"]
 gagadget.com#?#.l-container p[class]:contains(Подписывайтесь)
 gamblejoe.com##.c-area
 gamcore.com##a[href^="http://gamcore.com/ads/"]
@@ -31329,7 +31330,6 @@ homenet.no###toast-container
 homo.xxx##.footer.spot
 homo.xxx##.spot.column
 honeysanime.com###custom_html-133
-hoovers.com##.hoov_goog
 horizon.tv##.notifications-manager
 horsemart.co.uk,merkatia.com,mysportsclubs.com,news.yahoo.com#@#.ad_header
 hostalia.com#@##gwd-ad
@@ -31376,6 +31376,7 @@ ikea.com##.toast-container
 ikks.com#@#.cookie-footer
 ilenta.com##div[style*="width:620px;"][style*="height:62px;"]
 ilgiornale.it,prezzoforte.it,virgilio.it###bottombar
+imagearn.com###picBanner
 imagebam.com,vipergirls.to##a[href^="https://www.mrporngeek.com/"]
 imagepost.com###potd
 imagepost.com##.textads1
@@ -31394,6 +31395,7 @@ imgism.com##.kevin-lb
 imgtaxi.com##.bottom_abs
 impactlab.net##.ilad
 imperfectparent.com###leada
+in.fo#@#.ads-banner
 inartek.it###discl
 inbox.com##.slinks
 inc.com##div[class*="privacyPolicyPopup"]
@@ -31403,7 +31405,6 @@ infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitimotors.cl,infinitipr.com##.c
 infiniti.com.tw##.c_128
 infiniti.it##.c_128
 infinitibg.bg##.c_128
-info.com###content + .P4
 infojobs.it##.notification-body
 infojobs.net###notification-type
 infomir.eu###cb
@@ -31424,6 +31425,7 @@ inquirer.com##.newsletter-card
 inquirer.net###billboard_article
 inspiyr.com##.add_unit
 inspiyr.com##.add_unit1
+instawank.com###snackbar
 insurancejournal.com##.bzn
 interglot.com##div[style="width:728px;margin-right:auto;margin-left:auto"]
 interpals.net#@#.adFrameCnt
@@ -31453,10 +31455,8 @@ italradio.org##.privacyStatement
 itinari.com##.root-8abb4
 itsfoss.com##.CampaignType--floating
 ittsb.eu###random_banner
-itv.com##.db-mpu
 itv.com##.js-site-alert
 itv.com##.js-site-alert-content
-itv.com##.promoMpu
 itworldcanada.com###rightTopSponsor
 ivoox.com##body > .fixed-bottom-right
 ixbtlabs.com#@#.bottom_ad_block
@@ -31466,7 +31466,6 @@ izismile.com##.css-widget-item-wrap
 izlemac46.net##body > div#reload
 izlemac46.net##body > div[style*="width:100%;text-align:center"]
 jabong.com,people.com,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
-jacksonville.com###containerDeal
 jalopnik.com,gizmodo.com,lifehacker.com##.js_modal_exit_intent
 jamf.com###learn-more-banner-container > #learn-more-banner
 janrain.com###wptbheadline1
@@ -31524,13 +31523,11 @@ kinokong.net###hotnewsline
 kisshentai.net##div[id^="ad"]
 knowyourmeme.com##.combo-wrapper
 knowyourmeme.com##.rectangle-unit-wrapper
-komando.com##.interstitial-wrapper
 kompasiana.com###titledmRelatedPlayer
 kompasiana.com##.kolom-newslt
 kompasiana.com##.read-paging + h5.title-dash
 koopik.com#@#.footerad
 kotimaa24.fi###kotimaa-cookie-notification
-kqed.org##.textsponsor
 krillion.com###sponCol
 krnb.com###inner-footer
 krone.at#@##krn-privacy-center
@@ -31541,7 +31538,6 @@ kult-portal.com##.infobar
 kulttuurivihkot.fi##.activebar-container
 kvazar.cloud##.mpp-container
 kvraudio.com###kvr300600
-kwgn.com##.size_230_90
 l2inc.com###daily-newsletter-signup
 la7.it#@##_evh-ric
 labour.org.uk##.alert-bar-footer
@@ -31601,7 +31597,6 @@ lidl.si##.notification
 lidl.sk##.notification
 lifehack.org##.convertflow-cta
 lifehacker.com#?#.js_starterpost > div[class] > div:has(> a[href="/newsletter"])
-lifezette.com##.midpoint
 ligazakon.net##.light_subscription_block
 likar.info##.rigth-column__socialbar
 likeyouth.org##.policy-popup
@@ -31689,6 +31684,7 @@ manilastandard.net##.custom-banner-customize
 manilastandard.net##.page-category-contents-adds
 mansurfer.com###gayporn
 mansurfer.com###top-ban
+mansurfer.com##.footerbanner
 mansurfer.com##a[href*="/out/"]
 marbaro.it###marbaro_cookielaw_banner
 marca.com#@#.content-ad
@@ -31699,10 +31695,7 @@ marketgid.com,mgid.com#@#div[id^="MarketGid"]
 marsh.com##.reveal-modal-bg-white
 mashable.com###lead-banner
 mashable.com###pathing-banner
-mashable.com###sticky-spacer
 mashable.com##.cookie-notice
-mashable.com##.mpucnt
-mashable.com##.pga
 matureworld.ws###vote_popup
 mavin.io##.partner-content
 mbc.net###mbc-policy
@@ -31752,6 +31745,7 @@ miamitodaynews.com##.adtext
 mic.com##.article-page__mobile-newsletter
 microsoft.com###divNRMain
 microsoft.com##.feedback-visible
+microsoft.com#@##ms-cookie-banner
 might.net##.fat-container
 milenio.com#@#.banner_728x90
 milffox.com###fltd
@@ -31827,7 +31821,6 @@ mozilla.org##.global-notice
 mozillazine.org###goobot
 mozillazine.org###gootop
 mpog100.com##.ad3
-mrarrowhead.com##.dating_site_banner
 mrbigandtall.ca###joinTheClubPopupContainer
 mrskin.com##.az
 mrskin.com#@#a[href^="http://www.mrskin.com/tour"]
@@ -32100,7 +32093,6 @@ physicsworld.com##.corporate-partners
 pi-news.net##.widget_wysija
 picfont.com###block_a
 picnic.app###modal
-picocool.com###content-col-3
 picp2.com###system
 pihlajalinna.fi###root > div[aria-live="polite"][role="alert"]
 pimpandhost.com###ad2
@@ -32148,8 +32140,6 @@ politico.com##.morning-energy
 politico.com##.story-continued
 politico.com##.the-long-game-sign-up
 politifact.com##.m-billboard
-pons.com###container-superbanner
-pons.com,pons.eu###medium_rec
 popcap.com#@##adlayer
 popdust.com##.in
 popjustice.com##.mpufloatleft
@@ -32325,7 +32315,6 @@ rssing.com###toi
 rtp.pt###rtpgeralcookiecontent
 ru-mi.com##.mail_bottom
 rubner.com##.page__notification
-rumorfix.com##.top-banner-container
 runtastic.com##.halfpage
 russian.rt.com##.dzen--widget
 rxlist.com##.Yahoo
@@ -32410,7 +32399,6 @@ shopmos.net#@#.ads_top
 shore.com##.sc-jTzLTM
 shorpy.com###tad
 shoryuken.com#@##cmn_ad_tag_head
-si.com###si-com-ad-widget
 sia.eu###toast
 siea.sk###cac
 siliconera.com##.show-ads div.t-footer-wrapper
@@ -32582,7 +32570,7 @@ texasmonthly.com##.promo-topper
 texasmonthly.com##.promo__vertical
 tfportal.net###snt_wrapper
 tgfcer.com#@##content_adv
-tgstat.com##.r1-aods
+tgstat.com##.r1-aors
 the-star.co.ke##.l-banner
 the-star.co.ke##.l-wrapper--banner-00
 the18.com##.push-downv
@@ -32636,7 +32624,6 @@ thenewamerican.com#@#.module-ad
 thenewstack.io##.newsletter-sign-up-block
 thenextweb.com##.ica-wrapper
 theology.edu#@#.contentAd
-theolympian.com##.sponsorship
 theonion.com#@#.boxad
 thepointsguy.com##.favorite-cards
 thepostmillennial.com##.newsletter-wrapper
@@ -32776,7 +32763,6 @@ unixmen.com##.banners_home
 unocero.com#?#.column-main > div.widget:has(> div.newsletter)
 untappd.com##.tos-banner
 urbandictionary.com###dark_top
-urbandictionary.com##.dfp-panel
 urlcash.net###leftbox
 urlcash.net###rightbox
 usatoday.com###usat_PosterBlog
@@ -32839,6 +32825,7 @@ vuku.tv##div[class^="bookmarks_div"]
 vulture.com##.newsletter-flex-text
 w3avenue.com###sponsorsbox
 w3newspapers.com###btmadd
+w3newspapers.com##.rads
 waff.at##.en-notification
 wahcricket.com##.site-mainhead
 wahm.com##.rad-links
@@ -32886,6 +32873,7 @@ weraveyou.com##.snp-fb
 whatculture.com##.area-x__large
 whatismyreferer.com##a[href*="/?offer_id="]
 whatleaks.com##.clr > .banner2
+whatleaks.com##[href*="doublevpn.com"]
 whatmobile.com.pk##div[style^="height:610px"]
 whdh.com##div[style="width:970px;height:250px;"]
 whispersinthecorridors.com##.media > .space
@@ -32933,7 +32921,6 @@ www-cnet-com.cdn.ampproject.org##.newsletter
 www-cnet-com.cdn.ampproject.org$$div[class="c-reengageNewsletter"]
 www-cnet-com.cdn.ampproject.org$$div[class="newsletter"]
 www-ndtv-com.cdn.ampproject.org##.story_ft-nav
-www.google.ac,www.google.ad,www.google.ae,www.google.al,www.google.am,www.google.as,www.google.at,www.google.az,www.google.ba,www.google.be,www.google.bf,www.google.bg,www.google.bi,www.google.bj,www.google.bs,www.google.bt,www.google.by,www.google.ca,www.google.cat,www.google.cd,www.google.cf,www.google.cg,www.google.ch,www.google.ci,www.google.cl,www.google.cm,www.google.co.ao,www.google.co.bw,www.google.co.ck,www.google.co.cr,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.ls,www.google.co.ma,www.google.co.mz,www.google.co.nz,www.google.co.th,www.google.co.tz,www.google.co.ug,www.google.co.uk,www.google.co.uz,www.google.co.ve,www.google.co.vi,www.google.co.za,www.google.co.zm,www.google.co.zw,www.google.com,www.google.com.af,www.google.com.ag,www.google.com.ai,www.google.com.ar,www.google.com.au,www.google.com.bd,www.google.com.bh,www.google.com.bn,www.google.com.bo,www.google.com.br,www.google.com.by,www.google.com.bz,www.google.com.cn,www.google.com.co,www.google.com.cu,www.google.com.cy,www.google.com.do,www.google.com.ec,www.google.com.eg,www.google.com.et,www.google.com.fj,www.google.com.gh,www.google.com.gi,www.google.com.gt,www.google.com.hk,www.google.com.jm,www.google.com.jo,www.google.com.kh,www.google.com.kw,www.google.com.lb,www.google.com.ly,www.google.com.mm,www.google.com.mt,www.google.com.mx,www.google.com.my,www.google.com.na,www.google.com.ng,www.google.com.ni,www.google.com.np,www.google.com.om,www.google.com.pa,www.google.com.pe,www.google.com.pg,www.google.com.ph,www.google.com.pk,www.google.com.pr,www.google.com.py,www.google.com.qa,www.google.com.ru,www.google.com.sa,www.google.com.sb,www.google.com.sg,www.google.com.sl,www.google.com.sv,www.google.com.tj,www.google.com.tn,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vc,www.google.com.ve,www.google.com.vn,www.google.cv,www.google.cz,www.google.de,www.google.dj,www.google.dk,www.google.dm,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fm,www.google.fr,www.google.ga,www.google.ge,www.google.gg,www.google.gl,www.google.gm,www.google.gp,www.google.gr,www.google.gy,www.google.hk,www.google.hn,www.google.hr,www.google.ht,www.google.hu,www.google.ie,www.google.im,www.google.iq,www.google.is,www.google.it,www.google.it.ao,www.google.je,www.google.jo,www.google.jp,www.google.kg,www.google.ki,www.google.kz,www.google.la,www.google.li,www.google.lk,www.google.lt,www.google.lu,www.google.lv,www.google.md,www.google.me,www.google.mg,www.google.mk,www.google.ml,www.google.mn,www.google.ms,www.google.mu,www.google.mv,www.google.mw,www.google.ne,www.google.ne.jp,www.google.ng,www.google.nl,www.google.no,www.google.nr,www.google.nu,www.google.pl,www.google.pn,www.google.ps,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.rw,www.google.sc,www.google.se,www.google.sh,www.google.si,www.google.sk,www.google.sm,www.google.sn,www.google.so,www.google.sr,www.google.st,www.google.td,www.google.tg,www.google.tl,www.google.tm,www.google.tn,www.google.to,www.google.tt,www.google.us,www.google.vg,www.google.vu,www.google.ws##div#main > div.D1fz0e
 www.google.ac,www.google.ad,www.google.ae,www.google.al,www.google.am,www.google.as,www.google.at,www.google.az,www.google.ba,www.google.be,www.google.bf,www.google.bg,www.google.bi,www.google.bj,www.google.bs,www.google.bt,www.google.by,www.google.ca,www.google.cat,www.google.cd,www.google.cf,www.google.cg,www.google.ch,www.google.ci,www.google.cl,www.google.cm,www.google.co.ao,www.google.co.bw,www.google.co.ck,www.google.co.cr,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.ls,www.google.co.ma,www.google.co.mz,www.google.co.nz,www.google.co.th,www.google.co.tz,www.google.co.ug,www.google.co.uk,www.google.co.uz,www.google.co.ve,www.google.co.vi,www.google.co.za,www.google.co.zm,www.google.co.zw,www.google.com,www.google.com.af,www.google.com.ag,www.google.com.ai,www.google.com.ar,www.google.com.au,www.google.com.bd,www.google.com.bh,www.google.com.bn,www.google.com.bo,www.google.com.br,www.google.com.by,www.google.com.bz,www.google.com.cn,www.google.com.co,www.google.com.cu,www.google.com.cy,www.google.com.do,www.google.com.ec,www.google.com.eg,www.google.com.et,www.google.com.fj,www.google.com.gh,www.google.com.gi,www.google.com.gt,www.google.com.hk,www.google.com.jm,www.google.com.jo,www.google.com.kh,www.google.com.kw,www.google.com.lb,www.google.com.ly,www.google.com.mm,www.google.com.mt,www.google.com.mx,www.google.com.my,www.google.com.na,www.google.com.ng,www.google.com.ni,www.google.com.np,www.google.com.om,www.google.com.pa,www.google.com.pe,www.google.com.pg,www.google.com.ph,www.google.com.pk,www.google.com.pr,www.google.com.py,www.google.com.qa,www.google.com.ru,www.google.com.sa,www.google.com.sb,www.google.com.sg,www.google.com.sl,www.google.com.sv,www.google.com.tj,www.google.com.tn,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vc,www.google.com.ve,www.google.com.vn,www.google.cv,www.google.cz,www.google.de,www.google.dj,www.google.dk,www.google.dm,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fm,www.google.fr,www.google.ga,www.google.ge,www.google.gg,www.google.gl,www.google.gm,www.google.gp,www.google.gr,www.google.gy,www.google.hk,www.google.hn,www.google.hr,www.google.ht,www.google.hu,www.google.ie,www.google.im,www.google.iq,www.google.is,www.google.it,www.google.it.ao,www.google.je,www.google.jo,www.google.jp,www.google.kg,www.google.ki,www.google.kz,www.google.la,www.google.li,www.google.lk,www.google.lt,www.google.lu,www.google.lv,www.google.md,www.google.me,www.google.mg,www.google.mk,www.google.ml,www.google.mn,www.google.ms,www.google.mu,www.google.mv,www.google.mw,www.google.ne,www.google.ne.jp,www.google.ng,www.google.nl,www.google.no,www.google.nr,www.google.nu,www.google.pl,www.google.pn,www.google.ps,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.rw,www.google.sc,www.google.se,www.google.sh,www.google.si,www.google.sk,www.google.sm,www.google.sn,www.google.so,www.google.sr,www.google.st,www.google.td,www.google.tg,www.google.tl,www.google.tm,www.google.tn,www.google.to,www.google.tt,www.google.us,www.google.vg,www.google.vu,www.google.ws#@##bottomads
 www.google.com#@##videoads
 www.yahoo.com#@##my-adsFPAD
@@ -33014,6 +33001,7 @@ youx.xxx##.gallery-link
 yoy.tv###notice
 yp.com.kh###billboards
 yporn.tv###featured
+yts.mx###ni-overlay
 yttalk.com###rpmtop
 ytv.com###show-big-box
 yummyanime.club,yummyanime.com##a[target="_blank"] > img[style="width: 100%"]
@@ -34620,6 +34608,7 @@ zymic.com###sponsor-partners
 ||allclassical.org^*/banners/
 ||alleliteads.com^$third-party
 ||allexperts.com/px/
+||alliedthirteen.com^
 ||allmt.com^$third-party
 ||allmygoodlife.com^$third-party
 ||allosponsor.com^$third-party
@@ -34665,6 +34654,7 @@ zymic.com###sponsor-partners
 ||amarotic.com/?$popup,third-party
 ||amarotic.com/Banner/$third-party
 ||amarotic.com^*?wmid=$popup,third-party
+||amateurporn.net^$third-party
 ||amaumomt.com^
 ||amavirgin.pro^
 ||amazing-dating.com^$popup,third-party
@@ -34944,7 +34934,6 @@ zymic.com###sponsor-partners
 ||art.com/asp/UTERecording.asp
 ||art.com/asp/robot/
 ||artamkari.com^$document
-||artamkari.com^$popup
 ||artantash.club^
 ||artapeare.site^
 ||artcamcat.site^$third-party
@@ -35351,7 +35340,7 @@ zymic.com###sponsor-partners
 ||bcvutcks.com^
 ||bcvxpffzmkqf.com^
 ||bd1617dbbc28f.com^
-||bd202457b.com^$third-party
+||bd202457b.com^
 ||bdbdqqkbxb.xyz^
 ||bdozkocgkljj.com^
 ||bdtwxreri.com^
@@ -35430,7 +35419,7 @@ zymic.com###sponsor-partners
 ||bingohall.ag^$popup,third-party
 ||bingtonwr.top^
 ||binopt.net/banners/
-||biosda.com^$third-party
+||biosda.com^
 ||biosphoto.com^*/stats/
 ||bipwrite.com^
 ||biroads.com^
@@ -35524,7 +35513,6 @@ zymic.com###sponsor-partners
 ||bn5x.net^
 ||bngpt.com^
 ||bngpt.com^$popup
-||bngpt.com^$third-party
 ||bngwlt.com^
 ||bnhtml.com^$third-party
 ||bnielrtzc.com^
@@ -35553,11 +35541,11 @@ zymic.com###sponsor-partners
 ||bocpqkpmez.com^
 ||bodaimen.com^$third-party
 ||boerilav.com^
-||boffinsoft.com^$third-party
+||boffinsoft.com^
 ||boffoadsfeeds.com^
 ||bogads.com^$third-party
 ||bogytoeelf.com^
-||boinkcash.com^$third-party
+||boinkcash.com^
 ||bokilora.com^
 ||bokrelri.com^
 ||bolahepelm.com^
@@ -35605,7 +35593,7 @@ zymic.com###sponsor-partners
 ||boycottons.club^
 ||boysfood.com/d5.html
 ||boyughaye.com^
-||bposterss.net^$third-party
+||bposterss.net^
 ||bppzqphtd.com^
 ||bpsxhmtotf.com^
 ||bqiovml.com^$third-party
@@ -35645,7 +35633,7 @@ zymic.com###sponsor-partners
 ||bullionyield.com^
 ||bulovuni.pro^
 ||bultigho.net^$third-party
-||bumblecash.com^$third-party
+||bumblecash.com^
 ||bumq.com^$third-party
 ||bunny-net.com^$third-party
 ||bunnylust.com/sponsors/
@@ -37779,13 +37767,11 @@ zymic.com###sponsor-partners
 ||fanfiction.net/eye/
 ||fanpage.it/views/
 ||fansshare.com/t.gif
-||fantasti.cc/_special/
 ||fantasti.cc/ajax/gw.php?$popup
-||fantasti.cc/fabl.
 ||fantasti.cc^*?ad=$popup
 ||fantaz.com^*/banners/$third-party
 ||fantom-xp.org^*/toprefs.php?
-||fapality.com/294-ehk3av74bao/
+||fapality.com/015-yibg5oyis50/
 ||fapality.com^$third-party
 ||fapmeth.com^$popup
 ||fappenist.com/fojytyzzkm.php
@@ -37957,7 +37943,6 @@ zymic.com###sponsor-partners
 ||findit.com.mt/viewer/
 ||fingahvf.top^
 ||fingerous.club^
-||fingerslam.com/*.html
 ||fingsmelis.pro^
 ||finistentcou.top^
 ||finized.co^
@@ -38469,7 +38454,6 @@ zymic.com###sponsor-partners
 ||gflnzl1vqntw.com^
 ||gfxzwyphyv.com^
 ||gfycat.com^*/GFAN.min.js
-||gfycatporn.com/toon.gif
 ||gfzluvsjsprkac.com^
 ||gg.caixin.com^
 ||ggjcswb4rln4.com^
@@ -38490,7 +38474,6 @@ zymic.com###sponsor-partners
 ||giffgaff.com/banner/
 ||giffgaff.com/r/?id=
 ||gifiqbbfvh.com^
-||gifsauce.com^*/tpd.
 ||gigaads.xyz^$third-party
 ||gigbyefly.com^
 ||gilzana.pw^
@@ -38707,7 +38690,6 @@ zymic.com###sponsor-partners
 ||goslavispro.info^
 ||gossipmillnigeria.com^*-banner-
 ||gotagy.com^$third-party
-||gotgayporn.com/Watermarks/
 ||gotjobbs.com^
 ||gourmetadoonce.com^
 ||gourmetads.com^$third-party
@@ -38896,13 +38878,13 @@ zymic.com###sponsor-partners
 ||hcrwnoaqe.com^
 ||hcwaxejunyzvxt.com^
 ||hcwdcintgl.com^
-||hd-easyporn.com/cpanel/
 ||hd100546b.com^$third-party
 ||hd149026b.com^$third-party
 ||hdat.xyz^$third-party
 ||hdcqfqnn.com^
 ||hditers.com^
 ||hdpass.club^$third-party
+||hdporn.net/pop.js
 ||hdporn.to^$popup,third-party
 ||hdpreview.com^$third-party
 ||hdslnhmjga.com^
@@ -39018,10 +39000,8 @@ zymic.com###sponsor-partners
 ||hitgodcut.club^
 ||hithingperm.space^
 ||hitmarkerjobs.com^$third-party
+||hitomi.la/TFNYtjXBB
 ||hitomi.la/dFjzT6Dc
-||hitomi.la/hitomi-
-||hitomi.la/hitomi.
-||hitomi.la/hitomi/
 ||hitopadxdz.xyz^$popup
 ||hits.antena3.com^
 ||hiug862dj0.com^$third-party
@@ -39070,7 +39050,6 @@ zymic.com###sponsor-partners
 ||hoghqjddg.com^
 ||holdierpriv.club^
 ||holdspreoccupation.com^
-||hollywoodoops.com/img/*banner
 ||holyfamilyradio.org/banners/
 ||home-soon.com^$third-party
 ||home4loans.info^
@@ -39138,18 +39117,13 @@ zymic.com###sponsor-partners
 ||hotlinking.dosmil.imap.cc^$third-party
 ||hotnews.ro/pageCount.htm?
 ||hotpads.com/xOR1K5b6/
-||hotpornfile.org^*/ban/
-||hotpornfile.org^*/pixel.js
 ||hotptp.com^$third-party
-||hotshame.com/hotshame_html/
-||hotshame.com/js/adphotshame
 ||hotsocials.com^$third-party
 ||hotstar.com^*/midroll?$~third-party
 ||hotstar.com^*/preroll?$~third-party
 ||hottystop.com/t33638ba5008.js
 ||hotwords.com.mx^$third-party
 ||hotwords.com^$third-party
-||hotxxxpussy.com/func.js
 ||houdodoo.net^
 ||hounicuy.com^
 ||hourakob.net^$third-party
@@ -39402,13 +39376,8 @@ zymic.com###sponsor-partners
 ||image.cecash.com^$third-party
 ||image.dhgate.com^*/dhgate-logo-$third-party
 ||imageadvantage.net^$third-party
-||imagearn.com/img/picBanner.swf
 ||imagebam.com/redirect_awe.php$popup
-||imagecarry.com/down
-||imagecarry.com/top
-||imagedunk.com^*_imagedunk.js
-||imagefap.com/019ce.php
-||imagehyper.com/prom/
+||imagefap.com/msnas.php
 ||imagenpic.com^$script,~third-party
 ||imagepost.com/stuff/
 ||images-amazon.com/images/*/associates/widgets/
@@ -39421,6 +39390,7 @@ zymic.com###sponsor-partners
 ||imagetwist.com/?op=
 ||imagetwist.com/banner/
 ||imagetwist.com^$script,~third-party
+||imageweb.ws^$domain=tongabonga.com
 ||imasdk.googleapis.com^$third-party
 ||imayjubge.com^
 ||imbafgnoipmv.com^
@@ -39436,8 +39406,8 @@ zymic.com###sponsor-partners
 ||imgcandy.net/fad/$script
 ||imgdino.com/gsmpop.js
 ||imgdrive.net/anex/
+||imgdrive.net/ea/
 ||imgfeedget.com^$third-party
-||imgflare.com/exo.html
 ||imgix.net/sponsors/
 ||imgkcxjlrlqf.com^
 ||imglnka.com^$third-party
@@ -40437,7 +40407,6 @@ zymic.com###sponsor-partners
 ||lauk.icu^
 ||lauwhada.com^
 ||lavando2scas1hh1.com^
-||laxtime.com/rotation/
 ||laydcilck.com^$third-party
 ||layer-ad.org^$third-party
 ||layerloop.com^$third-party
@@ -40615,7 +40584,6 @@ zymic.com###sponsor-partners
 ||linkredirect.biz^$third-party
 ||linkreferral.com^$third-party
 ||links2revenue.com^$third-party
-||linksave.in/fopen.html
 ||linkshowoff.com^$third-party
 ||linkshrink.net^$script,third-party
 ||linkshrink.net^*#^$popup,domain=linkshrink.net
@@ -40642,7 +40610,6 @@ zymic.com###sponsor-partners
 ||littlementok.site^
 ||liuduuct.com^
 ||liulwxrybupyzu.com^
-||live-porn.tv/adds/
 ||live.com/handlers/watson.mvc?
 ||liveadoptimizer.com^$third-party
 ||liveburst.com^$third-party
@@ -40840,6 +40807,7 @@ zymic.com###sponsor-partners
 ||ltdwkrgogvkgn.com^
 ||ltgmnghobitgb.com^
 ||ltjvgpxg.com^
+||ltn.hitomi.la/TFNYtjXB
 ||ltnkbvcm.com^
 ||ltnvnvxzetvhk.com^
 ||ltzjkjxx.com^
@@ -41164,7 +41132,6 @@ zymic.com###sponsor-partners
 ||medyanet.net^$third-party
 ||medyanetads.com^$third-party
 ||meehaina.net^
-||meendo.com/promos/
 ||meendocash.com^$third-party
 ||meepwrite.com^
 ||meetic-partners.com^$third-party
@@ -42837,6 +42804,7 @@ zymic.com###sponsor-partners
 ||pcmag.com/s/js/zad.js
 ||pcmag.com^*/analytics.js
 ||pcommaging.site^
+||pcon.space^
 ||pcrhfkuwp.com^
 ||pcskkmgjnubi.com^
 ||pd-news.com^
@@ -43487,6 +43455,7 @@ zymic.com###sponsor-partners
 ||pulpyads.com^$third-party
 ||pulsar.ebay.$ping,script
 ||pumtaimp.com^
+||punkrevealed.com^
 ||punosy.com^
 ||punpisurn.site^
 ||punsong.com^$popup
@@ -45377,6 +45346,7 @@ zymic.com###sponsor-partners
 ||tattomedia.com^$third-party
 ||tauwhout.net^$third-party
 ||tbaffiliate.com^$third-party
+||tbib.org/gaming/
 ||tbib.org/gaming/clicker.php
 ||tbib.org/tbib.
 ||tbkjttmdcjduhs.com^
@@ -45462,6 +45432,7 @@ zymic.com###sponsor-partners
 ||tf-con.com^
 ||tf2www.com^
 ||tfa5e.top^$third-party
+||tfaa2.com^
 ||tfbqvqclg.com^
 ||tfiph.com^
 ||tfiph.com^$popup
@@ -45546,7 +45517,6 @@ zymic.com###sponsor-partners
 ||thoughtleadr.com^$third-party
 ||thoughtsondance.info^$third-party
 ||thqwivyhdpoem.com^
-||thrixxx.com/scripts/show_banner.php?
 ||thrnt.com^$third-party
 ||ths9j89.com^$popup
 ||thterras.com^
@@ -46379,7 +46349,6 @@ zymic.com###sponsor-partners
 ||vip-vip-vup.com^
 ||vipcpms.com^$popup
 ||vipcpms.com^$third-party
-||vipergirls.to/t2090e8e7600v3.js
 ||vipicmou.net^
 ||viral481.com^
 ||viral782.com^$third-party
@@ -46839,7 +46808,6 @@ zymic.com###sponsor-partners
 ||wigetmedia.com^$third-party
 ||wigglecrisis.com^
 ||wikbpyexkw.com^
-||wiki-stars.com/img.php?
 ||wikihow.com/visit_info
 ||wikihow.com/x/collect?
 ||wikihow.com/x/event?
@@ -47087,7 +47055,7 @@ zymic.com###sponsor-partners
 ||xcabin.net/b/$third-party
 ||xcafe.com/*.jsx
 ||xcafe.com/*.jx
-||xcafe.com/opyP3AABCpbV/
+||xcafe.com/F4qQ3XAWfpm.js
 ||xcams.com/livecams/pub_collante/script.php?$third-party
 ||xclgusxcdjd.com^
 ||xclicks.net^$popup
@@ -47138,7 +47106,6 @@ zymic.com###sponsor-partners
 ||xgspfcpxt.com^
 ||xgubafscfsf.com^
 ||xhamster.com/?log=
-||xhamster.com/ads/
 ||xhamstercams.com^$third-party
 ||xhfosyfia.com^
 ||xhgqgbomrrfstv.com^
@@ -47678,7 +47645,7 @@ zymic.com###sponsor-partners
 ||zazzle.com^*?rf$third-party
 ||zbdvvwpia.com^
 ||zblbiqpv.com^
-||zbporn.tv/zps/
+||zbporn.tv/zpi/
 ||zbqblhqlrm.com^
 ||zbtffdiu.com^
 ||zbvrqrjecs.com^
