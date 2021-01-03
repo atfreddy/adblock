@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 12:22:49 CET 2021 
+! Updated: Sun Jan 3 12:57:31 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -23208,7 +23208,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 .net/adgallery
 .net/adj;
 .net/ads-
-.net/ads/
 .net/ads?
 .net/ads_
 .net/adt?
@@ -24825,7 +24824,6 @@ $websocket,domain=flashx.cc|flashx.to|flashx.tv
 /ads.gif
 /ads.htm
 /ads.htm$popup
-/ads.js/*
 /ads.json?
 /ads.jsp
 /ads.load.
