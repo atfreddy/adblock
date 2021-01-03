@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 18:28:30 CET 2021 
+! Updated: Sun Jan 3 18:38:35 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -25612,14 +25612,12 @@ buzzfeed.com###mod-product-labs-promo-1
 buzzfeed.com##.buzzblock-newsletter
 buzzfeed.com,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 ca2015.com##.module-footer-sponsors
-caarewards.ca#@#.smallAd
 calcolostipendio.it##.bold_text
 calendar.google.com,docs.google.com,mail.google.com,news.google.com,drive.google.com##iframe[src^="https://ogs.google.com/widget/callout?prid="]:upward(div[style^="overflow: hidden; position: absolute; top: 0px; width:"])
 cam4.com##.removeAds
 cambodiayp.com,nepalyp.com##.banner750
 cameralabs.org##.gk-form-podpiska
 campusdish.com#@##adBanner
-canada411.ca##.c411TopBanner
 canadaka.net##.boxadd
 candidvoyeurism.com##.rectangle
 cantoot.com###googlebox
@@ -25635,7 +25633,6 @@ cataniaoggi.it###thepriv
 catholic.net##.publicidad
 catsthemusical.com##.two-column > div.gform_wrapper
 cattolica.it##.vgg
-cbc.ca##.newsletterWidget
 cbfhydraulic.com,marasrl.it###ckInfo
 cboe.com###special_offers
 cbslocal.com##.widget_cbs_newsletter_widget
@@ -26019,8 +26016,6 @@ gizmodo.com,kotaku.com###newsletterPromoModule
 glamourvanity.com##.wdt_gads
 glo.msn.com#@#.cp-adsInited
 globallogic.com###ac-wrapper
-globalnews.ca##.c-flyers
-globalnews.ca##.c-stickyRail
 gmx.com##.skyscraperClass
 gmx.net###topper
 goal.com#@#.adv_300
@@ -26228,7 +26223,6 @@ kexp.org###medium_rectangle
 khaama.com##.ad8
 khistocks.com,milb.com###standard_banner
 kickasstorrents.to##.dssdffds
-kijiji.ca##div[class^="sponsored-"]
 kisshentai.net##div[id^="ad"]
 knowyourmeme.com##.combo-wrapper
 knowyourmeme.com##.rectangle-unit-wrapper
@@ -26365,7 +26359,6 @@ metacrawler.com##.pirArea
 metal-shop.eu###nextcreBotDialog
 meteoeradar.it##.active
 meteomonopoli.it###my_privacy_widget
-mexx.ca#@##ads_bottom
 meyer.it###zf--alerts-panel
 miami.com###visit
 miami.com##.expedia-widget
@@ -26868,7 +26861,6 @@ stlmag.com##.buzzworthy
 studocu.com##.bottom-bar-enter-active
 studocu.com##div[class^="banner-wrapper-"]
 sumanasa.com##.adcontent
-sunnewsnetwork.ca#@##logoAd
 sunporno.com##.a-block
 supercars.com##.footer-promo
 superhq.net##.feedrss
@@ -27008,7 +27000,6 @@ turboc8.com###top-widget
 tutby.*,tut.by##.b-sbscr
 tutiempo.net##.ContBannerTop
 tv.com###vendor_spotlight
-tv5unis.ca##.css-wydzoi.e1v9p9hw0
 tvgolo.com##.pub468x60top
 tvland.com#@#.ad_promo
 tvlizer.com###pubfooter
@@ -27092,7 +27083,6 @@ wallpapers-room.com##.recommendations-468x60
 wallpapershome.com##.cc-dialog
 wallpapersmania.com###wm_cpa
 wallpapersmania.com##.top_pad_10
-walmart.ca##.privacy-open > div > [class] > div[class^="css"]
 walmart.com##.footer-GlobalEmailSignup
 wbal.com##.wbal-banner
 wbur.org##.uw--rectangle
