@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 19:32:15 CET 2021 
+! Updated: Sun Jan 3 19:36:05 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -24444,7 +24444,6 @@
 @@||apis.google.com^$script,subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||avclub.com^*/adManager.$script,~third-party
 @@||bpui0.google.com^$document,subdocument,domain=adwords.google.com
-@@||canada.com/news/*-300-250.gif
 @@||canoe.com/Canoe/Ad/premium/$script
 @@||capertongillett.com/glp?r=$script,~third-party
 @@||capitalone360.com/js/adwizard/adwizard_homepage.js?
@@ -25603,7 +25602,6 @@ cam4.com##.removeAds
 cambodiayp.com,nepalyp.com##.banner750
 cameralabs.org##.gk-form-podpiska
 campusdish.com#@##adBanner
-canadaka.net##.boxadd
 candidvoyeurism.com##.rectangle
 cantoot.com###googlebox
 capterra.com##.welcome-banner
@@ -25895,8 +25893,6 @@ ffonts.net,whatfontis.com###sticky-popup
 fiaformulae.com##.m-partners
 fieraforli.it##.ns-box
 fifa.com##.mdl-overlay
-fijisun.com.fj##.widget-1
-fijisun.com.fj##.widget-3
 file-extensions.org##.advicon
 filepuma.com##.cRight_footer
 fileriver.net,englishlightnovels.com##.widget_blog_subscription
@@ -26022,7 +26018,6 @@ googleping.com###itro_popup
 googleping.com##.dtext
 googlesightseeing.com##.comm-square
 googletutor.com##div[style="width:125px;text-align:center;"]
-gotgayporn.com###ss_bar
 gotokyo.org###tmp_local_bar
 gotporn.com##.spnsrd
 gotporn.com##div[data-event-type="REC_CLICK"]
@@ -26156,17 +26151,12 @@ irishpost.com##.add-pad
 isa-sociology.org###politica
 island.lk###left_banner_adds1
 isource.com#@##topAd
-israelnationalnews.com##.InfoIn
-israelnationalnews.com##.InfoIn2
-israelnationalnews.com##.LeftInfo
-israelnationalnews.com##.div300
 issuu.com##div[class*="adSkyscraper"]
 italradio.org##.gpdr
 italradio.org##.privacyStatement
 ittsb.eu###random_banner
 itv.com##.js-site-alert
 itv.com##.js-site-alert-content
-itworldcanada.com###rightTopSponsor
 ixbtlabs.com#@#.bottom_ad_block
 izismile.com##.ban_top
 izismile.com##.css-widget-item-wrap
@@ -26295,7 +26285,6 @@ malwarehelp.org##.custom_1_box
 mamul.am##.bannerb
 manilastandard.net##.custom-banner-customize
 manilastandard.net##.page-category-contents-adds
-mansurfer.com###gayporn
 mansurfer.com###top-ban
 mansurfer.com##.footerbanner
 marbaro.it###marbaro_cookielaw_banner
@@ -26502,7 +26491,6 @@ okido.com##.woocommerce-store-notice
 olweb.tv#@##ads1
 olx.pt,whatuni.com#@#.ad_img
 olymp.com##.legal-banner
-omegle.com##.lowergaybtn
 omggamer.com##.widget_convertkit_form
 on.cc###acceptDisclaimer
 onhax.net###sb_viewer > ul > #text-5
@@ -27169,8 +27157,6 @@ yodiz.com###footMsgYodiz
 yogisoftworld.blogspot.com##a[onclick]
 youkioske.com#@##adLayer
 youporn.com##[id^="parent_zone_"]
-youporngay.com###producer
-youporngay.com##.contentPartner
 yourbittorrent.com##.extneed
 yourlust.com###relatedBanner
 yourlust.com##.banner_right
@@ -27495,7 +27481,6 @@ zymic.com###sponsor-partners
 ||4fb0a3bf4a3d38.com^
 ||4fuckr.com/api.php$popup
 ||4hds.com/js/camstats.js
-||4ib3rzfjqh.buzz^
 ||4ixbffsib0.monster^
 ||4o64flb.com^$third-party
 ||4o7cj36hbaip.com^
@@ -29243,7 +29228,6 @@ zymic.com###sponsor-partners
 ||baypops.com^$popup,third-party
 ||bb1acb0ea5ddb1fed8.com^
 ||bb475d71fa0b1b2.com^
-||bbitetuncmwfjd.com^
 ||bbom2b434493.com^
 ||bbuni.com^$popup,third-party
 ||bbuni.com^$third-party
@@ -29494,7 +29478,6 @@ zymic.com###sponsor-partners
 ||budgetedbauer.com^$third-party
 ||budurl.com^$third-party
 ||buglethemfouls.casa^
-||buhatfjrk9dje10eme.com^
 ||buildhoodpip.club^
 ||bulb.76.my^
 ||bulbsanctify.com^
@@ -29559,7 +29542,6 @@ zymic.com###sponsor-partners
 ||bwaguyek.com^
 ||bwhjcwnbbwsd.com^
 ||bwjteztqdlg.com^
-||bwoipfjnvbw.com^
 ||bxaddbia.com^
 ||bxgnnzwagkxur.com^
 ||bxhevqnz.com^
@@ -29576,7 +29558,6 @@ zymic.com###sponsor-partners
 ||bza.co^$subdocument,third-party
 ||bzctqprddwhj.com^
 ||bzfvcavza.com^
-||bzgijyfjo.com^
 ||bzspzpdrqjopj.com^
 ||bzsukdfbotd.com^
 ||bzxmgyfae.com^
@@ -29838,7 +29819,6 @@ zymic.com###sponsor-partners
 ||civiliargeo.club^
 ||civiliargeord.club^
 ||civitik.com^
-||civralowjoifjy.com^
 ||cjf25jklrwqt.com^
 ||cjl58f3agc.com^$popup
 ||cjlqwfpkwi.com^
@@ -30270,7 +30250,6 @@ zymic.com###sponsor-partners
 ||cvypzafq.com^
 ||cweiwoydalr.com^
 ||cwgads.com^$third-party
-||cwgayuzp.com^
 ||cwkhyupiwzcjy.com^$third-party
 ||cwkuki.com^$third-party
 ||cworsbumjgbuc.com^
@@ -30424,7 +30403,6 @@ zymic.com###sponsor-partners
 ||ddmax20.xyz^
 ||ddnmzrpp.com^
 ||ddvqjnbt.com^
-||ddzfjyppcbv.com^
 ||df8c5028a1fad1.com^
 ||df931f2841ac729.com^
 ||dfb79196408612f1.com^
@@ -30843,7 +30821,6 @@ zymic.com###sponsor-partners
 ||edampeci.com^
 ||edcredition.club^
 ||edcreptors.club^
-||eddrpnykbofjln.com^
 ||edfsqfaeenij.com^
 ||edgeads.org^$third-party
 ||edgecastcdn.net^*.barstoolsports.com/wp-content/banners/
@@ -31062,7 +31039,6 @@ zymic.com###sponsor-partners
 ||eqdxwctuflfc.com^
 ||eqfgc.com^$third-party
 ||eqoivockikaue.com^
-||eqrbfjwnmxpy.com^
 ||equirodi.*/addstat.php
 ||equivalentliked.com^
 ||equjalkngu.com^
@@ -31157,7 +31133,6 @@ zymic.com###sponsor-partners
 ||evgywgur.com^
 ||eviclick.pro^$third-party
 ||evisit.exeter.ac.uk^
-||evlpfjro.com^
 ||evokeelbowsoil.com^
 ||evvznnafduvs.com^
 ||ewedivotsfop.com^
@@ -31407,7 +31382,6 @@ zymic.com###sponsor-partners
 ||ferrpictak.com^
 ||feverhappyjack.com^
 ||fewmphbwt.com^
-||feyfjlpeexvg.com^
 ||ff.doubleclick.net^
 ||ff52e77ba517.com^
 ||ff5bd8d9f8df.com^
@@ -31423,7 +31397,6 @@ zymic.com###sponsor-partners
 ||fgddl9szdof7.com^
 ||fgddrrr.com^$third-party
 ||fgfgnbmeieorr910.com^
-||fggwavfjucnyw.com^
 ||fgjasshw.com^
 ||fgoocsqg.com^
 ||fgoverhead.club^
@@ -31435,8 +31408,6 @@ zymic.com###sponsor-partners
 ||fhoexcvjspuh.com^
 ||fhtoxxda.com^
 ||firebaselogging.googleapis.com^
-||fjioh.com^
-||fjmsdaswvhktht.com^
 ||fkart.xyz^
 ||fkbwtoopwg.com^$third-party
 ||fkcfaagktu.com^
@@ -31522,7 +31493,6 @@ zymic.com###sponsor-partners
 ||focalex.com^$third-party
 ||foditgoz.com^
 ||fodlkf9d1p.com^
-||fogayeown.com^
 ||fogzyads.com^$third-party
 ||fokgwuoft.com^
 ||followfact.com^
@@ -31751,9 +31721,6 @@ zymic.com###sponsor-partners
 ||gateways.s3.amazonaws.com^
 ||gaulauvi.net^
 ||gauwicig.com^$third-party
-||gayadnetwork.com^$third-party
-||gayadpros.com^$third-party
-||gayxperience.com^$third-party
 ||gazati.com^$third-party
 ||gazettereasi.club^
 ||gazukakdlk.com^
@@ -32143,7 +32110,6 @@ zymic.com###sponsor-partners
 ||gxhxmy88.com^
 ||gxmjjxyyljtyf.com^
 ||gxordgtvjr.com^
-||gxpijskyqwqfjw.com^
 ||gxqotelkdra.com^
 ||gxqrjjcsyh.com^
 ||gxymlqcnu.com^
@@ -32365,7 +32331,6 @@ zymic.com###sponsor-partners
 ||hkv06j2p7pof.com^
 ||hlads.com^$third-party
 ||hldsogaxfq.com^
-||hlfjvpcpkynqco.com^
 ||hlitvetlw.com^
 ||hlmiq.com^$third-party
 ||hlpnowp-c.com^$popup
@@ -32560,7 +32525,6 @@ zymic.com###sponsor-partners
 ||i99i.org^
 ||iad-*.blaze.com^
 ||iadc.qwapi.com^
-||iafjzbzqdgxq.com^
 ||iajcvxcqktpm.com^
 ||iammvucrpj.com^
 ||ianxalim.pw^
@@ -32568,7 +32532,6 @@ zymic.com###sponsor-partners
 ||iarvyre.pw^
 ||iasrv.com^$third-party
 ||ib1oyteqqn.com^$third-party
-||ibaqfspkktxfj.com^
 ||ibatom.com^$third-party
 ||ibbkuhwgqawhvt.com^
 ||ibclxtlh.com^
@@ -32614,7 +32577,6 @@ zymic.com###sponsor-partners
 ||iedijlgkbqc.com^
 ||iedzocfoflfgam.com^
 ||ieeagbtui.com^
-||iefjsqos.com^
 ||iendoo.com^
 ||iettnkls.com^
 ||iezbleqt.com^
@@ -32645,7 +32607,6 @@ zymic.com###sponsor-partners
 ||iibcejrrfhxh.com^
 ||iiccrpwaxmxkqm.com^
 ||iilrgkor.com^
-||iiripeedqfj.com^
 ||ijiraeitwqpj.com^
 ||ijjiii.is^$popup
 ||ijrah.top^$third-party
@@ -32781,7 +32742,6 @@ zymic.com###sponsor-partners
 ||iqyxvcqns.com^
 ||iraithiz.com^
 ||irdcdrpzs.com^
-||irecfjyzlrjrr.com^
 ||iredirect.net^
 ||irjfsrocuzwkpf.com^
 ||irkgxjcgl.com^
@@ -33039,8 +32999,6 @@ zymic.com###sponsor-partners
 ||joynxonnxfnvqr.com^
 ||joyvowdig.com^
 ||jqamhmztnukb.com^
-||jqfjrjka5t.top^$popup
-||jqfjrjka5t.top^$third-party
 ||jqk72ugyl2pz.com^
 ||jqnshpbuj.com^
 ||jqpuxvgnxkf.com^
@@ -33336,7 +33294,6 @@ zymic.com###sponsor-partners
 ||kpyxcbdaftlxt.com^
 ||kpzsyqhje.com^
 ||kqbigsdyqtdh.com^
-||kqzyfj.com/image-$third-party
 ||krapps.com^*-banner-
 ||krboeyeq.com^
 ||krdmqluvudizq.com^
@@ -33353,7 +33310,6 @@ zymic.com###sponsor-partners
 ||kshzzbmgbmoqad.com^
 ||ksnbdfzjlyqmxs.com^
 ||kt5850pjz0.com^$third-party
-||ktfjyexcacujjg.com^
 ||ktiwcxvrwedt.com^
 ||ktoloto.com^
 ||ktqcxbhghxp.com^
@@ -33558,7 +33514,6 @@ zymic.com###sponsor-partners
 ||lfahycetwt.com^
 ||lfendascra.club^
 ||lfg5jnbi.com^$third-party
-||lfjmmgorkjoaw.com^
 ||lfmwrbcfbji.com^
 ||lfstmedia.com^$third-party
 ||lfztmoamieum.com^
@@ -33755,7 +33710,6 @@ zymic.com###sponsor-partners
 ||lpoggqfdlmdsg.com^
 ||lpqlmevjhis.com^
 ||lpqrgmxuju.com^
-||lprkphlgaybvtn.com^
 ||lpvgsdbtcmyqy.com^
 ||lpzsxemf.com^
 ||lqagwvarq.com^
@@ -33825,7 +33779,6 @@ zymic.com###sponsor-partners
 ||lxgoewxns.com^
 ||lxhkqjqpswhg.com^
 ||lxoakdaejjryws.com^
-||lxwfjjnowwhld.com^
 ||lxykalyvq.com^
 ||lyaaikspui.com^
 ||lycnjtuomkpgca.com^
@@ -34134,7 +34087,6 @@ zymic.com###sponsor-partners
 ||mgpphjvd.com^
 ||mgsqbazssiq.com^
 ||mh9dskj8jg.com^$third-party
-||mhhjqfjujxwrfa.com^
 ||mhj765.xyz^
 ||mhogb.space^$third-party
 ||mi-mi-fa.com^$third-party
@@ -34155,7 +34107,6 @@ zymic.com###sponsor-partners
 ||midpopedge.com^
 ||miegpokitjxm.com^
 ||mifxolavi.com^
-||migayush2lam1pa1.com^
 ||mightydeals.s3.amazonaws.com/md_adv/
 ||mignoops.net^
 ||mignpaybmqkcy.com^
@@ -34196,7 +34147,6 @@ zymic.com###sponsor-partners
 ||mjbuuxt7l18r.com^
 ||mjcvdxnmp.com^
 ||mjkvwpabdce.com^
-||mjmbfjbgtqpu.com^
 ||mjquyspsrgybs.com^
 ||mjtjtcofce.com^
 ||mk-ads.com^$popup
@@ -34452,7 +34402,6 @@ zymic.com###sponsor-partners
 ||municalcurit.club^
 ||municalwarn.top^
 ||munroadaz.site^
-||muoiuxfj.com^
 ||mupteekr.net^$third-party
 ||musicatorrents.com^*/script.
 ||musictarget.com*/!
@@ -34472,7 +34421,6 @@ zymic.com###sponsor-partners
 ||mvqzskrnrsy.com^
 ||mvunstblutptj.com^
 ||mvvspjarye.com^
-||mwaiqeefj.com^
 ||mwhjamwra.com^
 ||mwhtoxix.com^
 ||mwslcqfoifw.com^
@@ -35342,7 +35290,6 @@ zymic.com###sponsor-partners
 ||ox-i.cordillera.tv^
 ||oxado.com^$third-party
 ||oxcluster.com^$third-party
-||oxfjlzyhxjihk.com^
 ||oxipkvzcdzh.com^
 ||oxpvwliy.com^
 ||oxsng.com^$third-party
@@ -35471,7 +35418,6 @@ zymic.com###sponsor-partners
 ||paysoxemgjqp.com^
 ||pb.s3wfg.com^
 ||pb5oqguywycj.com^
-||pbfjqmwjmuxywt.com^
 ||pbnusnsr.com^
 ||pbofytmakvye.com^
 ||pbpdgojwzfdc.com^
@@ -35545,7 +35491,6 @@ zymic.com###sponsor-partners
 ||perhangeflets.site^
 ||perhapscommabudge.com^
 ||peripherd.club^
-||perkcanada.com^$third-party
 ||personaleme.pro^$third-party
 ||perspoolothe.fun^
 ||perstago.pro^$third-party
@@ -35672,7 +35617,6 @@ zymic.com###sponsor-partners
 ||pixiedust.buzzfeed.com^
 ||pixiv.org^$third-party
 ||pixxur.com^$third-party
-||pjbifjjtir.com^
 ||pjkbojrcraj.com^
 ||pjnjskdvmbnup.com^
 ||pjsiazatx.com^
@@ -35690,7 +35634,6 @@ zymic.com###sponsor-partners
 ||pm.web.com^$third-party
 ||pmdgwnsgucy.com^
 ||pmlw0efk4x.com^$third-party
-||pmnywlfdffjge.com^
 ||pmoucikneuxcxy.com^
 ||pmpubs.com^$third-party
 ||pmrbancrbuht.com^
@@ -36176,10 +36119,8 @@ zymic.com###sponsor-partners
 ||qexegqtytk.bid^
 ||qfdn3gyfbs.com^$third-party
 ||qfeorrrf.com^
-||qfjherc.com^
 ||qfpqfdbjyjmvv.com^
 ||qfymuoqugz.com^
-||qgevavwyafjf.com^
 ||qggcjrrjvlif.com^
 ||qggypucwewn.com^
 ||qgnneaeagxaypp.com^
@@ -36219,7 +36160,6 @@ zymic.com###sponsor-partners
 ||qldozzpy.com^
 ||qlhhbgkgggsp.com^
 ||qlmgmgvmiepsb.com^
-||qlyfjtkl.com^
 ||qmiypgoukkl.com^
 ||qmkr7isp3o.com^$third-party
 ||qmokxgfz.com^
@@ -36296,7 +36236,6 @@ zymic.com###sponsor-partners
 ||qumagee.com^$third-party
 ||quoashei.com^
 ||quoeuedtku.com^
-||quowupsouefjej.com^
 ||quxveblgxgsi.com^
 ||quyxxofx.com^
 ||qvfwckuehf.com^
@@ -36324,7 +36263,6 @@ zymic.com###sponsor-partners
 ||qyixifzol.com^
 ||qylxeorawht.com^
 ||qyqbslpprlph.com^
-||qyqvfjvbzosz.com^
 ||qyxwfe.com^
 ||qz.com/log
 ||qza7iorexyrp.com^
@@ -36626,7 +36564,6 @@ zymic.com###sponsor-partners
 ||riykotovmy.com^
 ||rj2ro1x3j4ht.com^
 ||rjaepduiirw.com^
-||rjbfjwjxwsbhho.com^
 ||rjvbtutup.com^
 ||rjveitlz.com^
 ||rjwotofyxoszk.com^
@@ -36766,7 +36703,6 @@ zymic.com###sponsor-partners
 ||rvswxrjkmjou.com^
 ||rvtqbxawlkbq.com^
 ||rvwhtjxnn.com^
-||rvwtpwmtnfj.com^
 ||rvyvkjqffmdp.com^
 ||rwfqhbwkxpewc.com^
 ||rwgvulisul.com^
@@ -36775,7 +36711,6 @@ zymic.com###sponsor-partners
 ||rwmttawspapqcy.com^
 ||rwpads.com^$third-party
 ||rwrqmqyhfn.com^
-||rwtbgaguhmfj.com^
 ||rwyprejibmvcfh.com^
 ||rxksulmbu.com^
 ||rxsptuki.com^
@@ -37002,7 +36937,6 @@ zymic.com###sponsor-partners
 ||shoawhom.com^
 ||shodroph.net^$third-party
 ||shofteph.com^$third-party
-||shoizifjwosvk.com^
 ||shojovuptu.pro^
 ||shokala.com^
 ||shoofle.tv^$third-party
@@ -37097,7 +37031,6 @@ zymic.com###sponsor-partners
 ||slashstar.net^$popup
 ||slaveforgetfulsneak.com^
 ||slavial.pro^$third-party
-||slfjsqnmp.com^
 ||slfpu.com^$third-party
 ||slfsmf.com^$third-party
 ||slgynezaygkjqi.com^
@@ -37752,7 +37685,6 @@ zymic.com###sponsor-partners
 ||tfa5e.top^$third-party
 ||tfaa2.com^
 ||tfbqvqclg.com^
-||tfjqjhcwlfhicn.com^
 ||tfl.gov.uk/tfl-global/scripts/stats.js
 ||tfncnhd8p95c.com^
 ||tfqexqeldxjvet.com^
@@ -37777,7 +37709,6 @@ zymic.com###sponsor-partners
 ||theersoa.net^$third-party
 ||thefastpush.com^
 ||thefuncoolstuff.com^
-||thegay.com/kadyrov/
 ||theirsvendor.com^
 ||thekat.li/*?$popup
 ||thelakewoodscoop.com^*banner
@@ -38052,7 +37983,6 @@ zymic.com###sponsor-partners
 ||tvriqjez.com^
 ||tvshark.com/stats.js
 ||tvsxjbuo.com^
-||tvxpwhnrhsyfj.com^
 ||tweako.com/imp.php
 ||tweakreviews.com/count-banner
 ||tweard.com^$third-party
@@ -38373,7 +38303,6 @@ zymic.com###sponsor-partners
 ||uziiygdcwur.com^
 ||uzikrtotjbnq.com^
 ||uzk4umokyri3.com^
-||uznwafjxmm.com^
 ||uzozagug.xyz^
 ||uzpvacvhdssq.com^
 ||uzvqrimq.com^
@@ -38505,7 +38434,6 @@ zymic.com###sponsor-partners
 ||vgszcaszzef.com^
 ||vgvzvqbzhh.com^
 ||vgw35hwr4w6x.com^
-||vgyakiejafjjj.com^
 ||vhktunniggbd.com^
 ||vhldwuv6om.com^$third-party
 ||vhmnetwork.com^$third-party
@@ -38874,7 +38802,6 @@ zymic.com###sponsor-partners
 ||weredadmitt.club^
 ||weufdhsas.com^$image,third-party
 ||weuztuwxue.com^
-||weymsohsafjs.com^
 ||wfawhfxe.com^
 ||wfcvhhmumb.com^
 ||wfcxcblmy.com^
@@ -38991,7 +38918,6 @@ zymic.com###sponsor-partners
 ||wnd.com/s.js
 ||wndlkj.com^
 ||wndwhzjmfshthv.com^
-||wnfjzjmc.com^
 ||wnp.com^$third-party
 ||wnprot.com^
 ||wnybornxeukq.com^
@@ -39014,8 +38940,6 @@ zymic.com###sponsor-partners
 ||workedlew.top^
 ||workshirty.club^
 ||worldcdn.net^*/banners/
-||worldofjudaica.com/products/dynamic_banner/
-||worldofjudaica.com/static/show/external/
 ||worldtvhd.net/wp-content/$popup
 ||worldvision.org/kana/wvcg_wvorg.asp?
 ||worthathousandwords.com^$third-party
@@ -39064,7 +38988,6 @@ zymic.com###sponsor-partners
 ||wsowkqnxs.com^
 ||wsrkpjfs.com^
 ||wstats.e-wok.tv^
-||wswrfjuevvfz.com^
 ||wt2noay3fgjn.com^
 ||wtdome.com^
 ||wtg-ads.com^$third-party
@@ -39295,7 +39218,6 @@ zymic.com###sponsor-partners
 ||xrapmkrsqa.com^
 ||xrbmomiow.com^
 ||xrbvsiyyr.com^
-||xrfjymmysdr.com^
 ||xrlnnjsitjhnvb.com^
 ||xrluvlmyuxqjme.com^
 ||xrqrpdxqpm.com^
@@ -39460,7 +39382,6 @@ zymic.com###sponsor-partners
 ||yfbiwkxjkaw.com^
 ||yfcxzvdyrnp.com^
 ||yfdrpdjbxjm.com^
-||yfnvswrfjw.com^
 ||yformvcqgphol.com^
 ||yfum.com^$third-party
 ||yg592gpmrh0q.com^
@@ -39590,7 +39511,6 @@ zymic.com###sponsor-partners
 ||yqecjuoxiquvr.com^
 ||yqeuu.com^
 ||yqezqofkb1nnmz.com^$third-party
-||yqkxutfjzbdbml.com^
 ||yqmzhilyjzw.com^
 ||yqorexok.xyz^
 ||yr9n47004g.com^$third-party
@@ -39777,7 +39697,6 @@ zymic.com###sponsor-partners
 ||ziccardia.com^$image,third-party
 ||zidtqsrzosud.com^
 ||ziffdavis.com^$third-party
-||zifjgjddpy.com^
 ||zillow.com/HYx10rg3/
 ||zilogora.com^$third-party
 ||zim-zim-zam.com^
@@ -39791,13 +39710,11 @@ zymic.com###sponsor-partners
 ||zirlztyowfnif.com^
 ||zisboombah.net^$third-party
 ||ziznjduvyqygtk.com^
-||zjefjxjukiasd.com^
 ||zjiktkmjyo.com^
 ||zjk24.com^$third-party
 ||zjnmgmidmx.com^
 ||zjo0tjqpm1.com^$third-party
 ||zjqymhsk.com^
-||zkfjgzonjvg.com^
 ||zkmyaizgc.com^
 ||zkoumvpngkubl.com^
 ||zkqlyhwfn.com^
