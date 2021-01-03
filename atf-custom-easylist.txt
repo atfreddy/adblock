@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 13:08:37 CET 2021 
+! Updated: Sun Jan 3 15:38:44 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -7834,6 +7834,7 @@
 ###motionAd
 ###motorsCookieMsg
 ###movads10
+###move-ad
 ###movieads
 ###mow_cookie_info_dialog
 ###mozo-ad
@@ -9291,6 +9292,7 @@
 ###td_adunit2
 ###td_sponsorAd
 ###teads0
+###team_ad
 ###temelcookiepop
 ###temp-ads
 ###tenantAcceptText
@@ -10967,6 +10969,7 @@
 ##.ad-gpt-container
 ##.ad-gpt-main
 ##.ad-gpt-vertical
+##.ad-halfpage
 ##.ad-hdr
 ##.ad-head
 ##.ad-heading
@@ -20884,6 +20887,7 @@
 ##.subjects_ad
 ##.submenu_ad
 ##.subtitle-ad-container
+##.sudoku-ad
 ##.sugarad
 ##.suggAd
 ##.sui-CmpBanner
@@ -41638,6 +41642,8 @@ zymic.com###sponsor-partners
 ||myspace.com/isf.gif?
 ||mystighty.info^$popup
 ||mythings.com^$third-party
+||mytuner.mobi^*/solitaire.png
+||mytuner.mobi^*/sudoku.png
 ||myuffcmf.com^
 ||myvads.com^$third-party
 ||mywebclick.net^$third-party
