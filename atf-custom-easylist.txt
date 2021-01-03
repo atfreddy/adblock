@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 22:14:55 CET 2021 
+! Updated: Sun Jan 3 22:18:07 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -26694,7 +26694,6 @@ rpgsite.net##.block
 rtp.pt###rtpgeralcookiecontent
 ru-mi.com##.mail_bottom
 runtastic.com##.halfpage
-russian.rt.com##.dzen--widget
 rxlist.com##.Yahoo
 ryanair.com##.partnersmenu
 s1jobs.com###skyscraper-target
