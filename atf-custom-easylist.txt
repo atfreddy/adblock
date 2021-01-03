@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 21:16:28 CET 2021 
+! Updated: Sun Jan 3 21:19:27 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -25725,7 +25725,6 @@ decrypt.co##.sc-118zf0s-2
 decrypt.co##div[style^="position"][style*="relative"] > div[size="10"] + div.Veblq
 deepdotweb.com##.feedburner-email-subscription
 deezer.com##.cookie-banner
-delicious.com###spns
 delish.com##.conban1
 deluxemusic.tv#@#.article_ad
 dentisti-italia.it##.di-banner
