@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 19:42:48 CET 2021 
+! Updated: Sun Jan 3 19:45:31 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -25515,7 +25515,6 @@ bannerist.com#@#.ads-right
 barbavid.com###rabbax
 barelist.com##a[onclick="CallServer('ad', '')"]
 barrons.com##div[class^="BarronsTheme--adWrapper"]
-basilica.ro##.alert
 bassmaster.com###premier-sponsors-widget
 bbcearth.com##.sf-newsletter-component
 bc.vc##.fp-bar-dis
@@ -25700,7 +25699,6 @@ css3generator.com##.gotta-pay-the-bills
 cucirca.eu###stanga
 currencyrate.today##.cc-alert
 currenttime.tv##.banner
-cursbnr.ro###avert_all_page
 cutepdf-editor.com#@#.adtable
 dafont.com###sky
 daijiworld.com##.a2
@@ -26073,7 +26071,6 @@ hostalia.com#@##gwd-ad
 hot-jav.com###stop
 hotcleaner.com##.XNKr
 hotmovs.com##.fel-fbs
-hotnews.ro###avert
 howdyho.net##.special-top-tip
 howtogeek.com###div-thetop1
 howtogermany.com##img[width="120"]
@@ -26181,7 +26178,6 @@ jusan.it###privacy-popup
 juzaphoto.com##.s_bluebox
 jw.org#@#.adsBlock
 kanonitv.net###custom_html-7
-katadata.co.id##.newsletter
 kathmandupost.com##.pt-0
 kathmandupost.com##.sticky--bottom
 kcrw.com##.middle_bottom_wrap
@@ -26226,7 +26222,6 @@ leo.org##.as-oil
 lexico.com##.banbox
 lexus-bulgaria.bg##.disclaimer
 lexus.no##.disclaimer
-lexus.ro##.disclaimer
 lexus.sk##.disclaimer
 lifehack.org##.convertflow-cta
 ligazakon.net##.light_subscription_block
@@ -26681,7 +26676,6 @@ remosoftware.com##.visitornotice
 rentalcars.com###name_price_ad
 retailturkiye.com##.Mebulten
 reuters.com##amp-ad-custom
-revistablogurilor.ro###cookie
 revolution935.com##.qt-sponsor
 rgatorporn.com##.banner
 ria.com##.news-social-btn
@@ -26692,7 +26686,6 @@ roblox.com##.abp
 roblox.com##.roblox-skyscraper
 rocksound.tv###overtake
 rome2rio.com###alert-banner
-romedic.ro###cookbox
 roussillhotel.com#@##cookie-banner
 rpgsite.net##.block
 rtp.pt###rtpgeralcookiecontent
