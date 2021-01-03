@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 19:36:05 CET 2021 
+! Updated: Sun Jan 3 19:42:48 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -25498,7 +25498,6 @@ avid.com##.fancybox-opened
 avid.com,editus.lu##.fancybox-overlay
 aw-lab.com##.privacy-data
 axn-asia.com,onetvasia.com##.pane-dart-dart-tag-300x250-rectangle
-azernews.az##.banner1_1
 b-g.by##.ban-bottom-post
 babyzone.com#@##ad-top-wrapper
 backpage.com#@#.AdInfo
@@ -26680,7 +26679,6 @@ regione.toscana.it###banner-overlay-top-page
 remixshare.com#@##adDiv
 remosoftware.com##.visitornotice
 rentalcars.com###name_price_ad
-repeatmyvids.com,w3newspapers.com###topads
 retailturkiye.com##.Mebulten
 reuters.com##amp-ad-custom
 revistablogurilor.ro###cookie
@@ -26926,8 +26924,6 @@ tjoob.com###viewvidright
 tmrzoo.com##.headbanner
 tmz.com###legalbar
 tnaflix.com##.mewBlock
-today.az###banner_750x90
-today.az##div[style="width:240px; height:400px;\""]
 today.com##.newsletter-l-wrapper
 todayfm.com##.mpu2
 todaysparent.com###hearst
@@ -27028,7 +27024,6 @@ vive.com###vive-cookie-notice
 vizer.tv##body > .vizerNewBox.vizerNoticia
 vk.com###system_msg
 vmmotori.it###ll_banner
-voat.co##.eppnotice
 vocm.com##.nccBigBox
 vodafone.pt##.ck-nudge-slim
 voiceofsandiego.org##.-sponsored
@@ -27040,8 +27035,6 @@ vuejs.org###special-sponsor
 vuku.tv##div[class^="bookmarks_div"]
 vulture.com##.newsletter-flex-text
 w3avenue.com###sponsorsbox
-w3newspapers.com###btmadd
-w3newspapers.com##.rads
 wallpapers-room.com##.recommendations-468x60
 wallpapershome.com##.cc-dialog
 wallpapersmania.com###wm_cpa
@@ -27090,7 +27083,6 @@ worldtimezone.com##.spon-menu
 worldtimezone.com##table[width="472"]
 worten.pt##.w-newsletter-block
 wowhead.com##.announcement
-wowza.com###ck_pu
 wpbt2.org##.home_banners
 wtop.com##.post--sponsored
 wufoo.com#@#.gdpr-prompt
