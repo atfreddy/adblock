@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 15:38:44 CET 2021 
+! Updated: Sun Jan 3 15:42:52 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -30843,7 +30843,6 @@ dictzone.com###ac
 diet.com##.Fine
 dietsinreview.com##.r_content_300x250
 digimobil.it###sticky-popup
-digit.in##.center-add
 digitalstudiome.com##.pane-block.sup-blk
 directorslive.com##.footer-banner-img
 disasterscans.com##a[href^="https://go.onelink.me/"]
@@ -30928,8 +30927,6 @@ edarabia.com##.mpu-300
 edarabia.com##.sky-600
 edinburghnews.scotsman.com##.dmpu-ad
 editus.lu##.fancybox-wrap
-edutourism.in##.add1
-edutourism.in##.middMain
 edutourism.in,thehindu.com##.add
 eel.surf7.net.my###left
 eel.surf7.net.my###right
@@ -31052,16 +31049,6 @@ fashionpulis.com##img[width="250"]
 fashionunited.it##.mdc-snackbar__surface
 fashionwaltz.com#?#.pull-left > div.widget:has(> div.textwidget > div#newsletter_form)
 fastalp.biz###policy
-fasturl.in##.box-mai > center
-fasturl.in##.box-mai > h3
-fasturl.in##.box-mai > h4
-fasturl.in##.box-mai > p
-fasturl.in##.container > .row > div > .stick-mob + div:not(.box-mai)
-fasturl.in##.container > .row > div > center
-fasturl.in##.container > .row > div[class^="col-md-"] ~ h3
-fasturl.in##.container > .row > div[class^="col-md-"] ~ p
-fasturl.in##form > h3
-fasturl.in##form > p
 fbk.info##.subscriptionForm
 fbooksluts.com#@#a[href^="http://www.fbooksluts.com/"]
 feedicons.com###footerboard
@@ -31205,7 +31192,6 @@ giveawayoftheday.com##.center_ab
 giveawayoftheday.com##.top_ab
 giveawayoftheday.com##.wrap_subscrb
 gixen.com##.td_bck3
-gizbot.com,goodreturns.in##div[style="min-height: 250px;"]
 gizmodo.com#?#.js_starterpost > div[class] div:has(> a[href="/newsletter"])
 gizmodo.com,kotaku.com###newsletterPromoModule
 glamourvanity.com##.wdt_gads
@@ -31368,7 +31354,6 @@ idiva.com###rhs_atf
 idoctors.it##.privacy_bottom
 idolator.com#@#.ad-widget-wrapper
 iejima.org#@#.ad_banner
-iflicks.in###welcome
 ifolor.fi##.dialogBanner--align-bottom
 igcd.net,webcarstory.com###Ads
 igniel.com###ignielNewsletter > .email__
@@ -31618,7 +31603,6 @@ live365.com##.sc-csuQGl
 live365.com#@#.adshome
 livebasketball.tv##.footer-sponsor
 livehdq.info##.bottom-bar
-livelaw.in###news_on_exit
 livemint.com###lastAd
 livemint.com##.eclt-rsttble
 livemint.com##div[class^="newslettersub"]
@@ -31800,8 +31784,6 @@ moon-power.com##.moon2-statisticsOptBox
 morewords.com##.lef
 morhipo.com###legal-alert
 morningstar.ca,tangerine.ca#@#.cc_container
-morningstar.in##.add-container
-morningstar.in##.footer_links_wrapper
 motor1.com##.ap
 motor1.com##.apb
 motorauthority.com##.adv-spacer
@@ -31872,8 +31854,6 @@ myslavegirl.org##.signature
 mysuncoast.com###rightcolumnpromo
 n26.com#@##gdpr-notice
 nabble.com##.signature
-nagpurtoday.in##.film-right-s
-nagpurtoday.in##.main-logo + div[style="float:right;"]
 namethatporn.com###fab_blacko
 napster.com##.info_box
 napsu.fi###napsu_cc
@@ -32027,7 +32007,6 @@ ovationtv.com###top-promo
 overclock.net##.buy-now
 overclock3d.net##.bglink
 ownedcore.com##.iv-note
-oyefm.in##.addv
 paconsulting.com###cookPop
 pacsun.com###pptou-sticky
 pagalguy.com##.floater-bottom > .pg-card
@@ -32362,8 +32341,6 @@ senmanga.com##.box480x90
 setafi.com##.zen_box
 seura.fi##.nativead:not(.list)
 sex3.com##.add-box
-sex4fun.in##a[href^="http://adiquity.info/"]
-sex4fun.in##a[href^="http://c.mobpartner.mobi/"]
 sexbot.com##div[style="width:300px;height:20px;text-align:center;padding-top:30px;"]
 sexhd.pics##.relativebottom
 sexhd.pics##a[href^="/direct/"]
@@ -32982,7 +32959,6 @@ zapravdu.org###newsform
 zdnet.com###medusa-unit
 zdnet.com##.medusa
 zdnet.com##div[data-component="newsletterWidget"]
-zeefood.in##.hbanner2
 zeenews.india.com###livebtbox
 zeez.tv#@##ad_overlay
 zelena-kava.info###eu-container
