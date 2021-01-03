@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 21:29:42 CET 2021 
+! Updated: Sun Jan 3 21:34:36 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -24466,6 +24466,7 @@
 @@||dragoart.com^$script,~third-party
 @@||dynamicyield.com/abadimage/$image,subdocument
 @@||ebkimg.com/banners/
+@@||educationpost.com.hk^*/300x250/$image
 @@||efvi.eu/badge/*-120x60.png
 @@||eucookiedirective.com^$~third-party
 @@||exoclick.com/wp-content/$image,third-party
@@ -25748,6 +25749,7 @@ dictzone.com###ac
 digimobil.it###sticky-popup
 digitalstudiome.com##.pane-block.sup-blk
 directorslive.com##.footer-banner-img
+discuss.com.hk,uwants.com#@##featuread
 disney.com##.gpt
 disqus.com##.col-promoted
 disqus.com##div[data-role="motd-alert"]
