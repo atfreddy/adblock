@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 3 15:42:52 CET 2021 
+! Updated: Sun Jan 3 15:45:41 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -30343,7 +30343,6 @@ alluc.org#@#.adsbottombox
 alotporn.com##a[href^="http://www.fling.com/"]
 alpari.com,alpariforex.org##.-footer__notice
 alphaporno.com##.home-banner
-alppimatkat.fi###toast-container
 alternativeto.net##.atf2
 alternet.org##.has-banner
 amateri.com#@#.page-cover--ads
@@ -30428,7 +30427,6 @@ asistanaliz.com,bordoklavyeli.net##.widget_mc4wp_form_widget
 aspensojourner.com###top-layer
 asuragen.com#@##bannerAd
 atdhe.eu###reklama_mezi_linky
-atea.fi###cookie
 ativa.it###widget-privacy
 atlasobscura.com##.email-ask-full-width
 atlasobscura.com##.item-newsletter-form
@@ -30857,7 +30855,6 @@ dizioneri.com##.modal-backdrop
 dlford.io###floating-footer
 dm-drogeriemarkt.it#@##cookie-bar
 dn.pt###newsletter_footer
-dna.fi###dna-gdpr-info
 dnaindia.com##.head-region
 dnaindia.com##.topadd
 dnaindia.com,india.com###co-container
@@ -31264,7 +31261,6 @@ hacks.mozilla.org###newsletterForm
 hankooktire.com##.top_ep_wrap
 hannity.com##.ccpa
 hapih.hr,podravski.hr##.dialog-widget
-happypancake.fi##.bar.jsx-341223085
 hardware.info###right_top
 hardware.info#@#.cookiecontainer
 harpcolumn.com#@##ad-text
@@ -31283,7 +31279,6 @@ hellenicshippingnews.com,wasterecyclingnews.com##.bigbanner
 hello7app.com##.email_box
 helloclue.com##.sc-kGXeez
 hellomagazine.com##.formNewsletter
-helmet.fi##.notifier_warning
 helpwithsmoking.com##.hws
 hentai-foundry.com##[href="http://www.hentaiunited.com/"]
 hentai-imperia.org##a[href^="http://www.adult-empire.com/rs.php?"]
@@ -31329,7 +31324,6 @@ howdyho.net##.special-top-tip
 howtogeek.com###div-thetop1
 howtogermany.com##img[width="120"]
 hrodna.life##.mailpoet_form
-hs.fi##.cb-container
 hstoday.us##a[href$="/newsletter-ad/"]
 htmldog.com##.flower
 httpstatus.io##.snackbar
@@ -31354,7 +31348,6 @@ idiva.com###rhs_atf
 idoctors.it##.privacy_bottom
 idolator.com#@#.ad-widget-wrapper
 iejima.org#@#.ad_banner
-ifolor.fi##.dialogBanner--align-bottom
 igcd.net,webcarstory.com###Ads
 igniel.com###ignielNewsletter > .email__
 ikea.com##.toast-container
@@ -31483,7 +31476,6 @@ jusan.it###privacy-popup
 juzaphoto.com##.s_bluebox
 jw.org#@#.adsBlock
 kanonitv.net###custom_html-7
-karjalainen.fi#@##ad_area
 katadata.co.id##.newsletter
 kathmandupost.com##.pt-0
 kathmandupost.com##.sticky--bottom
@@ -31512,7 +31504,6 @@ kompasiana.com###titledmRelatedPlayer
 kompasiana.com##.kolom-newslt
 kompasiana.com##.read-paging + h5.title-dash
 koopik.com#@#.footerad
-kotimaa24.fi###kotimaa-cookie-notification
 krillion.com###sponCol
 krnb.com###inner-footer
 krone.at#@##krn-privacy-center
@@ -31520,7 +31511,6 @@ ksl.com##.gfp-slot
 ksl.com#?#.queue:-abp-has(.sponsored)
 kuklaskorner.com###ultimate
 kult-portal.com##.infobar
-kulttuurivihkot.fi##.activebar-container
 kvazar.cloud##.mpp-container
 kvraudio.com###kvr300600
 l2inc.com###daily-newsletter-signup
@@ -31561,7 +31551,6 @@ leffatykki.com#@#.ad728x90
 legea.it###infobarDiv
 legionathletics.com##.opt-in
 legionathletics.com##.post-container > div#sign-up
-lehtodigital.fi##[class^="__ld_cookie_"]
 leo.org##.app-footer-content
 leo.org##.as-oil
 lexico.com##.banbox
@@ -31572,7 +31561,6 @@ lexus.ro##.disclaimer
 lexus.si##.disclaimer
 lexus.sk##.disclaimer
 lidl.bg##.notification
-lidl.fi,pelit.fi,telia.fi##.notification
 lidl.it##.notification
 lidl.lt##.notification
 lidl.pt##.notification
@@ -31856,7 +31844,6 @@ n26.com#@##gdpr-notice
 nabble.com##.signature
 namethatporn.com###fab_blacko
 napster.com##.info_box
-napsu.fi###napsu_cc
 napuzba.com##div[style^="width:336px"]
 narrative.ly##.TakeoverUnit
 natgeo.tv#@##ad728x90
@@ -32066,14 +32053,12 @@ pi-news.net##.widget_wysija
 picfont.com###block_a
 picnic.app###modal
 picp2.com###system
-pihlajalinna.fi###root > div[aria-live="polite"][role="alert"]
 pimpandhost.com###ad2
 pimpandhost.com,timeanddate.com,wordreference.com###ad1
 pingvin.pro#?#.row div.card-blog:has(> div.mailpoet_form)
 pinkisthenewblog.com##.banner728-wrapper
 pinkisthenewblog.com##.post-wrap
 pistonheads.com#@#.advert-block
-pistonheads.com,welovethe90s.fi#@#.advert-content
 pixabay.com##.getty-banner
 pixivision.net##._floated-bottom-bar
 pixxxels.cc##.bottom-a
@@ -32157,7 +32142,6 @@ portwell.com.tw##.ui-widget-overlay
 post-gazette.com#$##content > #toolbar.top-bar[style="height: 85px;"] { height: 45px!important; }
 post-gazette.com#@#.right_ad
 postojnska-jama.eu###\5f iCD
-power.fi#@##cookie-notification
 powerboat-world.com###rotator_url
 powerreviews.com##.prd-wrap
 practicalpainmanagement.com##.block-oas
@@ -32339,7 +32323,6 @@ send.firefox.com##.fxPromo
 senmanga.com##.box300x250
 senmanga.com##.box480x90
 setafi.com##.zen_box
-seura.fi##.nativead:not(.list)
 sex3.com##.add-box
 sexbot.com##div[style="width:300px;height:20px;text-align:center;padding-top:30px;"]
 sexhd.pics##.relativebottom
@@ -32462,7 +32445,6 @@ steroid.com##[href^="/out.php"]
 sticking.com##.sb-box
 stjornartidindi.is#@#.adverttext
 stlmag.com##.buzzworthy
-sttinfo.fi##[class^="styledBarNotification__BarNotificationWrapper"]
 studocu.com##.bottom-bar-enter-active
 studocu.com##div[class^="banner-wrapper-"]
 studyfinds.org##.sfspot
@@ -32470,7 +32452,6 @@ submarinecablemap.com###sponsor-logo
 sumanasa.com##.adcontent
 sunnewsnetwork.ca#@##logoAd
 sunporno.com##.a-block
-suomi24.fi##.s24_cc_banner-wrapper
 supercars.com##.footer-promo
 superhq.net##.feedrss
 superiorpics.com##.h250
@@ -32522,9 +32503,7 @@ tekrevue.com##.sponsor-blurb
 telea1.it###cooky_content
 teleradiopadrepio.it##.spu-bg
 teletoon.com##.notificationBar
-telia.fi###lekaneBanner_privacyAnnouncement
 telugubullet.com##.td-a-rec-id-custom-spot
-tennisassa.fi#@#.cookie-monster
 tennistv.com##.notification-wrapper
 terradaily.com##.BDTX
 texasmonthly.com##.promo-topper
@@ -32732,7 +32711,6 @@ vatanbilgisayar.com##.sc-media
 velasridaura.com#@#.advertising_block
 veoh.com##.adv-title
 versus.com##div[class^="LegendSingle__show"]
-vertaa.fi##.cg-89.cg-97
 vg.no##.webboard
 vg247.com##.newsletter-signup-wrapper
 vg247.it##.notif-bar
@@ -32749,7 +32727,6 @@ vilaglato.info##.pea_cook_wrapper
 viralnova.com##.cc-banner
 visir.is##.bottom-disclaimer
 visitscotland.com#@##bannerAdWrapper
-vismasign.fi##.banner
 vistaprint.it###MarketingText
 vitiana.com##.bizjournal
 vive.com###vive-cookie-notice
@@ -32927,7 +32904,6 @@ yam.com###sns-mob
 yellowpages.com###yahoo_ss_border
 yelp.com#?#li[class^="lemon--li"]:-abp-has(a[href^="/adredir?"])
 yenisafak.com##.policy
-yhteiso.telia.fi###yhteiso-evasteet
 yirmidort.tv##.bizitakipet
 ynot.com###lw-bannertop728
 ynot.com###lw-top
