@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Mon Jan 4 15:04:22 CET 2021 
+! Updated: Mon Jan 4 17:09:21 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -4716,6 +4716,7 @@
 ###cookielegislation
 ###cookielightbox
 ###cookielista
+###cookieman-modal
 ###cookiemanager_cookiebar
 ###cookiemeld
 ###cookiemenu
@@ -7731,8 +7732,6 @@
 ###sway-banner-ad1
 ###sweep_right_ad
 ###sweep_top_ad
-###swfAd1
-###swfAd5
 ###swl-cookie-wrapper
 ###syl-cookie-monster
 ###synced-ad
@@ -10392,7 +10391,6 @@
 ##.ad_story_island
 ##.ad_sub
 ##.ad_supersize
-##.ad_swf
 ##.ad_table
 ##.ad_tag
 ##.ad_tag_middle
@@ -18747,7 +18745,6 @@
 -ads.generated.
 -ads.gif
 -ads.php?
--ads.swf
 -ads/728x
 -ads/ad-
 -ads/get?
@@ -18772,7 +18769,6 @@
 -adv-v1/
 -adv.js
 -advert-100x100.
--advert.swf
 -advert1.
 -advert2.
 -advert3.
@@ -18796,7 +18792,6 @@
 -banner-ad_
 -banner-ads-
 -banner-ads/
--banner.swf?
 -banner300x250.
 -banner468x60.
 -bannerads/
@@ -19172,12 +19167,6 @@
 .show_ad_
 .sk/ads/
 .sponsorads.
-.swf?1&clicktag=
-.swf?2&clicktag=
-.swf?ad=
-.swf?click=
-.swf?clicktag=
-.swf?iurl=http
 .textads.
 .th/ads/
 .to/ads/
@@ -19874,7 +19863,6 @@
 /ad/static_
 /ad/status?
 /ad/superbanner.
-/ad/swf/*
 /ad/takeover/*
 /ad/top.
 /ad/top/*
@@ -20588,7 +20576,6 @@
 /ads.load.
 /ads.pbs
 /ads.png
-/ads.swf
 /ads.txt
 /ads.v5.js
 /ads.w3c.
@@ -20765,7 +20752,6 @@
 /ads/src/*
 /ads/storysponsors/*
 /ads/sub/*
-/ads/swfobject.
 /ads/syndicated/*
 /ads/taboola/*
 /ads/tags?
@@ -22085,9 +22071,7 @@
 /coread/*
 /corner-ad.
 /corner_ads/*
-/cornerbig.swf
 /cornerpeel-bbn/*
-/cornersmall.swf
 /couponAd.
 /cover_ad.
 /coxads/*
@@ -22203,7 +22187,6 @@
 /doors/ads/*
 /doubleclick.aspx
 /doubleclick.php
-/doubleclick.swf
 /doubleclick_ads.
 /doubleclick_ads/*
 /doubleclickad.
@@ -23771,8 +23754,6 @@
 /superCookie-
 /superads-$script
 /superads_
-/swf/ad-
-/swf/ads/*
 /syads.
 /synacor.js
 /synad2.
@@ -23956,7 +23937,6 @@
 /vert_ad.
 /verticaladrotatorv2.
 /vghd.gif
-/vghd.swf
 /vghd2.gif
 /viagogoads.
 /vice-ads.
@@ -24137,12 +24117,8 @@
 120x600.html|
 120x600.htm|
 120x600.png|
-120x600.swf?
-120x600.swf|
 123poi.com#@#.bottomAds
 125x600.gif|
-125x600.swf?
-125x600.swf|
 133x394.gif|
 1340bigtalker.com##.top-right-banner
 160x300.gif|
@@ -24152,8 +24128,6 @@
 160x600.php?
 160x600.php|
 160x600.png|
-160x600.swf?
-160x600.swf|
 18comic.org##.social-bottom
 1loop.com##.asblock
 22pixx.xyz,imagetwist.com,imagevenue.com###overlayBg
@@ -24171,21 +24145,15 @@
 3movs.com,fapality.com,pervclips.com,pornicom.com##.cs
 411mania.com##.banner-homebottom-all
 468-60.gif|
-468-60.swf?
-468-60.swf|
 468_60.gif|
 468x60.gif|
 468x60.html|
 468x60.htm|
 468x60.php?
 468x60.php|
-468x60.swf?
-468x60.swf|
 468x60_1.gif|
 468x80.gif|
 470x60.gif|
-470x60.swf?
-470x60.swf|
 480x60.png|
 4fun.tv###cModal
 4gtv.tv###Allow
@@ -24202,9 +24170,6 @@
 728x90.php?
 728x90.php|
 728x90.png|
-728x90.swf?
-728x90.swf|
-750x80.swf|
 750x90.gif|
 911tabs.com##._29v-t
 923thefox.com,hot1035.com##.posts-banner
@@ -24555,7 +24520,6 @@
 @@||imagetwist.com/ZeroClipboard.js
 @@||imagetwist.com/jquery-*.js
 @@||imagetwist.com/jquery.*.js
-@@||imagetwist.com/swfobject.js
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|api.screen9.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cdnmedia.tv|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|iheart.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|navbharattimes.indiatimes.com|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.earthtv.com|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|truvid.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abcnews.go.com|slacker.com
@@ -24620,7 +24584,6 @@
 @@||phncdn.com/js/xp_bubble/$script
 @@||phncdn.com/mg_utils-$script
 @@||phncdn.com/networkbar-$script
-@@||phncdn.com/swfobject-$script
 @@||phncdn.com/www-static/$image
 @@||phncdn.com/www-static/*/gif-view-functions.js$script
 @@||phncdn.com/www-static/*/gif-view.js$script
@@ -28637,7 +28600,6 @@ zymic.com###sponsor-partners
 ||amazonaws.com/bo-assets/production/banner_attachments/
 ||amazonaws.com/btrb-prd-banners/
 ||amazonaws.com/crossdomain.xml$object,domain=ndtv.com
-||amazonaws.com/digitalcinemanec.swf$domain=boxoffice.com
 ||amazonaws.com/dmx_banner?$domain=autodealer.co.za
 ||amazonaws.com/files.bannersnack.com/$domain=~bannersnack.com
 ||amazonaws.com/fvefwdds/
@@ -30559,7 +30521,6 @@ zymic.com###sponsor-partners
 ||ebayrtm.com/rtm?RtmIt
 ||ebaystatic.com^*/ScandalJS-
 ||ebaystatic.com^*/ScandalSupportGFA-
-||ebaystatic.com^*/motorswidgetsv2.swf?
 ||ebbp1.pro^$popup
 ||ebcpfsslht.com^
 ||ebdr2.com^$third-party
@@ -31625,7 +31586,6 @@ zymic.com###sponsor-partners
 ||googlesyndication.com/sodar/$domain=spiegel.de
 ||googlesyndication.com^*/click_to_buy/$object,third-party
 ||googlesyndication.com^*/domainpark.cgi?
-||googlesyndication.com^*/googlevideoadslibraryas3.swf$object,third-party
 ||googlesyndication.com^*/simgad/
 ||googletagmanager.com/gtm.js$script,domain=stihl.fr
 ||googletagservices.com/dcm/dcmads.js
@@ -33636,7 +33596,6 @@ zymic.com###sponsor-partners
 ||mkkxioajtwm.com^
 ||mkomrzsizvjdg.com^
 ||mktmobi.com^$popup
-||mkxgvmswfmypy.com^
 ||mkyrxfftdmqx.com^
 ||ml0z14azlflr.com^
 ||ml314.com^$third-party
@@ -33846,7 +33805,6 @@ zymic.com###sponsor-partners
 ||multimater.com^$third-party
 ||multisitelive.com^*/banner_
 ||multiview.com^$third-party
-||multivizyon.tv^*/flysatbanner.swf
 ||mumlionslew.com^
 ||mungaryn.club^
 ||municalcurit.club^
