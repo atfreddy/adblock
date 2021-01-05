@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Mon Jan 4 17:09:21 CET 2021 
+! Updated: Tue Jan 5 10:18:18 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -7557,6 +7557,7 @@
 ###sp-advtop1
 ###sp-advtop3
 ###sp-cc[action*="cookiepref"]
+###sp-top-ad-wrapper
 ###spcookiegdpr
 ###spec_offer_ad2
 ###specialAd
@@ -8669,6 +8670,7 @@
 ##.Mpopup + #Mad > #MadZone
 ##.MspAd
 ##.NAPmarketAdvert
+##.NA_ad
 ##.NGOLocalFooterAd
 ##.NavBarAd
 ##.NewsAds
@@ -17946,6 +17948,7 @@
 ##.webpart-wrap-advert
 ##.webperformance_ad
 ##.website-ad-space
+##.website-cookie-banner
 ##.welcome-privacy
 ##.well-ad
 ##.wfb-ad
@@ -25455,6 +25458,7 @@ arabiaweather.com##.mpu-card
 argaam.com##.argaam-policy
 arizonasports.com,ktar.com##.sponsorBy
 armyrecognition.com###sp-google-advertising-2x-468x100
+arnes.si,consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 artistdirect.com##.top-add
 artuk.org###top-notice
 as.com##.banner_sup
@@ -25650,7 +25654,6 @@ community.pictavo.com#@#.ads-1
 community.pictavo.com#@#.ads-2
 community.pictavo.com#@#.ads-3
 coni.it###privacy-wrapper
-consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 consent.yahoo.com,paypal.com#@##consent.consent
 consumerist.com#@#.after-post-ad
@@ -30450,6 +30453,7 @@ zymic.com###sponsor-partners
 ||dynw.com/banner
 ||dyoyiydbwdcr.com^
 ||dz4ad.com^
+||dzhjmp.com^$third-party
 ||dzloxwupyxw.com^
 ||e-generator.com^$third-party
 ||e-viral.com^$third-party
@@ -37267,6 +37271,7 @@ zymic.com###sponsor-partners
 ||upheasted.club^
 ||upikeoshfhw.com^
 ||uponelectabuzzor.club^
+||upornia.com/sn4diyux.php
 ||uprbleorptdghy.com^
 ||uprimp.com^$third-party
 ||uprlyxksgcffgn.com^
@@ -37404,6 +37409,7 @@ zymic.com###sponsor-partners
 ||vasgenerete.site^
 ||vashoaft.net^
 ||vashoot.com^$third-party
+||vasstycom.com^
 ||vast.spotim.market^
 ||vatskaylittl.club^
 ||vaultwrite.com^
