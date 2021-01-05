@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Tue Jan 5 10:18:18 CET 2021 
+! Updated: Tue Jan 5 21:37:43 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -12889,6 +12889,7 @@
 ##.commercial-ad
 ##.commercial-ad-long
 ##.commercial-unit-mobile-bottom
+##.commercial-unit-mobile-top > .v7hl4d
 ##.commercialAd
 ##.common-adv-box
 ##.common-cookieNotice
@@ -24388,6 +24389,7 @@
 @@||ads.nationmedia.com/webfonts/$font
 @@||ads.slottyvegas.com/redirect.aspx?pid=*&bid=$popup
 @@||ads.spotify.com^$popup
+@@||ads.taboola.com^$popup
 @@||ads.tiktok.com^$popup
 @@||ads.twitter.com^$popup,~third-party
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com
@@ -26451,6 +26453,7 @@ olweb.tv#@##ads1
 olx.pt,whatuni.com#@#.ad_img
 olymp.com##.legal-banner
 omggamer.com##.widget_convertkit_form
+omio.com##.pb_pe_2l-pc
 on.cc###acceptDisclaimer
 onhax.net###sb_viewer > ul > #text-5
 op.gg##.life-owner
@@ -26712,6 +26715,7 @@ shockwave.com#@#.adPod
 shopmos.net#@#.ads_top
 shore.com##.sc-jTzLTM
 shorpy.com###tad
+shortorial.com##.sgpb-popup-overlay
 shoryuken.com#@##cmn_ad_tag_head
 sia.eu###toast
 siea.sk###cac
@@ -30278,6 +30282,7 @@ zymic.com###sponsor-partners
 ||dmiqfxlnf.com^
 ||dmrecvpflqb.com^
 ||dmvbdfblevxvx.com^
+||dmxleo.dailymotion.com^
 ||dmypkmieippdq.com^
 ||dnbizcdn.com^$third-party
 ||dnckawxatc.com^$popup
@@ -31973,7 +31978,6 @@ zymic.com###sponsor-partners
 ||hotstar.com^*/midroll?$~third-party
 ||hotstar.com^*/preroll?$~third-party
 ||hottystop.com/t33638ba5008.js
-||hotwords.com.mx^$third-party
 ||hotwords.com^$third-party
 ||houdodoo.net^
 ||hounicuy.com^
