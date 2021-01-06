@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Tue Jan 5 21:37:43 CET 2021 
+! Updated: Wed Jan 6 16:47:28 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -13907,6 +13907,7 @@
 ##.dfp-tag-wrapper
 ##.dfp-top1
 ##.dfp-wrapper
+##.dfpAd
 ##.dfpAdvert
 ##.dfp_ad
 ##.dfp_ad_block
@@ -13917,6 +13918,7 @@
 ##.dfp_ad_unit
 ##.dfp_slot
 ##.dfp_top-ad
+##.dfp_txt
 ##.dfp_unit
 ##.dfpad
 ##.dgpr-drop-down
@@ -14839,6 +14841,7 @@
 ##.gutter-ad-right
 ##.gutter-ad-wrapper
 ##.gutterAdHorizontal
+##.gutterads
 ##.gw-ad
 ##.gws-flights-book__ads-wrapper
 ##.gx_ad
@@ -16261,9 +16264,12 @@
 ##.pb-f-ad-flex
 ##.pb-f-ads-ad
 ##.pb-f-ads-arcads
+##.pb-f-ads-dfp
 ##.pb-f-ads-dfp-big-box-300x250
 ##.pb-f-ads-dfp-box-300x450
 ##.pb-f-ads-dfp-halfpage-300x600
+##.pb-f-ads-nativo
+##.pb-f-ads-taboola
 ##.pb-f-ads-taboola-article-well
 ##.pb-f-ads-taboola-right-rail-alt
 ##.pb-f-advert-dfp-double-mpu
@@ -18286,6 +18292,7 @@
 ##app-cookie
 ##app-cookie-policy
 ##app-root app-cookie-acceptance
+##ark-cookiebar
 ##awsui-alert[dismiss*="CookieBanner"]
 ##bottomadblock
 ##cook-disclaimer
@@ -19281,6 +19288,7 @@
 /250x250-adverts.
 /250x250_advert_
 /270x90-
+/2market.php?
 /300-250-
 /300-250.
 /300-600_
@@ -25524,6 +25532,7 @@ bigblueball.com###text-416290631
 bigfishaudio.com,cnbcafrica.com,dublinairport.com,yahoo.com#@#.ad-holder
 bikeexif.com##.small
 bikeradar.com##.widget-newsletter-sign-up
+bikeroar.com##.lower-panel
 billboard.com#@#.ad-unit-300-wrapper
 bisceglielive.it##.biscotto
 bitcomet.com##.gg728
@@ -25580,6 +25589,7 @@ buznews.com###gemSponsored
 buzzfeed.com###mod-product-labs-promo-1
 buzzfeed.com##.buzzblock-newsletter
 buzzfeed.com,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
+buzzfeednews.com##div[id^="BF_ADX_"]
 ca2015.com##.module-footer-sponsors
 calcolostipendio.it##.bold_text
 calendar.google.com,docs.google.com,mail.google.com,news.google.com,drive.google.com##iframe[src^="https://ogs.google.com/widget/callout?prid="]:upward(div[style^="overflow: hidden; position: absolute; top: 0px; width:"])
