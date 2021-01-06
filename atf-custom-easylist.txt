@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Wed Jan 6 16:52:11 CET 2021 
+! Updated: Wed Jan 6 16:55:19 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -25429,7 +25429,6 @@ americanidol.com###medrec
 americanidol.com###sponsorLogos
 americantowns.com##.moduletable-banner
 amgreatness.com,ancient-origins.net,avclub.com,catholicculture.org,deadspin.com,electrek.co,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lewrockwell.com,lifehacker.com,marineelectronics.com,marinetechnologynews.com,maritimejobs.com,maritimeprofessional.com,maritimepropulsion.com,mydramalist.com,myrailinfo.in,oneangrygamer.net,powerlineblog.com,spartareport.com,ssbcrack.com,thetakeout.com,yachtingjournal.com##a[href^="https://www.amazon."][href*="tag="]
-amp.usatoday.com###upNextWrapper.open
 amref.it###divCk
 analpornpix.com##.ban_list
 androidpit.com##.tile_Follow
@@ -26955,9 +26954,6 @@ untappd.com##.tos-banner
 urbandictionary.com###dark_top
 urlcash.net###leftbox
 urlcash.net###rightbox
-usatoday.com###usat_PosterBlog
-usatoday.com##.gnt_tb
-usatoday.com##.gnt_x__lbl
 usgamer.net##.newsletter-promo
 uxmatters.com##.promo_block
 valleyvet.com###ToU_float
