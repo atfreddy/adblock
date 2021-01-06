@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Wed Jan 6 16:47:28 CET 2021 
+! Updated: Wed Jan 6 16:52:11 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -4056,7 +4056,6 @@
 ###cookie-policy-sticky
 ###cookie-policy-wrap
 ###cookie-policy-wrapper
-###cookie-politicas.active
 ###cookie-polityka
 ###cookie-pop
 ###cookie-pop-up
@@ -4582,7 +4581,6 @@
 ###cookie_policy_popup
 ###cookie_policy_pu
 ###cookie_policy_rgpd
-###cookie_politics_overlay
 ###cookie_pop
 ###cookie_popup
 ###cookie_popup_alert
@@ -5210,7 +5208,6 @@
 ###div_cookis
 ###div_gdpr_footer
 ###div_googlead
-###div_politica_cookie
 ###div_pop_cookie
 ###div_prerollAd_1
 ###div_sitecookie_ask
@@ -6962,7 +6959,6 @@
 ###policy_notice
 ###policy_wrapper
 ###polish-cookie-note
-###politicaCookie
 ###polityka-ciastek
 ###polityka-cookie
 ###polityka-prywatnosci
@@ -13271,7 +13267,6 @@
 ##.cookie-policy-wrap
 ##.cookie-policy-wrapper
 ##.cookie-policymsg
-##.cookie-politics
 ##.cookie-pop
 ##.cookie-pop-up
 ##.cookie-pop-up-component
@@ -13616,7 +13611,6 @@
 ##.cookie_policy_cont
 ##.cookie_policy_outer
 ##.cookie_policy_pop
-##.cookie_politics
 ##.cookie_popup
 ##.cookie_popup_wrapper
 ##.cookie_privacy_alert
@@ -16342,9 +16336,6 @@
 ##.policy.cookie
 ##.policyChk
 ##.policy_footer
-##.politic__cookie
-##.politicaRewards
-##.politics_cookie
 ##.polityka-cookie
 ##.polityka_ciastek
 ##.polityka_prywatnosci
@@ -26126,7 +26117,6 @@ iobit.com##.float-bar
 iosi.nexi.it##.cl-banner-body
 iqiyi.com##.black-screen[data-cupid="adblock-blackscreen"]
 irishpost.com##.add-pad
-isa-sociology.org###politica
 island.lk###left_banner_adds1
 isource.com#@##topAd
 issuu.com##div[class*="adSkyscraper"]
@@ -26428,8 +26418,6 @@ newyorker.com##div[class^="Ad_"]
 newyorkyimby.com##img[height="280"]
 nextgentel.no##.blocker
 nfl.com#@#.tower-ad
-nh-collection.com,nh-hotels.com##.politicaRewards
-nh-hotels.it##.politicaRewards
 nhentai.com##.pb-0.w-100[style]
 nick.com,tvland.com##.page-overlay_wrapper
 nicovideo.jp#@#.googleAds
@@ -26554,7 +26542,6 @@ pnbbanka.eu##.cookie
 pogo.com#@#.adRight
 pokernewsreport.com##.pokerbanner
 politeka.net##.b__subscription-email
-politico.com##.the-long-game-sign-up
 politifact.com##.m-billboard
 popcap.com#@##adlayer
 popjustice.com##.mpufloatleft
@@ -26941,7 +26928,6 @@ twistedsifter.com##.widget_sifter_ad_bigbox_widget
 twitter.com##.is-promoted
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet[data-disclosure-type="issue"]
-twitter.com##.promoted-tweet[data-disclosure-type="political"]
 twitter.com##.promoted-tweet[data-disclosure-type="promoted"]
 twitter.com,wral.com##.promotion
 txxx.com##.preroll
