@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Wed Jan 6 17:11:40 CET 2021 
+! Updated: Wed Jan 6 18:16:41 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -28777,6 +28777,7 @@ zymic.com###sponsor-partners
 ||artantash.club^
 ||artapeare.site^
 ||artcamcat.site^$third-party
+||arte.tv/includes/xiti/
 ||artistdirect.com/partner/
 ||artpever.com^
 ||artpever.com^$popup
@@ -28902,8 +28903,10 @@ zymic.com###sponsor-partners
 ||avazu.net^$third-party
 ||averalist.club^
 ||avercarto.com^$third-party
+||avito.ru/stat/
 ||avjd014.com/statics/layer_mobile/layer.js
 ||avuvldbc.com^
+||avvenire.it/content/js/track.es5.min.js?
 ||awakeexterior.com^
 ||awaps.net^$third-party
 ||away-stay.com^
@@ -28965,6 +28968,7 @@ zymic.com###sponsor-partners
 ||azsikvmhlzuhje.com^
 ||aztecash.com^
 ||azureedge.net/cdn/js/rad.js
+||azurewebsites.net^*/mnr-mediametrie-tracking-
 ||azwsolqpewo.com^
 ||b-cdn.net/media/cb/
 ||b-m.xyz^$third-party
@@ -29010,6 +29014,7 @@ zymic.com###sponsor-partners
 ||babbnrs.com^$third-party
 ||babyboomboomads.com^
 ||babylon.com/redirects/$popup,third-party
+||bachecaannunci.it/statins3.php?
 ||backlogtop.xyz^
 ||badgirlz.org^$third-party
 ||badjocks.com^$third-party
@@ -29109,6 +29114,7 @@ zymic.com###sponsor-partners
 ||bdyjxghwfbyups.com^
 ||beap.gemini.yahoo.com^
 ||beap.gemini.yahoo.com^$popup,domain=mail.yahoo.com
+||berliner-zeitung.de/analytics/
 ||bf-ad.net^$third-party
 ||bfast.com^$third-party
 ||bfc70a51929fff2d7fe.com^
@@ -29173,6 +29179,7 @@ zymic.com###sponsor-partners
 ||bitadv.co^$third-party
 ||bitcoadz.io^$third-party
 ||bitonclick.com^$third-party
+||bitreactor.to/counter/
 ||bitshare.com^*/banner/
 ||bittads.com^$third-party
 ||bitx.tv^$third-party
@@ -29305,6 +29312,8 @@ zymic.com###sponsor-partners
 ||bpsxhmtotf.com^
 ||bqiovml.com^$third-party
 ||bqqnngtpc.com^
+||braunschweiger-zeitung.de/stats/
+||brigitte.de/pv?
 ||bsfnvvxjcisif.com^
 ||bsgimhqko.com^
 ||bskwrsjudrp.com^
@@ -29408,6 +29417,8 @@ zymic.com###sponsor-partners
 ||bzspzpdrqjopj.com^
 ||bzsukdfbotd.com^
 ||bzxmgyfae.com^
+||c-date.it/tracking?
+||c-date.it^*/tracking2/tr.js
 ||c-on-text.com^$third-party
 ||c.netu.tv^
 ||c0594.com^$third-party
@@ -29540,6 +29551,7 @@ zymic.com###sponsor-partners
 ||cbyzgxhbovgwju.com^
 ||cbzjukldosooj.com^
 ||cc-dt.com^$third-party
+||cc.zeit.de^
 ||cc380535d9ca0.com^
 ||ccc1063d848b.com^
 ||cccam.co/banner_big.gif
@@ -29553,6 +29565,7 @@ zymic.com###sponsor-partners
 ||cdaz.icu^
 ||cdaz.icu^$popup
 ||cddjdjwatndgja.com^
+||cdn.baidupcs.com/monitor.jpg?
 ||cdn.mobicow.com^$third-party
 ||cdn.offcloud.com^$third-party
 ||cdn.optmd.com^$popup,third-party
@@ -29620,6 +29633,7 @@ zymic.com###sponsor-partners
 ||cgkhqjuwfle.com^
 ||cgmlab.com/tools/geotarget/custombanner.js
 ||cgx68vtoprov.com^
+||chosun.com/hitlog/
 ||cibleclick.com^$third-party
 ||cicatedauthor.club^
 ||ciendsbusi.top^
@@ -29637,6 +29651,7 @@ zymic.com###sponsor-partners
 ||ciridola.com^
 ||citizenshis.com^
 ||cityadspix.com^$third-party
+||citybeat.de/include/cbtracker.
 ||citysite.net^$third-party
 ||cityxman.com^
 ||civadsoo.net^
@@ -29974,6 +29989,8 @@ zymic.com###sponsor-partners
 ||crimentasaju.site^
 ||crispads.com^$third-party
 ||critariatele.pro^$third-party
+||criteo.com^$domain=comunio.de
+||criteo.com^$domain=fanfiktion.de
 ||crm4d.com^$third-party
 ||crocoads.com^$third-party
 ||crocopop.com^
@@ -30087,6 +30104,7 @@ zymic.com###sponsor-partners
 ||dable.io^$third-party
 ||dabxzyfcxrdgbs.com^
 ||dacoloment.pro^
+||dada.net^*/nedstat_sitestat.js
 ||dadsabz.com^
 ||dadsanz.com^
 ||dadsatz.com^$third-party
@@ -30170,6 +30188,7 @@ zymic.com###sponsor-partners
 ||ddmax20.xyz^
 ||ddnmzrpp.com^
 ||ddvqjnbt.com^
+||deagostinipassion.it/collezioni/analytics.js
 ||df8c5028a1fad1.com^
 ||df931f2841ac729.com^
 ||dfb79196408612f1.com^
@@ -30201,6 +30220,7 @@ zymic.com###sponsor-partners
 ||digeyule.xyz^
 ||digiad.co^$third-party
 ||digipathmedia.com^$third-party
+||digital-zoom.de/counter.js
 ||digitaldsp.com^$popup
 ||digitalpush.org^$third-party
 ||digitalsatellite.tv/banners/
@@ -30551,6 +30571,7 @@ zymic.com###sponsor-partners
 ||edfsqfaeenij.com^
 ||edgeads.org^$third-party
 ||edgecastcdn.net^*.barstoolsports.com/wp-content/banners/
+||editeurjavascript.com/hit-parade.php
 ||edjokerned.space^
 ||edlsdyhll.com^
 ||edmarketts.fun^
@@ -30650,6 +30671,7 @@ zymic.com###sponsor-partners
 ||elfcoexistbird.com^
 ||elhzbfovikex.com^
 ||elimpfdlss.com^
+||elitepartner.de/km/tcnt.do?
 ||elizabledy.club^
 ||elkbahtax.com^
 ||ellanrequiryf.fun^
@@ -30667,6 +30689,7 @@ zymic.com###sponsor-partners
 ||emdqaycbvqz.com^
 ||emkarto.fun^$third-party
 ||emmettperson.pro^
+||emng.libero.it^
 ||emolapnay.com^
 ||emoneyspace.com/b.php
 ||emotionalballotneedlework.com^
@@ -30698,6 +30721,7 @@ zymic.com###sponsor-partners
 ||enormouslyauditorium.com^
 ||enoughouti.club^
 ||enrcqdgqnjb.com^
+||ens.luzernerzeitung.ch^
 ||entcommanda.fun^
 ||entensity.net/crap/
 ||enterads.com^$third-party
@@ -30705,6 +30729,7 @@ zymic.com###sponsor-partners
 ||entiethmenti.top^
 ||entlydazhcmlgx.com^
 ||entrecard.s3.amazonaws.com^$third-party
+||entryhit.wp.pl^
 ||enumerfavo.club^
 ||envortudrqy.com^
 ||envyemerged.com^
@@ -31178,6 +31203,7 @@ zymic.com###sponsor-partners
 ||fqbucxkfcya.com^
 ||fqcqmjdn.com^
 ||fqwrluzjti.com^
+||freeonline.org/sito_track?
 ||fsbotviofnthgk.com^
 ||fsisolpouupevs.com^
 ||fsitel.com^
@@ -31270,7 +31296,9 @@ zymic.com###sponsor-partners
 ||g-cash.biz^$third-party
 ||g-statistic.com^$third-party
 ||g.bit.pt^
+||g.bitmag.com.br^
 ||g.doubleclick.net^$third-party
+||g.itespresso.fr^
 ||g17media.com^$third-party
 ||g1dxj6q1qfl2.com^
 ||g22rbb7.com^$third-party
@@ -31322,6 +31350,7 @@ zymic.com###sponsor-partners
 ||gamecopyworld.eu/*.php$script,subdocument
 ||gameonmom.net^$popup
 ||gameorc.net/a.html
+||gamepro.de^*/visitcount.js
 ||gamerevolution.com^*/buynow-
 ||gamersad.com^$third-party
 ||gamersbanner.com^$third-party
@@ -31861,6 +31890,7 @@ zymic.com###sponsor-partners
 ||hislationaler.club^
 ||hisoupocdted.com^
 ||hit-now.com^$third-party
+||hit.meta.ua^
 ||hitcpm.com^$popup
 ||hitcpm.com^$third-party
 ||hitgodcut.club^
@@ -31869,6 +31899,7 @@ zymic.com###sponsor-partners
 ||hitomi.la/dFjzT6Dc
 ||hitopadxdz.xyz^$popup
 ||hits.antena3.com^
+||hits.zdnet.co.kr^
 ||hiug862dj0.com^$third-party
 ||hiveassarilyco.fun^
 ||hiwtotxepiaogu.com^
@@ -32227,7 +32258,9 @@ zymic.com###sponsor-partners
 ||imsnp.com^$popup
 ||imstks.com^
 ||imzuoqkrzrjw.com^
+||inside-it.ch^*/ping/
 ||intellitxt.com^
+||interia.pl^*/hit.
 ||io8b80kcom8f.com^
 ||iobit.com/partner/$third-party
 ||iociley.com^
@@ -32494,6 +32527,7 @@ zymic.com###sponsor-partners
 ||joeputa.xyz^
 ||joeputa.xyz^$popup
 ||johays.co^$third-party
+||joka.it/inquiero/isapi/csf.dll?
 ||jokehow.com^
 ||jolic2.com^$third-party
 ||jomrhqkqvvxix.com^
@@ -32866,6 +32900,7 @@ zymic.com###sponsor-partners
 ||la-la-moon.com^
 ||la-la-sf.com^
 ||la1dwne9cn5c.com^
+||la7.it/js-live/nielsen1.js
 ||labloamyaim.icu^
 ||lacerta.space^$third-party
 ||ladiumdh.top^
@@ -32899,6 +32934,7 @@ zymic.com###sponsor-partners
 ||langlishmal.club^
 ||lanistaads.com^$third-party
 ||lanistaconcepts.com^$third-party
+||lardennais.fr/sites/all/themes/enabootstrap/js/stat-callback.js
 ||lardydanger.com^
 ||larentisol.com^$third-party
 ||large-format.net^$popup
@@ -32980,6 +33016,7 @@ zymic.com###sponsor-partners
 ||leftenvoy.com^
 ||legalledgtjuj.club^
 ||legendarylars.com^$third-party
+||leggo.it/index.php?$image
 ||legislands.club^
 ||legislationpreferably.com^
 ||legislationsoil.com^
@@ -33029,6 +33066,13 @@ zymic.com###sponsor-partners
 ||liacyne.pw^
 ||libanyelm.com^
 ||libcdn.xyz^
+||liberation.fr/newsite/js/cmp/
+||libero.it//js/comscore/
+||libero.it/cgi-bin/ajaxtrace?
+||libero.it/cgi-bin/cdcounter.cgi?
+||libero.it/cgi-bin/cdcountersp.cgi?
+||libero.it/search/abin/ajaxtrace?
+||libero.it^*/counter.php?
 ||licitventiethv.top^
 ||lickbylick.com^$third-party
 ||lidjetsyak.com^
@@ -33064,6 +33108,7 @@ zymic.com###sponsor-partners
 ||liveburst.com^$third-party
 ||livecam.com^$third-party
 ||livecams.com^$popup
+||livelib.ru/service/visitlist/
 ||livepromotools.com^$popup
 ||livepromotools.com^$third-party
 ||liverail.com^$~object,third-party
@@ -33276,6 +33321,7 @@ zymic.com###sponsor-partners
 ||m4clicks.com^$third-party
 ||m5prod.net^$third-party
 ||m968kpz550cx.com^
+||ma-petite-recette.fr/visites
 ||ma.register.it^
 ||mad-adz.com^$third-party
 ||mad-daily.com^*/cp-module-
@@ -33456,6 +33502,7 @@ zymic.com###sponsor-partners
 ||mediaonpro.com^$third-party
 ||mediaraily.com^$third-party
 ||mediasama.com^$popup
+||mediaset.it/cgi-bin/getcod.cgi?
 ||mediatarget.com^$third-party
 ||mediative.ca^$third-party
 ||mediative.com^$third-party
@@ -33652,6 +33699,7 @@ zymic.com###sponsor-partners
 ||mobgold.com^$third-party
 ||mobicont.com^$third-party
 ||mobifobi.com^$third-party
+||mobilcom-debitel.de/track/
 ||mobile-10.com^$third-party
 ||mobileadspopup.com^$third-party
 ||mobilehdmi.com^
@@ -33741,6 +33789,7 @@ zymic.com###sponsor-partners
 ||movie4all.co^$third-party
 ||mowyappedbibs.com^
 ||mozgvya.com^
+||mp.weixin.qq.com/mp/jsmonitor?
 ||mp3bars.com^$third-party
 ||mp3toavi.xyz^$third-party
 ||mpanybac.club^
@@ -33794,6 +33843,7 @@ zymic.com###sponsor-partners
 ||mtoon.com/banner/
 ||mtoor.com^$third-party
 ||mtsoxkqlqnawre.com^
+||mtv.it/flux/trackingcodes/
 ||mtvp05j.com^$third-party
 ||mtzszlpypbxjm.com^
 ||mugleafly.com^
@@ -33975,6 +34025,7 @@ zymic.com###sponsor-partners
 ||nehodyshy.pro^$popup
 ||neitherspreta.site^
 ||nellads.com^
+||nelonenmedia.fi/hitcounter$image
 ||neltoole.net^
 ||nenrk.us^$third-party
 ||neo-neo-xeo.com^$third-party
@@ -34703,6 +34754,11 @@ zymic.com###sponsor-partners
 ||pagead2.googlesyndication.com^$~object,~xmlhttprequest
 ||pagefair.net^$third-party
 ||pagerage.com^$subdocument,third-party
+||paginebianche.it/cgi-bin/jbimpres.cgi?
+||paginebianche.it/ip?dv=
+||paginegialle.it/cgi-bin/getcod.cgi?
+||paginegialle.it/cgi-bin/jimpres.cgi?
+||paginegialle.it/engagement.js
 ||pagiwp.com^
 ||pagnookr.net^
 ||paid-to-promote.net^$third-party
@@ -35074,6 +35130,7 @@ zymic.com###sponsor-partners
 ||poyecjzk.com^$popup
 ||ppc-direct.com^$third-party
 ||ppcashpop.com^
+||ppcdn.it/iol/tracklib.3.js
 ||ppcwebspy.com^$third-party
 ||ppomyzaheudlta.com^
 ||pprq7.com^
@@ -35743,6 +35800,7 @@ zymic.com###sponsor-partners
 ||reporo.net^$popup
 ||reporo.net^$third-party
 ||reprak.com^$third-party
+||repstatic.it^*/nielsen_static_mapping_repubblica_
 ||republer.com^$third-party
 ||reqpostanza.com^
 ||requentlyfths.club^
@@ -35811,6 +35869,7 @@ zymic.com###sponsor-partners
 ||rgyuvwsiuw.com^
 ||rh1hilm7j0ae.com^
 ||rhcamehnhkntzy.com^
+||rhein-zeitung.de^*/picksel/
 ||rhfgjld.com^$third-party
 ||rhombusads.com^$third-party
 ||rhotonaid.com^
@@ -36006,6 +36065,7 @@ zymic.com###sponsor-partners
 ||rzrkrotgh.com^
 ||rztonexcitie.club^
 ||s.adroll.com^$third-party
+||s.pixfs.net/visitor.pixplug.in/
 ||s.radioreference.com/sm/$image
 ||s1.wp.com^$subdocument,third-party
 ||s1now.com^*/takeovers/
@@ -36132,7 +36192,9 @@ zymic.com###sponsor-partners
 ||sdtqotoe.com^
 ||sdzwkmokd.com^
 ||sdzxojlt.com^
+||seat.it/cgi-bin/getcod.cgi?
 ||secretmedia.s3.amazonaws.com^
+||servizi.unionesarda.it/controlli/
 ||sf9yvla26s5t.com^
 ||sflywdvzyh.com^
 ||sflyycxlsad.com^
@@ -36256,6 +36318,7 @@ zymic.com###sponsor-partners
 ||sitcom24.com^$third-party
 ||siteencore.com^$third-party
 ||sitegoto.com^
+||siteinfo.libero.it^
 ||sitemaji.com^$third-party
 ||sitemnk.com^
 ||siterdm.com^
@@ -36432,6 +36495,7 @@ zymic.com###sponsor-partners
 ||sparkstudios.com^$popup
 ||sparkstudios.com^$third-party
 ||spasbatwit.icu^
+||spaziogames.it/ajax/player_impression.ashx?
 ||speakol.com^$third-party
 ||speckdiversitypiety.com^
 ||spectato.com^$third-party
@@ -36575,6 +36639,7 @@ zymic.com###sponsor-partners
 ||stormyshock.com^$third-party
 ||stoshoos.com^$popup
 ||strikeadcdn.s3.amazonaws.com^$third-party
+||stroeerdigitalmedia.de^$domain=planetsnow.de
 ||stsunfulnoth.top^
 ||stuff-nzwhistleout.s3.amazonaws.com^
 ||stuff.com/javascripts/more-stuff.js
@@ -36589,6 +36654,7 @@ zymic.com###sponsor-partners
 ||suctorado-wrivate.icu^
 ||sudvykphfph.com^
 ||sugqlryshxarn.com^
+||suite101.de/tracking/
 ||suite6ixty6ix.com^$third-party
 ||suitsoon.com^
 ||sulxddttj.com^
@@ -36612,6 +36678,7 @@ zymic.com###sponsor-partners
 ||supremish.club^
 ||supuv2.com^$third-party
 ||supuv3.com^$third-party
+||surace-jujitsu.fr/outils/compteur_php/
 ||surfe.pro^$third-party
 ||surge.systems^
 ||surge.systems^$popup
@@ -36732,6 +36799,7 @@ zymic.com###sponsor-partners
 ||targetadverts.com^$third-party
 ||targetnet.com^$third-party
 ||targetspot.com^$third-party
+||taringa.net/ajax/track-visit.php
 ||tartoals.net^
 ||tasterdayuns.top^
 ||tatami-solutions.com^$popup
@@ -36891,6 +36959,8 @@ zymic.com###sponsor-partners
 ||tijoctqry.com^
 ||tikuedobxa.com^
 ||tiller.co^$third-party
+||timinternet.it/timmobilestatic/img/*.gif?
+||timinternet.it/timmobilestatic/jsPrivacy/gdl_function_cookie.js
 ||timteen.com^$third-party
 ||tionmodat.club^
 ||tionmustai.fun^
@@ -36978,6 +37048,7 @@ zymic.com###sponsor-partners
 ||topcpmnetwork.com^$popup
 ||topeuro.biz^$third-party
 ||topmedia.com/external/
+||topolino.it^*/omniture.php?
 ||topperformance.xyz^
 ||topperyregard.fun^
 ||toprevenuecpmnetwork.com^
@@ -37024,9 +37095,25 @@ zymic.com###sponsor-partners
 ||tqguvxunwvk.com^
 ||tqlkg.com^$third-party
 ||tqxdhokpeigv.com^
+||track.bernerzeitung.ch^
+||track.tesiteca.it^
+||tracker.stileo.it^
+||trackerstatistik.init-ag.de^
+||tracking.donnemagazine.it^$script
+||tracking.foodblog.it^$script
+||tracking.gruppo.mps.it^
+||tracking.mammemagazine.it^$script
+||tracking.motorimagazine.it^$script
+||tracking.notizie.it^$script
+||tracking.offerteshopping.it^$script
+||tracking.style24.it^$script
+||tracking.tuobenessere.it^$script
+||tracking.viaggiamo.it^$script
+||trk.m.libero.it^
 ||tsandycateup.com^
 ||tsbluebox.com^$third-party
 ||tsfgnmyhi.com^
+||tsite.jp/static/analytics/
 ||tsjehpxqbotsz.com^
 ||tsleavilycele.club^
 ||tslomhfys.com^
@@ -37062,6 +37149,7 @@ zymic.com###sponsor-partners
 ||turner.com^*/promos/
 ||tusno.com^$third-party
 ||tut-64.com^$third-party
+||tuttogratis.it/gopix.php?
 ||tutvp.com^$popup
 ||tutvp.com^$third-party
 ||tuwuyppwdj.com^
@@ -37504,6 +37592,8 @@ zymic.com###sponsor-partners
 ||vid4vip.com^
 ||vidalak.com^
 ||vidcpm.com^$third-party
+||video.mediaset.it/polymediashowanalytics/
+||videogame.it/a/logview/
 ||vidible.tv/prod/tags/
 ||vido.fun/out.php$popup
 ||vidpay.com^$third-party
@@ -37538,6 +37628,8 @@ zymic.com###sponsor-partners
 ||viralcpm.com^$third-party
 ||viralize.tv/vast/
 ||virgbmkmear.com^
+||virgilio.it/clientinfo.gif?
+||virgilio.it/js/web-vitals-evnt/tracking.js
 ||viriepak.com^$popup
 ||viriepak.com^$third-party
 ||virool.com/widgets/$third-party
@@ -37547,6 +37639,7 @@ zymic.com###sponsor-partners
 ||visit-x.net/cams/*.html?*&s=*&ws=$popup,third-party
 ||visit-x.net/promo/$third-party
 ||visitweb.com^$third-party
+||visualwebsiteoptimizer.com^$domain=wetter.com
 ||vitalads.net^$third-party
 ||viunypnvhcw.com^
 ||viurihkwo.com^
@@ -37604,6 +37697,7 @@ zymic.com###sponsor-partners
 ||voioaartgw.com^
 ||voipnewswire.net^$third-party
 ||vokut.com^$popup
+||volkswagen-italia.it^*/tracking/
 ||volna2babla1dh1.com^
 ||voltskegscurate.com^
 ||volumegently.com^
@@ -37681,6 +37775,7 @@ zymic.com###sponsor-partners
 ||vvqpavyfkr.com^
 ||vvrygjuozwps.com^
 ||vvshsrdlf.com^
+||vvvvid.it^$ping
 ||vvyimltzbnu.com^
 ||vwadblujv.com^
 ||vwvvaeor.com^
@@ -37890,6 +37985,7 @@ zymic.com###sponsor-partners
 ||widgets.privateproperty.com.ng^$third-party
 ||widgets.solaramerica.org^$third-party
 ||widvffyokrmlkk.com^
+||wienerzeitung.at/__webtrends/
 ||wiewsulznyncf.com^
 ||wifelovers.com^$third-party
 ||wigetmedia.com^$popup
@@ -37902,6 +37998,7 @@ zymic.com###sponsor-partners
 ||wipeneighbour.com^
 ||wipowaxe.com^
 ||wirenth.com^$third-party
+||wisteria-js.excite.co.jp^
 ||withough.top^
 ||withoughstors.club^
 ||witsoats.net^
@@ -38300,6 +38397,7 @@ zymic.com###sponsor-partners
 ||yaaqsdteo.com^
 ||yaboshadi.com^
 ||yabuka.com^$third-party
+||yachtingnetwork.it/stat/
 ||yadyiymarz.com^
 ||yagcaumz.com^
 ||yahbdmyvvmjh.com^
@@ -38610,6 +38708,8 @@ zymic.com###sponsor-partners
 ||zedo.com^$popup
 ||zedo.com^$third-party
 ||zeewepie.net^
+||zeit.de/js/rsa.js
+||zeit.de/js/rsa2.js
 ||zekcgykv.com^
 ||zelllwrite.com^
 ||zelrasty.net^$third-party
