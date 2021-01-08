@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Thu Jan 7 12:54:00 MEZ 2021 
+! Updated: Fri Jan 8 20:58:55 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -1374,6 +1374,7 @@
 ###adIsland
 ###adLB
 ###adLayer
+###adLayerTop
 ###adLayout
 ###adLeft
 ###adLocation-1
@@ -24919,6 +24920,7 @@ _970x30_
 _980x100.
 _AD/jquery.
 _Ad125.
+_Ad300x250_
 _Ads_300x300.
 _Adv_Banner_
 _Advert09.
@@ -25428,9 +25430,9 @@ amazon.it###sp-cc
 americanidol.com###medrec
 americanidol.com###sponsorLogos
 americantowns.com##.moduletable-banner
-amgreatness.com,ancient-origins.net,avclub.com,catholicculture.org,deadspin.com,electrek.co,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lewrockwell.com,lifehacker.com,marineelectronics.com,marinetechnologynews.com,maritimejobs.com,maritimeprofessional.com,maritimepropulsion.com,mydramalist.com,myrailinfo.in,oneangrygamer.net,powerlineblog.com,spartareport.com,ssbcrack.com,thetakeout.com,yachtingjournal.com##a[href^="https://www.amazon."][href*="tag="]
 amref.it###divCk
 analpornpix.com##.ban_list
+ancient-origins.net,avclub.com,catholicculture.org,deadspin.com,electrek.co,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lewrockwell.com,lifehacker.com,mydramalist.com,ssbcrack.com,thetakeout.com##a[href^="https://www.amazon."][href*="tag="]
 androidpit.com##.tile_Follow
 androidpolice.com##.bigsponsor
 androidweblog.com##.cgdyh > [data-adid]
@@ -25878,6 +25880,7 @@ flightglobal.com##.adp
 fliiby.com##.box_300x250
 flurl.com###rectbanner
 flurl.com###skybanner
+flyerland.ca,tcpalm.com,tiff.net##.bigbox
 flyordie.com###asf
 flyscoot.com##.privacy-bar
 flyscoot.com##.top-bar
@@ -25911,7 +25914,7 @@ freelancer.com##.PostProjectBanner
 freemake.com###bottombar
 freepik.com###layer_coupon
 freexcafe.com##.adv1
-friendster.com###sponsor-wrap
+fstoppers.com##.supportImg
 fubo.tv##.wrapper
 fun.familyeducation.com,genealogy.familyeducation.com###ssky
 funkypotato.com###bottom_banner_wrapper
@@ -26034,7 +26037,6 @@ hltv.org##[class*="widget"]
 hmc.org.uk###modal-mask
 hofner.com###ck-overlay
 holytaco.com###re_ad_300x250
-home-barista.com##a[onclick*="adstats"]
 homeclick.com#@##adbanner
 homo.xxx##.footer.spot
 homo.xxx##.spot.column
@@ -26118,7 +26120,6 @@ iqiyi.com##.black-screen[data-cupid="adblock-blackscreen"]
 irishpost.com##.add-pad
 island.lk###left_banner_adds1
 isource.com#@##topAd
-issuu.com##div[class*="adSkyscraper"]
 italradio.org##.gpdr
 italradio.org##.privacyStatement
 ittsb.eu###random_banner
@@ -26479,7 +26480,6 @@ pagalworld.io###promoapps
 pagomeno.it###privacyBanner
 panarmenian.net##.panner_2
 panarmenian.net#@#.ad_body
-panorama.am###top-banners
 panoramicearth.com###cklbox
 pantip.com##.pt-snackbar__surface
 parasut.com##.signup-newsletter
@@ -26515,6 +26515,7 @@ photojpl.com###google01
 phys.org##.nwletter-box
 physicsworld.com##.corporate-partners
 pi-news.net##.widget_wysija
+picdumps.com###pcdc
 picfont.com###block_a
 picnic.app###modal
 picp2.com###system
@@ -26532,7 +26533,6 @@ play-cricket.com###openglobal_privacy_widget
 play.google.com###gb > div[style*="background-color"]
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
-playboy.com##.ads-column > h2
 playnj.com##.pnj-table
 playok.com###pread
 playvid.com##.bottom-banners
@@ -26592,7 +26592,6 @@ prokerala.com##.adm-unit
 promodj.com#@#.adv300
 proporn.com##.drt-spot-box
 proporn.com##.livecams
-prothomalo.com##div[class*="show-ad_"]
 provantage.com###PP
 psypost.org##.head.the-wrap
 puigusa.com###lycok
@@ -26676,6 +26675,7 @@ sanook.com##.Pdpa
 santabanta.com#@#.ads_div
 santatracker.google.com##SANTA-NOTICE
 sapo.ao##.bsu-v2-ntfs
+satdl.com##.advertizement
 satispay.com##p[class^="cookie-banner"]
 sb.by##.google-subscription
 sbnation.com##.harmony-sponsorship
@@ -26943,7 +26943,7 @@ uflash.tv##.pps-banner
 ugo.com###superMast
 uk.yahoo.com###Main > .windowshade:first-child
 ulabox.com##.js-alert
-ultimate-guitar.com##.left_article_cont
+ultimate-guitar.com##.js-ab-regular
 unex.net###disclosure
 unirc.it##.content
 unitconversion.org###ileft
@@ -27095,7 +27095,6 @@ yirmidort.tv##.bizitakipet
 ynot.com###lw-bannertop728
 ynot.com###lw-top
 yodiz.com###footMsgYodiz
-yogisoftworld.blogspot.com##a[onclick]
 youkioske.com#@##adLayer
 youporn.com##[id^="parent_zone_"]
 yourbittorrent.com##.extneed
@@ -27413,7 +27412,6 @@ zymic.com###sponsor-partners
 ||4f6b2af479d337cf.com^
 ||4f9d88054fa2b.com^
 ||4fb0a3bf4a3d38.com^
-||4fuckr.com/api.php$popup
 ||4ixbffsib0.monster^
 ||4o64flb.com^$third-party
 ||4o7cj36hbaip.com^
@@ -28620,7 +28618,7 @@ zymic.com###sponsor-partners
 ||amazonaws.com/youpop/
 ||amazonaws.com^$popup,domain=ndtv.com
 ||amazonaws.com^$script,subdocument,xmlhttprequest,domain=bittorrent.am|gelbooru.com|hdvid.tv|macupload.net|ndtv.com|ohmanhua.com|onvid.fun|onvid.pw|rawdevart.com|replaytvstreaming.com|streamplay.to|thelibertydaily.com|thevideobee.to|usersfiles.com|vidhd.icu|vshare.eu|yify-movies.net
-||amazonaws.com^$third-party,xmlhttprequest,domain=abcvideo.cc|animeheaven.ru|bdupload.info|bittorrent.am|c123movies.com|downloadpirate.com|hdvid.tv|macupload.net|ocean0fgames.com|onvid.fun|onvid.pw|sadeempc.com|thevideobee.to|tsumino.com|vidhd.icu|vshare.eu|wizhdsports.is|yourvideohost.com
+||amazonaws.com^$third-party,xmlhttprequest,domain=abcvideo.cc|animeheaven.ru|bdupload.info|bittorrent.am|c123movies.com|downloadpirate.com|hdvid.tv|macupload.net|ocean0fgames.com|onvid.fun|onvid.pw|sadeempc.com|skidrowreloaded.com|thevideobee.to|tsumino.com|vidhd.icu|vshare.eu|wizhdsports.is|yourvideohost.com
 ||amazonaws.com^*/Amazon/$domain=systemrequirementslab.com
 ||amazonaws.com^*/ads/$image,domain=washingtonmonthly.com
 ||amazonaws.com^*/direct/$domain=mycbseguide.com
@@ -29141,6 +29139,7 @@ zymic.com###sponsor-partners
 ||bhlusdvadp.com^
 ||bicacxo5go.com^
 ||bicarepterone.net^$third-party
+||biceunivers.fun^
 ||bid.glass^
 ||bidadx.com^$third-party
 ||bidgear.com^$third-party
@@ -34106,6 +34105,7 @@ zymic.com###sponsor-partners
 ||nextmillennium.io^$third-party
 ||nextoptim.com^$popup
 ||nextoptim.com^$third-party
+||nextpathnet.com/pub.js
 ||nextyourcontent.com^$popup
 ||nexxxt.biz^$third-party
 ||neyhdjwpumivpa.com^
@@ -36692,6 +36692,7 @@ zymic.com###sponsor-partners
 ||surveyspaid.com^$popup
 ||surveyvalue.mobi^$third-party
 ||surveywriter.net^$script,third-party
+||susandsoc.top^
 ||susm0q6jys.com^$popup
 ||suthome.com^$third-party
 ||suumlfkkiyhnv.com^
