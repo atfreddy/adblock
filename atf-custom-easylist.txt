@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Fri Jan 8 20:58:55 CET 2021 
+! Updated: Sun Jan 10 01:56:41 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -1280,7 +1280,6 @@
 ###adAd
 ###adBTF300x250
 ###adBTF300x250IC
-###adBanner
 ###adBanner1
 ###adBanner10
 ###adBanner120x600
@@ -14776,7 +14775,6 @@
 ##.google_top_adsense1_footer
 ##.google_top_adsense_footer
 ##.google_txt_ads_mid_big_img
-##.googlead
 ##.googlead-sidebar
 ##.googleadArea
 ##.googlead_idx_b_97090
@@ -19630,7 +19628,6 @@
 /_30/ads/*
 /__adstop.
 /__cookie_js.php
-/_ads/*
 /_adslot/*
 /_b*.php?img=$image
 /_global/ads/*
@@ -20992,7 +20989,6 @@
 /adsicon/*
 /adsimage/*
 /adsite/*
-/adsjs.
 /adsjs/*
 /adsjson.
 /adsky.
@@ -22371,7 +22367,6 @@
 /floatads.
 /floatadv.
 /floater_ad.
-/floaty_rotator
 /flyad.
 /flyad/*
 /flyads/*
@@ -23568,7 +23563,6 @@
 /sd_ads_
 /share/ads/*
 /shared/ad_
-/shared/ads.
 /shared/ads/*
 /shortmediads/*
 /show-ad.
@@ -25822,7 +25816,7 @@ euspert.com#@#.listad
 evaair.com,orthomol.com,zombiearmy.com##.alert-box
 everydayhealth.com#@#.SponsoredContent
 evrl.to##.zen
-exemproject.eu,kon-boot.com###myModal
+exemproject.eu,kon-boot.com,tcf.org###myModal
 expedia.com,ksl.com#@#.adBox
 experienceproject.com##.adn
 f1forgottendrivers.com###wpcg-box
@@ -28908,6 +28902,7 @@ zymic.com###sponsor-partners
 ||awakeexterior.com^
 ||awaps.net^$third-party
 ||away-stay.com^
+||awbbcre.com^
 ||awcpmsaiv.com^
 ||awecr.com^$third-party
 ||awejmp.com^$popup
@@ -37993,6 +37988,7 @@ zymic.com###sponsor-partners
 ||wigetmedia.com^$third-party
 ||wigglecrisis.com^
 ||wikbpyexkw.com^
+||wikihow.com/x/zscsucgm?
 ||wildhookups.com^$third-party
 ||wildtowedcad.work^
 ||wimsocou.com^
