@@ -11,6 +11,7 @@ bmedonline.it##main > .container > .cont-esterno-form.align-items-center.row > .
 consent.google.*
 ||consent.google.com/$subdocument
 deezer.com##.conversion-banner
+ebay.it##.srp-river-answer--SIMPLE_IMAGE_BANNER.srp-river-answer
 edisonenergia.it###cookie-policy-bar
 fitgirl-repacks.site##.horizontalbar_truepush
 google.*##.widget-consent-fullscreen.widget-consent
