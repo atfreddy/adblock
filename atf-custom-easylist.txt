@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 10 09:23:51 CET 2021 
+! Updated: Sun Jan 10 12:43:41 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -18032,6 +18032,7 @@
 ##.widget_newscorpau_ads
 ##.widget_ok_zergnet_widget
 ##.widget_openxwpwidget
+##.widget_pmc-ads-widget
 ##.widget_po_ads_widget
 ##.widget_postmedia_layouts_ad
 ##.widget_sdac_bottom_ad_widget
@@ -18464,6 +18465,9 @@
 ##vc-site-cookiepolicy-dialog
 ##vls-cookie-banner
 ##ytd-app ~ iron-overlay-backdrop
+$csp=script-src 'self' * 'unsafe-inline',domain=thepiratebay.vip|pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|kickass.vip|pirateproxy.app|ukpass.co|prox.icu|pirateproxy.life
+$csp=worker-src 'none',domain=pirateproxy.live|thehiddenbay.com|tpb.party|thepiratebay.org|thepiratebay.vip|thepiratebay10.org|flashx.cc|vidoza.co|vidoza.net
+$webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay.vip|thepiratebay10.org
 &AdType=
 &Ads_DFP=
 &UrlAdParam=
@@ -19089,6 +19093,7 @@
 .il/ads.
 .il/ads/
 .im/ntfc.php?$script
+.info^$popup,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay.vip|thepiratebay10.org
 .io/ads/
 .is/ads/
 .javascript.gdpr.
@@ -19620,6 +19625,9 @@
 /^https?:\/\/(.+?\.)?toptenz\.net\/[a-zA-Z]{4,18}\//
 /^https?:\/\/(.+?\.)?tosavealife\.com\/[a-zA-Z]{7,18}\//
 /^https?:\/\/(35|104)\.(\d){1,3}\.(\d){1,3}\.(\d){1,3}\//$popup,third-party
+/^https?:\/\/([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=0dt.net|123movies.net|adyou.me|bonstreams.net|briansarmiento.website|bro.adca.st|buzzfil.net|clik.pw|ddlvalley.me|firstrowsports.eu|flashsx.tv|flashx.co|flashx.me|flashx.sx|flashx.to|flashx.tv|gounlimited.to|itdmusic.com|janjua.pw|janjua.tv|kinox.to|opensubtitles.org|pirateproxy.live|rarbg.to|rarbgaccess.org|rarbgmirror.com|rarbgmirror.org|rarbgmirrored.org|rarbgproxy.org|rarbgprx.org|rarbgway.org|sawlive.tv|stream2watch.cc|sunmusiq.com|thehiddenbay.com|thepiratebay.vip|thepixstate.com|toros.co|unblocked.mx|unblocked.sh|unblocker.cc|uploadproper.com|uptobox.com|vidlox.me|vidtodo.me|vidup.me|vidup.tv|webfirstrow.eu|yts.gs|zooqle.com
+/^https?:\/\/.*[&%+=]/$popup,domain=mixdrop.co|powvideo.net|powvldeo.cc|prox4you.xyz|putlocker.fyi|putlocker.ninja|putlocker.style|putlockers.fm|putlockers.mn|putlockers.movie|rarbg.to|rarbgaccess.org|rarbgmirror.com|rarbgmirror.org|rarbgmirrored.org|rarbgproxy.org|rarbgprx.org|rarbgunblock.org|rarbgway.org|readcomiconline.to|repelis.net|seehd.pl|sendit.cloud|sendspace.com|sendvid.com|sportp2p.com|steamplay.cc|streamplay.life|streamplay.to|thepiratebay.org|thepiratebay10.org|torlock.com|torrentdownloads.me|torrentfunk2.com|uiz.io|ukpirate.org|unblockall.org|unblocker.cc|up-load.io|upload.ac|uploadproper.com|uploadproper.net|upstream.to|uptobox.com|userscloud.com|vev.io|vidbull.tv|videobin.co|vidlox.me|vidoza.co|vidoza.net|vidtomp3.com|vidup.io|vipbox.live|vipstand.se|vshare.eu|y2mate.com|yify-movies.net|youwatch.org|youzik.com|zippyshare.com
+/^https?:\/\/.*\.(info|pro|icu|app|xyz|pet|win|live|me|io|cc|pw|is|zone|bid|cf|ovh|site|review|ml)\.?(\/|:|$)/$popup,domain=dood.watch|fmovies.to|idup.io|powvideo.net|powvldeo.cc|putlocker.style|thepiratebay.org|uptostream.com|vev.io|vevo.io|vidcloud.co|videobin.co|videowood.tv|viditodo.com|vidoza.net|vortez.net|vshare.eu
 /^https?:\/\/.*\/sw.js?.[a-zA-Z0-9%]{50,}/$script,~third-party
 /^https?:\/\/146\.59\.211\.(\d){1,3}.*/$popup,third-party
 /^https?:\/\/s3\.amazonaws\.com\/[a-f0-9]{50,57}\/[a-f,0-9]{8,10}$/$script,third-party,xmlhttprequest,domain=~amazon.com
@@ -24372,6 +24380,7 @@
 @@||ads.askgamblers.com^$popup
 @@||ads.com^$popup
 @@||ads.comeon.com/redirect.aspx?pid=*&bid=$popup
+@@||ads.exoclick.com/*.js$script,domain=gelbooru.com|thepiratebay.org
 @@||ads.getlucky.com/redirect.aspx?pid=*&bid=$popup
 @@||ads.google.$image,script,stylesheet,domain=ads.google.ac|ads.google.ad|ads.google.ae|ads.google.al|ads.google.am|ads.google.as|ads.google.at|ads.google.az|ads.google.ba|ads.google.be|ads.google.bf|ads.google.bg|ads.google.bi|ads.google.bj|ads.google.bs|ads.google.bt|ads.google.by|ads.google.ca|ads.google.cat|ads.google.cd|ads.google.cf|ads.google.cg|ads.google.ch|ads.google.ci|ads.google.cl|ads.google.cm|ads.google.co.ao|ads.google.co.bw|ads.google.co.ck|ads.google.co.cr|ads.google.co.id|ads.google.co.il|ads.google.co.in|ads.google.co.jp|ads.google.co.ke|ads.google.co.kr|ads.google.co.ls|ads.google.co.ma|ads.google.co.mz|ads.google.co.nz|ads.google.co.th|ads.google.co.tz|ads.google.co.ug|ads.google.co.uk|ads.google.co.uz|ads.google.co.ve|ads.google.co.vi|ads.google.co.za|ads.google.co.zm|ads.google.co.zw|ads.google.com|ads.google.com.af|ads.google.com.ag|ads.google.com.ai|ads.google.com.ar|ads.google.com.au|ads.google.com.bd|ads.google.com.bh|ads.google.com.bn|ads.google.com.bo|ads.google.com.br|ads.google.com.by|ads.google.com.bz|ads.google.com.cn|ads.google.com.co|ads.google.com.cu|ads.google.com.cy|ads.google.com.do|ads.google.com.ec|ads.google.com.eg|ads.google.com.et|ads.google.com.fj|ads.google.com.gh|ads.google.com.gi|ads.google.com.gt|ads.google.com.hk|ads.google.com.jm|ads.google.com.jo|ads.google.com.kh|ads.google.com.kw|ads.google.com.lb|ads.google.com.ly|ads.google.com.mm|ads.google.com.mt|ads.google.com.mx|ads.google.com.my|ads.google.com.na|ads.google.com.ng|ads.google.com.ni|ads.google.com.np|ads.google.com.om|ads.google.com.pa|ads.google.com.pe|ads.google.com.pg|ads.google.com.ph|ads.google.com.pk|ads.google.com.pr|ads.google.com.py|ads.google.com.qa|ads.google.com.ru|ads.google.com.sa|ads.google.com.sb|ads.google.com.sg|ads.google.com.sl|ads.google.com.sv|ads.google.com.tj|ads.google.com.tn|ads.google.com.tr|ads.google.com.tw|ads.google.com.ua|ads.google.com.uy|ads.google.com.vc|ads.google.com.ve|ads.google.com.vn|ads.google.cv|ads.google.cz|ads.google.de|ads.google.dj|ads.google.dk|ads.google.dm|ads.google.dz|ads.google.ee|ads.google.es|ads.google.fi|ads.google.fm|ads.google.fr|ads.google.ga|ads.google.ge|ads.google.gg|ads.google.gl|ads.google.gm|ads.google.gp|ads.google.gr|ads.google.gy|ads.google.hk|ads.google.hn|ads.google.hr|ads.google.ht|ads.google.hu|ads.google.ie|ads.google.im|ads.google.iq|ads.google.is|ads.google.it|ads.google.it.ao|ads.google.je|ads.google.jo|ads.google.jp|ads.google.kg|ads.google.ki|ads.google.kz|ads.google.la|ads.google.li|ads.google.lk|ads.google.lt|ads.google.lu|ads.google.lv|ads.google.md|ads.google.me|ads.google.mg|ads.google.mk|ads.google.ml|ads.google.mn|ads.google.ms|ads.google.mu|ads.google.mv|ads.google.mw|ads.google.ne|ads.google.ne.jp|ads.google.ng|ads.google.nl|ads.google.no|ads.google.nr|ads.google.nu|ads.google.pl|ads.google.pn|ads.google.ps|ads.google.pt|ads.google.ro|ads.google.rs|ads.google.ru|ads.google.rw|ads.google.sc|ads.google.se|ads.google.sh|ads.google.si|ads.google.sk|ads.google.sm|ads.google.sn|ads.google.so|ads.google.sr|ads.google.st|ads.google.td|ads.google.tg|ads.google.tl|ads.google.tm|ads.google.tn|ads.google.to|ads.google.tt|ads.google.us|ads.google.vg|ads.google.vu|ads.google.ws
 @@||ads.google.$popup,domain=google.ac|google.ad|google.ae|google.al|google.am|google.as|google.at|google.az|google.ba|google.be|google.bf|google.bg|google.bi|google.bj|google.bs|google.bt|google.by|google.ca|google.cat|google.cd|google.cf|google.cg|google.ch|google.ci|google.cl|google.cm|google.co.ao|google.co.bw|google.co.ck|google.co.cr|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.ls|google.co.ma|google.co.mz|google.co.nz|google.co.th|google.co.tz|google.co.ug|google.co.uk|google.co.uz|google.co.ve|google.co.vi|google.co.za|google.co.zm|google.co.zw|google.com|google.com.af|google.com.ag|google.com.ai|google.com.ar|google.com.au|google.com.bd|google.com.bh|google.com.bn|google.com.bo|google.com.br|google.com.by|google.com.bz|google.com.cn|google.com.co|google.com.cu|google.com.cy|google.com.do|google.com.ec|google.com.eg|google.com.et|google.com.fj|google.com.gh|google.com.gi|google.com.gt|google.com.hk|google.com.jm|google.com.jo|google.com.kh|google.com.kw|google.com.lb|google.com.ly|google.com.mm|google.com.mt|google.com.mx|google.com.my|google.com.na|google.com.ng|google.com.ni|google.com.np|google.com.om|google.com.pa|google.com.pe|google.com.pg|google.com.ph|google.com.pk|google.com.pr|google.com.py|google.com.qa|google.com.ru|google.com.sa|google.com.sb|google.com.sg|google.com.sl|google.com.sv|google.com.tj|google.com.tn|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vc|google.com.ve|google.com.vn|google.cv|google.cz|google.de|google.dj|google.dk|google.dm|google.dz|google.ee|google.es|google.fi|google.fm|google.fr|google.ga|google.ge|google.gg|google.gl|google.gm|google.gp|google.gr|google.gy|google.hk|google.hn|google.hr|google.ht|google.hu|google.ie|google.im|google.iq|google.is|google.it|google.it.ao|google.je|google.jo|google.jp|google.kg|google.ki|google.kz|google.la|google.li|google.lk|google.lt|google.lu|google.lv|google.md|google.me|google.mg|google.mk|google.ml|google.mn|google.ms|google.mu|google.mv|google.mw|google.ne|google.ne.jp|google.ng|google.nl|google.no|google.nr|google.nu|google.pl|google.pn|google.ps|google.pt|google.ro|google.rs|google.ru|google.rw|google.sc|google.se|google.sh|google.si|google.sk|google.sm|google.sn|google.so|google.sr|google.st|google.td|google.tg|google.tl|google.tm|google.tn|google.to|google.tt|google.us|google.vg|google.vu|google.ws
@@ -24430,6 +24439,7 @@
 @@||ams.amazon.com^$domain=ams.amazon.com
 @@||annfammed.org/adsystem/$image,~third-party
 @@||api.adnetmedia.lt/api/$~third-party
+@@||apibay.org^$script,xmlhttprequest,domain=thepiratebay.org
 @@||apis.google.com^$script,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||apis.google.com^$script,subdocument,domain=putlocker.actor|putlocker.style|putlocker.to|putlockers.mn|putlockers.movie
 @@||avclub.com^*/adManager.$script,~third-party
@@ -24455,6 +24465,7 @@
 @@||doubleclick.net/clk;$popup,domain=3g.co.uk|4g.co.uk|hotukdeals.com|jobamatic.com|play.google.com|santander.co.uk|techrepublic.com
 @@||dragoart.com^$script,~third-party
 @@||dynamicyield.com/abadimage/$image,subdocument
+@@||ebaykorea.com/ADS/$image,domain=gmarket.co.kr
 @@||ebkimg.com/banners/
 @@||efvi.eu/badge/*-120x60.png
 @@||eucookiedirective.com^$~third-party
@@ -24532,6 +24543,7 @@
 @@||javpee.com/eroex.js
 @@||jokerly.com/Okidak/adSelectorDirect.htm?id=$document,subdocument
 @@||jokerly.com/Okidak/vastChecker.htm$document,subdocument
+@@||jsdelivr.net^$script,domain=thepiratebay.org
 @@||ksat.com/gmg.static/ads/$script
 @@||leffatykki.com/media/banners/tykkibanneri-728x90.png
 @@||lemon-ads.com^$~document,~third-party
@@ -24652,6 +24664,7 @@
 @@||rdtcdn.com^*/jquery/$script
 @@||rdtcdn.com^*/lib.js?$script
 @@||rehabs.com^*/xicons_social_sprite_400x60.png
+@@||rover.ebay.com^$image,domain=catalogfavoritesvip.com|freeshipping.com|freeshippingrewards.com|habandvipplus.com|inthecompanyofdogsvip.com|naturesjewelryvip.com|northstylevip.com|pyramidcollectionvip.com|serengeticatalogvip.com|travelplus.com
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.$script,domain=chiebukuro.yahoo.co.jp|sports.yahoo.co.jp
 @@||scan-manga.eu/*pageID=$~third-party
 @@||sky.com^*_cookie_$script
@@ -24662,9 +24675,16 @@
 @@||support.google.com/adsense/$~third-party
 @@||support.google.com/google-ads/$domain=ads.google.com
 @@||tab.gladly.io/newtab/|$document,subdocument
+@@||thepiratebay.*/static/js/details.js$domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay.vip
+@@||thepiratebay.*/static/js/prototype.js$domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay.vip
+@@||thepiratebay.*/static/js/scriptaculous.js$domain=thepiratebay.org
 @@||thepiratebay.org/*.php$csp,~third-party
+@@||thepiratebay.org/static/main.js$script,~third-party
 @@||theweathernetwork.com/js/*/prebid_twn/$script,~third-party
 @@||tjoob.com/go.php?ad=$script,~third-party
+@@||torrindex.net^$image,script,stylesheet,domain=thepiratebay.org
+@@||tpbprox.com/static/css/$stylesheet,domain=thepiratebay.vip
+@@||tpbprox.com/static/img/$image,domain=thepiratebay.vip
 @@||tpc.googlesyndication.com^$image,domain=sc2casts.com
 @@||translate.google.*/translate_*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||translate.google.com^$script,domain=gaybeeg.info
@@ -25550,6 +25570,7 @@ bootyoftheday.co###random-div-wrapper
 boracay.tel#@#.imgad
 boredomtherapy.com##.btparel1
 bostonreview.net##.promotop
+bottegaverde.it,cerutti.it,dehoniane.it,e-glossa.it,ebayextra.it,esso.it,fluorsidgroup.com,fondazionehenraux.it,gatorade.it,gogedizioni.it,ilbestiariorivista.it,italotreno.it,lintellettualedissidente.it,perfumesclub.it,radioitalia.it,rivistacontrasti.it,saint-gobain.it,tirrenia.it,tivu.tv,tivusat.tv,walliance.eu##.cookies
 boursorama.com,nuxeo.com#@#.cookie-banner
 boxannunci.com##.terms
 boysfood.com##.txt-a-onpage
@@ -25587,6 +25608,7 @@ candidvoyeurism.com##.rectangle
 cantoot.com###googlebox
 capterra.com##.welcome-banner
 car.com,silentera.com##table[height="90"]
+carandclassic.co.uk##.ebayRSS
 care2.com###wp_newsletter
 carscoops.com###payload
 carsdir.com###AddCarBanner
@@ -25651,6 +25673,7 @@ comicbookmovie.com#@#.skyscraperAd
 community.pictavo.com#@#.ads-1
 community.pictavo.com#@#.ads-2
 community.pictavo.com#@#.ads-3
+conforama.es,ebayextra.es,flooxer.com,ing.es,loteriasyapuestas.es,moldurashergon.es,mountainbike.es,nintenderos.com,o2online.es,panamaamerica.com.pa,puntodepartida.com,tuenti.es##.cookies
 coni.it###privacy-wrapper
 consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 consent.yahoo.com,paypal.com#@##consent.consent
@@ -25720,6 +25743,7 @@ dict.cc###recthome
 dict.cc###recthomebot
 dictionary.com###dcomHomeTop-728x90
 dictzone.com###ac
+diebayerische.de,fanbike.de,speicherguide.de##.consent
 digimobil.it###sticky-popup
 digitalstudiome.com##.pane-block.sup-blk
 directorslive.com##.footer-banner-img
@@ -25759,10 +25783,21 @@ e-hentai.org##.itd[colspan="4"]
 earthcp.com###site-overlay
 easyeda.com##.priv-tips
 eatthis.com#@#.nav-ad
+ebay.ca#?#li.s-item:-abp-has(span:-abp-contains(SPONSORED))
+ebay.co.uk,ebay.com,ebay.com.au#?#.b-module:-abp-has(h2:-abp-contains(Sponsored))
+ebay.co.uk,ebay.com,ebay.com.au#?#.mfe-lex:-abp-has(h2:-abp-contains(sponsored))
+ebay.co.uk,ebay.com,ebay.com.au#?#.mfe-reco-ct:-abp-has(.mfe-promoted-label)
+ebay.co.uk,ebay.com,ebay.com.au#?#.s-item:-abp-has(span[class^="s-item__title--tagblock__SPONSORED"])
+ebay.co.uk,theweek.com#@#.pushdown-ad
 ebay.com###rtm_html_441
 ebay.com##.fdad1
 ebay.com##.ggtm
 ebay.com##div[title="ADVERTISEMENT"]
+ebay.com,geo.tv,jozifm.co.za,nwherald.com,runt-of-the-web.com,thewest.com.au,topgear.com.ph##.mrec
+ebay.ie###rtm_NB
+ebay.ie###rtm_html_225
+ebayclassifieds.com#@#.list-ad
+ebayclassifieds.com,guloggratis.dk#@#.gallery-ad
 economist.com#@#.block-ec_ads
 economist.com#@#.ec-ads-remove-if-empty
 ecoustics.com###zox-lead-bot
@@ -26125,6 +26160,7 @@ izismile.com##.css-widget-item-wrap
 izlemac46.net##body > div#reload
 izlemac46.net##body > div[style*="width:100%;text-align:center"]
 jabong.com,people.com,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
+javascript:$popup,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay.vip
 javhiv.com##.block-body > .block.announcement
 jekoo.com##.boxItem
 jekoo.com##.textCollSpons
@@ -26354,6 +26390,7 @@ msn.com##.extnativeaditem
 msn.com##.fpCdm
 msn.com##.nativeAd-DS-card1-1
 msn.com##a.nativead[target="_blank"]
+msn.com##a[href^="https://rover.ebay.com/"]
 msn.com$$div[id="irisbanner"]
 music-news.com###buy-tickets
 musicradar.com##.newsletter-signup
@@ -26471,6 +26508,7 @@ ownedcore.com##.iv-note
 pacsun.com###pptou-sticky
 pagalguy.com##.floater-bottom > .pg-card
 pagalworld.io###promoapps
+pages.ebay.com###rtm_1658
 pagomeno.it###privacyBanner
 panarmenian.net##.panner_2
 panarmenian.net#@#.ad_body
@@ -27120,6 +27158,8 @@ zuzandra.com##.jx-bar
 zylom.com##.floor_wrapper
 zymic.com###sponsor-partners
 |dddata:text$popup
+|http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay.vip|thepiratebay10.org
+|https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay.vip|thepiratebay10.org
 ||006a039c957c142bb.com^
 ||00aaa2d81c1d174.com^
 ||00ae8b5a9c1d597.com^
@@ -29757,6 +29797,8 @@ zymic.com###sponsor-partners
 ||clotezar.com^$third-party
 ||cloudflare.solutions^$third-party
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.mx|amazon.de|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.sa
+||cloudfront.net^$image,script,subdocument,xmlhttprequest,domain=171gifs.com|300mbfilms.org|4archive.org|69sugar.com|adbull.me|addic7ed.com|adultdouga.biz|agarios.org|amabitch.com|ancensored.com|andrija-i-andjelka.com|animeado.net|animeheaven.ru|animezone.pl|antenasport.eu|anyanime.com|arabp2p.com|archived.moe|asianxv.com|avpockiehd.com|azkempire.com|aznude.com|balkandownload.org|balkanje.com|bdupload.info|beelink.in|beforeitsnews.com|biology-online.org|bittorrent.am|blackboxrepack.com|blogqpot.com|brazzershd.co|c123movies.com|camwhores.co|capodeportes.net|cartoonth12.com|chronos.to|cloudyfiles.co|columbia-xxx.com|comedy.com|coroas40.com|crackingpatching.com|croco.site|dailyuploads.net|dblatino.com|dbzsuper.tv|desixnxx.net|devil-torrents.pl|discografiascompletas.net|downloadgameps3.com|downloadgamepsp.com|downloadming.io|drhmonegyi.net|ekasiwap.com|electro-torrent.pl|embedsr.to|erodouga69.com|erostar.jp|estrenosdoramas.net|etsmods.net|extremetech.com|extremotvplay.com|filmclub.tv|filmeserialeonline.org|filmesonlineplay.com|filmi7.com|flyordie.com|freeiptvlinks.net|freelivesports.co|frendz4m.com|fulldowngames.biz|fxporn.net|g17.com|gameofporn.net|gamepciso.com|garotosbrasil.com|gaycock4u.com|gaysex69.net|geekzone.co.nz|gelbooru.com|girlswithmuscle.com|goodvideohost.com|gravuregirlz.com|grcrt.net|hacknetfl1x.net|happy-foxie.com|hdarkzone.com|hdtube.co|hdvid.tv|hentai-id.tv|hentaiplay.net|hentaiplus.co|her69.net|hindimoviesonlines.net|hiper.cool|homeporn.tv|hon3yhd.com|hyperdebrid.net|igg-games.com|imgsmile.com|incestoporno.org|jav-for.me|javeu.com|javgay.com|javhd.pro|javkimochiii.com|javleak.com|javmobile.net|javmost.com|javonline.online|javrom.com|jazztv.co|jdownloader2premium.com|jizzman.com|jogostorrentgratis.net|jpfiles.eu|jpidols.tv|k18.co|kissanime.digital|kreskowkazone.pl|kreskowki.tv|lambingan.su|lecheanal.com|leech.ae|leosims.com|linksprotection.com|linx.cloud|livesoccertv.live|loonertube.com|macnwins.com|mactorrents.org|macupload.net|mangacanblog.com|maniacosporcomics.com|media1fire.com|megafilmeshdplus.org|meguminime.com|metaserie.com|milversite.me|minatosuki.com|minhaserie.me|mitemovie.com|mixdrop.to|mixhdporn.com|mkvtv.net|mmfilmes.com|mocnoi.com|movieshdgratis.com.mx|multiup.org|musculoduro.com.br|muvibg.com|mzansifun.com|mzansixxx.com|neko-miku.com|nekonime.com|nitroflare.com|ocean0fgames.com|ohmanhua.com|ohohd.com|ohyeah1080.com|omberbagi.com|omghype.com|ondeeubaixo.com|onvid.fun|onvid.pw|ouo.io|peliculasm.tv|peliculasmega1k.com|pelisxporno.com|phimotv.net|picanteeproibido.com.br|piratebay.co.in|pirateiro.com|pornfromcz.com|pornfromczech.com|pornlibrary.net|pornobae.com|pornocomics.net|pornvxl.com|programasvirtualespc.net|r34anim.com|rawdevart.com|reallifecamvd.com|reevown.com|rosextube.com|sadeempc.com|salon.com|savvystreams.blogspot.com|scambiofile.info|seriescr.com|serieslatino.tv|seriesparaassistironline.org|sexix.net|sexloading.com|sexy-youtubers.com|sexyeroticgirls.com|shofonline.org|skidrowreloaded.com|sparknotes.com|srfiles.com|stadium-live.biz|streamingok.com|streamlord.com|streamp1ay.cc|streamplay.to|suki48.web.id|sweext.com|taxidrivermovie.com|temp-mail.org|theapricity.com|thebarchive.com|thelibertydaily.com|thepiratebay.org|thevideobee.to|torlock.com|torrentlocura.com|tousatu.biz|tsumino.com|tubeoffline.com|tuhentaionline.com|ufreetv.com|uplovd.com|usersfiles.com|v100v.net|verpeliculasporno.gratis|vertusnovelas.net|viddoto.com|video.az|videosnudes.com|vidhd.icu|vldtodo.com|vshare.eu|watchjavidol.com|webfirstrow.eu|xmovies1.com|xrares.com|xteenchan.com|xxgasm.com|yeucontrai.com|youpornzz.com|yourbittorrent.com|yourvideohost.com|zfilmeonline.eu|zw-net.com
+||cloudfront.net^$popup,domain=thepiratebay.org
 ||cloudgallery.net^
 ||cloudiiv.com^$third-party
 ||cloudioo.net^$third-party
@@ -30530,10 +30572,14 @@ zymic.com###sponsor-partners
 ||eawp2ra7.top^
 ||eazyleads.com^$third-party
 ||ebahpya.com^$third-party
+||ebayclassifiedsgroup.com^$third-party
 ||ebaycommercenetwork.com/publisher/$third-party
+||ebayobjects.com.au^$third-party
 ||ebayobjects.com^$third-party
 ||ebayrtm.com/rtm?RtmCmd*&enc=
 ||ebayrtm.com/rtm?RtmIt
+||ebaystatic.com/aw/signin/ebay-signin-toyota-
+||ebaystatic.com^$domain=psu.com
 ||ebaystatic.com^*/ScandalJS-
 ||ebaystatic.com^*/ScandalSupportGFA-
 ||ebbp1.pro^$popup
@@ -36695,6 +36741,7 @@ zymic.com###sponsor-partners
 ||suzanne.pro^
 ||sv2.biz^$third-party
 ||svclqyctlijue.com^
+||svcs.ebay.com/services/search/FindingService/*^affiliate.tracking$third-party
 ||svevbvsjeicl.com^
 ||sviter2s1olenyami1.com^
 ||svjat0rx99.com^$third-party
@@ -36906,6 +36953,7 @@ zymic.com###sponsor-partners
 ||thenelis.pw^
 ||theonecdn.com^
 ||thepayporn.com^$third-party
+||thepiratebay.$script,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org|thepiratebay.vip
 ||thepiratebay.*/static/$subdocument
 ||thepornsurvey.com^$popup,third-party
 ||therejockeryfu.fun^
