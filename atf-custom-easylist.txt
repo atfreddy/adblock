@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 10 20:21:48 CET 2021 
+! Updated: Mon Jan 11 21:06:52 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -511,6 +511,7 @@
 ###HomepageAd2
 ###HomepageAd3
 ###HomepageAdSpace
+###HometopAdOuter
 ###HoneywellEUCookie-Banner
 ###HorizontalAd
 ###IBTCookiePolicy
@@ -2206,6 +2207,7 @@
 ###ads-banner
 ###ads-banner-top
 ###ads-bar
+###ads-bg
 ###ads-bigbox-no1
 ###ads-block
 ###ads-blog
@@ -8474,6 +8476,7 @@
 ##.AdzerkBanner
 ##.AffAD
 ##.ArticleAd
+##.ArticleInnerAD
 ##.ArticlePage-ad
 ##.BGoogleAds300
 ##.BOT-ADS
@@ -10719,6 +10722,7 @@
 ##.ads-300x250
 ##.ads-300x300
 ##.ads-300x600
+##.ads-300x600-wrapper
 ##.ads-300x80
 ##.ads-301
 ##.ads-336-197-qu
@@ -12229,6 +12233,7 @@
 ##.bigsponsor
 ##.billboard-ad
 ##.billboard-ads
+##.billboard.ad
 ##.billboard300x250
 ##.billboardAd
 ##.billboard__advert
@@ -17092,6 +17097,7 @@
 ##.snarcy-ad
 ##.sncmp-app_gdpr
 ##.sng_card_ads
+##.snhb-ads
 ##.snoadnetwork
 ##.snoadrotatewidgetwrap
 ##.so-cookie-wrapper
@@ -19815,8 +19821,10 @@
 /ad/common_
 /ad/commons/*
 /ad/content/*
+/ad/count.
 /ad/cpmstar/*
 /ad/cross-
+/ad/dfp/*
 /ad/directcall/*
 /ad/empty.
 /ad/generate?
@@ -23237,6 +23245,7 @@
 /phpads2/*
 /phpadsnew/*
 /phpbanner/banner_
+/phpbb_ads/*
 /pic/ads/*
 /picAd.
 /pic_adv/*
@@ -23309,6 +23318,7 @@
 /prebid35.
 /prebid4.
 /prebid?
+/prebidAdcall.
 /prebid_$script
 /predictad.
 /prehead/ads_
@@ -26290,7 +26300,6 @@ meteomonopoli.it###my_privacy_widget
 meyer.it###zf--alerts-panel
 miami.com###visit
 miami.com##.expedia-widget
-miamiherald.com###newsletter-signUpWidget
 miamiherald.com##.subscription-cta-widget
 miamitodaynews.com##.adtext
 mic.com##.article-page__mobile-newsletter
@@ -26980,6 +26989,7 @@ vuejs.org###special-sponsor
 vuku.tv##div[class^="bookmarks_div"]
 vulture.com##.newsletter-flex-text
 w3avenue.com###sponsorsbox
+wallpaper.to##.showBanner
 wallpapers-room.com##.recommendations-468x60
 wallpapershome.com##.cc-dialog
 wallpapersmania.com###wm_cpa
@@ -29086,6 +29096,8 @@ zymic.com###sponsor-partners
 ||baypops.com^$popup,third-party
 ||bb1acb0ea5ddb1fed8.com^
 ||bb475d71fa0b1b2.com^
+||bbaahc.com^
+||bbaahc.com^$popup
 ||bbom2b434493.com^
 ||bbuni.com^$popup,third-party
 ||bbuni.com^$third-party
@@ -30294,6 +30306,7 @@ zymic.com###sponsor-partners
 ||dmypkmieippdq.com^
 ||dnbizcdn.com^$third-party
 ||dnckawxatc.com^$popup
+||dnemkhkbsdbl.com^
 ||dnkwgzmuxv.com^
 ||dnyjhikistbhvg.com^
 ||dnzwjlbknhe.com^
