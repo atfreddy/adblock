@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha  📣
 ! Expires: 14 days
-! Updated: Mon Jan 11 21:13:20 CET 2021 
+! Updated: Tue Jan 12 08:20:06 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -269,6 +269,7 @@
 ###COOKIE-CONSENT-EU
 ###COOKIEALERT
 ###COOKIEEXPERTINFO
+###COOKIEMESSAGE
 ###COOKIE_BANNER
 ###COOKIE_HINWEIS
 ###COOKIE_MHD_ALERT
@@ -372,6 +373,7 @@
 ###CookiePubSet
 ###CookieQBanner
 ###CookieReportsBanner
+###CookieReportsBannerAZ
 ###CookieReportsButton
 ###CookieReportsPanel
 ###CookieSaveMsg
@@ -434,6 +436,7 @@
 ###EUDirectiveCookiePanel
 ###EU_cookie
 ###EUcookie
+###EUcookieBanner
 ###EUcookieStatment
 ###EncurioGdprSecurityBar
 ###EuCookieBar-8
@@ -807,6 +810,7 @@
 ###acookie
 ###acris--cookie-permission--modal-overlay
 ###acris--page-wrap--cookie-permission
+###acris_cookie_privacy_popup
 ###ad--article-top
 ###ad-0
 ###ad-1
@@ -3102,6 +3106,7 @@
 ###babAdTop
 ###backPopupCookie
 ###backad
+###backdrop-cookie-banner
 ###ban-cookie
 ###banADbanner
 ###ban_300x250
@@ -3555,6 +3560,7 @@
 ###cPrompt_bar
 ###cPrompt_barSpacer
 ###cSpace.cookieSpacer
+###cWarn.cookie
 ###c_ad_sb
 ###c_ad_sky
 ###c_upperad
@@ -3669,6 +3675,7 @@
 ###cmn_toolbar_ad
 ###cmp-faktor-io
 ###cmp-faktor-io-parent
+###cmpBackdrop
 ###cms-cookie-wrapper
 ###cmsInfoCk
 ###cms_ad_masterslot
@@ -4034,6 +4041,7 @@
 ###cookie-overlay-modal-box
 ###cookie-overlay-wrapper
 ###cookie-panel
+###cookie-panel-banner
 ###cookie-perm-bar
 ###cookie-permissie
 ###cookie-permission-bar
@@ -4065,6 +4073,7 @@
 ###cookie-popup-bar
 ###cookie-popup-content
 ###cookie-popup-outer
+###cookie-popup-with-overlay
 ###cookie-popup-wrapper
 ###cookie-popup2
 ###cookie-popup:not(html):not(body)
@@ -4333,7 +4342,9 @@
 ###cookieNoteWrap
 ###cookieNotf
 ###cookieNotice
+###cookieNoticeAlert
 ###cookieNoticeBanner
+###cookieNoticeDialog
 ###cookieNotice_other
 ###cookieNotif
 ###cookieNotifaction
@@ -4458,8 +4469,10 @@
 ###cookie_acc_wrap
 ###cookie_accept
 ###cookie_accept_alert
+###cookie_accept_bar
 ###cookie_accept_box
 ###cookie_accept_cont
+###cookie_accept_msg_block
 ###cookie_acceptation
 ###cookie_acceptation_conteneur
 ###cookie_acception
@@ -4597,6 +4610,7 @@
 ###cookie_privacy_popup
 ###cookie_private
 ###cookie_prompt
+###cookie_revoke
 ###cookie_ribbon
 ###cookie_short
 ###cookie_shout
@@ -4665,6 +4679,7 @@
 ###cookieblack
 ###cookieblock
 ###cookiebnr
+###cookiebot
 ###cookiebox
 ###cookiebox-bg
 ###cookiebox-wrapper
@@ -4693,6 +4708,7 @@
 ###cookieformdiv
 ###cookiefy_bar
 ###cookiegap
+###cookieify
 ###cookiejar
 ###cookielaura
 ###cookielaw
@@ -5266,6 +5282,7 @@
 ###dsgvo-cookie
 ###dsgvo-cookie-dnt-layer
 ###dsgvo-panel
+###dsgvoBox
 ###dsgvoCookieBanner
 ###dsgvoFooter
 ###dsgvo_cookie_note
@@ -5300,6 +5317,7 @@
 ###dx-coki
 ###dy_cookiebar_001
 ###dynamicAdDiv
+###e2e-cookie-banner
 ###e3cookie
 ###eCookieMsg
 ###ePrivacy
@@ -5312,6 +5330,7 @@
 ###ebsponsoredads
 ###ecl-notice
 ###eclcookie
+###econda-pp2-banner
 ###ecookie
 ###ecookie_banner
 ###ecranCookieAlert
@@ -5329,6 +5348,7 @@
 ###emc2pdc-disclaimer
 ###emea-cookie
 ###emea-cookie-msg
+###empori-cookie-modal
 ###enable-cookie-bar
 ###enableCookie-cont
 ###enedue_cookieBox
@@ -5409,6 +5429,8 @@
 ###eucookielaw
 ###eucookielawbox
 ###eucookienotice
+###eugdpr-banner
+###eugdpr_modal
 ###eulaw
 ###eulaw-bar
 ###eupolicy
@@ -5480,6 +5502,8 @@
 ###flash-cookie-policy
 ###flash_ads_1
 ###flashad
+###flex_cookie_popup
+###flex_cookie_popup ~ .modal-backdrop
 ###flexiad
 ###flipbookAd
 ###floatAD_l
@@ -5704,7 +5728,9 @@
 ###gdpr_barretta
 ###gdpr_basic
 ###gdpr_box
+###gdpr_cnt
 ###gdpr_cookie
+###gdpr_cookie_modal
 ###gdpr_cookie_notice
 ###gdpr_float
 ###gdpr_ip
@@ -6069,6 +6095,7 @@
 ###id-cookiewarn
 ###idCokWrap
 ###idCookieMsg
+###idCookiePerm
 ###idCookiePolicyPanel
 ###idCookiebar
 ###idDivAd
@@ -6169,6 +6196,7 @@
 ###js-cookie-03-popup
 ###js-cookie-alert
 ###js-cookie-approval
+###js-cookie-bar
 ###js-cookie-box
 ###js-cookie-dialog-box
 ###js-cookie-disclaimer
@@ -6537,6 +6565,7 @@
 ###modal-card-email-notice
 ###modal-cookie
 ###modal-cookie-law
+###modal-cookie-man
 ###modal-gdpr
 ###modal-root .RgpdPopup
 ###modalCookie
@@ -6795,6 +6824,7 @@
 ###ob_sponsoredcontent
 ###objadscript
 ###obt_ga_banner
+###oc_cb_wrapper
 ###ocn-cookie-wrap
 ###ocw_conteneur
 ###oddcookie
@@ -7036,6 +7066,7 @@
 ###pp_cookielaw
 ###ppcAdverts
 ###ppms_cm_bar_overlay
+###ppms_cm_popup_overlay
 ###pr_ad
 ###pravda-cookie-usage
 ###pre-adv
@@ -7077,6 +7108,7 @@
 ###privacy-popup
 ###privacy-shield
 ###privacy-statement
+###privacy-statement-wrapper
 ###privacy-toast
 ###privacy-update
 ###privacyAndCookieNoticePanel
@@ -7152,6 +7184,7 @@
 ###pub-right-top-ads
 ###pub468x60
 ###pub728x90
+###publicCookieUsage
 ###publicGoogleAd
 ###publicidad
 ###publicidad_120
@@ -7384,6 +7417,8 @@
 ###rr_MSads
 ###rr_ad
 ###rr_gallery_ad
+###rs_cookie_manager_popup:not(.modal)
+###rs_cookie_manager_popup_shadow
 ###rt-ad
 ###rt-ad-top
 ###rt-ad468
@@ -8324,6 +8359,7 @@
 ###zsmsg-policy
 ###zwcc
 ###zztextad
+##.-s-cookie-bar
 ##.AD-POST
 ##.AD-RC-300x250
 ##.AD-Rotate
@@ -8580,9 +8616,11 @@
 ##.EUCookieBanner
 ##.EUCookieBox
 ##.EUCookieInfo
+##.EUCookieLawBar
 ##.EUCookieNotice
 ##.EUCookieNotice_content
 ##.EUc
+##.EprivacyBanner
 ##.EuCookieBar
 ##.EuCookieSheet
 ##.EuropeanCookieBar
@@ -12206,6 +12244,7 @@
 ##.bgcolor_ad
 ##.bgnavad
 ##.bh-layerCookieLaw
+##.bhCookieBoxWrapper
 ##.big-ad
 ##.big-ads
 ##.big-box-ad
@@ -12751,6 +12790,7 @@
 ##.ccm-widget.ccm-modal
 ##.ccmcss_oic
 ##.ccp-overlay-fullscreen
+##.ccpa-popup
 ##.ccwrap
 ##.cdAdTitle
 ##.cd__cookie
@@ -13158,6 +13198,7 @@
 ##.cookie-law-approval-wrapper
 ##.cookie-law-banner
 ##.cookie-law-bar
+##.cookie-law-block
 ##.cookie-law-block-wrapper
 ##.cookie-law-box
 ##.cookie-law-dialog
@@ -13204,6 +13245,7 @@
 ##.cookie-note__wrapper
 ##.cookie-notf
 ##.cookie-notice
+##.cookie-notice-alert
 ##.cookie-notice-bar
 ##.cookie-notice-bottom
 ##.cookie-notice-content
@@ -13262,6 +13304,7 @@
 ##.cookie-policy-msg
 ##.cookie-policy-note
 ##.cookie-policy-notice
+##.cookie-policy-open
 ##.cookie-policy-opt-out
 ##.cookie-policy-overlay
 ##.cookie-policy-panel
@@ -13296,6 +13339,7 @@
 ##.cookie-prompt__outer
 ##.cookie-prompter
 ##.cookie-region
+##.cookie-ribbon-component
 ##.cookie-rodo
 ##.cookie-rodo--center
 ##.cookie-rodo-dialog
@@ -13340,6 +13384,7 @@
 ##.cookie-warn-msg
 ##.cookie-warnung
 ##.cookie-widget
+##.cookie-widget--open
 ##.cookie-widget-v2
 ##.cookie-wr
 ##.cookie-wrap
@@ -13414,6 +13459,7 @@
 ##.cookieDirWrap
 ##.cookieDirective
 ##.cookieDiscl
+##.cookieDisclaimerV2
 ##.cookieDiv
 ##.cookieDrawer
 ##.cookieEN
@@ -13584,6 +13630,8 @@
 ##.cookie_helper
 ##.cookie_law
 ##.cookie_law_dialog
+##.cookie_law_reveal_dialog
+##.cookie_law_reveal_overlay
 ##.cookie_layer
 ##.cookie_licence
 ##.cookie_logo
@@ -14014,6 +14062,7 @@
 ##.dsgvo-banner
 ##.dsgvo-cookiebanner
 ##.dsgvo-wrapper
+##.dsgvoApproval
 ##.dsgvo_footer
 ##.dsk-box-ad-d
 ##.dsq_ad
@@ -14108,6 +14157,7 @@
 ##.eol-ads
 ##.epic-cookie-banner
 ##.epicgame-ads
+##.epp-cookie
 ##.eprivacy-cookie
 ##.eprivacy_cookie
 ##.eprjcookie
@@ -14250,6 +14300,7 @@
 ##.flex-ad
 ##.flexAd
 ##.flexContentAd
+##.flex_cookie_popup_bottom
 ##.flexad
 ##.flexadvert
 ##.flexbanneritemad
@@ -14475,6 +14526,7 @@
 ##.gdpr--popup
 ##.gdpr-Popup
 ##.gdpr-alert
+##.gdpr-alert-box-wrapper
 ##.gdpr-ask-modal
 ##.gdpr-banner
 ##.gdpr-banner-content-wrapper
@@ -14549,6 +14601,7 @@
 ##.gdprPopup
 ##.gdpr[data-gdpr-popup]
 ##.gdpr__A
+##.gdpr__wrapper.is-open
 ##.gdpr_accept_cookie
 ##.gdpr_banner
 ##.gdpr_bar
@@ -14579,6 +14632,7 @@
 ##.gdrp-wrap.gdrp-show
 ##.gdrp__overlay
 ##.gds-cookie
+##.gebaeck-notice
 ##.geeky_ad
 ##.general-adzone
 ##.general_banner_ad
@@ -14828,6 +14882,7 @@
 ##.gsCookieDisclaimer
 ##.gsfAd
 ##.gsl-ads
+##.gt-cookie-bar
 ##.gt-ui-cookie-bar
 ##.gt_ad
 ##.gt_ad_300x250
@@ -15054,6 +15109,7 @@
 ##.ibm_ad_text
 ##.ibt-top-ad
 ##.ic-ads
+##.ic-gdpr-popup
 ##.ico-adv
 ##.ico-cookie-wrapper
 ##.iconads
@@ -15209,6 +15265,7 @@
 ##.js-cookie-policy-box
 ##.js-cookie-popup
 ##.js-cookie-popup-app
+##.js-cookie-privacy
 ##.js-cookie-wall
 ##.js-cookie-widget
 ##.js-cookieAcceptanceInformation
@@ -15523,6 +15580,7 @@
 ##.m-cookie-popup
 ##.m-cookieInfo
 ##.m-cookie_banner
+##.m-cookielayer
 ##.m-dfp-ad-text
 ##.m-gallery-overlay--ad-top
 ##.m-gdpr-alert-banner
@@ -15676,6 +15734,7 @@
 ##.mm-ad-mpu
 ##.mm-ad-sponsored
 ##.mm-banner970-90-ad
+##.mm-cookie-banner
 ##.mm-page > #cookie
 ##.mmads
 ##.mmc-ad
@@ -15970,6 +16029,7 @@
 ##.network-ad-two
 ##.new-ad-box
 ##.new-ads-scroller
+##.new-cookie-banner
 ##.new-cookie-wrapper
 ##.newArv_2nd_adv_blk
 ##.newCnilBanner
@@ -16095,6 +16155,7 @@
 ##.oax-cookie-msg
 ##.ob_nm_paid
 ##.obs_cnil
+##.oc_cb_wrapper
 ##.ocp-sponsor
 ##.odc-nav-ad
 ##.oddcookie
@@ -16195,6 +16256,7 @@
 ##.page-content--ad-block
 ##.page-content__advert
 ##.page-cover--ads
+##.page-dialog-dsgvo
 ##.page-footer-ad
 ##.page-privacy__dialog_banner
 ##.page-wrap--cookie-permission
@@ -16412,6 +16474,7 @@
 ##.postbody_ads
 ##.poster_ad
 ##.postfooterad
+##.poswp-databar
 ##.power_by_sponsor
 ##.pp-adunit
 ##.pp-box-adunit
@@ -16425,6 +16488,8 @@
 ##.ppr_priv_horizon_ad
 ##.pq-ad
 ##.pr-ad-tower
+##.pr-cookie-modal
+##.pr-cookie-overlay
 ##.pr-widget
 ##.pre-article-ad
 ##.pre-roll-ad
@@ -16480,6 +16545,7 @@
 ##.privacyCookie
 ##.privacyCookieBox
 ##.privacyLawAlert
+##.privacyNotice
 ##.privacyPolicyBanner
 ##.privacyPolicyPopup
 ##.privacyPolicyWarn
@@ -16960,6 +17026,7 @@
 ##.screen-ad-250x250
 ##.screenshots_ads
 ##.script-ad
+##.script-privacyPolicy-cookie
 ##.script_ad_0
 ##.script_cookie_banner
 ##.scroll-ads
@@ -16998,6 +17065,7 @@
 ##.showAd
 ##.showAd_No
 ##.showPrivacyCookie
+##.show[class*="cookie-notice"]
 ##.show_cookie:not(body):not(html)
 ##.showad_box
 ##.showads
@@ -17012,6 +17080,7 @@
 ##.site-cookie
 ##.site-cookie-panel
 ##.site-cookie-popup
+##.site-cookieBanner
 ##.site-footer-cookie-banner
 ##.site-footer-cookiebanner
 ##.site-footer__ad-area
@@ -18288,6 +18357,7 @@
 ##amp-ad-custom
 ##app-aviso-cookie
 ##app-cookie
+##app-cookie-banner
 ##app-cookie-policy
 ##app-root app-cookie-acceptance
 ##ark-cookiebar
@@ -26935,6 +27005,7 @@ twitter.com##.promoted-account
 twitter.com##.promoted-tweet[data-disclosure-type="issue"]
 twitter.com##.promoted-tweet[data-disclosure-type="promoted"]
 twitter.com,wral.com##.promotion
+twitter.comtwitter.com##.r-13qz1uu.r-1w50u8q
 txxx.com##.preroll
 txxx.com##.rek-iv
 txxx.com##.rekl-iv
@@ -28023,6 +28094,7 @@ zymic.com###sponsor-partners
 ||adhome.biz^$popup,third-party
 ||adhood.com^$third-party
 ||adicate.com^$third-party
+||adieusyaktop.com^
 ||adigniter.org^$third-party
 ||adikteev.com^$third-party
 ||adimages.*.
@@ -29781,6 +29853,7 @@ zymic.com###sponsor-partners
 ||cloudzer.net^*/banner/$third-party
 ||clrstm.com^$third-party
 ||clubic.com/editorial/publier_count.php?
+||cluethydash.com^
 ||cluodlfare.com^
 ||clxgmlpfkoj.com^
 ||clzfurcqmlgw.com^
@@ -38396,6 +38469,7 @@ zymic.com###sponsor-partners
 ||xxxrevpushclcdu.com^$document
 ||xxxrevpushclcdu.com^$popup
 ||xxxvipporno.com^$third-party
+||xygediwe.xyz^
 ||xymtglljft.com^
 ||xywdvhd.com^$third-party
 ||xywwomayptsd.com^
