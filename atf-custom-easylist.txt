@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha  📣
 ! Expires: 14 days
-! Updated: Tue Jan 12 08:20:06 CET 2021 
+! Updated: Thu Jan 14 12:54:00 MEZ 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -920,6 +920,8 @@
 ###ad-9
 ###ad-970
 ###ad-98
+###ad-Content_1
+###ad-Rectangle_1
 ###ad-a
 ###ad-a1
 ###ad-abs-b-0
@@ -3438,6 +3440,7 @@
 ###bottomRightAdSpace
 ###bottomSponsorAd
 ###bottom_ad
+###bottom_ad_728
 ###bottom_ad_area
 ###bottom_ad_box
 ###bottom_ad_left
@@ -6371,6 +6374,7 @@
 ###lf_cookie_msg
 ###lg-banner-ad
 ###lgfRightBarAd
+###lgpd-wrapper
 ###lhsBottomAd
 ###li-right-geobooster-oas
 ###ligatus
@@ -9099,6 +9103,7 @@
 ##.ad-banner-300
 ##.ad-banner-728x90
 ##.ad-banner-bkgd
+##.ad-banner-content
 ##.ad-banner-image
 ##.ad-banner-smaller
 ##.ad-banner-top
@@ -9140,6 +9145,8 @@
 ##.ad-bottom
 ##.ad-bottom728x90
 ##.ad-bottomLeft
+##.ad-box
+##.ad-box-2
 ##.ad-box-300x250
 ##.ad-box-caption
 ##.ad-box-title
@@ -10812,6 +10819,9 @@
 ##.ads-cars-top2
 ##.ads-cnt
 ##.ads-col
+##.ads-col-1
+##.ads-col-2
+##.ads-cols
 ##.ads-cont
 ##.ads-content
 ##.ads-custom
@@ -15741,6 +15751,7 @@
 ##.mmc-ad-wrap-2
 ##.mms-cookielayer
 ##.mmui-cookie-disclaimer
+##.mmy-ads
 ##.mnopolarisAd
 ##.mntl-gpt-adunit
 ##.mo-sitePriv
@@ -18541,6 +18552,7 @@
 ##tui-cookie-bar
 ##vc-site-cookiepolicy-dialog
 ##vls-cookie-banner
+##yd-cookie-notice
 ##ytd-app ~ iron-overlay-backdrop
 &AdType=
 &Ads_DFP=
@@ -19697,6 +19709,7 @@
 /^https?:\/\/(.+?\.)?survivalnation\.com\/[a-zA-Z]{7,18}\//
 /^https?:\/\/(.+?\.)?toptenz\.net\/[a-zA-Z]{4,18}\//
 /^https?:\/\/(.+?\.)?tosavealife\.com\/[a-zA-Z]{7,18}\//
+/^https?:\/\/(.+?\.)?writerscafe\.org\/[a-zA-Z]{7,18}\//
 /^https?:\/\/(35|104)\.(\d){1,3}\.(\d){1,3}\.(\d){1,3}\//$popup,third-party
 /^https?:\/\/.*\/sw.js?.[a-zA-Z0-9%]{50,}/$script,~third-party
 /^https?:\/\/146\.59\.211\.(\d){1,3}.*/$popup,third-party
@@ -24582,7 +24595,7 @@
 @@||googletagmanager.com/gtag/js$script,domain=uptobox.com|uptostream.com
 @@||googletagservices.com/activeview/js/current/osd.js$script,domain=webmd.com
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com|espn.com|etf.com|nbcsports.com|realestate.co.nz|windalert.com
-@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com|vlive.tv
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv
 @@||gsmarena.com/adclick.php?bannerid=$popup
 @@||gstatic.com/accounts/services/adwords/$image,domain=accounts.google.com
 @@||gstatic.com/adsense/$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
@@ -24604,7 +24617,7 @@
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abc.com|api.screen9.com|audiomack.com|blastingnews.com|bloomberg.com|cbc.ca|cbsnews.com|cbssports.com|cdnmedia.tv|chicagotribune.com|clipsliver.com|cnet.com|comicbook.com|complex.com|cwtv.com|dailybreeze.com|distro.tv|forbes.com|fox35orlando.com|freep.com|gamejolt.com|goodhousekeeping.com|goodmorningamerica.com|healthmeans.com|iheart.com|independent.co.uk|indystar.com|insideedition.com|kizi.com|metacritic.com|metrolyrics.com|mobg.io|navbharattimes.indiatimes.com|news.sky.com|nflgamepass.com|nytimes.com|nytimes3xbfgragh.onion|play.ludigames.com|player.abacast.net|player.earthtv.com|player.performgroup.com|powr.com|rumble.com|snopes.com|thestreet.com|theverge.com|truvid.com|tvguide.com|ultimedia.com|usatoday.com|video.foxbusiness.com|video.foxnews.com|vidyomani.com|womenshealthmag.com|wsj.com|yiv.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=abcnews.go.com|slacker.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|locipo.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv.rakuten.co.jp|tver.jp|vlive.tv|webdunia.com|wtk.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|locipo.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=bloomberg.co.jp|bloomberg.com|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=foxnews.com
@@ -25393,7 +25406,6 @@ _rightad.
 _rightad1.
 _rightad_
 _rightmn_ads.
-_show_ads.
 _show_ads=
 _show_ads_
 _site_cookie_
@@ -25555,7 +25567,6 @@ autogidas.lt##.promo-subscription
 autonews.com#?#.block:has(> div.digital-edition-block > form.newsletter-signup-form)
 autoreflex.com###legal
 autotask.com##.alertbar
-autoweek.com,cooperhewitt.org,core77.com,metblogs.com,oreilly.com,thisisthehive.net#@##adspace
 avclub.com###personals_content
 avgle.com,hotgirlclub.com,pornobae.com##img[src*=".php"]
 aviationweek.com##.gdpr
@@ -26196,6 +26207,8 @@ iqiyi.com##.black-screen[data-cupid="adblock-blackscreen"]
 irishpost.com##.add-pad
 island.lk###left_banner_adds1
 isource.com#@##topAd
+issuu.com##div[class*="adPlacement"]
+issuu.com##div[class*="adSkyscraper"]
 italradio.org##.gpdr
 italradio.org##.privacyStatement
 ittsb.eu###random_banner
@@ -26207,6 +26220,7 @@ izismile.com##.css-widget-item-wrap
 izlemac46.net##body > div#reload
 izlemac46.net##body > div[style*="width:100%;text-align:center"]
 jabong.com,people.com,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
+javbix.com#@#.adsleft
 javhiv.com##.block-body > .block.announcement
 jekoo.com##.boxItem
 jekoo.com##.textCollSpons
@@ -26970,6 +26984,8 @@ topsante.com###toaster-abo
 toronto.com##.td_featured
 totalwar.com#@##privacy_policy
 toughnickel.com###tos_update_band
+toumpano.net###sp-feature
+toumpano.net###sp-right
 tpblist.us##.panel-danger
 transfermarkt.com###tFMTlGkad
 translate.google.com,translate.google.com.ua,translate.google.ru###gt-promo-lr
@@ -27004,8 +27020,8 @@ twitter.com##.is-promoted
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet[data-disclosure-type="issue"]
 twitter.com##.promoted-tweet[data-disclosure-type="promoted"]
+twitter.com##.r-13qz1uu.r-1w50u8q
 twitter.com,wral.com##.promotion
-twitter.comtwitter.com##.r-13qz1uu.r-1w50u8q
 txxx.com##.preroll
 txxx.com##.rek-iv
 txxx.com##.rekl-iv
@@ -27111,6 +27127,7 @@ worldtimezone.com##table[width="472"]
 worten.pt##.w-newsletter-block
 wowhead.com##.announcement
 wpbt2.org##.home_banners
+writerscafe.org##.pay
 wtop.com##.post--sponsored
 wufoo.com#@#.gdpr-prompt
 wwlp.com#@#.dfp-ad
@@ -27335,6 +27352,8 @@ zymic.com###sponsor-partners
 ||23205523023daea6.com^
 ||2334ea708ab6d79.com^
 ||233fb5b59351.com^
+||24-sportnews.com^
+||24-sportnews.com^$popup
 ||2444efc8cd8e.com^
 ||247realmedia.com^$third-party
 ||24ad89fc2690ed9369.com^
@@ -34833,6 +34852,7 @@ zymic.com###sponsor-partners
 ||padsreds.com^
 ||padssup.com^$popup
 ||padstm.com^$third-party
+||pafovocg.bid^
 ||pagead2.googlesyndication.com^$domain=spiegel.de
 ||pagead2.googlesyndication.com^$domain=youtube.com
 ||pagead2.googlesyndication.com^$~object,~xmlhttprequest
@@ -36208,6 +36228,8 @@ zymic.com###sponsor-partners
 ||salefile.googlecode.com^$third-party
 ||salemyticket.com^
 ||saliencege.top^
+||samage-bility.icu^
+||samage-bility.icu^$popup
 ||samsungads.com^$third-party
 ||samvaulter.com^$third-party
 ||sancdn.net^$third-party
