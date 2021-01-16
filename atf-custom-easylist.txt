@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha  📣
 ! Expires: 14 days
-! Updated: Thu Jan 14 12:54:00 MEZ 2021 
+! Updated: Sat Jan 16 08:56:50 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -166,6 +166,7 @@
 ###AdsPlayRight_1
 ###AdsRight
 ###AdsWrap
+###Ads_BA_BUT
 ###Ads_BA_BUT_box
 ###Ads_BA_CAD
 ###Ads_BA_CAD2
@@ -506,6 +507,7 @@
 ###HP_adUnits
 ###H_Ad_728x90
 ###H_Ad_Wrap
+###HeadAd
 ###HeroAd
 ###HomeAd1
 ###HomeBannerAd
@@ -5320,6 +5322,8 @@
 ###dx-coki
 ###dy_cookiebar_001
 ###dynamicAdDiv
+###dywc
+###dywc_bglayer
 ###e2e-cookie-banner
 ###e3cookie
 ###eCookieMsg
@@ -10737,6 +10741,7 @@
 ##.adrotate_top_banner
 ##.adrotate_widget
 ##.adrotate_widgets
+##.adrotatediv
 ##.adrow
 ##.adrow-post
 ##.adrow1
@@ -17682,6 +17687,7 @@
 ##.top-horiz-ad
 ##.top-item-ad
 ##.top-large-google-ad
+##.top-left-adrotate
 ##.top-left-nav-ad
 ##.top-menu-ads
 ##.top-most-adv
@@ -18896,8 +18902,10 @@
 -content-ad.
 -cookie-banner-
 -cookie-banner.
+-cookie-bar.
 -cookie-cnil.
 -cookie-dialog.
+-cookie-form.lib.
 -cookie-law-popup.
 -cookie-law.$~script
 -cookie-law/$script
@@ -19358,7 +19366,7 @@
 /2014/ads/*
 /2015/ads/*
 /2018-ads-
-/2018-gdpr.js
+/2018-gdpr.
 /230x90_
 /234x60/*
 /24-7ads.
@@ -19537,6 +19545,7 @@
 /?reef=$popup
 /?sid=*site_id=*conv_id=$popup
 /?spu_action=*spu_load&
+/?tx_z7cookiemanager
 /?view=ad
 /?wmi=*lp=$document
 /?zoneid=*&timeout=$popup
@@ -21525,6 +21534,7 @@
 /alternet.ad?
 /alwebad_
 /am/ads.
+/am2-gdpr-public.
 /amCookieApproval.
 /amazon-ad-
 /amazon-apstag.
@@ -21863,6 +21873,7 @@
 /cb.php?sub$script,third-party
 /cb_ads_manager/*
 /cbgads.
+/cc_cookie.
 /cci-ads-
 /ccm19.js
 /ccm19/*
@@ -22014,6 +22025,8 @@
 /cookie-accept.js
 /cookie-alert.
 /cookie-banner
+/cookie-banner-
+/cookie-banner/*
 /cookie-banners.
 /cookie-bar-
 /cookie-bar.
@@ -22027,6 +22040,7 @@
 /cookie-gateway/*
 /cookie-law-$~script
 /cookie-law.js
+/cookie-layer-
 /cookie-manager.
 /cookie-manager/*
 /cookie-master.js
@@ -22038,6 +22052,7 @@
 /cookie-overlay-
 /cookie-partner-list.
 /cookie-policy-
+/cookie-policy.css
 /cookie-policy.js
 /cookie-policy/*
 /cookie-pop-up.
@@ -22069,6 +22084,7 @@
 /cookie/policy-
 /cookie/require-
 /cookie/support-
+/cookie/uccb-
 /cookie2.jsx
 /cookieBan.
 /cookieBanner/*
@@ -22081,6 +22097,7 @@
 /cookieModal.
 /cookiePolicyEN.
 /cookiePolicyV4.
+/cookieWidget.
 /cookie_acceptance_
 /cookie_ack/*
 /cookie_ack_
@@ -22130,6 +22147,7 @@
 /cookiejar/*
 /cookiejs/*
 /cookielaw/*
+/cookielaw_mip.
 /cookielegal.
 /cookiemanagement.js
 /cookiemonster.mg
@@ -22320,6 +22338,7 @@
 /dynamiccsad?
 /dynanews/ad-
 /dynbanner/flash/*
+/dywc.js
 /e2ma.js
 /earn.php?z=$popup,subdocument
 /eas?*^easformat=
@@ -22360,13 +22379,14 @@
 /erobanner.
 /eros.htm
 /et_gdpr_
+/eu-cookie-law-
 /eu-cookie.
 /eu-cookie/*
 /eu-notice.js
 /eu_cookie_$script
 /eu_privacy.js
 /eu_rp_cookie.
-/euc_cookie.js
+/euc_cookie.
 /eucookie.
 /eucookielaw.
 /eucookienotice.
@@ -22527,23 +22547,29 @@
 /gdpr-cookie-
 /gdpr-cookie.
 /gdpr-lfc.
+/gdpr-popup.
 /gdpr-public.
 /gdpr-v2.
 /gdpr.eu.htm
 /gdpr.htm
 /gdpr.js
 /gdpr/bundle.
+/gdpr/cmp/*
 /gdpr/cookie-
 /gdpr/disp.js
 /gdpr/gdpr-
 /gdpr/gdpr.$script
+/gdpr/gdpr.js
 /gdpr/gdpr_
 /gdpr/img/*
 /gdpr/optInCookieSSR?
 /gdpr/script_
+/gdpr/spd.
+/gdpr/third-party-
 /gdpr_css/*
 /gdpr_footer.
 /gdpr_js/*
+/gdpr_ncoi.
 /gdpr_notice.
 /gdpr_optout.
 /gdpr_s.
@@ -22762,6 +22788,7 @@
 /htmlads/*
 /httpads/*
 /hw-ads.
+/hw-cookie-
 /i/ads/*
 /i/adv/*
 /iFall_AD_
@@ -23126,6 +23153,7 @@
 /nb/ads/*
 /nb/avanti.
 /nb/b_lo.php
+/neo-cookie-
 /neo/ads/*
 /neoads.
 /netads.
@@ -23172,6 +23200,7 @@
 /noscript-ad?
 /noticead.
 /notifyad.
+/nsd-cookie-
 /nsfw/sponsors/*
 /ntAds-
 /nuggad.
@@ -23718,6 +23747,7 @@
 /skyscraperad.
 /slafc.js
 /slot/dfp/*
+/sm-policy-banner.
 /smalAds.
 /small_ad.
 /small_ad_
@@ -23873,6 +23903,7 @@
 /talkads/*
 /targetpushad.
 /taxonomy-ads.
+/tcf/cookie.
 /td-ads-
 /td_ads/*
 /tdlads/*
@@ -23994,6 +24025,7 @@
 /ukcookie.
 /um-gdpr.
 /unibluead.
+/unitb-cmp.
 /unity/ad/*
 /universal-ad.
 /up/ads/*
@@ -24543,6 +24575,7 @@
 @@||dashboard.mgid.com^$popup
 @@||dashboard.mgid.com^$~third-party
 @@||dashboard.tovarro.com^$~third-party
+@@||dashnet.org/experiments/cookie/cookie.png$image,~third-party
 @@||diep.io^$script,~third-party
 @@||discordapp.com/banners/$image
 @@||discovery.com^*/ratio-size/pixel-ratio/300x250.png
@@ -24585,6 +24618,7 @@
 @@||google.com/adsense/search/ads.js$domain=armstrongmywire.com|atlanticbb.net|bestbuy.com|bresnan.net|broadstripe.net|buckeyecablesystem.net|cableone.net|centurylink.net|charter.net|cincinnatibell.net|diigo.com|dish.net|forbbbs.org|gumtree.com.au|hargray.net|hawaiiantel.net|hickorytech.net|homeaway.co.uk|knology.net|livestrong.com|mediacomtoday.com|midco.net|mybendbroadband.com|mybrctv.com|mycenturylink.com|myconsolidated.net|myepb.net|mygrande.net|mygvtc.com|myhughesnet.com|myritter.com|northstate.net|nwcable.net|query.nytimes.com|rentals.com|search.rr.com|searchresults.verizon.com|suddenlink.net|surewest.com|synacor.net|tds.net|toshiba.com|truvista.net|windstream.net|windstreambusiness.net|wowway.net|www.google.com|zoover.co.uk|zoover.com
 @@||google.com/images/integrations/$image,~third-party
 @@||google.com/payments/*/adwords.$document,subdocument
+@@||google.com/recaptcha/$csp,domain=vidoza.co|vidoza.net
 @@||google.com/recaptcha/$image,script
 @@||google.com/recaptcha/$script,subdocument,xmlhttprequest
 @@||google.com/tools/feedback/open.js?*^url=https://adwords.google.com/$script,domain=adwords.google.com
@@ -25346,6 +25380,7 @@ _homad.
 _home_ad.
 _home_ad_
 _html5/ads.
+_hw_cookie_dialog.
 _iad.html?
 _id/ads/
 _js4ad2.
@@ -27057,6 +27092,7 @@ veoh.com##.adv-title
 vg.no##.webboard
 vg247.com##.newsletter-signup-wrapper
 vg247.it##.notif-bar
+vice.com##.adph
 vidz24.com##.partnier-top-nav
 viralnova.com##.cc-banner
 visir.is##.bottom-disclaimer
@@ -31343,7 +31379,7 @@ zymic.com###sponsor-partners
 ||fulhamfc.com/i/partner/
 ||fulltiltpoker.com/?key=$popup,third-party
 ||fun.wormania.io^
-||fundingchoicesmessages.google.com^$domain=gameblog.fr|smallseotools.com|telegram.hr|wordreference.com
+||fundingchoicesmessages.google.com^$domain=apkmirror.com|gameblog.fr|smallseotools.com|telegram.hr|wordreference.com
 ||funklicks.com^$third-party
 ||funtonia.com/promo/
 ||furiousteam.com^*/external_banner/
