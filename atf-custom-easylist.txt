@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sat Jan 16 12:37:35 CET 2021 
+! Updated: Sat Jan 16 21:49:44 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -24551,6 +24551,7 @@
 /cookielaw/*
 /cookielaw/piskotkar.js
 /cookielaw_mip.
+/cookielayer/*
 /cookielegal.
 /cookiemanagement.js
 /cookiemonster.mg
@@ -36131,6 +36132,7 @@ zymic.com###sponsor-partners
 ||illallwoe.com^
 ||illazkka.com^
 ||ilmijlktgjx.com^
+||ilohfbiph.com^
 ||ilsuuqcab.com^
 ||ilzjjdujrgaa.com^
 ||im.ov.yahoo.co.jp^
@@ -38777,6 +38779,8 @@ zymic.com###sponsor-partners
 ||pcon.space^
 ||pcrhfkuwp.com^
 ||pcskkmgjnubi.com^
+||pctsrv.com^
+||pctsrv.com^$popup
 ||pd-news.com^
 ||pd-news.com^$popup
 ||pdmtmribgaqctz.com^
@@ -42151,6 +42155,8 @@ zymic.com###sponsor-partners
 ||xclicks.net^$popup
 ||xclicks.net^$third-party
 ||xcqgkkccjjucf.com^
+||xcsypkknp.com^
+||xcsypkknp.com^$popup
 ||xcttavcu.com^
 ||xcvgdf.party^
 ||xcvtpwxz.com^
