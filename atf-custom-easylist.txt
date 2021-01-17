@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sat Jan 16 21:49:44 CET 2021 
+! Updated: Sun Jan 17 10:03:05 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -3050,6 +3050,7 @@
 ###alsb_CNIL_notice
 ###altea-cookiebox-wrapper
 ###am-cookie.am-cookie
+###am2-gdpr
 ###am2-gdpr.am2-gdpr
 ###amazon-ads
 ###amazon_ad
@@ -4729,6 +4730,7 @@
 ###cookie__bar
 ###cookie__cookie
 ###cookie__monster
+###cookie__panel-help
 ###cookie__panel-help.cookie__panel
 ###cookie__wrapper
 ###cookie_acc_div
@@ -6154,6 +6156,7 @@
 ###gdpr_overlay
 ###gdpr_panel
 ###gdpr_pop
+###gdpr_popup
 ###gdpr_popup[style*="block"]
 ###gdpr_popup_bg
 ###gdprbanner
@@ -10883,6 +10886,7 @@
 ##.ad_88x31
 ##.ad_90
 ##.ad_925x90
+##.ad_940_0
 ##.ad_954-60
 ##.ad_960
 ##.ad_970_2
@@ -12651,6 +12655,7 @@
 ##.am-cookie-notice:not(body):not(html)
 ##.am-cookiebar
 ##.am-cookiebar:not(body):not(html)
+##.am2-gdpr
 ##.amAdvert
 ##.am_ads
 ##.amazon_ad
@@ -13710,6 +13715,7 @@
 ##.cc_overlay_lock
 ##.ccbar.ccpane
 ##.ccbar.ccpane:not(body):not(html)
+##.ccbar_pos_bottom
 ##.ccbarbody .ccpane
 ##.ccc-widget
 ##.ccc-widget:not(body):not(html)
@@ -13818,6 +13824,7 @@
 ##.cms-cookielaw
 ##.cms-cookielaw:not(body):not(html)
 ##.cms_ad_contentad
+##.cms_cookie_wrapper
 ##.cms_cookie_wrapper:not(body):not(html)
 ##.cmswidget-wcookiewidget
 ##.cn-CookieNotice:not(body):not(html)
@@ -13901,6 +13908,7 @@
 ##.commercial-unit-mobile-top > .v7hl4d
 ##.commercialAd
 ##.common-adv-box
+##.common-cookie
 ##.common-cookieNotice
 ##.common-cookieNotice:not(body):not(html)
 ##.common_prompt-cookie-bg
@@ -14482,6 +14490,7 @@
 ##.cookie-prompter
 ##.cookie-prompter:not(body):not(html)
 ##.cookie-region
+##.cookie-ribbon
 ##.cookie-ribbon-component
 ##.cookie-ribbon:not(body):not(html)
 ##.cookie-rodo
@@ -14588,6 +14597,7 @@
 ##.cookie.is-visible
 ##.cookie.isVisible
 ##.cookie.jquery-notify-bar
+##.cookie.js-banner
 ##.cookie.js-banner:not(body):not(html)
 ##.cookie.kozepre_igazit
 ##.cookie.rodo-alert
@@ -14620,6 +14630,7 @@
 ##.cookieAdvice:not(body):not(html)
 ##.cookieAlert
 ##.cookieAlert:not(body):not(html)
+##.cookieAlertBigTop
 ##.cookieAlertBigTop:not(body):not(html)
 ##.cookieAlertBox
 ##.cookieAlertBox:not(body):not(html)
@@ -14645,6 +14656,7 @@
 ##.cookieBannerText:not(body):not(html)
 ##.cookieBannerWrapper
 ##.cookieBar:not(body)
+##.cookieBarAniIn
 ##.cookieBarAniIn:not(body):not(html)
 ##.cookieBarOverlay
 ##.cookieBarOverlay:not(body):not(html)
@@ -14904,6 +14916,7 @@
 ##.cookie__modal.modal-bottom
 ##.cookie__notice
 ##.cookie__overlay:not(body):not(html)
+##.cookie__panel
 ##.cookie__policy
 ##.cookie__policy-notice
 ##.cookie__policy:not(body):not(html)
@@ -15382,6 +15395,7 @@
 ##.cwcookielawbg
 ##.cwcookielawbg:not(body):not(html)
 ##.cwv2Ads
+##.cx_cookieNotice
 ##.cx_cookieNotice:not(body):not(html)
 ##.cyads650x100
 ##.d-cc--modal-backdrop
@@ -15488,6 +15502,7 @@
 ##.dialog.dialog--cookie
 ##.dianomi-ad
 ##.dianomi_context
+##.didomi-notice-banner
 ##.diggable-ad-sponsored
 ##.digimadi-cc-wrapper
 ##.digimadi-cc-wrapper:not(body):not(html)
@@ -15646,7 +15661,9 @@
 ##.dynamicad1
 ##.dynamicad2
 ##.e-ad
+##.e-cookie
 ##.e-cookie .e-cookie-wrapper
+##.e-cookie-wrapper
 ##.e3n_cookiebanner
 ##.ePrivacyOuterWrapper
 ##.ea-cookie-disclaimer
@@ -16244,6 +16261,7 @@
 ##.gdpr-disclaimer:not(body):not(html)
 ##.gdpr-disclaimer__overlay
 ##.gdpr-eu
+##.gdpr-footer
 ##.gdpr-headband
 ##.gdpr-hellobar
 ##.gdpr-modal
@@ -16852,6 +16870,7 @@
 ##.iCookieBar
 ##.iCookieBar:not(body):not(html)
 ##.i_ad
+##.ia-m-cookie-flyout
 ##.iab300x250
 ##.iab728x90
 ##.ib-adv
@@ -17058,6 +17077,7 @@
 ##.js-cookie-popup-app
 ##.js-cookie-popup-app:not(body):not(html)
 ##.js-cookie-privacy
+##.js-cookie-rgpd
 ##.js-cookie-rgpd:not(body):not(html)
 ##.js-cookie-statement:not(body):not(html)
 ##.js-cookie-wall
@@ -17326,6 +17346,7 @@
 ##.legal-cookie:not(body):not(html)
 ##.legal-cookiebar
 ##.legal-cookiebar:not(body):not(html)
+##.legalCookie
 ##.legalCookie[style*="block"]
 ##.legalUE
 ##.legal_cookie_block
@@ -17437,6 +17458,7 @@
 ##.m-cookie-notice
 ##.m-cookie-popup
 ##.m-cookie.m-cookie__show
+##.m-cookieBar
 ##.m-cookieBar:not(body):not(html)
 ##.m-cookieInfo
 ##.m-cookie_banner
@@ -18035,6 +18057,7 @@
 ##.notice--cookie:not(body):not(html)
 ##.notice-bar
 ##.notice-cookie
+##.notice-gdpr
 ##.notice-gdpr:not(body):not(html)
 ##.notice-tou
 ##.noticeAd_pc_wrap
@@ -18396,6 +18419,7 @@
 ##.pm-ad-zone
 ##.pm-ads-banner
 ##.pm-banner-ad
+##.pm-gdpr
 ##.pn-ad
 ##.pn_dfpads
 ##.pnp_ad
@@ -18624,6 +18648,7 @@
 ##.privatePolicy:not(body):not(html)
 ##.pro_ad_adzone
 ##.pro_ad_zone
+##.pro_cookie-layer-ng
 ##.pro_cookie-layer-ng:not(body):not(html)
 ##.product-ads
 ##.product-bar-ads
@@ -19159,6 +19184,7 @@
 ##.sf_widget_permission
 ##.sfadSlot
 ##.sfsp_adadvert
+##.sg-cookie-policy
 ##.sg-cookie-policy-popup
 ##.sg-cw-cookie
 ##.sg-cw-cookie:not(body):not(html)
@@ -19191,6 +19217,7 @@
 ##.showAd_No
 ##.showCookieInformation
 ##.showCookiebanner
+##.showGDPR
 ##.showPrivacyCookie
 ##.show[class*="cookie-banner"]
 ##.show[class*="cookie-notice"]
@@ -29755,6 +29782,7 @@ nabble.com##.signature
 nageurs.com##body > div:not([id]):not([class])
 naklejkomania.eu###tlo_cookie
 namethatporn.com###fab_blacko
+nanoreview.net###the-app > .mb
 napovednik.com##.alert, #alert
 napuzba.com##div[style^="width:336px"]
 narrative.ly##.TakeoverUnit
@@ -30301,6 +30329,7 @@ saverioriotto.it###policy_id
 savio.it###box-overlay
 sb.by##.google-subscription
 sbnation.com##.harmony-sponsorship
+scaleway.com##.gLLeaT
 scaleway.com##.sc-AxjAm.pdqDT.sc-kcRExk.dhjYCX
 scanbot.io##.sb-banners--cookie
 scanwith.com##.middle-banner
