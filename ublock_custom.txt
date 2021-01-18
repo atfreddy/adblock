@@ -40,7 +40,7 @@ station-drivers.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-ty
 wilderssecurity.com##.notice_-1.DismissParent.Notice.panel
 youtube.com##.opened
 youtube.com###dialog
-youtube.com##ytd-app > ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
+! youtube.com##ytd-app > ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
 youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
