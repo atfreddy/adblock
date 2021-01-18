@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 17 10:03:05 CET 2021 
+! Updated: Mon Jan 18 14:24:37 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -8170,6 +8170,7 @@
 ###sp-advtop3
 ###sp-cc[action*="cookiepref"]
 ###sp-top-ad-wrapper
+###spc-popup-cookie
 ###spcookiegdpr
 ###spec_offer_ad2
 ###specialAd
@@ -10901,6 +10902,7 @@
 ##.ad__content
 ##.ad__create
 ##.ad__disclosure
+##.ad__full--width
 ##.ad__item
 ##.ad__mobi
 ##.ad__mpu
@@ -29060,6 +29062,7 @@ gogetaroomie.com##.left-space
 gogift.com##.iziToast-wrapper
 golfpass.com##.PolicyBanner
 golfweather.com##.ox300x250
+golospravdy.eu###text-130
 goodhoodstore.com##.cc_msg
 goodreads.com###connectPrompt
 google.*###footcnt > #fbar > .fbar + div[class][id][style="display: block;"][data-ved]
@@ -30592,6 +30595,7 @@ thecable.ng##.cableads_mid
 thecourier.com###TCFO_Middle2_300x250
 thecourier.com###TCFO_Middle_300x250
 thedailystar.net##.advatige
+thedirect.com##.pw-ph-sky
 thedodo.com##.partners-widget
 theerlangelist.com###privacy_note
 thefamilycurator.com##.cn_box
@@ -30668,6 +30672,7 @@ todaystmj4.com#@##ad_banner
 todotejados.com###kopageBar
 tokyohive.com##.midunit
 tomshardware.com##.newsletter-signup
+tomshardware.com##.slot-lightbox1
 tomtop.com##.m_privacy_statement
 tomwans.com#@#.adright
 toolband.com###important-notice
@@ -30753,7 +30758,7 @@ twitter.com##.is-promoted
 twitter.com##.promoted-account
 twitter.com##.promoted-tweet[data-disclosure-type="issue"]
 twitter.com##.promoted-tweet[data-disclosure-type="promoted"]
-twitter.com##.r-13qz1uu.r-1w50u8q
+twitter.com##.r-13qz1uu.r-tvv088.css-1dbjc4n
 twitter.com,wral.com##.promotion
 txxx.com##.preroll
 txxx.com##.rek-iv
@@ -33667,7 +33672,6 @@ zymic.com###sponsor-partners
 ||clickable.com^$third-party
 ||clickadilla.com^$third-party
 ||clickadu.com^$third-party
-||clickagy.com^$third-party
 ||clickansave.net^$popup,third-party
 ||clickathere.com^
 ||clickbank.net/*offer_id=$popup,third-party
@@ -34887,6 +34891,7 @@ zymic.com###sponsor-partners
 ||f35c5dba3b0b5b017.com^
 ||f35ec1cf813.com^
 ||f3a2dc11dfb33.com^
+||f3rs4np1c5.site^
 ||f40f89d54b8.com^
 ||f45ff72fec5426ae.com^
 ||f47cecd3f0a29874f.com^
