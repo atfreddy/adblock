@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Thu Jan 21 08:30:45 CET 2021 
+! Updated: Thu Jan 21 12:54:00 MEZ 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -575,6 +575,7 @@
 ###KPN_cookie
 ###LB_Row_Ad
 ###LCookieBar
+###LGPDdisclaimer
 ###LM_ad_unit
 ###LS-google-ad
 ###LSCookiePolicyPopup
@@ -7068,6 +7069,7 @@
 ###move-ad
 ###movieads
 ###mozo-ad
+###mp-misc-cookie-bar
 ###mp_cookie
 ###mph-rightad
 ###mpr-ad-wrapper-1
@@ -7255,6 +7257,7 @@
 ###notif--privacy
 ###notifCookie
 ###notify-policy-cookie
+###notify.cookie
 ###notifyCookie
 ###notifyCookieBot
 ###notify_ad
@@ -7537,6 +7540,7 @@
 ###popupAd
 ###popupBottomAd
 ###popupCookie
+###popup[class*="cookie"]
 ###popup_ad_wrapper
 ###popup_cnil
 ###popup_cookie
@@ -8998,6 +9002,7 @@
 ###zsmsg-policy
 ###zwcc
 ###zztextad
+##.-cookie-notice
 ##.-s-cookie-bar
 ##.AD-POST
 ##.AD-RC-300x250
@@ -12815,6 +12820,7 @@
 ##.avg-cookie-notice:not(body):not(html)
 ##.avg-cookiebar
 ##.avg-cookiebar:not(body):not(html)
+##.avg-overlay > .avg-bar
 ##.avisoCookie
 ##.avisoCookie:not(body):not(html)
 ##.aviso_cookie
@@ -15031,6 +15037,7 @@
 ##.cookie_notice_block
 ##.cookie_notice_block:not(body):not(html)
 ##.cookie_notice_blue
+##.cookie_notice_overlay
 ##.cookie_notice_wrap
 ##.cookie_notice_wrap:not(body):not(html)
 ##.cookie_notice_wrapper
@@ -15221,6 +15228,7 @@
 ##.cookieoverlay:not(body):not(html)
 ##.cookiepanel
 ##.cookiepanel:not(body):not(html)
+##.cookiepanel_overlay
 ##.cookiepermissionprompt
 ##.cookiepol
 ##.cookiepol:not(body):not(html)
@@ -15239,6 +15247,7 @@
 ##.cookiepolicyclass
 ##.cookiepolicyclass ~ .ui-widget-overlay
 ##.cookiepolicyclass:not(body):not(html)
+##.cookiepolicyoverlay
 ##.cookiepolitik
 ##.cookiepolitik:not(body):not(html)
 ##.cookiepoll
@@ -15450,6 +15459,7 @@
 ##.dc-cookie-disclaimer
 ##.dc-half-banner
 ##.dc-widget-adv-125
+##.dce-privacy
 ##.dcmads
 ##.dd-ad
 ##.dda-ad
@@ -19968,6 +19978,7 @@
 ##.top_cookie_pannel:not(body):not(html)
 ##.top_corner_ad
 ##.top_head_ads
+##.top_nav ~ .cookie_tag
 ##.top_right_ad
 ##.top_rightad
 ##.top_sponsor
@@ -20252,6 +20263,7 @@
 ##.w-cookie-banner:not(body):not(html)
 ##.w-cookie-notice
 ##.w-cookie-notice:not(body):not(html)
+##.w-cookie.center
 ##.w3_cnil
 ##.w3_cnil:not(body):not(html)
 ##.wAdvert
@@ -28771,6 +28783,7 @@ elitepvpers.com##img[width="968"]
 eloboost24.eu##.cookie
 elopage.com##.elo-btn
 elster-americanmeter.com##.topRibbon
+eltern-bildung.at###notice
 eluniverso.com##.block-eluniverso-gdpr
 embl.org##.vf-banner
 emezeta.com###privacy, .privacy
@@ -29060,6 +29073,7 @@ globallogic.com###ac-wrapper
 glossier.com##.js-banner
 glossika.com##.gdpr
 glovoapp.com##.down-banner
+gluckspilze.com###admorris-cookie-wrapper
 gmp.police.uk##.alert, #alert
 gmu.edu###mason-cookie-banner
 gmx.com##.skyscraperClass
@@ -29766,6 +29780,7 @@ musicclub.eu##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-
 musicglue.com##.CookieFooter
 musicradar.com##.newsletter-signup
 mutuelle.com###cook, .cook
+muycomputer.com###CSneak
 mwee.com###acc-bottom
 mx1-360.com##.cookie-legal
 my-proxy.com###proxy-bottom
@@ -29919,6 +29934,7 @@ ok.porn,ok.xxx,oldmaturemilf.com,pornhat.com##.bns-bl
 ok.porn,pornhat.com##.bn
 okido.com##.woocommerce-store-notice
 okpedia.it##.privacy
+okpedia.org##.privacy
 olweb.tv#@##ads1
 olx.pt,whatuni.com#@#.ad_img
 olymp.com##.legal-banner
@@ -30035,6 +30051,7 @@ photodom.com##.pd_AdBlock
 photoeffekte.com###TopSubscriptionPopUpBg1
 photoeffets.com###TopSubscriptionPopUpBg1
 photojpl.com###google01
+phpipam.net###cookie
 phys.org##.nwletter-box
 physicsworld.com##.corporate-partners
 pi-news.net##.widget_wysija
@@ -30155,7 +30172,6 @@ prevenzioneatavola.it###disclaimerC
 previ-direct.com##.alert, #alert
 prevision.io###legal-banner
 prezzoforte.it###bottombar
-pri.org###cta_prompt_bottom
 priceonomics.com###book-island
 prime.widiba.it##.wd-primepublic__cookie__content
 primigi.it##.fancybox-overlay
@@ -30476,7 +30492,6 @@ sportdiver.com#@##CybotCookiebotDialog
 sportpirate.com###lawdiv
 sports.yahoo.com##div[id$="-NewsletterSubscription"]
 sporttotal.tv###root > div[role="navigation"] ~ div
-sporx.com##.cookie-text
 spotify.com##div > div[aria-live="polite"]
 spotify.com#@#.privacy-modal
 spox.com##.spxcib
@@ -30684,6 +30699,7 @@ todayfm.com##.mpu2
 todaysparent.com###hearst
 todaystmj4.com#@##ad_banner
 todotejados.com###kopageBar
+togetherall.com##.light--MuiSnackbar-root
 tokyohive.com##.midunit
 tomshardware.com###ultimedia_wrapper
 tomshardware.com##.newsletter-signup
@@ -30953,7 +30969,6 @@ wizconnected.com##.wiz-cookie-policy
 wjr.com##img[height="100"]
 wmaraci.com##.e-posta-abonelik
 wolfgangkrebs.com##.elementor-popup-modal
-wolt.com###app div[class*="ModalWithAnimationWrapper__bg"]
 woodrocket.com##.sb-store
 wordcounter.io##.email
 wordcounter.net###glya
