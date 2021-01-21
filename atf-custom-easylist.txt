@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Mon Jan 18 16:49:18 CET 2021 
+! Updated: Thu Jan 21 08:30:45 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -169,6 +169,7 @@
 ###AdsRight
 ###AdsWrap
 ###Ads_BA_BUT
+###Ads_BA_BUT2
 ###Ads_BA_BUT_box
 ###Ads_BA_CAD
 ###Ads_BA_CAD2
@@ -10287,6 +10288,7 @@
 ##.ad-widget-area
 ##.ad-widget-list
 ##.ad-widget-wrapper
+##.ad-widgets
 ##.ad-width-300
 ##.ad-width-728
 ##.ad-with-notice
@@ -10318,6 +10320,7 @@
 ##.ad.rectangle_home_1
 ##.ad.size-300x250
 ##.ad.super
+##.ad.widget
 ##.ad01
 ##.ad01-obj
 ##.ad02
@@ -13120,6 +13123,7 @@
 ##.bigads
 ##.bigadtxt1
 ##.bigbox-ad
+##.bigbox.ad
 ##.bigbox_ad
 ##.bigboxad
 ##.bigsponsor
@@ -15293,6 +15297,7 @@
 ##.cooky-policiy:not(body):not(html)
 ##.coooooookie
 ##.coooooookie:not(body):not(html)
+##.coreAdsPlacer
 ##.cornerBoxInnerWhiteAd
 ##.cornerPolicyTab
 ##.cornerPolicyTab:not(body):not(html)
@@ -17929,6 +17934,7 @@
 ##.native-ad-item
 ##.native-adv
 ##.native-advts
+##.native.ad
 ##.nativeAd
 ##.nativeAd-sponsor-position
 ##.native_ad
@@ -18830,6 +18836,7 @@
 ##.region-ad-top
 ##.region-ads
 ##.region-ads-1
+##.region-ads-content-top
 ##.region-banner-ad
 ##.region-cookie-ban
 ##.region-cookie-ban:not(body):not(html)
@@ -22896,7 +22903,7 @@
 /adman_
 /admanagement/*
 /admanagementadvanced.
-/admanager.$~object,domain=~admanager.google.com
+/admanager.$~object,domain=~admanager.alzura.com|~admanager.google.com
 /admanager3.
 /admanagers/*
 /admanagerstatus/*
@@ -23172,6 +23179,7 @@
 /ads/generatedHTML/*
 /ads/generator/*
 /ads/get/*
+/ads/getPositions?
 /ads/getall
 /ads/google1.
 /ads/google2.
@@ -23498,6 +23506,7 @@
 /adsky.
 /adskyright.
 /adskyscraper.
+/adslot-
 /adslots.
 /adslug-
 /adslug_
@@ -28561,6 +28570,7 @@ crowd1.com##.cookie-concent
 crown.com#@##cookiePolicyModal
 crpa.it##.fancybox-overlay, .fancybox-wrap
 cryptocompare.com##.pc-text
+cryptoslate.com###sticky-footer-global
 crystalmedianetworks.com###tabs_banner
 cs-fundamentals.com###subscription-form
 csdn.net##.pulllog-box
@@ -29066,6 +29076,7 @@ golfweather.com##.ox300x250
 golospravdy.eu###text-130
 goodhoodstore.com##.cc_msg
 goodreads.com###connectPrompt
+goodrx.com##div[class^="adWrapper-"]
 google.*###footcnt > #fbar > .fbar + div[class][id][style="display: block;"][data-ved]
 google.*##div.gb_i[data-ogsr-up] > div[style*="overflow: hidden;"][style*="position: absolute;"][style*="z-index: "][style*="overflow: hidden;"][style*="margin-right: 25px;"]
 google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
@@ -30291,6 +30302,8 @@ rugby-league.com##.alert-dismissible, .alert-dismissable, .alert--dismissable, .
 runtastic.com##.halfpage
 rustimation.eu##body > p
 rxlist.com##.Yahoo
+rxlist.com##.webmdrx
+rxlist.com##.webmdrx_coup
 ryanair.com##.partnersmenu
 rylko.com##.alert-dismissible
 rymer.org###divzasobu
@@ -30672,8 +30685,11 @@ todaysparent.com###hearst
 todaystmj4.com#@##ad_banner
 todotejados.com###kopageBar
 tokyohive.com##.midunit
+tomshardware.com###ultimedia_wrapper
 tomshardware.com##.newsletter-signup
-tomshardware.com##.slot-lightbox1
+tomshardware.com##.slot-afterPopularBox
+tomshardware.com##div[class^="slot-double-height"]
+tomshardware.com##div[class^="slot-light"]
 tomtop.com##.m_privacy_statement
 tomwans.com#@#.adright
 toolband.com###important-notice
@@ -30944,6 +30960,7 @@ wordcounter.net###glya
 worditout.com##body > #g
 wordreference.com##.adtitle
 workforce.com##.cookie__modal
+world4.eu##.protectionOverlaytext
 worldbank.org##.privacy-widget
 worldoftanks-wot.com##.p2small
 worldsnooker.com#@#.homead
@@ -30952,6 +30969,7 @@ worldtimebuddy.com##.block2
 worldtimezone.com##.spon-menu
 worldtimezone.com##table[width="472"]
 worten.pt##.w-newsletter-block
+wowdigital.com##.widget_bloomwidget
 wowhead.com##.announcement
 wpbt2.org##.home_banners
 wps.com##.gdpr
@@ -32342,6 +32360,7 @@ zymic.com###sponsor-partners
 ||adyoulike.com^$third-party
 ||adysis.com^$third-party
 ||adz.co.zw^$third-party
+||adz.wattpad.com^
 ||adzbazar.com^$third-party
 ||adzfun.me^
 ||adzhits.com^$third-party
@@ -32661,6 +32680,7 @@ zymic.com###sponsor-partners
 ||apmebf.com^$third-party
 ||apologixopyr.site^
 ||apopgo.com^
+||app.conversiobot.com^$third-party
 ||app.livemarketshoppers.com^$script,third-party
 ||appads.com^$third-party
 ||apparentsav.club^
@@ -33530,6 +33550,7 @@ zymic.com###sponsor-partners
 ||cddjdjwatndgja.com^
 ||cdn.adnuntius.com/adn.dmp.js$script
 ||cdn.baidupcs.com/monitor.jpg?
+||cdn.convertbox.com^$third-party
 ||cdn.justuno.com/mwgt$script
 ||cdn.mobicow.com^$third-party
 ||cdn.offcloud.com^$third-party
