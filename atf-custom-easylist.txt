@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Fri Jan 22 08:14:40 CET 2021 
+! Updated: Sat Jan 23 14:27:51 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -10903,6 +10903,7 @@
 ##.ad_980x260
 ##.ad_CustomAd
 ##.ad_Flex
+##.ad_Flexi_LowerRight
 ##.ad_Left
 ##.ad_Right
 ##.ad__caption
@@ -11977,6 +11978,7 @@
 ##.adsclick
 ##.adscontent250
 ##.adscontentcenter
+##.adscontntad
 ##.adscreen
 ##.adsd_shift100
 ##.adsdiv
@@ -12087,6 +12089,7 @@
 ##.adstory
 ##.adstxt
 ##.adstyle
+##.adswallpapr
 ##.adswidget
 ##.adsystem_ad
 ##.adszone
@@ -12114,6 +12117,7 @@
 ##.adtv_300_250
 ##.adtxt
 ##.adult-adv
+##.adun
 ##.adunit
 ##.adunit-300-250
 ##.adunit-active
@@ -12587,6 +12591,7 @@
 ##.aggads-ad
 ##.agi-adtop
 ##.ahe-ad.consumable
+##.ahe-adsticky
 ##.ai-m-cookie-layer
 ##.ai-top-ad-outer
 ##.aisle-ad
@@ -15371,6 +15376,7 @@
 ##.cspAd
 ##.css-live-widget_googleAdBlock
 ##.css-pp-box.show
+##.csw-ae-wrapper
 ##.ct-ad-article
 ##.ct-ad-article-wrapper
 ##.ct-ads
@@ -15696,6 +15702,7 @@
 ##.eav-cookielayer
 ##.eb_ad280
 ##.ebayads
+##.eboxCookieLaw
 ##.ec-ads
 ##.ec-ads-remove-if-empty
 ##.ec-cookie-bar
@@ -19121,6 +19128,7 @@
 ##.rt_el_advert
 ##.rt_top_adv
 ##.rtd_ads_text
+##.rtkadunit-wrapper
 ##.rtmad
 ##.rtmm_right_ad
 ##.rvl-Banner-cookieBanner
@@ -20069,6 +20077,7 @@
 ##.two_ads
 ##.twoadcoll
 ##.twoadcolr
+##.twododigital--cookie
 ##.twp-ad
 ##.tx-aa-adverts
 ##.tx-bsd-cookie
@@ -20771,6 +20780,7 @@
 ##cookie-permission
 ##cookie-policy
 ##cookie-popup
+##cookie-wrap
 ##cookie-wrapper
 ##cookie.disclaimer
 ##cookie_notice
@@ -26820,6 +26830,7 @@
 911tabs.com##._29v-t
 911tabs.com##body > div:not([id]):not([class])
 923thefox.com,hot1035.com##.posts-banner
+99airdrops.com##.legal-notice
 9bis.net###gad
 9bis.net##body > div[style*="width"]
 9gag.com##div[style*="width: 500px; height: 281px;"]
@@ -29975,6 +29986,7 @@ orgosolo.nu.it###CookieDiv
 orientaldaily.on.cc#@##ContentAd
 orientaldaily.on.cc#@##contentad
 oriocenter.it##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-alert-dismissible
+orschlurch.net##.amazon-wrapper
 orthomol.com##.alert-box
 osborn.com##.ob-home-gdpr-banner-widget
 osbot.org###ipsLayout_footer
@@ -30042,6 +30054,7 @@ pescorner.net#@##googlead
 petardas.com##body > div[style*="color:white"], body > div:not([id]) > div[style*="color:white"]
 petoskeynews.com##.skyScraper
 pfeiffer-vacuum.com###pfCookieNotice
+pga.com##div[data-cy="gdpr-banner"]
 pgatour.com##.adv-dummy
 phillyvoice.com##.sponsored-article-widget
 phonemore.com##.gdpr
@@ -30194,7 +30207,7 @@ proporn.com##.drt-spot-box
 proporn.com##.livecams
 provantage.com###PP
 psycom.net###vhn
-psypost.org##.head.the-wrap
+psypost.org##.jeg_midbar
 pubpub.org##.legal-banner-component
 puigusa.com###lycok
 puma.com##puma-cookie-banner
@@ -30587,11 +30600,13 @@ tastedive.com##.tk-Footer
 tastedive.com##.tk-Footer-cc
 tasty.co##.newsletter
 tbs.com##.smallBanners
+tcm.com##.universal-footer__ribbon
 tcpdump.com###myID
 tdcx.com###___portal > div > [class^="s-mod"]
 team.tl###popup
 teamcoco.com###ft
 teamliquidpro.com##body > div:not([id]):not([class])
+tecedo.at##.msg-banner
 ted.com##body > div:not([id]):not([class])
 teemo.gg##.alert, #alert
 tei-c.org#@##msad
@@ -30704,9 +30719,6 @@ togetherall.com##.light--MuiSnackbar-root
 tokyohive.com##.midunit
 tomshardware.com###ultimedia_wrapper
 tomshardware.com##.newsletter-signup
-tomshardware.com##.slot-afterPopularBox
-tomshardware.com##div[class^="slot-double-height"]
-tomshardware.com##div[class^="slot-light"]
 tomtop.com##.m_privacy_statement
 tomwans.com#@#.adright
 toolband.com###important-notice
@@ -30805,6 +30817,7 @@ ua-football.com##.newsEMS
 uabstyle.it##.alert-dismissable
 ubs.com###cboxContent
 ubuntu-it.org###\5f ubuntu-it_cookie_policy
+ubuntu18.com##.notice
 ucoz.com,ucoz.net,ucoz.org##div[id^="adBar"]
 ucsusa.org###ucs-cookie-notice
 udacity.com##.layout__content > [class*="snackbar"]
@@ -32769,6 +32782,7 @@ zymic.com###sponsor-partners
 ||artapeare.site^
 ||artcamcat.site^$third-party
 ||arte.tv/includes/xiti/
+||artgullyhep.com^
 ||artistdirect.com/partner/
 ||artpever.com^
 ||artpever.com^$popup
