@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sat Jan 23 14:27:51 CET 2021 
+! Updated: Sun Jan 24 16:48:23 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -8709,6 +8709,7 @@
 ###uk_cookie_law
 ###ukoo_cookielaw
 ###ukoocookielaw
+###ultimedia_wrapper
 ###unCookieCnt
 ###uni-cookie-policy
 ###uni_accept_cookie
@@ -12675,6 +12676,7 @@
 ##.am_ads
 ##.amazon_ad
 ##.amgdpr-cookie
+##.amp-ad
 ##.amp-ad-wrapper
 ##.amp-ads
 ##.amp_ad_1
@@ -13601,6 +13603,7 @@
 ##.c-gallery-vertical__advert
 ##.c-gdpr-banner:not(body):not(html)
 ##.c-gdprbar
+##.c-googleadslot
 ##.c-js-cookiebox
 ##.c-js-cookiebox:not(body):not(html)
 ##.c-legalBanner
@@ -30381,6 +30384,7 @@ scaleway.com##.sc-AxjAm.pdqDT.sc-kcRExk.dhjYCX
 scanbot.io##.sb-banners--cookie
 scanwith.com##.middle-banner
 scaredstiffreviews.com##a[href^="https://www.amazon."][href*="ref="]
+sciencealert.com##.article-fulltext > div
 scio.us##.footer
 scmp.com##.content--newsletter
 scotsman.com###article-newsletter-signup
@@ -41343,6 +41347,7 @@ zymic.com###sponsor-partners
 ||ulsterns.club^
 ||ulsternsforma.fun^
 ||ulsvrptuwyovg.com^
+||ultimedia.com/js/common/smart.js$script,third-party
 ||ulufyprtd.com^
 ||ulukaris.com^
 ||ulyrpgnqeyo.com^
