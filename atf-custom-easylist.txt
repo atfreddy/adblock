@@ -1,3 +1,234 @@
+!
+! 
+! ##.cta-component-full-width
+! ##.cta-component-half-width
+! ##.newsletter
+! ##.newsletter-signup
+! (/sw.js)
+! *** easylist:easylist/easylist_allowlist.txt ***
+! *** easylist:easylist/easylist_allowlist_dimensions.txt ***
+! *** easylist:easylist/easylist_allowlist_popup.txt ***
+! *** easylist:easylist/easylist_general_block.txt ***
+! *** easylist:easylist/easylist_general_block_dimensions.txt ***
+! *** easylist:easylist/easylist_general_block_popup.txt ***
+! *** easylist:easylist/easylist_thirdparty.txt ***
+! *** easylist:easylist/easylist_thirdparty_popup.txt ***
+! *** easylist:easylist_adult/adult_allowlist.txt ***
+! *** easylist:easylist_adult/adult_allowlist_popup.txt ***
+! *** easylist:easylist_adult/adult_thirdparty.txt ***
+! *** easylist:easylist_adult/adult_thirdparty_popup.txt ***
+! *** easylist:easylist_cookie/easylist_cookie_allowlist.txt ***
+! *** easylist:easylist_cookie/easylist_cookie_general_block.txt ***
+! *** easylist:easylist_cookie/easylist_cookie_thirdparty.txt ***
+! ---------- Arabic ----------
+! ---------- Bosnian ----------
+! ---------- Bulgarian ----------
+! ---------- Croatian ----------
+! ---------- Danish ----------
+! ---------- Estonian ----------
+! ---------- German ----------
+! ---------- Greek ----------
+! ---------- Hungarian ----------
+! ---------- Icelandic ----------
+! ---------- Indian ----------
+! ---------- Italian ----------
+! ---------- Korean ----------
+! ---------- Latvian ----------
+! ---------- Norwegian ----------
+! ---------- Polish ----------
+! ---------- Romanian ----------
+! ---------- Russian ----------
+! ---------- Serbian ----------
+! ---------- Slovak ----------
+! ---------- Slovenian ----------
+! ---------- Spanish ----------
+! ---------- Swedish ----------
+! ---------- Thai ----------
+! ---------- Turkish ----------
+! ---------- Welsh ----------
+! -----------------------------Third-party adverts-----------------------------!
+! 3movs.com
+! Ad-Maven
+! AdRoll
+! Adfox
+! Admiral
+! Adreclaim
+! Amazon
+! Anti-Adblock
+! App banner (mobile site)
+! App banner + subscription
+! App banners
+! CSP Yavli
+! Checksum: Ft5HoTLSQtY45vDe4VO6Ag
+! Common Cookie element
+! Custom Filters
+! Dailymotion
+! Dealnews (Hearst Newspapers)
+! Disable ads(bottom)
+! Document block
+! Document blocks
+! Dodgy skimmers
+! Doubleclick
+! Email: easylist@protonmail.com
+! Event banner at the top
+! Facebook
+! Gameloft
+! Gannett
+! Genric mobile element
+! Gladly.io New Tab extension (https://tab.gladly.io/)
+! Google
+! Google Hosted scripts
+! Google signup popups
+! Google-cookie
+! Homepage: https://easylist.to/
+! Imgbox
+! In advert promo
+! International
+! KP subscription
+! Marketgid/MGID
+! Memo2
+! Mgid
+! Mobile
+! Mobile app
+! Mobile app banner
+! Mobile apps
+! Mozo widget
+! Msn
+! Native advert
+! Non-English
+! Openx.com
+! Paid subscription
+! Peel script
+! Popup
+! Promo (dogs)
+! Promotion popup
+! Promotions (at the top)
+! Putlocker
+! Sedo
+! Small Zen
+! Snow on the page
+! Specific blocking filters necessary for sites allowlisting with $genericblock filter option
+! Subscription
+! Subscription (popup)
+! Subscription Яндекс+
+! TPB
+! Taboola
+! Teliad
+! Third-party
+! Title: EasyList
+! Title: EasyList Cookie List
+! Tomshardware
+! Tripadvisor
+! Twitter
+! Version: 202101251604
+! Version: 202101251730
+! Whistleout widget
+! YB banner at the top
+! YB, Taxi etc. banners (mobile)
+! Yahoo
+! Yavli
+! Yavli.com
+! Zergnet
+! Zippyshare
+! about:blank popups
+! adf.ly
+! ads widget and music
+! adyou.me
+! amazon.de search - product trends (often not related to initial search)
+! amazonaws (ad-fix)
+! ampproject
+! animepahe.com
+! app banner
+! baibako.tv - удаление брендированного фона(не реклама), отступа сверху
+! bc.vc
+! bit.ly
+! canyoublockit.com
+! common name
+! csp allowlists
+! data popups
+! doood
+! ducksolutions
+! e2ma subscription forms
+! ezoic
+! facebook.com
+! fastpic
+! flashx
+! gagadget.com - social annoyance
+! generic popup block
+! google
+! google - Chrome banner
+! google - information about Stadia
+! google - information about data privacy
+! govid.co
+! hilltopads
+! html/image popups
+! imgcandy.net
+! imx.to
+! itdmusic.com
+! javascript popups
+! make as start page
+! mcloud
+! megaup.net
+! mobile.twitter.com
+! monova
+! mozilla.org - was this page helpful widget
+! msdn.microsoft.com - "is this page helpful?"
+! msn.com
+! multiup.org
+! nnm-club - NY balls
+! onp-sl-social-locker
+! or via e-mail (easylist@protonmail.com).
+! ouo
+! popupads
+! popups
+! prebid scripts
+! revcontent
+! rlslog.net
+! shorten urls
+! skoda
+! social-locker
+! subscription
+! superconstellation.org
+! tamilyogi.cc
+! theme popup
+! third-party popups
+! translate.google.ru/com - Improve Google Translate
+! uCoz
+! up-4ever.com
+! uptobox.com
+! urlcash.net
+! vidoza.net
+! vidtodo.com
+! viewerig
+! volkswagen
+! vshare.eu
+! websocket ads
+! websocket-ads
+! yahoo
+! yavli.com Sponsored content
+! youdbox.com
+! zmist.org - annoyance
+! zoover
+! Баннер с новостройками
+! Запрос адреса
+! Поиск, пробки, погода на стартовой, ЯБраузер
+! Полоса сверху
+! Полоса со способами обхода блокировок
+! Предложения в рекламных карточках
+! Рассылка Яндекс.Карт
+! Реклама кинотеатров
+! блок "подпишитесь на нас"
+! остальное:
+!# Subscriptions/newsletters (not popups)
+!*
+!***
+!+ NOT_OPTIMIZED
+!+ NOT_PLATFORM(ext_safari)
+!+ NOT_PLATFORM(ios, ext_android_cb, ext_safari)
+!+ PLATFORM(android, ios, ext_android_cb)
+!+ PLATFORM(ios)
+!+ PLATFORM(ios, ext_android_cb)
+!---------------------------------Allowlists----------------------------------!
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
 ###ACCsmallCookieLayer
