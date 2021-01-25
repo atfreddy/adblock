@@ -1,19 +1,21 @@
-israelnationalnews
-gay
+.gv.at
+.pt#
+.sk#
+Adblock Plus
 canada
 delicious.com
-voat.co
-w3newspapers
-politic
-wowza.com
-usatoday
-Adblock Plus
-russia
-~Prebid.js
-swf
+gay
 hondanews.eu
 informiert.at
+israelnationalnews
 kalkulatorkalorii.net
-legend.rs
 kropelka.com
-.gv.at
+legend.rs
+politic
+russia
+swf
+usatoday
+voat.co
+w3newspapers
+wowza.com
+~Prebid.js
