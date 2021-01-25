@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Mon Jan 25 18:45:14 CET 2021 
+! Updated: Mon Jan 25 18:47:36 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -28221,7 +28221,6 @@ auto-motor.at###footer ~ #myModal
 auto.at##table[width="98%"][bgcolor="#666666"]
 auto.ndtv.com##.newsletter-subs
 autoevolution.com###prajiturele
-autogidas.lt##.promo-subscription
 autonews.com#?#.block:has(> div.digital-edition-block > form.newsletter-signup-form)
 autoreflex.com###legal
 autoscuolacatelli.it###d_cook
@@ -28306,7 +28305,6 @@ bgfermer.bg###cookie-b
 biblegateway.com##.bga
 biblegateway.com##.recommendations-products-row
 biblegateway.com##.recommendations-view-row
-bigbank.lt##.sticky
 bigblueball.com###text-416290631
 bigfishaudio.com,cnbcafrica.com,dublinairport.com,yahoo.com#@#.ad-holder
 bikeexif.com##.small
@@ -28316,7 +28314,6 @@ billboard.com#@#.ad-unit-300-wrapper
 bim.yaskawa.com##.pop
 bimedis.com##.b-cookie-text
 bio-rad.com###overlay-shadow
-biomet.lt###fancybox-overlay, #fancybox-wrap
 bippit.com###POPUPS_ROOT
 bisceglielive.it##.biscotto
 bitamp.com##.welcome-popup
@@ -29257,7 +29254,6 @@ idiva.com###rhs_atf
 idoctors.it##.privacy_bottom
 idolator.com#@#.ad-widget-wrapper
 iejima.org#@#.ad_banner
-if.lt##.btx-expandable
 ig.com###stickyFooter, .sticky-footer
 igcd.net,webcarstory.com###Ads
 igniel.com###ignielNewsletter > .email__
@@ -29480,7 +29476,6 @@ lcsc.com##.footer-privacy
 ldlc-pro.com###privacy
 ldlc-pro.com###privacy, .privacy
 le-dictionnaire.com##.topdisclaimer
-le.lt##.cookie
 leagueoflegends.com##.riotbar-alert
 learnersdictionary.com##.abl-m0-t160-d160
 learnersdictionary.com##.abl-m0-t300-d300
@@ -29549,7 +29544,6 @@ lottofy.com###alertsMarquee
 louisvuitton.com##.cs_banner
 loveheaven.net##.topday
 lovepedia.net##.policy-banner
-lrytas.lt###lrytas-fe-root > div[class*="root"]
 ludomedia.it###UIAvvisiUtente
 luisaviaroma.com##.privacy-box
 lululemon.com###promoted-alert-bar
@@ -29600,7 +29594,6 @@ mansurfer.com###top-ban
 mansurfer.com##.footerbanner
 mapsofworld.com###dialog
 maquillalia.com###coke
-marathi.tv##body > div:not([id]):not([class])
 marbaro.it###marbaro_cookielaw_banner
 marca.com#@#.content-ad
 mare2000.it###avviso
@@ -29648,7 +29641,6 @@ megarapid.net###rmiad
 megashopbot.com###alertBar
 megustaleer.com##.cookie, .cookie_mobile
 meistertask.com###cb-wrapper
-mel.fm##.b-pb-article__body > .b-pb-article__publication-newsletter-formarticle__publication-newsletter-form
 memsql.com###memsql-cookie-banner
 menhdv.com##body > div:not([id]):not([class])
 menshealth.com##.pane-blocks-menshealth-ajax-newsletter
@@ -29660,7 +29652,6 @@ mergermarket.com#@#.banner_ad
 merriam-webster.com##.abl
 metacrawler.com##.pirArea
 metal-shop.eu###nextcreBotDialog
-meteo.lt###ecl
 meteoeradar.it##.active
 meteomedia.com##.woahbar
 meteomonopoli.it###my_privacy_widget
@@ -30072,13 +30063,11 @@ piensasolutions.com##.head .top
 pierosangiorgio.kyani.com##body > div:not([id]):not([class])
 pierotofy.it##body > div:not([id]):not([class])
 pikore.com##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-alert-dismissible
-pildyk.lt##.cookie
 pilz.com###cookie
 pimpandhost.com###ad2
 pimpandhost.com,timeanddate.com,wordreference.com###ad1
 pipedrive.com##.cookie
 pipelife.at###coo
-pirkis.lt###alert_tuscias, #alertt
 pistonheads.com#@#.advert-block
 pixabay.com##.getty-banner
 pixel-offers.com##.v-cookie-policy
@@ -30577,7 +30566,6 @@ tag.goadopt.io
 takeover_banner_
 taleo.net###taleo-cookie-law, #modal_cookie-law
 talksms.com##.righttd
-talonai.lt###root ~ div
 tameteo.com###gpdr, #GPDR, #gdpr, #GDPR
 tannoy.com##.cv2-wrapper
 tapatalk.com###pp_b
@@ -30897,12 +30885,10 @@ vpnmentor.com##.follow-experts
 vr-world.com###privacy_policy
 vrporn.com##.noticepopup
 vrsmash.com##.abovePlayer
-vta.lt##.cooask
 vucutgelistirmehareketleri.org##.bulten
 vuejs.org###special-sponsor
 vuku.tv##div[class^="bookmarks_div"]
 vulture.com##.newsletter-flex-text
-vytenio4.lt##.cookie-cover
 w3avenue.com###sponsorsbox
 w3logistics.com###w3l-cookiebox
 wago.com##.wg-modal__overlay
@@ -31080,7 +31066,6 @@ ytv.com###show-big-box
 yubico.com##.MuiSnackbar-root, #yubi-root > div[class*="CookiePop"]
 yummyanime.club,yummyanime.com##a[target="_blank"] > img[style="width: 100%"]
 zaful.com##.foot-sign
-zaliastotele.lt###wrapperCookie
 zambianeye.com##.box_skitter
 zapak.com#@##sponsorAdDiv
 zapravdu.org###newsform
