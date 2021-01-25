@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Mon Jan 25 08:35:56 CET 2021 
+! Updated: Mon Jan 25 18:18:52 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -111,6 +111,7 @@
 ###AdButtons
 ###AdColumn
 ###AdCommerce
+###AdContent
 ###AdContentModule_F
 ###AdDetails_InsureWith
 ###AdDisclaimer
@@ -144,6 +145,7 @@
 ###AdSpotMovie
 ###AdTop
 ###AdTopBlock
+###AdWrapperSuperCA
 ###AdZone1
 ###AdZone2
 ###Ad_976x105
@@ -4316,6 +4318,7 @@
 ###cookie-required
 ###cookie-ribbon
 ###cookie-rodo
+###cookie-row
 ###cookie-screen
 ###cookie-spacer
 ###cookie-statement
@@ -14359,6 +14362,7 @@
 ##.cookie-navbar
 ##.cookie-none
 ##.cookie-note
+##.cookie-note--wrap
 ##.cookie-note-popup
 ##.cookie-note__wrapper
 ##.cookie-notf
@@ -25903,7 +25907,6 @@
 /pop_camgirlcity.
 /pop_up_cookie.
 /popad-
-/popads.
 /popads/*
 /popads_
 /popadscpm.
@@ -30941,6 +30944,7 @@ waterfordwhispersnews.com##.wwn-gdpr-modal
 watfordfc.com##.wfc-m-cookie
 wbal.com##.wbal-banner
 wbur.org##.uw--rectangle
+wcpo.com##.newsletter-opt
 wd-x.ru##form[action^="https://feedburner.google.com"]
 wearedore.com##.bloc-pub
 weather.yahoo.com#@#.ad_slug_table
@@ -32888,6 +32892,7 @@ zymic.com###sponsor-partners
 ||aujooxoo.com^
 ||aukalerim.com^
 ||aukrouwy.net^$third-party
+||aulteeby.net^
 ||aumpoabi.com^$third-party
 ||aumrrwoile.com^
 ||aunsajoa.com^
