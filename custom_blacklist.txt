@@ -14,3 +14,6 @@ swf
 hondanews.eu
 informiert.at
 kalkulatorkalorii.net
+legend.rs
+kropelka.com
+.gv.at

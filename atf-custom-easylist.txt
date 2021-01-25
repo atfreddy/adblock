@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Mon Jan 25 19:24:59 CET 2021 
+! Updated: Mon Jan 25 19:28:03 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -29450,11 +29450,9 @@ kottenstedte.com##.ageverform
 kranten.com###whatever
 krillion.com###sponCol
 krone.at#@##krn-privacy-center
-kropelka.com###back-lightbox
 ksiegaimion.com###euci
 ksl.com##.gfp-slot
 ksl.com#?#.queue:-abp-has(.sponsored)
-ktn.gv.at###l42-cc__body
 kuklaskorner.com###ultimate
 kundoc.com###KUNDOCCOM_cookie_box
 kvraudio.com###kvr300600
@@ -29495,7 +29493,6 @@ learnosm.org###optout-form
 ledluxor.com##.noty_cont, .noty_bar
 leffatykki.com#@#.ad728x90
 legalandgeneral.com###st_box
-legend.rs##.cookie
 lego.com##div[class*="CookieDisclaimer"], #kids-legal-footer ~ div
 leica-camera.com##.fullscreen
 lekiosk.com##btb-app > banner
@@ -30024,7 +30021,6 @@ parasut.com##.signup-newsletter
 parat.com##.cookie
 parcoappiaantica.it##.moduletable-privacy-popup
 parentclub.scot##.cookie
-parlament.gv.at##.popupOverlay
 parliament.scot##.projects-takeover
 passmyparcel.com##.banner, #banner
 patheos.com###patheos-ad-region
@@ -30751,7 +30747,6 @@ translate.google.com,translate.google.com.ua,translate.google.ru###gt-promo-lr
 translated.net###privacy-policy
 transparency.org##.mk-c-modal
 transparencyreport.google.com#@#.ad-icon
-transparenzportal.gv.at###privacypolicy
 travelski.com###tf-cookie
 travelzoo.com#@#.IM_ad_unit
 treated.com###gdprTreated
