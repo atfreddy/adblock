@@ -1,6 +1,3 @@
-~Prebid.js
-.lt#
-.pt#
 israelnationalnews
 gay
 canada
@@ -12,10 +9,8 @@ wowza.com
 usatoday
 Adblock Plus
 russia
+~Prebid.js
 swf
 hondanews.eu
 informiert.at
 kalkulatorkalorii.net
-marathi.tv
-mel.fm
-
