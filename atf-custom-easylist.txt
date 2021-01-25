@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version:  0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Jan 24 16:48:23 CET 2021 
+! Updated: Mon Jan 25 08:20:59 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -217,6 +217,7 @@
 ###Adverts_AdDetailsMiddle_300x250
 ###AiraGdprDialog
 ###AlertCookieBanner
+###AnalyticsPrompt
 ###App-react-component div[class*="cookie-banner"]
 ###AppCookieBar
 ###ArticleBottomAd
@@ -20407,6 +20408,7 @@
 ##.widget_dfp
 ##.widget_dfp_lb-widget
 ##.widget_emads
+##.widget_epcl_ads_fluid
 ##.widget_etcenteredadwidget
 ##.widget_eu_cookie_law_widget
 ##.widget_googleads
@@ -29714,6 +29716,7 @@ mlb.com#@#.bannerAd
 mma-core.com##.outVidAd
 mma-core.com##.rsky
 mmorpg.com###mmorpg_300x250_1
+mobalytics.gg##.live-comp-wrap
 mobidrome.com##.mobidrome-websiteStatisticsOptBox
 mobiforge.com##a > img[alt="Ad"]
 mobil.com###fancybox-overlay, #fancybox-wrap
@@ -29802,6 +29805,7 @@ my-proxy.com###proxy-bottom
 my.juno.com###scienceTile
 my.juno.com###usWorldTile
 my5.tv##body > .view > .view > .view > .view[style*="black"]
+myabandonware.com##.avp
 myanimelist.net##.modal-content
 mycircle.tv###notif_ck
 mycujoo.tv###GDPRModal
@@ -34345,6 +34349,7 @@ zymic.com###sponsor-partners
 ||domslc.com^$third-party
 ||donconferen.site^
 ||donecooler.com^$third-party
+||donkeymob.com^$third-party
 ||donkeyrecentfaith.com^
 ||dontaxoaf.com^
 ||doolooku.net^$third-party
