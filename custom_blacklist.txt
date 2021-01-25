@@ -1,7 +1,9 @@
+~Prebid.js
+.lt#
+.pt#
 israelnationalnews
 gay
 canada
-.pt#
 delicious.com
 voat.co
 w3newspapers
@@ -10,11 +12,10 @@ wowza.com
 usatoday
 Adblock Plus
 russia
-~Prebid.js
 swf
 hondanews.eu
 informiert.at
 kalkulatorkalorii.net
 marathi.tv
 mel.fm
-.lt#
+
