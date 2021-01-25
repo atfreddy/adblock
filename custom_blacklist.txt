@@ -1,6 +1,7 @@
 israelnationalnews
 gay
 canada
+.pt#
 delicious.com
 voat.co
 w3newspapers
@@ -12,6 +13,5 @@ russia
 ~Prebid.js
 swf
 hondanews.eu
-.co.za#
 informiert.at
 kalkulatorkalorii.net
