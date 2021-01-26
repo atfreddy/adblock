@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Mon Jan 25 19:33:23 CET 2021 
+! Updated: Tue Jan 26 20:18:38 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -22161,8 +22161,8 @@
 /^https?:\/\/(35|104)\.(\d){1,3}\.(\d){1,3}\.(\d){1,3}\//$popup,third-party
 /^https?:\/\/.*\/sw.js?.[a-zA-Z0-9%]{50,}/$script,~third-party
 /^https?:\/\/146\.59\.211\.(\d){1,3}.*/$popup,third-party
-/^https?:\/\/s3\.amazonaws\.com\/[a-f0-9]{50,57}\/[a-f,0-9]{8,10}$/$script,third-party,xmlhttprequest,domain=~amazon.com
-/^https?:\/\/s3\.amazonaws\.com\/[a-f0-9]{50,}\/secure\.js/$script,third-party,xmlhttprequest,domain=~amazon.com
+/^https?:\/\/s3\.amazonaws\.com\/[a-f0-9]{45,}\/[a-f,0-9]{8,10}$/$script,third-party,xmlhttprequest,domain=~amazon.com
+/^https?:\/\/s3\.amazonaws\.com\/[a-f0-9]{45,}\/secure\.js/$script,third-party,xmlhttprequest,domain=~amazon.com
 /_/ads/*
 /_30/ads/*
 /__adstop.
@@ -23872,7 +23872,6 @@
 /advtBanner.
 /advtarget/*
 /advts/*
-/advweb.
 /adw1.
 /adw2.
 /adw3.
@@ -28776,6 +28775,8 @@ egotastic.com,nehandaradio.com#@##ad468
 egscans.com###egs-cookie-popup
 egym.com##.egym-prompt
 ehow.com#@#.RelatedAds
+ej.by##.article-footer + span.tags-title
+ej.by##.share
 elaee.com###bcnil
 elakolije.rs###kolacic
 elanco.com###ribbon
@@ -29355,7 +29356,7 @@ izismile.com##.css-widget-item-wrap
 izlemac46.net##body > div#reload
 izlemac46.net##body > div[style*="width:100%;text-align:center"]
 izotcomputers.com##body [id^="aiva"]
-jabong.com,people.com,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
+jabong.com,people.com,spaargids.be,techrepublic.com,time.com,yahoo.com#@#a[href^="http://ad.doubleclick.net/"]
 javbix.com#@#.adsleft
 javhiv.com##.block-body > .block.announcement
 jcb.com##.jcb-cookie-policy
@@ -29433,6 +29434,7 @@ kon-boot.com###myModal, .modal-backdrop
 konsument.at###cc-overlay
 koopik.com#@#.footerad
 korisnaknjiga.com###kukiji
+kotaku.com##.sc-18b1b2r-5
 kottenstedte.com##.ageverform
 kranten.com###whatever
 krillion.com###sponCol
@@ -29834,6 +29836,7 @@ ncsc.gov.uk##.pcf-cookie
 ndtv.com###taboola-right-rail
 ndtv.com##.sp_ad-t
 ndtv.com##.sub_newsletter
+ndtv.com,www-ndtv-com.cdn.ampproject.org##.story_ft-nav
 ndzperformance.com##.footer #myModal
 neatorobotics.com###neato_cp_notice
 nec.com##.func-cookie
@@ -30978,7 +30981,6 @@ wwlp.com#@#.dfp-ad
 www-cnet-com.cdn.ampproject.org##.newsletter
 www-cnet-com.cdn.ampproject.org$$div[class="c-reengageNewsletter"]
 www-cnet-com.cdn.ampproject.org$$div[class="newsletter"]
-www-ndtv-com.cdn.ampproject.org##.story_ft-nav
 www.google.ac,www.google.ad,www.google.ae,www.google.al,www.google.am,www.google.as,www.google.at,www.google.az,www.google.ba,www.google.be,www.google.bf,www.google.bg,www.google.bi,www.google.bj,www.google.bs,www.google.bt,www.google.by,www.google.ca,www.google.cat,www.google.cd,www.google.cf,www.google.cg,www.google.ch,www.google.ci,www.google.cl,www.google.cm,www.google.co.ao,www.google.co.bw,www.google.co.ck,www.google.co.cr,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.ls,www.google.co.ma,www.google.co.mz,www.google.co.nz,www.google.co.th,www.google.co.tz,www.google.co.ug,www.google.co.uk,www.google.co.uz,www.google.co.ve,www.google.co.vi,www.google.co.za,www.google.co.zm,www.google.co.zw,www.google.com,www.google.com.af,www.google.com.ag,www.google.com.ai,www.google.com.ar,www.google.com.au,www.google.com.bd,www.google.com.bh,www.google.com.bn,www.google.com.bo,www.google.com.br,www.google.com.by,www.google.com.bz,www.google.com.cn,www.google.com.co,www.google.com.cu,www.google.com.cy,www.google.com.do,www.google.com.ec,www.google.com.eg,www.google.com.et,www.google.com.fj,www.google.com.gh,www.google.com.gi,www.google.com.gt,www.google.com.hk,www.google.com.jm,www.google.com.jo,www.google.com.kh,www.google.com.kw,www.google.com.lb,www.google.com.ly,www.google.com.mm,www.google.com.mt,www.google.com.mx,www.google.com.my,www.google.com.na,www.google.com.ng,www.google.com.ni,www.google.com.np,www.google.com.om,www.google.com.pa,www.google.com.pe,www.google.com.pg,www.google.com.ph,www.google.com.pk,www.google.com.pr,www.google.com.py,www.google.com.qa,www.google.com.ru,www.google.com.sa,www.google.com.sb,www.google.com.sg,www.google.com.sl,www.google.com.sv,www.google.com.tj,www.google.com.tn,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vc,www.google.com.ve,www.google.com.vn,www.google.cv,www.google.cz,www.google.de,www.google.dj,www.google.dk,www.google.dm,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fm,www.google.fr,www.google.ga,www.google.ge,www.google.gg,www.google.gl,www.google.gm,www.google.gp,www.google.gr,www.google.gy,www.google.hk,www.google.hn,www.google.hr,www.google.ht,www.google.hu,www.google.ie,www.google.im,www.google.iq,www.google.is,www.google.it,www.google.it.ao,www.google.je,www.google.jo,www.google.jp,www.google.kg,www.google.ki,www.google.kz,www.google.la,www.google.li,www.google.lk,www.google.lt,www.google.lu,www.google.lv,www.google.md,www.google.me,www.google.mg,www.google.mk,www.google.ml,www.google.mn,www.google.ms,www.google.mu,www.google.mv,www.google.mw,www.google.ne,www.google.ne.jp,www.google.ng,www.google.nl,www.google.no,www.google.nr,www.google.nu,www.google.pl,www.google.pn,www.google.ps,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.rw,www.google.sc,www.google.se,www.google.sh,www.google.si,www.google.sk,www.google.sm,www.google.sn,www.google.so,www.google.sr,www.google.st,www.google.td,www.google.tg,www.google.tl,www.google.tm,www.google.tn,www.google.to,www.google.tt,www.google.us,www.google.vg,www.google.vu,www.google.ws#@##bottomads
 www.google.com#@##videoads
 www.yahoo.com#@##my-adsFPAD
@@ -41652,6 +41654,7 @@ zymic.com###sponsor-partners
 ||visionclearz.com^$third-party
 ||visit-x.net/cams/*.html?*&s=*&ws=$popup,third-party
 ||visit-x.net/promo/$third-party
+||visitsfunk.com^
 ||visitweb.com^$third-party
 ||visualwebsiteoptimizer.com^$domain=wetter.com
 ||vitalads.net^$third-party
