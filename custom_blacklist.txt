@@ -1,4 +1,5 @@
 .ac.uk
+.at#
 .gv.at
 .lt#
 .pt#
@@ -14,6 +15,7 @@ israelnationalnews
 kalkulatorkalorii.net
 kropelka.com
 legend.rs
+pikore.com
 politic
 russia
 swf
