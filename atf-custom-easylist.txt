@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Tue Jan 26 20:18:38 CET 2021 
+! Updated: Thu Jan 28 09:53:34 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -805,6 +805,7 @@
 ###__next div[class*="PrivacyPolicy"]
 ###__next div[class*="StyledCookieLayer"]
 ###__next div[class*="cookie-banner"]
+###__next div[class*="cookieBar"]
 ###__next div[class^="PrivacyPopup__Box"]
 ###__next div[data-qa-id*="cookie-popup"]
 ###__ntk_banner_cookie
@@ -3742,6 +3743,7 @@
 ###cc-modal-overlay
 ###cc-tag
 ###cc-wrapper
+###cc.cc_dialog
 ###cc_banner
 ###cc_banner-wrapper
 ###cc_con
@@ -4357,6 +4359,7 @@
 ###cookie.align-center
 ###cookie.cookie
 ###cookie.cookie[style*="block"] ~ #overlay
+###cookie.olw-cookie
 ###cookie.showme
 ###cookie1
 ###cookie2
@@ -4988,6 +4991,7 @@
 ###cookiecontent
 ###cookiecrap
 ###cookiedialog
+###cookiedialogbox
 ###cookiedisallowoverlay
 ###cookiedisc
 ###cookiedisclaimer
@@ -6093,6 +6097,7 @@
 ###gdpr-navbar
 ###gdpr-notice
 ###gdpr-o
+###gdpr-options.dialog--full
 ###gdpr-overlay
 ###gdpr-policy-navbar
 ###gdpr-popup
@@ -6712,6 +6717,7 @@
 ###khAdSpace
 ###kjfCookieInfoBox
 ###kki_div
+###klaro .cook-modal
 ###km-cookie-accept
 ###koekbalk
 ###koekiemonster
@@ -7464,6 +7470,7 @@
 ###pixAd
 ###pjAcceptCookieBar
 ###player-ads
+###pm--cookie-permission
 ###pm-cookie-banner
 ###pm-privacy-banner
 ###pmc_toupp_notice
@@ -7789,6 +7796,7 @@
 ###react_element__cookiebar
 ###realEstateAds
 ###rearad
+###rec_spot_ad_1
 ###rect-ad
 ###rectAd
 ###rect_ad
@@ -8249,6 +8257,7 @@
 ###sponsored_option
 ###sponsored_v12
 ###sponsoredads
+###sponsorfeature
 ###sponsors-article
 ###sponsors-block
 ###sponsors-home
@@ -14180,6 +14189,7 @@
 ##.cookie-banner__cnt
 ##.cookie-banner__overlay
 ##.cookie-bar ~ #cb.show
+##.cookie-bar ~ .ccklayer
 ##.cookie-bar--active
 ##.cookie-bar--is-visible
 ##.cookie-bar-alert
@@ -16893,6 +16903,7 @@
 ##.html-block-ads
 ##.hv_privacy_prompt
 ##.hw-cookie-popup
+##.hwcookiebanner
 ##.hwg-row-ad
 ##.hx_cookie-banner
 ##.hyad
@@ -17210,6 +17221,7 @@
 ##.js_movable_ad_slot
 ##.jsbd-Cookie
 ##.jsbd-Cookie:not(body):not(html)
+##.ju_Con[data-title*="Cookie%20Bar"]
 ##.jubCookWarn
 ##.jubCookWarn:not(body):not(html)
 ##.juicyads_300x250
@@ -17320,6 +17332,7 @@
 ##.lbadtxt
 ##.lbc-ad
 ##.lblAdvert
+##.lc-gdpr
 ##.lcontentbox_ad
 ##.ld-ad
 ##.ld-cookie-notice
@@ -18391,6 +18404,7 @@
 ##.pb-f-ads-taboola
 ##.pb-f-ads-taboola-article-well
 ##.pb-f-ads-taboola-right-rail-alt
+##.pb-f-ads-yieldmo
 ##.pb-f-advert-dfp-double-mpu
 ##.pb-mod-ad-flex
 ##.pc-ad
@@ -21185,7 +21199,6 @@
 -ad-640x480.
 -ad-970-
 -ad-banner-
--ad-banner.
 -ad-big.
 -ad-bottom-
 -ad-button-
@@ -23224,6 +23237,7 @@
 /ads/homepage/*
 /ads/horizontal/*
 /ads/html/*
+/ads/ias_
 /ads/im2.
 /ads/image/*
 /ads/imbox-
@@ -24535,6 +24549,7 @@
 /cookie.pack.
 /cookie.policy.
 /cookie.privacy.
+/cookie.privacy.protection.js
 /cookie.umdaac.
 /cookie/cookie-bar
 /cookie/cookie.
@@ -24695,6 +24710,7 @@
 /custom/ads
 /custom/doubleclick/*
 /custom11x5ad.
+/custom_ads.
 /custom_ads/*
 /customad.
 /customads/*
@@ -27030,7 +27046,7 @@
 @@||accounts.google.com/o/oauth2/$popup
 @@||accounts.google.com/signin/$popup
 @@||accounts.google.com^$document,subdocument,domain=adwords.google.com
-@@||ad.doubleclick.net/ddm/$popup,domain=mail.yahoo.com|nytimes.com
+@@||ad.doubleclick.net/ddm/$popup,domain=mail.yahoo.com|nytimes.com|spaargids.be
 @@||ad.doubleclick.net/ddm/clk/*http$popup
 @@||ad.leadbolt.net/show_cu.js
 @@||adap.tv/redir/javascript/vpaid.js
@@ -28180,6 +28196,7 @@ arabiaweather.com##.mpu-card
 araihelmet.eu##.top-banner
 aranafansub.moe##body > div[id][class]
 argaam.com##.argaam-policy
+argent.xyz###gatsby-focus-wrapper > div[class*="css"]:not([id])
 aripaev.ee##div[class*="CookieBar"]
 arizonasports.com,ktar.com##.sponsorBy
 arkivmusic.com###gdpr-modal
@@ -28404,7 +28421,7 @@ buydifferent.it##body > div:not([id]):not([class])
 buznews.com###gemSponsored
 buzzfeed.com###mod-product-labs-promo-1
 buzzfeed.com##.buzzblock-newsletter
-buzzfeed.com,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
+buzzfeed.com,spaargids.be,yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 buzzfeednews.com##div[id^="BF_ADX_"]
 bws.net##.block--cookie
 byutv.org###toast, .toast
@@ -28775,6 +28792,7 @@ egotastic.com,nehandaradio.com#@##ad468
 egscans.com###egs-cookie-popup
 egym.com##.egym-prompt
 ehow.com#@#.RelatedAds
+eib.org###eib-popup-policy
 ej.by##.article-footer + span.tags-title
 ej.by##.share
 elaee.com###bcnil
@@ -29049,6 +29067,7 @@ geo-fs.com##.geofs-cooked
 geoprostor.net###REALISCCBAR
 gerarddarel.com###cookieLab
 german-pavilion.com###privacy-flyout
+getir.com###__next > [class*="Drawer"]
 getlyrics.com###top_right
 getswiftfox.com##.footer-right
 ghacks.net##.category-sponsored
@@ -29288,6 +29307,7 @@ improbable.io##div[class*="CookieBarstyled"]
 in.fo#@#.ads-banner
 inartek.it###discl
 inc.com##div[class*="privacyPolicyPopup"]
+india.com##.budgetbgimg
 indiancaller.com##.pn_notebox
 indusface.com##.disclaimer_block
 inelenco.com###hid
@@ -29393,6 +29413,7 @@ juzaphoto.com##.s_bluebox
 jw.org#@#.adsBlock
 kaerntentherme.com###coo
 kaggle.com###site-content ~ div
+kanebo.com##.tmp-privacyNotice
 kanonitv.net###custom_html-7
 karman.cc###ico_wrapper
 karriere.nrw###popup
@@ -29857,6 +29878,7 @@ news.am##.banner_click
 newsandnews.com##.bottom-popup
 newscientist.com##.mpMPU
 newscientist.com##.prompt
+newsday.com##.midPg
 newsday.com##.policy-alert
 newsnext.live##.size-large
 newsroomamerica.com###promotional
@@ -29879,6 +29901,7 @@ nhs.uk##.global-footer p ~ p, body > div[style*="E7E"]
 nick.com,tvland.com##.page-overlay_wrapper
 nicovideo.jp#@#.googleAds
 nigiara.it##.privacy
+nike.com##div[data-pre="PrivacyBanner"]
 nikkei.com##.k-privacy
 nikkei.com##.k-privacy, #ccpa-block
 nikopolnews.net##.callback
@@ -29977,6 +30000,7 @@ ostatic.com###media_partner_gallery
 ostufer.net##div[id^="popdown"]
 oszkar.com###footerbar
 oushop.com##body > div:not([id]):not([class])
+out.com##.ourSponsors
 outbyte.com###privacy-popup
 outspark.com#@#.adModule
 ovationtv.com###top-promo
@@ -30025,6 +30049,7 @@ pdc.tv#@#.advertColumn
 peekvids.com###mediaPlayerBanner
 peekvids.com##.mediaPlayerSponsored
 pekarstas.com##div[class^="share-block"]
+pepeenergy.com##.modal-cookie
 perfectgirls.net##.additional-block-bg
 perfectgirls.net##.banner-wrapper-static
 perfectgirls.net,pornfun.com,xnostars.com##.promo
@@ -30083,6 +30108,7 @@ play-cricket.com###openglobal_privacy_widget
 play.google.com###gb > div[style*="background-color"]
 play.google.com##.gb_g:has-text(cookie)
 play.google.com#?#.gb_g:-abp-contains(cookie)
+play.typeracer.com##.newNorthWidget
 playboy.com###__next > div[style*="flex"]
 playmagic.com.mt###POPUPS_ROOT
 playnj.com##.pnj-table
@@ -30192,7 +30218,6 @@ psypost.org##.jeg_midbar
 pubpub.org##.legal-banner-component
 puigusa.com###lycok
 puma.com##puma-cookie-banner
-puntocellulare.it###f_cookie
 puppet.com##.pm-gdpr, .puppet-cookie-banner
 purevpn.com###email-box
 pussy.org###pussyhbanner
@@ -30247,6 +30272,7 @@ readovka.news##.block-community-zen
 readthedocs.io,sportdiver.com#@##privacy-policy
 readwrite.com##.m-adaptive
 realgfporn.com###iknow
+realgfporn.com#@#.large-right-ad
 realitytea.com##.roadblock
 realme.com##.r-cookie
 realmroyale.com##.footer + div
@@ -30331,6 +30357,7 @@ sammobile.com##.g-39
 sane.org.uk###jxcc-bar
 sanitas.com###sanitasCookieAlert
 sankei.com###snsFollow
+sankei.com#@#.module_ad
 sanmarcosrecord.com#@##ad_1
 sanmarcosrecord.com#@##ad_2
 sanmarcosrecord.com#@##ad_3
@@ -30353,6 +30380,7 @@ saverioriotto.it###policy_id
 savio.it###box-overlay
 sb.by##.google-subscription
 sbnation.com##.harmony-sponsorship
+scaleway.com###gatsby-focus-wrapper > footer ~ div
 scaleway.com##.gLLeaT
 scaleway.com##.sc-AxjAm.pdqDT.sc-kcRExk.dhjYCX
 scanbot.io##.sb-banners--cookie
@@ -30703,6 +30731,7 @@ tooorgle.com###most_popular
 toornament.com##.cookie-legal
 topsante.com###toaster-abo
 toptal.com###modal-host ~ div
+torlock.com##[class^="wrn"]
 toronto.com##.td_featured
 toscana-notizie.it###banner-overlay-top-page
 toscana.it###cookPol, #banner-overlay-top-page, #myCookie
@@ -30863,6 +30892,7 @@ visitleevalley.org.uk###howdy
 visitscotland.com#@##bannerAdWrapper
 vitacost.com###cookieJar
 vitiana.com##.bizjournal
+vitvesti.by##a[href^="https://news.google.com/"] > img
 vive.com###vive-cookie-notice
 vivo.com##.common-prompt-privacy-bg, .common-prompt-cookie-bg
 vizer.tv##body > .vizerNewBox.vizerNoticia
@@ -32201,6 +32231,7 @@ zymic.com###sponsor-partners
 ||adspdbl.com^$third-party
 ||adspeed.com^$third-party
 ||adspop.me^
+||adspyglass.com^
 ||adspyglass.com^$third-party
 ||adspynet.com^$third-party
 ||adsrefundattempts.com^
@@ -32676,6 +32707,7 @@ zymic.com###sponsor-partners
 ||apopgo.com^
 ||app.conversiobot.com^$third-party
 ||app.livemarketshoppers.com^$script,third-party
+||app.mailjet.com^$third-party
 ||appads.com^$third-party
 ||apparentsav.club^
 ||appendad.com^$third-party
@@ -33131,6 +33163,7 @@ zymic.com###sponsor-partners
 ||bigbootymania.com^
 ||bigcock.one/worker.js
 ||bigpulpit.com^$third-party
+||bigtitsgallery.net/qbztdpxulhkoicd.php
 ||bihyteqy.xyz^
 ||bijk.com^*/banners/
 ||bikeacasqaxbs.com^
@@ -33705,8 +33738,6 @@ zymic.com###sponsor-partners
 ||clickfunnels.com^*/cfpop.js
 ||clickganic.com^$third-party
 ||clickgate.biz^$third-party
-||clickiocdn.com/t/common_
-||clickiocdn.com^$third-party
 ||clickly.me^$third-party
 ||clicknano.com^$third-party
 ||clicknerd.com^$third-party
@@ -36554,6 +36585,7 @@ zymic.com###sponsor-partners
 ||jrvtmfxkkl.com^
 ||jrwlxwypmgvk.com^
 ||js-kods.club^
+||js.baytorrent.eu.org^
 ||js.hs-analytics.net/analytics$script
 ||jscloud.org^$third-party
 ||jscount.com^$third-party
@@ -37046,6 +37078,7 @@ zymic.com###sponsor-partners
 ||lfztmoamieum.com^
 ||lgcblkbn.com^
 ||lgjboylszpij.com^
+||lgpumcja.com^
 ||lgtiaqukf.com^
 ||lguqeppylijw.com^
 ||lgwdtfmd.com^
@@ -37812,6 +37845,7 @@ zymic.com###sponsor-partners
 ||mr5aqoqlegsp.com^
 ||mrddz.xyz^
 ||mrelko.com^$third-party
+||mrf.io/cmp$script
 ||mrjb7hvcks.com^
 ||mrjzfzwey.com^
 ||mrnvpqtqkx.com^
@@ -38777,6 +38811,7 @@ zymic.com###sponsor-partners
 ||parcle.io^$third-party
 ||parentful.club^
 ||park.above.com^$popup
+||parkurl.com^
 ||parliamentlive.tv/cookie/
 ||parpapsit.com^
 ||particularmadam.com^
@@ -39105,6 +39140,7 @@ zymic.com###sponsor-partners
 ||pornoow.com^$third-party
 ||pornorips.com/td7ab49db374.js
 ||pornrabbit.com/baexo.php
+||pornrabbit.com^$subdocument
 ||porntagged.com^$third-party
 ||pornturbo.com/*.php?g=$subdocument,third-party
 ||pornturbo.com/tmarket.php
@@ -40893,6 +40929,7 @@ zymic.com###sponsor-partners
 ||tfncnhd8p95c.com^
 ||tfqexqeldxjvet.com^
 ||tfuyqoxs.com^$third-party
+||tfzznclztl.com^
 ||tgbdjyryn.com^
 ||tgbjtcgkdu.com^
 ||tgdhimcwww.com^
@@ -40923,6 +40960,7 @@ zymic.com###sponsor-partners
 ||theonecdn.com^
 ||thepayporn.com^$third-party
 ||thepiratebay.*/static/$subdocument
+||thepiratebay10.org/static/js/UYaf3EPOVwZS3PP.js
 ||thepornsurvey.com^$popup,third-party
 ||therejockeryfu.fun^
 ||thernouverge.site^
@@ -42918,6 +42956,7 @@ zymic.com###sponsor-partners
 ||zzoacwqfw.com^
 ||zzpzenvmibvm.com^
 ||zzxlukodff.com^
+~bancaditalia.it###banner-privacy
 ~coolmath.com##.gdpr-overlay:not(body):not(html)
 ~daf.com##.js-cookiemodal:not(body):not(html)
 ~dish.co###euCookieBanner
@@ -42943,3 +42982,4 @@ zymic.com###sponsor-partners
 ~smythstoys.com##.cookiePolicy:not(.reveal):not(body):not(html)
 ~stabila.com##.mod_cms_accept_tags
 ~takko.com##.cookie-policy-box:not(body):not(html)
+~what3words.com##.CookieNotice-Drawer
