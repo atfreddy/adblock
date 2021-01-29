@@ -39,6 +39,7 @@ rutracker.org###idx-sidebar2 > .ext-links.products.bn-idx > div.product-box
 rutracker.org###page_footer
 snbforums.com##.notice--cookie.notice--primary.js-notice.notice
 station-drivers.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+twitch.tv##.tw-top-0.tw-right-0.tw-overflow-hidden.tw-left-0.tw-flex-nowrap.tw-flex-column.tw-flex.tw-bottom-0.tw-absolute > .tw-full-height.tw-flex-nowrap.tw-flex-column.tw-flex > div.tw-flex-shrink-0
 wilderssecurity.com##.notice_-1.DismissParent.Notice.panel
 youtube.com##.opened
 youtube.com###dialog
