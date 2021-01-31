@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Fri Jan 29 12:31:02 CET 2021 
+! Updated: Sun Jan 31 08:18:13 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -242,6 +242,7 @@
 ###BannerAd
 ###BannerAds
 ###BannerAdvert
+###BannerLGPD
 ###BannerXGroup
 ###Banner_cookie_0
 ###Banner_cookie_0 ~ #bannerOverlay
@@ -3357,6 +3358,7 @@
 ###bbccom_mpu
 ###bbo_ad1
 ###bc-cookie-banner
+###bc-cookie-notice
 ###bcaster-ad
 ###bcc-cookie-bar
 ###bcmsCookieInfoTextWrapper
@@ -3843,6 +3845,7 @@
 ###cmn_toolbar_ad
 ###cmp-faktor-io
 ###cmp-faktor-io-parent
+###cmp-widget-wrapper
 ###cmpBackdrop
 ###cms-cookie-wrapper
 ###cmsCookieChoiceBanner
@@ -4100,6 +4103,7 @@
 ###cookie-banner-panel
 ###cookie-banner-root
 ###cookie-banner-text
+###cookie-banner-wrap
 ###cookie-banner-wrapper
 ###cookie-banner2
 ###cookie-banner_flag
@@ -4119,6 +4123,7 @@
 ###cookie-bar__wrapper
 ###cookie-barbody
 ###cookie-bars
+###cookie-bg-cover
 ###cookie-block
 ###cookie-body
 ###cookie-boss-modal
@@ -4200,6 +4205,7 @@
 ###cookie-layer
 ###cookie-layer-overlay
 ###cookie-layer-protector
+###cookie-layer.show
 ###cookie-layer[style*="visible"]
 ###cookie-legal
 ###cookie-legal-notice
@@ -6839,6 +6845,7 @@
 ###ligatus
 ###ligatus_adv
 ###ligatusdiv
+###lightbox-cnil
 ###lightboxAd
 ###lilo_imageAd
 ###liste_top_ads_wrapper
@@ -7243,6 +7250,7 @@
 ###nhm-cookie-notify
 ###nia_ad
 ###nib-ad
+###nk_ad_top
 ###no-cookie
 ###no-cookie-doorkeeper
 ###nocookie
@@ -7652,6 +7660,7 @@
 ###privacyBox
 ###privacyBoxWrapper
 ###privacyCookie
+###privacyCookieDisclaimer
 ###privacyCookieLayer
 ###privacyDisclaimer
 ###privacyInfo
@@ -9235,7 +9244,6 @@
 ##.CookieAcceptLayer
 ##.CookieAcceptLayer:not(body):not(html)
 ##.CookieAcceptPanel
-##.CookieAcceptPanel:not(body):not(html)
 ##.CookieAcceptanceWrapper
 ##.CookieAlert
 ##.CookieAlert:not(body):not(html)
@@ -9784,6 +9792,8 @@
 ##.ad-300-blog
 ##.ad-300-dummy
 ##.ad-300-flex
+##.ad-300X250
+##.ad-300X250-body
 ##.ad-300x
 ##.ad-300x100
 ##.ad-300x200
@@ -12734,6 +12744,7 @@
 ##.area_ad03
 ##.area_ad07
 ##.area_ad09
+##.area_ad2
 ##.aroundAdUnit
 ##.aroundCookie
 ##.aroundCookie:not(body):not(html)
@@ -12754,6 +12765,7 @@
 ##.article-ad-bottom
 ##.article-ad-box
 ##.article-ad-cont
+##.article-ad-horizontal
 ##.article-ad-left
 ##.article-ad-primary
 ##.article-ad-row
@@ -13016,7 +13028,7 @@
 ##.bannerTopAdLeft
 ##.bannerTopAdRight
 ##.bannerWrapAdwords
-##.banner[class*="gdpr"]
+##.banner[class*="gdpr"]:not(body)
 ##.banner[data-cookie-disclaimer]
 ##.banner[data-cookie-notice]
 ##.banner[data-cookiekey="showcookiebanner"]
@@ -14341,6 +14353,7 @@
 ##.cookie-listener
 ##.cookie-management-overlay
 ##.cookie-manager
+##.cookie-manager-banner
 ##.cookie-manager-dialog
 ##.cookie-manager-overlay
 ##.cookie-manager-portlet
@@ -16405,6 +16418,7 @@
 ##.gdprbox
 ##.gdprboxcolor
 ##.gdprcookie
+##.gdprcookie-mask
 ##.gdprcookie-wrapper
 ##.gdprcookie:not(body):not(html)
 ##.gdprdiv
@@ -16874,6 +16888,7 @@
 ##.horizontalbtad
 ##.horizontaltextadbox
 ##.hortad
+##.hos-is-active > .hos-bar
 ##.hover_300ad
 ##.hover_ads
 ##.hoverad
@@ -17524,6 +17539,7 @@
 ##.m-sponsored
 ##.m4-adsbygoogle
 ##.mTopAd
+##.m_ad
 ##.m_ad1
 ##.m_ad300
 ##.m_banner_ads
@@ -19379,7 +19395,6 @@
 ##.smartadtagsbutt_orange_30025002
 ##.sml-item-ad
 ##.sml_cookiepolicy
-##.sml_cookiepolicy:not(body):not(html)
 ##.smt-cookie-note
 ##.smt-cookie-note:not(body):not(html)
 ##.sn-ad-300x250
@@ -19635,6 +19650,7 @@
 ##.story-ad
 ##.storyAdvert
 ##.story_AD
+##.story__top__ad
 ##.story_ad_div
 ##.story_body_advert
 ##.story_right_adv
@@ -21018,7 +21034,6 @@
 &ad_ids=
 &ad_keyword=
 &ad_network_
-&ad_revenue=
 &ad_slot=
 &ad_sub=
 &ad_time=
@@ -21677,7 +21692,6 @@
 .org/ad-
 .org/ad.$~script
 .org/ad/
-.org/ad_
 .org/adgallery1
 .org/ads-
 .org/ads/
@@ -22776,7 +22790,6 @@
 /adblock?id=
 /adblock_logger.
 /adblocker-1.
-/adblocker.js
 /adblockkiller.
 /adblockl.
 /adblockpopup.
@@ -24045,6 +24058,7 @@
 /asyncspc.
 /athena/tag/?
 /atlads/*
+/atlads1/*
 /atnads/*
 /audio-ads/*
 /audioads/*
@@ -24499,7 +24513,6 @@
 /cookie-banner-one.js
 /cookie-banner/*
 /cookie-banner/cb.js
-/cookie-banner/webc/*
 /cookie-banners.
 /cookie-bar-
 /cookie-bar.
@@ -26329,7 +26342,6 @@
 /sponsorad.
 /sponsorad2.
 /sponsoradds/*
-/sponsorads.
 /sponsorads/*
 /sponsorbanners/*
 /sponsorbg/*
@@ -28402,6 +28414,7 @@ buffalonews.com###paywall-footer
 buffalonews.com###pu-email-form-buffalo-bills
 buffer.com###__next > div > [class*="Banner"]
 buffer.com##div[class^="style__Banner-"]
+bulthaup.com##.bulthaup-cookie-notice
 buquebus.com##.cart_cookie
 burgopapers.com##.floatFooter
 burntorangereport.com##.theFlip
@@ -28531,6 +28544,7 @@ cnslocallife.com##.banner-poster
 cnx-software.com##.widget_custom_html
 cnx-software.com##[href^="https://www.amazon.com/"]
 cocktailsoftheworld.com#@#.adWrap
+codit.eu##.langSelector
 coffeegeek.com##td[align="center"][width="100%"][valign="middle"]
 cogentoa.com##.legal-banner
 coherent.com##body > div:not([id]):not([class])
@@ -29098,6 +29112,7 @@ goodhoodstore.com##.cc_msg
 goodreads.com###connectPrompt
 goodrx.com##div[class^="adWrapper-"]
 google.*###footcnt > #fbar > .fbar + div[class][id][style="display: block;"][data-ved]
+google.*###wmxmsg
 google.*##div.gb_i[data-ogsr-up] > div[style*="overflow: hidden;"][style*="position: absolute;"][style*="z-index: "][style*="overflow: hidden;"][style*="margin-right: 25px;"]
 google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws###cnso
@@ -29171,7 +29186,6 @@ healthifyme.com###popup-wrapper
 healthshots.com##.hts_sub_box
 heavy.com#@##adstop
 heimholz.shop##.lightbox-backdrop
-heimkaup.is##.hos-bar
 helium.com##article > footer ~ div
 hello7app.com##.email_box
 helloclue.com##.sc-kGXeez
@@ -30809,6 +30823,7 @@ usgamer.net##.newsletter-promo
 uslugi.gov.mk##.gdpr
 usm.com##.usm-cookie
 uxmatters.com##.promo_block
+valitor.is##.disclaimer
 valleyvet.com###ToU_float
 vandalism-sounds.com##.widget-newsletter
 vanitybamboo.com###div_c
@@ -33039,6 +33054,7 @@ zymic.com###sponsor-partners
 ||batsdivannab.com^
 ||batwaxwok.site^
 ||bauthair.net^
+||bavftcgoapga.com^
 ||baypops.com^$popup,third-party
 ||bb1acb0ea5ddb1fed8.com^
 ||bb475d71fa0b1b2.com^
