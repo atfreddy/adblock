@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Sun Feb 7 12:54:00 MEZ 2021 
+! Updated: Wed Feb 10 08:34:43 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -217,6 +217,7 @@
 ###AdvertsBottomR
 ###Adverts_AdDetailsBottom_300x600
 ###Adverts_AdDetailsMiddle_300x250
+###AfsAd_googleAdBlock1
 ###AiraGdprDialog
 ###AlertCookieBanner
 ###AnalyticsPrompt
@@ -19820,6 +19821,7 @@
 ##.text-cookie
 ##.text-g-net-grp-google-ads-article-page
 ##.text-g-sponsored-ads
+##.text-panel-ad
 ##.textAd3
 ##.textAdBG
 ##.textAdBlock
@@ -25857,9 +25859,7 @@
 /pagead/conversion/*
 /pagead/gen_
 /pagead/html/*
-/pagead/js/*
 /pagead/osd.
-/pagead2.
 /pagead46.
 /pagead?
 /pageadimg/*
@@ -28176,6 +28176,7 @@ amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##div[cel_wid
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##div[cel_widget_id="desktop-dp-sims_sb-dp-id"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##div[class^="_multi-card-creative-desktop_Container_container"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##span[cel_widget_id="MAIN-CARDS-0"]
+amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr##span[class*="widgetId=loom-desktop-brand-footer-slot_hsa-id"]
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr###nav-swmslot
 amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##div[id^="sp_detail"]
 amazon.ca,amazon.co.uk,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it#?#.s-result-item:-abp-has(h5.s-sponsored-header)
@@ -28467,7 +28468,7 @@ calciomercato.com###gdpr-law
 calcolosconto.it##.panel-footer
 calcolostipendio.it##.bold_text
 caldigit.com##.elementor-location-popup
-calendar.google.com,docs.google.com,mail.google.com,news.google.com,drive.google.com##iframe[src^="https://ogs.google.com/widget/callout?prid="]:upward(div[style^="overflow: hidden; position: absolute; top: 0px; width:"])
+calendar.google.com,docs.google.com,mail.google.com,news.google.com,drive.google.com##iframe[src^="https://ogs.google.com/"][src*="/widget/callout?prid="]:upward(div[style^="overflow: hidden; position: absolute; top: 0px; width:"])
 calendrier-lunaire.net###toptop
 calimove.com###overlay
 cam4.com###promptArea
@@ -28574,6 +28575,7 @@ cnn.com##._2dc7d020
 cnn.com##.cnn-toast--tos
 cnn.com##.popup_tosEdition
 cnslocallife.com##.banner-poster
+cnx-software.com##.textwidget > div[align="center"] a[rel="nofollow noopener"][target="_blank"]
 cnx-software.com##.widget_custom_html
 cnx-software.com##[href^="https://www.amazon.com/"]
 cocktailsoftheworld.com#@#.adWrap
@@ -29321,7 +29323,10 @@ imagepost.com##.textads1
 imagetwist.com###left[align="center"] > center > a[target="_blank"]
 imagevenue.com##[id^="MarketGid"]
 imcdb.org###SiteLifeSupport
+imdb.com###top_rhs
 imdb.com##.ab_zergnet
+imdb.com##.cornerstone_slot
+imdb.com##.slot_wrapper
 imdb.com#@##adComponentWrapper
 imgbox.com###full-page-redirect
 imgburn.com##font[face="Arial"][size="1"]
@@ -30163,6 +30168,9 @@ porn-monkey.com##.size-300x250
 porn300.com##.aan_fake
 porn555.com##.fel-foot-m
 pornalized.com##.discount
+pornburst.xxx##.productora
+pornburst.xxx##.productora-logo
+pornburst.xxx##.promo-gauleporno
 porndig.com,thagson.com#@#.disclaimer_wrapper
 porndoo.com##.bAd
 pornflip.com##.ib-300-250
@@ -30403,7 +30411,6 @@ scaredstiffreviews.com##a[href^="https://www.amazon."][href*="ref="]
 sciencealert.com##.article-fulltext > div
 scio.us##.footer
 scmp.com##.content--newsletter
-scotsman.com###article-newsletter-signup
 scotsman.com##.sticky-footer-banner
 scpr.org,theonion.com##.dfp
 scutt.eu###pojemnik
@@ -30453,6 +30460,7 @@ siegwerk.com##.popover
 signupgenius.com##.sug-notice--privacy
 siliconera.com##.show-ads div.t-footer-wrapper
 siliconrepublic.com##.show-for-medium-up
+simsdom.com#?#button ~ div[id] > div[id] div[class$="promoted"]:upward(2)
 skargards.com###cc_dialog
 sklepbiegowy.com##body > div:not([id]):not([class])
 skoledo.com##.avg
@@ -30745,7 +30753,6 @@ toscana-notizie.it###banner-overlay-top-page
 toscana.it###cookPol, #banner-overlay-top-page, #myCookie
 totaljs.com##.ui-cookie2
 totallymoney.com##.tm-cookie-banner__spacer
-totalwar.com#@##privacy_policy
 toto.com##.cookieSection
 toughnickel.com###tos_update_band
 toumpano.net###sp-feature
@@ -31416,6 +31423,8 @@ zymic.com###sponsor-partners
 ||4f9d88054fa2b.com^
 ||4fb0a3bf4a3d38.com^
 ||4ixbffsib0.monster^
+||4kporn.xxx/ONHmvQ1.js
+||4kporn.xxx/static/nb/
 ||4o64flb.com^$third-party
 ||4o7cj36hbaip.com^
 ||4prgkoj870j9.com^
@@ -35013,6 +35022,7 @@ zymic.com###sponsor-partners
 ||fadskis.com^
 ||fadskiz.com^
 ||fadslims.com^
+||fadslimz.com^
 ||fadsoks.com^
 ||fadspms.com^
 ||fadspmz.com^
