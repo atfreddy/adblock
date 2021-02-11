@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Wed Feb 10 09:06:50 CET 2021 
+! Updated: Thu Feb 11 14:53:35 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -236,6 +236,7 @@
 ###BBCookieToolDiv
 ###BBoxAd
 ###BDV_fullAd
+###BOX_CookiePolicy
 ###BWeuCookie
 ###BanerINcookie
 ###Banner300x250Module
@@ -779,6 +780,7 @@
 ###___gatsby div[class*="CookieBox"]
 ###___gatsby div[class*="CookieDisclaimer"]
 ###___gatsby div[class*="CookieNotice"]
+###___gatsby div[class*="CookiePopup"]
 ###___gatsby div[class*="CookieWarn"]
 ###___gatsby div[class*="Cookiebar"]
 ###___gatsby div[class*="GDPR-module_card"]
@@ -811,6 +813,8 @@
 ###__next div[class*="cookie-banner"]
 ###__next div[class*="cookieBar"]
 ###__next div[class^="PrivacyPopup__Box"]
+###__next div[data-cy="CookieBanner"]
+###__next div[data-dmid*="cookiebar"]
 ###__next div[data-qa-id*="cookie-popup"]
 ###__ntk_banner_cookie
 ###__tealiumGDPRcpPrefs
@@ -888,6 +892,7 @@
 ###accn-cookie-notice
 ###aceptarCookie
 ###aceptarcookie
+###acepted_privacy_policy
 ###acf_cookie_alert
 ###ackcookie-popup
 ###acm-ad-tag-300x250-atf
@@ -3786,6 +3791,7 @@
 ###ccpa-prompt-wrapper
 ###ccpaBanner
 ###ccpaCookieBanner
+###ccsn.gdpr
 ###cd-cookie-bar
 ###cdf_annonceCookie
 ###cea-divCookiePolicy
@@ -5120,6 +5126,7 @@
 ###cookietext
 ###cookietextdiv
 ###cookieticker
+###cookietip
 ###cookietoast
 ###cookietop
 ###cookietopbar
@@ -7472,6 +7479,7 @@
 ###pg-ad-160x600
 ###pg-ad-item-160x600
 ###pg-gdpr
+###pg-gdpr.pg-modal-blackout
 ###pgAdWrapper
 ###pgFooterAd
 ###pgad_Bottom3
@@ -7534,6 +7542,7 @@
 ###polityka-prywatnosci
 ###polityka-prywatnosci-tlo
 ###polityka.cookie--polityka
+###politykaPrywatnosciDiv
 ###polityka_cookie_exel
 ###polityka_okno
 ###politykacooki
@@ -7793,6 +7802,7 @@
 ###r_ad3_ad
 ###r_adver
 ###ra-taboola-bottom
+###racookiepolicy
 ###rail-ad-wrap
 ###rail-bottom-ad
 ###railAd
@@ -11876,6 +11886,7 @@
 ##.ads_720x90
 ##.ads_728
 ##.ads_728x90
+##.ads__claim-item
 ##.ads__horizontal
 ##.ads_ad_box
 ##.ads_ad_box2
@@ -13145,6 +13156,7 @@
 ##.bdf-cookie-policy-popup
 ##.bg-ad-top
 ##.bg-ads
+##.bg-cookie-bar
 ##.bgAdBlue
 ##.bg_ad
 ##.bg_cookie
@@ -14354,7 +14366,6 @@
 ##.cookie-layer-advanced
 ##.cookie-layer-visible
 ##.cookie-layer-visible:not(body)
-##.cookie-layer:not(body):not(html)
 ##.cookie-layerbody
 ##.cookie-layers
 ##.cookie-lb-bottom
@@ -15106,6 +15117,7 @@
 ##.cookie_panel > #dform_cookie
 ##.cookie_panel:not(body):not(html)
 ##.cookie_policy
+##.cookie_policy__wrapper
 ##.cookie_policy_banner
 ##.cookie_policy_bar
 ##.cookie_policy_box
@@ -15306,7 +15318,6 @@
 ##.cookiepoll
 ##.cookiepoll:not(body):not(html)
 ##.cookiepopup
-##.cookiepopup:not(body):not(html)
 ##.cookiepopupwrapper
 ##.cookiepopupwrapper:not(body):not(html)
 ##.cookieprivacy
@@ -17029,6 +17040,7 @@
 ##.islandad
 ##.isocket_ad_row
 ##.it-eprivacy-backdrop
+##.it-eprivacy-banner
 ##.it_privacy_notice
 ##.it_privacy_notice:not(body):not(html)
 ##.item-ad
@@ -17211,6 +17223,7 @@
 ##.js-gdpr-notice:not(body):not(html)
 ##.js-gdpr-overlay.visible
 ##.js-gdpr-tooltip
+##.js-gdpr.gdpr--visible
 ##.js-gdprAlert
 ##.js-googleAdSuperHeader-wrapper
 ##.js-gptAd
@@ -17375,6 +17388,7 @@
 ##.lcontentbox_ad
 ##.ld-ad
 ##.ld-cookie-notice
+##.lds__privacy-policy
 ##.lead-ad
 ##.lead-ads
 ##.lead-advert
@@ -19227,6 +19241,7 @@
 ##.sam-ad
 ##.sam-pro-ad
 ##.sam_ad
+##.sana-cookiebar
 ##.savvyad_unit
 ##.say-center-contentad
 ##.sb-ad
@@ -24661,6 +24676,7 @@
 /cookiebadge.
 /cookiebadge_
 /cookiebanner.
+/cookiebanner/*
 /cookiebar-
 /cookiebar.jquery.js
 /cookiebar.js
@@ -25467,6 +25483,7 @@
 /js/cookielaw_mip.js
 /js/cookiepolicy.js
 /js/dfp-
+/js/dist/cookieAcceptance
 /js/doubleclick/*
 /js/dsgvo.js
 /js/dsvgo.
@@ -25517,6 +25534,7 @@
 /kpwidget.js
 /kredit-ad.
 /kskads.
+/kssCookieManager/*
 /large_ads/*
 /layad.
 /layer-ad.
@@ -28255,6 +28273,7 @@ as.com,tutiempo.net##.publi
 ask.com###ccbar, #cp-banner
 askdifference.com##.alert-dismissible
 asket.com##.site-notice
+asmonaco.com##.asm-rgpd-bar
 aspensojourner.com###top-layer
 asroma.com##.s-navigation-tool-panel-disclaimer
 ass-team.net##.v-banner--sticky
@@ -28283,6 +28302,7 @@ autoscuolacatelli.it###d_cook
 autotask.com##.alertbar
 avalon.me###stickyFooter, .sticky-footer
 avclub.com###personals_content
+aventics.com##.avts-global-cookie
 avgle.com,hotgirlclub.com,pornobae.com##img[src*=".php"]
 aviationweek.com##.gdpr
 avid.com##.fancybox-opened
@@ -28320,6 +28340,7 @@ barbavid.com###rabbax
 barcelona.cat###bcn-ccwr
 barclays.com##.dialogMask
 barclays.it###boxTextCookie
+barclays.net###modal-pecr
 bardie.net##.lightbox-backdrop
 barelist.com##a[onclick="CallServer('ad', '')"]
 barracuda.com##.alert-tertiary
@@ -28885,6 +28906,7 @@ etletstalk.com##body > div[id^="ulp-"]
 etsglobal.org###ets_popup_cookie_modal
 etstur.com##.protectionOfData
 eu_cookie_banner.js
+euprava.gov.rs###bottom-popup
 euractiv.com##.ea-gat-slot-wrapper
 eurocirc.org###msgBox_error
 eurocookie.galilcloud.wixapps.net
@@ -29118,6 +29140,7 @@ gigaom.com###widget-area-footer-post-2
 giornalepop.it###policy-alert
 gismeteo.com###media-right
 gismeteo.com##.media_top
+gitlab.com##.privacy-announcement
 gittigidiyor.com##.policy-alert
 giulianomazzuoli.it###cookievjw
 giveawayoftheday.com##.ads_wrap
@@ -29267,6 +29290,7 @@ hostalia.com#@##gwd-ad
 hostgator.com###alertBar
 hostkey.com###collectData
 hot-jav.com###stop
+hotcleaner.com##.V9
 hotcleaner.com##.XNKr
 hotelquickly.com###app > div > div[style*="height"]
 hotmilfzone.com##body > div:not([id]):not([class])
@@ -29479,6 +29503,7 @@ klei.com###gpdr, #GPDR, #gdpr, #GDPR
 knoema.com###gdpr
 knowyourmeme.com##.combo-wrapper
 knowyourmeme.com##.rectangle-unit-wrapper
+kocpc.com.tw##.feedburn
 kodilive.eu###claw
 kompasiana.com###titledmRelatedPlayer
 kompasiana.com##.kolom-newslt
@@ -29566,6 +29591,9 @@ live365.com##.sc-csuQGl
 live365.com##.site > div[class*="root"] > div:not(.action-bar)
 live365.com#@#.adshome
 livebasketball.tv##.footer-sponsor
+livejournal.com##.allbanners
+livejournal.com##.xhtml_banner
+livejournal.com##div[data-google-query-id]
 liverpoolfc.com##.bottom-overlay
 livexlive.com##.tos-footer
 livrariaalfarrabista.com###cook
@@ -29588,7 +29616,6 @@ lot.com###cc
 lot.com#@#.cookie-promo
 lottofy.com###alertsMarquee
 louisvuitton.com##.cs_banner
-loveheaven.net##.topday
 lovepedia.net##.policy-banner
 ludomedia.it###UIAvvisiUtente
 luisaviaroma.com##.privacy-box
@@ -29750,6 +29777,7 @@ mobilbahis49.com##.toast-wrapper
 mobile.twitter.com###react-root > div > div > .rn-gvpnoh
 mobile.twitter.com##.rn-gvpnoh.rn-eps6nq.rn-13qz1uu
 mobile.twitter.com#?#.tweet:-abp-has(.promo)
+mobileroadie.com###cookie
 moddrop.com###app > .cm-row
 mojapogoda.com###IR
 molfettalive.it###Info
@@ -29801,6 +29829,7 @@ mrgugu.com##div[data-hook="optanon"]
 mrstiff.com###xdv-preroll
 mrstiff.com##.feedadv-wrap
 msasafety.com##.region-alert-wrapper
+msg.com###app > div > div:not([id]):not([class])
 msi.com###ccc
 msn.com###Facebook
 msn.com###conditionalbanner
@@ -30010,6 +30039,7 @@ optoma.com###optomaCookieWrap
 opusteno.rs###conditions-l
 or.th###alert-policy
 oraridiapertura24.it###CCcont
+orbassano.to.it###cookie
 orbiprime.com###privacy
 orcid.org##app-banners
 orgasm.com##.horizontal-banner-module
@@ -30236,6 +30266,7 @@ prokerala.com##.adm-unit
 promodj.com#@#.adv300
 proporn.com##.drt-spot-box
 proporn.com##.livecams
+prothomalo.com###gdpr-policy
 provantage.com###PP
 psycom.net###vhn
 psypost.org##.jeg_midbar
@@ -30499,6 +30530,7 @@ softonic.com##.modal.overlay-alternative-apps
 softonic.com##.sam-slot
 softpanorama.org##table[height="620"]
 softwareag.com###blanket, #popUpDiv
+solidarietaveneto.it###cookie
 songlyrics.com#@#.footer-ad
 sonic.com###snc-data-disclosure
 soompi.com###gdpr-root
@@ -30965,6 +30997,7 @@ weegy.com###BannerDiv
 weekday.com##.m-error-banner
 weequizz.com##.bt_cookie
 weerg.com###blultpdfbanner
+weglot.com##.elementor-popup-modal
 weilburger.com##.lus-cookie
 welcometothejungle.co##.s1u7oiza-0
 wellcard.cc###cookie
@@ -31037,6 +31070,7 @@ xpics.me##.native
 xporno.me##.rekl
 xred2.com###mbEnd
 xsport.ua##.google_news
+xuite.net###privacyDeclare
 xxxmilfpics.com##body > div:not([id]):not([class])
 xxxpicss.com##.left-banners
 xxxporntalk.com##.left_col
@@ -38623,6 +38657,7 @@ zymic.com###sponsor-partners
 ||onerror.ga^$third-party
 ||onerror.gq^$third-party
 ||onerror.ml^$third-party
+||onetag-sys.com/cmp$script
 ||onfericaq.com^
 ||onfocus.io^$third-party
 ||ongassume.top^
@@ -43066,6 +43101,7 @@ zymic.com###sponsor-partners
 ~coolmath.com##.gdpr-overlay:not(body):not(html)
 ~daf.com##.js-cookiemodal:not(body):not(html)
 ~dish.co###euCookieBanner
+~easyswimportal.com##.cookiepopup:not(body):not(html)
 ~flex-tools.com##.cookieBar:not(body):not(html)
 ~flex-tools.com##.js-cookie-bar:not(body):not(html)
 ~icould.com##.gdpr-dialog
