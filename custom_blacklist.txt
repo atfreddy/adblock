@@ -1,5 +1,6 @@
 .ac.uk
 .at#
+.fr/
 .gv.at
 .lt#
 .pt#
