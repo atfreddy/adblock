@@ -1,13 +1,18 @@
 .ac.uk
 .at#
+.ca,
 .fr/
 .gv.at
 .lt#
+.nu#
 .pt#
 .sk#
 Adblock Plus
 canada
+cargocollective
+croatia
 delicious.com
+fizyka
 gay
 homo.xxx
 hondanews.eu
@@ -27,6 +32,4 @@ usatoday
 voat.co
 w3newspapers
 wowza.com
-cargocollective
-croatia
 ~Prebid.js
