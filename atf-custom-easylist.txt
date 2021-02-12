@@ -2,7 +2,7 @@
 ! Title: 🌍 ATF Custom Easylist (optimized)
 ! Version: 0.1 alpha 📣
 ! Expires: 14 days
-! Updated: Fri Feb 12 08:11:35 CET 2021 
+! Updated: Fri Feb 12 08:13:04 CET 2021 
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
@@ -27185,7 +27185,6 @@
 @@||canoe.com/Canoe/Ad/premium/$script
 @@||capertongillett.com/glp?r=$script,~third-party
 @@||capitalone360.com/js/adwizard/adwizard_homepage.js?
-@@||cargocollective.com^*_320x250_$image,~third-party
 @@||click2houston.com/gmg.static/ads/$script
 @@||clickbd.com^*/ads/$image,~third-party
 @@||clickorlando.com/gmg.static/ads/$script
@@ -27305,7 +27304,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com
 @@||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=convert-me.com|grammarist.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com
-@@||payload.cargocollective.com^$image,~third-party
 @@||pcworld.com/www/js/ads/jquery.lazyload-ad.js
 @@||phncdn.com/*/js/likeDislike/$script
 @@||phncdn.com/head/$script
@@ -28665,7 +28663,6 @@ creative.com##.ck-notiz
 creativebloq.com,ebaumsworld.com,digitalcameraworld.com###newsletterWidget
 credimi.com##div[class^="CookieBar-"]
 cricbuzz.com###feedback-bar
-croatia.org##div[style="width: 120px; text-align:center"]
 cronacaqui.it###footerprivacy
 crowd1.com##.cookie-concent
 crown.com#@##cookiePolicyModal
@@ -28761,7 +28758,6 @@ digitalagencynetwork.com###popupDiv
 digitalocean.com###DO_CC_PANEL
 digitalstudiome.com##.pane-block.sup-blk
 dipisoft.com##.accookie
-direct-croatia.com###site_nt
 directorslive.com##.footer-banner-img
 dis.rs##.cookie
 discoverbooks.com###privacy_div
