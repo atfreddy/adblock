@@ -7,9 +7,15 @@
 .nu#
 .pt#
 .sk#
+.vc#
 Adblock Plus
+atlasobscura
+autism-society.org
 canada
+catania
 cargocollective
+calco
+calcio
 croatia
 delicious.com
 fizyka
