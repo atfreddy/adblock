@@ -44,12 +44,5 @@ voat.co
 w3newspapers
 wowza.com
 ~Prebid.js
-cookieDisclaimer.js
-cookieInfo.js
-cookie_acceptance_modal.js
-cookie_law.js
-cookie_meldung.js
-cookielawscript.js
-cookiepolicy-client.js
-cookieprivacygenerator.js
-eu_cookie_banner.js
+www-cnet-com.cdn.ampproject.org$$div[class="c-reengageNewsletter"]
+www-cnet-com.cdn.ampproject.org$$div[class="newsletter"]
