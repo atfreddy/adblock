@@ -1,6 +1,14 @@
 # (Anti)Adblock page
 
-An optimized compilation of filters (Easylist, DandelionSprout's ExtremelyCondensedList, bogachenko's fuckfuckadblock, www.i-dont-care-about-cookies.eu and Easylist) for blocking pop-ups, anti-adblock bypass, cookies and mayor websites annoyances.
+An optimized compilation of filters for blocking pop-ups, anti-adblock bypass, cookies and mayor websites annoyances.
+
+Sources:
+
+x Adguard AnnoyancesFilter
+x Easylist
+x DandelionSprout's Extremely condensed list
+x bogachenko's fuckfuckadblock
+x I-dont-care-about-cookies.eu
 
 ### How to use
 
