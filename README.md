@@ -1,4 +1,4 @@
-<h1 align="center">(Anti)Adblock page ⚡</h1> 
+<h1 align="center">(Anti)Adblock page 📣</h1> 
 
 ## Features
 An optimized compilation of filters for blocking pop-ups, anti-adblock bypass, cookies and mayor websites annoyances.<br>
