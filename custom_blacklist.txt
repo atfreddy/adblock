@@ -46,3 +46,4 @@ wowza.com
 ~Prebid.js
 www-cnet-com.cdn.ampproject.org$$div[class="c-reengageNewsletter"]
 www-cnet-com.cdn.ampproject.org$$div[class="newsletter"]
+#%#
