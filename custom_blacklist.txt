@@ -28,6 +28,7 @@ homo.xxx
 hondanews.eu
 informiert.at
 israelnationalnews
+isaiminiweb.online
 kalkulatorkalorii.net
 kropelka.com
 legend.rs
@@ -47,3 +48,7 @@ wowza.com
 www-cnet-com.cdn.ampproject.org$$div[class="c-reengageNewsletter"]
 www-cnet-com.cdn.ampproject.org$$div[class="newsletter"]
 #%#
+filer_-_cookie_disclaimer_ny/
+jquery-easy-eu-cookie-law.js
+jquery-eu-cookie-law-popup
+jquery.cookiepol.js
