@@ -22,6 +22,7 @@ google.*##div[jsname][jsaction^="dg_close"]
 google.*##html:style(overflow: visible !important;)
 google.*###lb
 google.*##:root:style(overflow-y: visible !important;)
+||hentaiworld.eu/assets/min/frontend/all_new2.js$script,domain=www.hentaiworld.eu
 ||mp4hentai.com/muddy-poetry-7144/$image
 last.fm##.subscribe-cta
 last.fm##.mpu-subscription-upsell--mpu.mpu-subscription-upsell
