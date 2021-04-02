@@ -46,12 +46,9 @@ station-drivers.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-ty
 twitch.tv##.tw-top-0.tw-right-0.tw-overflow-hidden.tw-left-0.tw-flex-nowrap.tw-flex-column.tw-flex.tw-bottom-0.tw-absolute > .tw-full-height.tw-flex-nowrap.tw-flex-column.tw-flex > div.tw-flex-shrink-0
 telegramitalia.it##+js(bab-defuser)
 wilderssecurity.com##.notice_-1.DismissParent.Notice.panel
-youtube.com##.opened
-youtube.com###dialog
-youtube.com##ytd-app > ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
 youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
-youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
-youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
 youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
-youtube.com###interstitial > .ytd-masthead.style-scope
+youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBum
