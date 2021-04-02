@@ -23,6 +23,9 @@ google.*##div[jsname][jsaction^="dg_close"]
 google.*##html:style(overflow: visible !important;)
 google.*###lb
 google.*##:root:style(overflow-y: visible !important;)
+it.aliexpress.com##._3KrBP
+it.aliexpress.com##.coupon-poplayer-modal
+it.aliexpress.com##.drogue-poplayer-modal
 ||mp4hentai.com/muddy-poetry-7144/$image
 last.fm##.subscribe-cta
 last.fm##.mpu-subscription-upsell--mpu.mpu-subscription-upsell
@@ -41,6 +44,7 @@ qwant.com###c_1 > .survey__popin__link > .survey__popin
 @@||ae01.alicdn.com^$image,domain=aliexpress.com
 rutracker.org###idx-sidebar2 > .ext-links.products.bn-idx > div.product-box
 rutracker.org###page_footer
+rutracker.org###c-38
 skribbl.io##.grecaptcha-badge
 snbforums.com##.notice--cookie.notice--primary.js-notice.notice
 station-drivers.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
