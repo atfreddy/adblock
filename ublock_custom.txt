@@ -51,4 +51,5 @@ youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, fals
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
 youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
-youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBum
+youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+
