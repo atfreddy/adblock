@@ -17,6 +17,8 @@ ebay.it##.srp-river-answer--SIMPLE_IMAGE_BANNER.srp-river-answer
 ebay.it##li.s-item:has(.s-item__title--tagblock__SPONSORED)
 edisonenergia.it###cookie-policy-bar
 fitgirl-repacks.site##.horizontalbar_truepush
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+||consent.google.com^
 google.*##.widget-consent-fullscreen.widget-consent
 google.*##div[jsname][jsaction^="dg_close"]
 google.*##html:style(overflow: visible !important;)
