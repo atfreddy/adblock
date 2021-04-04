@@ -57,4 +57,8 @@ youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upse
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
 youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
 youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com###interstitial
+youtube.com###continuations > .ytd-item-section-renderer.style-scope
+youtube.com##ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
+youtube.com##.ytd-watch-flexy.style-scope > .ytd-merch-shelf-renderer.style-scope
 
