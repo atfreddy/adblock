@@ -1,10 +1,10 @@
 .ac.uk
 .at#
-.ca,
+.br#
 .ca#
-.com.ar
-.fr/
-.gv.at
+.com.ar#
+.fr#
+.gv.at#
 .lt#
 .nu#
 .pt#
