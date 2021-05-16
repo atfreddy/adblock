@@ -33,6 +33,9 @@ paypal.com##.gdprCookieBanner_container-custom.gdprCookieBanner_container
 pornolab.net###logo > table > tbody > tr > .tCenter
 pornolab.net###fuckoffadblockers
 pornolab.net###page_footer
+qobuz.com##.store-wallpaper
+qobuz.com##.in.modal-backdrop
+qobuz.com##.store-launch-injector > .in
 qwant.com###a_2 > .survey__popin__title
 qwant.com###c_1 > .survey__popin__link > .survey__popin
 ||rutrk.org/*x*$image
@@ -42,7 +45,6 @@ qwant.com###c_1 > .survey__popin__link > .survey__popin
 rutracker.org###idx-sidebar2 > .ext-links.products.bn-idx > div.product-box
 rutracker.org###page_footer
 rutracker.org###c-38
-skribbl.io##.grecaptcha-badge
 snbforums.com##.notice--cookie.notice--primary.js-notice.notice
 station-drivers.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 twitch.tv##.tw-top-0.tw-right-0.tw-overflow-hidden.tw-left-0.tw-flex-nowrap.tw-flex-column.tw-flex.tw-bottom-0.tw-absolute > .tw-full-height.tw-flex-nowrap.tw-flex-column.tw-flex > div.tw-flex-shrink-0
@@ -66,3 +68,7 @@ youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, fals
 youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
 youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-button
 ~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
+youtube.com###dialog
+youtube.com##.opened
+
+
