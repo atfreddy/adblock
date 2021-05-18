@@ -70,5 +70,4 @@ youtube-nocookie.com,youtube.com##.ytp-pause-overlay, .show-video-thumbnail-butt
 ~youtube-nocookie.com,~youtube.com##iframe ~ #topvbar > #rvid
 youtube.com###dialog
 youtube.com##.opened
-
-
+youtube.com##ytd-popup-container.ytd-app.style-scope
