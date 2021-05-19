@@ -3,6 +3,7 @@
 ! Homepage: https://raw.githubusercontent.com/atfreddy/adblock/master/ublock_custom.txt
 3bmeteo.com###content_video_sidebar
 3bmeteo.com###adv_adsense_300_dx
+aliexpress.com##.coupon-poplayer-modal
 amazon.it###sp-cc
 amazon.it##div.s-widget.s-flex-full-width.s-result-item.a-spacing-none.a-section:nth-of-type(1)
 aliexpress.com###j-aliexpress-notice
@@ -10,16 +11,11 @@ asaspa.it##.cc-cookies
 bmedonline.it##.fixed-bottom.acc-cookie
 bmedonline.it##main > .container > .cont-esterno-form.align-items-center.row > .col-12.col-lg-8.mb-xl-auto.mt-lg-0.mt-md-4
 ||campaign.aliexpress.com/wow/gcp/*$subdocument
-consent.google.*
-||consent.google.com/$subdocument
 deezer.com##.conversion-banner
 ebay.it##.srp-river-answer--SIMPLE_IMAGE_BANNER.srp-river-answer
 ebay.it##li.s-item:has(.s-item__title--tagblock__SPONSORED)
 edisonenergia.it###cookie-policy-bar
 fitgirl-repacks.site##.horizontalbar_truepush
-it.aliexpress.com##._3KrBP
-it.aliexpress.com##.coupon-poplayer-modal
-it.aliexpress.com##.drogue-poplayer-modal
 ||mp4hentai.com/muddy-poetry-7144/$image
 last.fm##.subscribe-cta
 last.fm##.mpu-subscription-upsell--mpu.mpu-subscription-upsell
@@ -47,13 +43,13 @@ rutracker.org###page_footer
 rutracker.org###c-38
 snbforums.com##.notice--cookie.notice--primary.js-notice.notice
 station-drivers.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
-twitch.tv##.tw-top-0.tw-right-0.tw-overflow-hidden.tw-left-0.tw-flex-nowrap.tw-flex-column.tw-flex.tw-bottom-0.tw-absolute > .tw-full-height.tw-flex-nowrap.tw-flex-column.tw-flex > div.tw-flex-shrink-0
 telegramitalia.it##+js(bab-defuser)
+twitch.tv##.tlQbp.sc-AxjAm > .YOLYM.sc-AxjAm
 wilderssecurity.com##.notice_-1.DismissParent.Notice.panel
 !GOOGLE_FUCK_YOU
 !https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_consent_dialog
-www.google.*##^script:has-text(consentCookiePayload)
-www.google.*##+js(acis, document.cookie, YES+)
+google.*##^script:has-text(consentCookiePayload)
+google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.com##div[jsname][jsaction^="dg_close"]
 google.com##html:style(overflow: visible !important;)
