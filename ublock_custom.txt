@@ -23,6 +23,9 @@ last.fm##.mpu-subscription-upsell--mpu.mpu-subscription-upsell
 last.fm###onetrust-banner-sdk > div > .ot-sdk-container
 last.fm##.ot-fade-in.onetrust-pc-dark-filter
 last.fm##.ot-sdk-container > .ot-sdk-row
+gmx.com##.dialogContent
+gmx.com##.dialogWrapper
+gmx.com##.dialogOverlay
 mail.com##.mod-cookielayer.mod > .cookie-layer__content
 mytimfisso.tim.it###gld_cookie_flag
 nexi.it##.cl-banner-body
